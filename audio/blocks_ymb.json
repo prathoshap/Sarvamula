@@ -1,0 +1,4935 @@
+[
+ {
+  "id": "ymb_001",
+  "ref": null,
+  "seq": 1,
+  "kind": "sutra_block",
+  "adhyaya": "मङ्गलाचरणम्",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 22.8,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "ymb_001",
+    "from": 1,
+    "to": 2,
+    "seq": 1,
+    "covers": [
+     1,
+     3
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "ymb_001_u01_padya_p01_5b63f6",
+       "ymb_001_u01_padya_p02_0d06de"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "ymb_001_u02_padya_p01_3b65de",
+       "ymb_001_u02_padya_p02_953ba2"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "ymb_001_u01_padya_p01_5b63f6",
+     "ymb_001_u01_padya_p02_0d06de",
+     "ymb_001_u02_padya_p01_3b65de",
+     "ymb_001_u02_padya_p02_953ba2"
+    ],
+    "est_sec": 22.8,
+    "path": "yamaka_bharata/ymb_001.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "१",
+    "start": 0,
+    "end": 100,
+    "padas": [
+     "ध्यायेत् परमानन्दं यन्माता पतिमयदपरमानन्दम्",
+     "उज्झितपरमानं दम्पत्याद्याद्याश्रमैः सदैव-परमानन्दम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "ध्यायेत् परमानन्दं यन्माता पतिमयदपरमानन्दम् उज्झितपरमानं दम्पत्याद्याद्याश्रमैः सदैव-परमानन्दम्",
+    "n": 1,
+    "seq": 1,
+    "seqs": [
+     1
+    ],
+    "clip": "ymb_001_u01_padya_2164ea",
+    "clips": [
+     "ymb_001_u01_padya_p01_5b63f6",
+     "ymb_001_u01_padya_p02_0d06de"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "२",
+    "start": 100,
+    "end": 195,
+    "padas": [
+     "यस्य करालोलं चक्रं कालः परः स हि करालोऽलम्",
+     "यस्य गदा पवमानः सन् यो व्या-सोऽभवत् सदा-पवमानः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "यस्य करालोलं चक्रं कालः परः स हि करालोऽलम् यस्य गदा पवमानः सन् यो व्या-सोऽभवत् सदा-पवमानः",
+    "n": 2,
+    "seq": 1,
+    "seqs": [
+     1,
+     3
+    ],
+    "clip": "ymb_001_u02_padya_0997cd",
+    "clips": [
+     "ymb_001_u02_padya_p01_3b65de",
+     "ymb_001_u02_padya_p02_953ba2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ymb_002",
+  "ref": null,
+  "seq": 3,
+  "kind": "sutra_block",
+  "adhyaya": "उपोद्घातः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 33.4,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "ymb_002",
+    "from": 1,
+    "to": 3,
+    "seq": 3,
+    "covers": [
+     3,
+     5
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "ymb_002_u01_padya_p01_0820aa",
+       "ymb_002_u01_padya_p02_06f6af"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "ymb_002_u02_padya_p01_7f8738",
+       "ymb_002_u02_padya_p02_6a1c6a"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 3,
+      "type": "padya",
+      "clips": [
+       "ymb_002_u03_padya_p01_682ba4",
+       "ymb_002_u03_padya_p02_5cd8c4"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "ymb_002_u01_padya_p01_0820aa",
+     "ymb_002_u01_padya_p02_06f6af",
+     "ymb_002_u02_padya_p01_7f8738",
+     "ymb_002_u02_padya_p02_6a1c6a",
+     "ymb_002_u03_padya_p01_682ba4",
+     "ymb_002_u03_padya_p02_5cd8c4"
+    ],
+    "est_sec": 33.4,
+    "path": "yamaka_bharata/ymb_002.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "३",
+    "start": 195,
+    "end": 295,
+    "padas": [
+     "यस्य रमा न मनोगं जगृहे विश्वम्भराऽपि न-मनोऽगम्",
+     "यस्य पुमानानन्दं भुङ्क्ते यद्धाम कपतिमानानन्दम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "यस्य रमा न मनोगं जगृहे विश्वम्भराऽपि न-मनोऽगम् यस्य पुमानानन्दं भुङ्क्ते यद्धाम कपतिमानानन्दम्",
+    "n": 1,
+    "seq": 3,
+    "seqs": [
+     3
+    ],
+    "clip": "ymb_002_u01_padya_f35044",
+    "clips": [
+     "ymb_002_u01_padya_p01_0820aa",
+     "ymb_002_u01_padya_p02_06f6af"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "४",
+    "start": 295,
+    "end": 388,
+    "padas": [
+     "परमेषु यदा तेजः परमेषु चकार वासुदेवोऽजः",
+     "मानधि बिभ्रत्सु मनो माऽनधिमाऽऽसीन्नवासुदेवो -जः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "परमेषु यदा तेजः परमेषु चकार वासुदेवोऽजः मानधि बिभ्रत्सु मनो माऽनधिमाऽऽसीन्नवासुदेवो -जः",
+    "n": 2,
+    "seq": 3,
+    "seqs": [
+     3
+    ],
+    "clip": "ymb_002_u02_padya_ac2c37",
+    "clips": [
+     "ymb_002_u02_padya_p01_7f8738",
+     "ymb_002_u02_padya_p02_6a1c6a"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "५",
+    "start": 388,
+    "end": 489,
+    "padas": [
+     "सोऽजनि देवक्यन्ते यस्मादनु-कम्पनावदेव क्यन्ते",
+     "अवदन् देव क्यं ते भुवनं हि सुराः सदैवदेऽव क्यन्ते"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "सोऽजनि देवक्यन्ते यस्मादनु-कम्पनावदेव क्यन्ते अवदन् देव क्यं ते भुवनं हि सुराः सदैवदेऽव क्यन्ते",
+    "n": 3,
+    "seq": 3,
+    "seqs": [
+     3,
+     5
+    ],
+    "clip": "ymb_002_u03_padya_46ffbb",
+    "clips": [
+     "ymb_002_u03_padya_p01_682ba4",
+     "ymb_002_u03_padya_p02_5cd8c4"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ymb_003",
+  "ref": null,
+  "seq": 5,
+  "kind": "sutra_block",
+  "adhyaya": "श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः]",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 297.7,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "ymb_003_p1",
+    "from": 1,
+    "to": 13,
+    "seq": 5,
+    "covers": [
+     5
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u01_padya_p01_050b51",
+       "ymb_003_u01_padya_p02_4a32ba"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u02_padya_p01_d2942c",
+       "ymb_003_u02_padya_p02_6695dc"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 3,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u03_padya_p01_79a8a5",
+       "ymb_003_u03_padya_p02_1af8b4"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 4,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u04_padya_p01_df53f5",
+       "ymb_003_u04_padya_p02_966de6"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 5,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u05_padya_p01_de4982",
+       "ymb_003_u05_padya_p02_922a79"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 6,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u06_padya_p01_a709fe",
+       "ymb_003_u06_padya_p02_398f0a"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 7,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u07_padya_p01_50afd8",
+       "ymb_003_u07_padya_p02_1aa939"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 8,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u08_padya_p01_98354b",
+       "ymb_003_u08_padya_p02_8465be"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 9,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u09_padya_p01_2fbdde",
+       "ymb_003_u09_padya_p02_482819"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 10,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u10_padya_p01_df6afa",
+       "ymb_003_u10_padya_p02_c6a888"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 11,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u11_padya_p01_58ded7",
+       "ymb_003_u11_padya_p02_b12b6d"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 12,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u12_padya_p01_ed0ed5",
+       "ymb_003_u12_padya_p02_85cab1"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 13,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u13_padya_p01_9ac098",
+       "ymb_003_u13_padya_p02_308cfc"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "ymb_003_u01_padya_p01_050b51",
+     "ymb_003_u01_padya_p02_4a32ba",
+     "ymb_003_u02_padya_p01_d2942c",
+     "ymb_003_u02_padya_p02_6695dc",
+     "ymb_003_u03_padya_p01_79a8a5",
+     "ymb_003_u03_padya_p02_1af8b4",
+     "ymb_003_u04_padya_p01_df53f5",
+     "ymb_003_u04_padya_p02_966de6",
+     "ymb_003_u05_padya_p01_de4982",
+     "ymb_003_u05_padya_p02_922a79",
+     "ymb_003_u06_padya_p01_a709fe",
+     "ymb_003_u06_padya_p02_398f0a",
+     "ymb_003_u07_padya_p01_50afd8",
+     "ymb_003_u07_padya_p02_1aa939",
+     "ymb_003_u08_padya_p01_98354b",
+     "ymb_003_u08_padya_p02_8465be",
+     "ymb_003_u09_padya_p01_2fbdde",
+     "ymb_003_u09_padya_p02_482819",
+     "ymb_003_u10_padya_p01_df6afa",
+     "ymb_003_u10_padya_p02_c6a888",
+     "ymb_003_u11_padya_p01_58ded7",
+     "ymb_003_u11_padya_p02_b12b6d",
+     "ymb_003_u12_padya_p01_ed0ed5",
+     "ymb_003_u12_padya_p02_85cab1",
+     "ymb_003_u13_padya_p01_9ac098",
+     "ymb_003_u13_padya_p02_308cfc"
+    ],
+    "est_sec": 153.6,
+    "path": "yamaka_bharata/ymb_003_p1.m4a"
+   },
+   {
+    "part": 2,
+    "kind": "mula",
+    "id": "ymb_003_p2",
+    "from": 14,
+    "to": 25,
+    "seq": 5,
+    "covers": [
+     5,
+     8
+    ],
+    "units": [
+     {
+      "n": 14,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u14_padya_p01_7b22f1",
+       "ymb_003_u14_padya_p02_b7d8a6"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 15,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u15_padya_p01_d41320",
+       "ymb_003_u15_padya_p02_2207b3"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 16,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u16_padya_p01_ca0f49",
+       "ymb_003_u16_padya_p02_b88dc1"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 17,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u17_padya_p01_4c32cf",
+       "ymb_003_u17_padya_p02_8f8ca2"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 18,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u18_padya_p01_cac112",
+       "ymb_003_u18_padya_p02_f98e83"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 19,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u19_padya_p01_504122",
+       "ymb_003_u19_padya_p02_3565a8"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 20,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u20_padya_p01_2563fb",
+       "ymb_003_u20_padya_p02_32be80"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 21,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u21_padya_p01_8fc277",
+       "ymb_003_u21_padya_p02_4cb4a9"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 22,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u22_padya_p01_f12a08",
+       "ymb_003_u22_padya_p02_091fc3"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 23,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u23_padya_p01_622d84",
+       "ymb_003_u23_padya_p02_b7dfad"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 24,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u24_padya_p01_35c58c",
+       "ymb_003_u24_padya_p02_8e912e"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 25,
+      "type": "padya",
+      "clips": [
+       "ymb_003_u25_padya_p01_70cef0",
+       "ymb_003_u25_padya_p02_91b1f3"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "ymb_003_u14_padya_p01_7b22f1",
+     "ymb_003_u14_padya_p02_b7d8a6",
+     "ymb_003_u15_padya_p01_d41320",
+     "ymb_003_u15_padya_p02_2207b3",
+     "ymb_003_u16_padya_p01_ca0f49",
+     "ymb_003_u16_padya_p02_b88dc1",
+     "ymb_003_u17_padya_p01_4c32cf",
+     "ymb_003_u17_padya_p02_8f8ca2",
+     "ymb_003_u18_padya_p01_cac112",
+     "ymb_003_u18_padya_p02_f98e83",
+     "ymb_003_u19_padya_p01_504122",
+     "ymb_003_u19_padya_p02_3565a8",
+     "ymb_003_u20_padya_p01_2563fb",
+     "ymb_003_u20_padya_p02_32be80",
+     "ymb_003_u21_padya_p01_8fc277",
+     "ymb_003_u21_padya_p02_4cb4a9",
+     "ymb_003_u22_padya_p01_f12a08",
+     "ymb_003_u22_padya_p02_091fc3",
+     "ymb_003_u23_padya_p01_622d84",
+     "ymb_003_u23_padya_p02_b7dfad",
+     "ymb_003_u24_padya_p01_35c58c",
+     "ymb_003_u24_padya_p02_8e912e",
+     "ymb_003_u25_padya_p01_70cef0",
+     "ymb_003_u25_padya_p02_91b1f3"
+    ],
+    "est_sec": 143.2,
+    "path": "yamaka_bharata/ymb_003_p2.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "६",
+    "start": 489,
+    "end": 582,
+    "padas": [
+     "नीतो वसुदेवेन स्वततेन स गोकुलं सुवसुदेऽवे न",
+     "तत्र यशोदा तनयं मेने कृष्णं स्वकीयमवदातनयम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "नीतो वसुदेवेन स्वततेन स गोकुलं सुवसुदेऽवे न तत्र यशोदा तनयं मेने कृष्णं स्वकीयमवदातनयम्",
+    "n": 1,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u01_padya_dadab0",
+    "clips": [
+     "ymb_003_u01_padya_p01_050b51",
+     "ymb_003_u01_padya_p02_4a32ba"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "७",
+    "start": 582,
+    "end": 684,
+    "padas": [
+     "ववृधे गोकुलमध्याद्यो देवो विश्वमद्भुताकुलमध्यात्",
+     "तत्र च पूतनिकाया वधमकरोद् यन्निजाः सुपूतनिकायाः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "ववृधे गोकुलमध्याद्यो देवो विश्वमद्भुताकुलमध्यात् तत्र च पूतनिकाया वधमकरोद् यन्निजाः सुपूतनिकायाः",
+    "n": 2,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u02_padya_20944e",
+    "clips": [
+     "ymb_003_u02_padya_p01_d2942c",
+     "ymb_003_u02_padya_p02_6695dc"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "८",
+    "start": 684,
+    "end": 787,
+    "padas": [
+     "अधुनोच्छकटं लो ली पादाङ्गुष्ठेन वातपेशशकटं लोली",
+     "अतनोद् रक्षामस्य स्वाज्ञानाद् गोपिका सदेरक्षामस्य"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "अधुनोच्छकटं लो ली पादाङ्गुष्ठेन वातपेशशकटं लोली अतनोद् रक्षामस्य स्वाज्ञानाद् गोपिका सदेरक्षामस्य",
+    "n": 3,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u03_padya_60e78f",
+    "clips": [
+     "ymb_003_u03_padya_p01_79a8a5",
+     "ymb_003_u03_padya_p02_1af8b4"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "९",
+    "start": 787,
+    "end": 879,
+    "padas": [
+     "मुखलालनलोला तन्मुखगं जगदचष्ट सालनलोलातत्",
+     "नाध्यैन्मायामस्य जगत्प्रभोः स्वधिकतततमायामस्य"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "मुखलालनलोला तन्मुखगं जगदचष्ट सालनलोलातत् नाध्यैन्मायामस्य जगत्प्रभोः स्वधिकतततमायामस्य",
+    "n": 4,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u04_padya_1bd001",
+    "clips": [
+     "ymb_003_u04_padya_p01_df53f5",
+     "ymb_003_u04_padya_p02_966de6"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "१०",
+    "start": 879,
+    "end": 976,
+    "padas": [
+     "तस्य सुशर्माण्यकरो दरिणो गर्गः सदुक्तिकर्माण्यकरोत्",
+     "अवदन्नामानमयं जगदादिं वासुदेवनामानमयम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "तस्य सुशर्माण्यकरो दरिणो गर्गः सदुक्तिकर्माण्यकरोत् अवदन्नामानमयं जगदादिं वासुदेवनामानमयम्",
+    "n": 5,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u05_padya_1df532",
+    "clips": [
+     "ymb_003_u05_padya_p01_de4982",
+     "ymb_003_u05_padya_p02_922a79"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "११",
+    "start": 976,
+    "end": 1081,
+    "padas": [
+     "तस्य सखा बलनामा ज्येष्ठो भ्राताऽथ यन्निजाबलना मा",
+     "यस्य च पर्यङ्कोऽयं पूर्वतनो विष्णुमजसपर्यं कोऽयम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "तस्य सखा बलनामा ज्येष्ठो भ्राताऽथ यन्निजाबलना मा यस्य च पर्यङ्कोऽयं पूर्वतनो विष्णुमजसपर्यं कोऽयम्",
+    "n": 6,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u06_padya_eb5722",
+    "clips": [
+     "ymb_003_u06_padya_p01_a709fe",
+     "ymb_003_u06_padya_p02_398f0a"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "१२",
+    "start": 1081,
+    "end": 1175,
+    "padas": [
+     "तेन हतो वातरयस्तृणचक्रो नाम दितिसुतोऽवातरयः",
+     "हरमाणो बालतमं स्वात्मानं कण्ठरोधिनाऽबालतमम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "तेन हतो वातरयस्तृणचक्रो नाम दितिसुतोऽवातरयः हरमाणो बालतमं स्वात्मानं कण्ठरोधिनाऽबालतमम्",
+    "n": 7,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u07_padya_892743",
+    "clips": [
+     "ymb_003_u07_padya_p01_50afd8",
+     "ymb_003_u07_padya_p02_1aa939"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "१३",
+    "start": 1175,
+    "end": 1270,
+    "padas": [
+     "सोऽवनिमध्ये रङ्गन्नरिदरयुग् बालरूपमध्येरं गन्",
+     "अमुषन्नवनीतमदः स्वगोकुले गोपिकासु नवनीतमदः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "सोऽवनिमध्ये रङ्गन्नरिदरयुग् बालरूपमध्येरं गन् अमुषन्नवनीतमदः स्वगोकुले गोपिकासु नवनीतमदः",
+    "n": 8,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u08_padya_0fb455",
+    "clips": [
+     "ymb_003_u08_padya_p01_98354b",
+     "ymb_003_u08_padya_p02_8465be"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "१४",
+    "start": 1270,
+    "end": 1362,
+    "padas": [
+     "तन्माता कोपमिता तमनुससारात्मवादवाकोपमिता",
+     "जगृहे सा नमनं तं देवं तच्चिन्तयैव सानमनन्तम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "तन्माता कोपमिता तमनुससारात्मवादवाकोपमिता जगृहे सा नमनं तं देवं तच्चिन्तयैव सानमनन्तम्",
+    "n": 9,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u09_padya_688bfb",
+    "clips": [
+     "ymb_003_u09_padya_p01_2fbdde",
+     "ymb_003_u09_padya_p02_482819"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "१५",
+    "start": 1362,
+    "end": 1471,
+    "padas": [
+     "अथ साऽन्तरिताऽमानं विष्णुं विश्वोद्भवं सदाऽन्तरितामानम्",
+     "अनयद् दामोदरतां योऽरमयत् सुन्दरीं निजामोदरताम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "अथ साऽन्तरिताऽमानं विष्णुं विश्वोद्भवं सदाऽन्तरितामानम् अनयद् दामोदरतां योऽरमयत् सुन्दरीं निजामोदरताम्",
+    "n": 10,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u10_padya_518fdf",
+    "clips": [
+     "ymb_003_u10_padya_p01_df6afa",
+     "ymb_003_u10_padya_p02_c6a888"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "१६",
+    "start": 1471,
+    "end": 1579,
+    "padas": [
+     "चक्रे सोऽर्जुननाशं प्राप्नोति यत्स्मृतिः सदाऽर्जुनना शम्",
+     "तौ च गतौ निजमोकस्तेनैव नुतेन यन्निजानिजमोकः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "चक्रे सोऽर्जुननाशं प्राप्नोति यत्स्मृतिः सदाऽर्जुनना शम् तौ च गतौ निजमोकस्तेनैव नुतेन यन्निजानिजमोकः",
+    "n": 11,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u11_padya_5b640e",
+    "clips": [
+     "ymb_003_u11_padya_p01_58ded7",
+     "ymb_003_u11_padya_p02_b12b6d"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "१७",
+    "start": 1579,
+    "end": 1679,
+    "padas": [
+     "अथ वृन्दावनवासं गोपाश्चक्रुर्जगत्क्षिताऽवनवासम्",
+     "तत्र बकासुरमारः शौरिरभून्नित्यसंश्रितासुरमारः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "अथ वृन्दावनवासं गोपाश्चक्रुर्जगत्क्षिताऽवनवासम् तत्र बकासुरमारः शौरिरभून्नित्यसंश्रितासुरमारः",
+    "n": 12,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u12_padya_1e8e29",
+    "clips": [
+     "ymb_003_u12_padya_p01_ed0ed5",
+     "ymb_003_u12_padya_p02_85cab1"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "१८",
+    "start": 1679,
+    "end": 1775,
+    "padas": [
+     "अहनद् वत्सतनूकं योऽपाल्लोकं स्वयत्नवत्सतनूकम्",
+     "सोऽपाद् वत्सानमरः सहाग्रजो गोपवत्सवत्सानमरः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "अहनद् वत्सतनूकं योऽपाल्लोकं स्वयत्नवत्सतनूकम् सोऽपाद् वत्सानमरः सहाग्रजो गोपवत्सवत्सानमरः",
+    "n": 13,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u13_padya_4d489b",
+    "clips": [
+     "ymb_003_u13_padya_p01_9ac098",
+     "ymb_003_u13_padya_p02_308cfc"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "१९",
+    "start": 1775,
+    "end": 1885,
+    "padas": [
+     "स विभुः श्रीमानहिके ननर्त यस्य श्रमानमा मा न हिके",
+     "अकरोन्नद्युदकान्तं कान्तं नीत्वोरगं स नाऽद्युदकान्तम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "स विभुः श्रीमानहिके ननर्त यस्य श्रमानमा मा न हिके अकरोन्नद्युदकान्तं कान्तं नीत्वोरगं स नाऽद्युदकान्तम्",
+    "n": 14,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u14_padya_475bdb",
+    "clips": [
+     "ymb_003_u14_padya_p01_7b22f1",
+     "ymb_003_u14_padya_p02_b7d8a6"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "२०",
+    "start": 1885,
+    "end": 1987,
+    "padas": [
+     "हत्वा धेनुकमूढं बलात् प्रलम्बं च खेट् सधेनुकमूढम्",
+     "व्रजमावीदमृताशः पीत्वा वह्निं चरस्थिरादमृताशः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "हत्वा धेनुकमूढं बलात् प्रलम्बं च खेट् सधेनुकमूढम् व्रजमावीदमृताशः पीत्वा वह्निं चरस्थिरादमृताशः",
+    "n": 15,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u15_padya_41b2d6",
+    "clips": [
+     "ymb_003_u15_padya_p01_d41320",
+     "ymb_003_u15_padya_p02_2207b3"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "२१",
+    "start": 1987,
+    "end": 2100,
+    "padas": [
+     "गिरिणा रक्षाऽपि कृता व्रजस्य तेन स्वरक्षरक्षाऽपि कृता",
+     "शक्राय व्यञ्जयता स्वां शक्तिं विश्वमात्मनाऽव्यं जयता"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "गिरिणा रक्षाऽपि कृता व्रजस्य तेन स्वरक्षरक्षाऽपि कृता शक्राय व्यञ्जयता स्वां शक्तिं विश्वमात्मनाऽव्यं जयता",
+    "n": 16,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u16_padya_b88b1e",
+    "clips": [
+     "ymb_003_u16_padya_p01_ca0f49",
+     "ymb_003_u16_padya_p02_b88dc1"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "२२",
+    "start": 2100,
+    "end": 2204,
+    "padas": [
+     "रेमे गोपीष्वरिहा स मन्मथाक्रान्तसुन्दरीपीष्वरिहा",
+     "पूर्णानन्दैकतनुः स विश्वरुक्पावनोऽप्यनन्दैकतनुः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "रेमे गोपीष्वरिहा स मन्मथाक्रान्तसुन्दरीपीष्वरिहा पूर्णानन्दैकतनुः स विश्वरुक्पावनोऽप्यनन्दैकतनुः",
+    "n": 17,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u17_padya_63da68",
+    "clips": [
+     "ymb_003_u17_padya_p01_4c32cf",
+     "ymb_003_u17_padya_p02_8f8ca2"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "२३",
+    "start": 2204,
+    "end": 2311,
+    "padas": [
+     "अथ हतयोर्गलिकेश्योः श्वफल्कजप्रापितः पुरीं गलिकेश्योः",
+     "भङ्क्त्वा धनुराजवरं जघान तेनैव च स्वयं राजवरम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "अथ हतयोर्गलिकेश्योः श्वफल्कजप्रापितः पुरीं गलिकेश्योः भङ्क्त्वा धनुराजवरं जघान तेनैव च स्वयं राजवरम्",
+    "n": 18,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u18_padya_8d207c",
+    "clips": [
+     "ymb_003_u18_padya_p01_cac112",
+     "ymb_003_u18_padya_p02_f98e83"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "२४",
+    "start": 2311,
+    "end": 2417,
+    "padas": [
+     "मृद्गन् गजमुग्रबलं सबलो रङ्गं विवेश सृतिमुग् रबलम्",
+     "हत्वा मल्लौ बलिनौ कंसं च विमोक्षितौ ततौ लौ बलिनौ"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "मृद्गन् गजमुग्रबलं सबलो रङ्गं विवेश सृतिमुग् रबलम् हत्वा मल्लौ बलिनौ कंसं च विमोक्षितौ ततौ लौ बलिनौ",
+    "n": 19,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u19_padya_6e0345",
+    "clips": [
+     "ymb_003_u19_padya_p01_504122",
+     "ymb_003_u19_padya_p02_3565a8"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "२५",
+    "start": 2417,
+    "end": 2521,
+    "padas": [
+     "प्रादात् सान्दीपनये मृतपुत्रं ज्ञानदीपसान्दीपनये",
+     "गुर्वर्थेऽज्ञानतमःप्रभेदिता नित्यसम्भृताज्ञानतमः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "प्रादात् सान्दीपनये मृतपुत्रं ज्ञानदीपसान्दीपनये गुर्वर्थेऽज्ञानतमःप्रभेदिता नित्यसम्भृताज्ञानतमः",
+    "n": 20,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u20_padya_2bf4cd",
+    "clips": [
+     "ymb_003_u20_padya_p01_2563fb",
+     "ymb_003_u20_padya_p02_32be80"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "२६",
+    "start": 2521,
+    "end": 2623,
+    "padas": [
+     "जित्वा मागधराजं तोषितमकरोत् सदात्मयोगधराजम्",
+     "अनुकुर्वन् निजसदनं चक्रे रम्यां पुरं सुबोधनिजसदनम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "जित्वा मागधराजं तोषितमकरोत् सदात्मयोगधराजम् अनुकुर्वन् निजसदनं चक्रे रम्यां पुरं सुबोधनिजसदनम्",
+    "n": 21,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u21_padya_254e77",
+    "clips": [
+     "ymb_003_u21_padya_p01_8fc277",
+     "ymb_003_u21_padya_p02_4cb4a9"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "२७",
+    "start": 2623,
+    "end": 2719,
+    "padas": [
+     "प्रसभं सगजबलस्य क्षत्रस्योच्चैः समगधराजबलस्य",
+     "मानं शिशुपालवरं हत्वा भैष्मीमवाप शिशुपालवरम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "प्रसभं सगजबलस्य क्षत्रस्योच्चैः समगधराजबलस्य मानं शिशुपालवरं हत्वा भैष्मीमवाप शिशुपालवरम्",
+    "n": 22,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u22_padya_c51d9d",
+    "clips": [
+     "ymb_003_u22_padya_p01_f12a08",
+     "ymb_003_u22_padya_p02_091fc3"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "२८",
+    "start": 2719,
+    "end": 2816,
+    "padas": [
+     "हंसो डिभिकश्चपलावमुना संसूदितौ यवनकश्च पला",
+     "कीर्तिर्विमला विरता प्रतता विश्वाधिपावनीलाविरता"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "हंसो डिभिकश्चपलावमुना संसूदितौ यवनकश्च पला कीर्तिर्विमला विरता प्रतता विश्वाधिपावनीलाविरता",
+    "n": 23,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u23_padya_0ac109",
+    "clips": [
+     "ymb_003_u23_padya_p01_622d84",
+     "ymb_003_u23_padya_p02_b7dfad"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "२९",
+    "start": 2816,
+    "end": 2927,
+    "padas": [
+     "सत्याजाम्बवतीर्या भार्या विन्दाद्या भानुसाम्बवतीर्याः",
+     "प्रद्युम्नं मोदरतः प्राप ज्येष्ठं हरिः सुतं मोदरतः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "सत्याजाम्बवतीर्या भार्या विन्दाद्या भानुसाम्बवतीर्याः प्रद्युम्नं मोदरतः प्राप ज्येष्ठं हरिः सुतं मोदरतः",
+    "n": 24,
+    "seq": 5,
+    "seqs": [
+     5
+    ],
+    "clip": "ymb_003_u24_padya_309819",
+    "clips": [
+     "ymb_003_u24_padya_p01_35c58c",
+     "ymb_003_u24_padya_p02_8e912e"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "३०",
+    "start": 2927,
+    "end": 3027,
+    "padas": [
+     "यत्परिवारतयेशा जाता देवा नृपात्मना रतयेशाः",
+     "यद्भरितं विषसर्पप्रभृति ध्वान्तं न मारुतिं विषसर्प"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "यत्परिवारतयेशा जाता देवा नृपात्मना रतयेशाः यद्भरितं विषसर्पप्रभृति ध्वान्तं न मारुतिं विषसर्प",
+    "n": 25,
+    "seq": 5,
+    "seqs": [
+     5,
+     8
+    ],
+    "clip": "ymb_003_u25_padya_2e21d7",
+    "clips": [
+     "ymb_003_u25_padya_p01_70cef0",
+     "ymb_003_u25_padya_p02_91b1f3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ymb_004",
+  "ref": null,
+  "seq": 8,
+  "kind": "sutra_block",
+  "adhyaya": "भारतकथानिर्णयः",
+  "pada": "कृष्णाश्रितानां पाण्डवानां कथा",
+  "adhikarana": null,
+  "est_sec": 58.5,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "ymb_004",
+    "from": 1,
+    "to": 5,
+    "seq": 8,
+    "covers": [
+     8,
+     10
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "ymb_004_u01_padya_p01_062258",
+       "ymb_004_u01_padya_p02_f926c0"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "ymb_004_u02_padya_p01_aa0445",
+       "ymb_004_u02_padya_p02_02e430"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 3,
+      "type": "padya",
+      "clips": [
+       "ymb_004_u03_padya_p01_c446ae",
+       "ymb_004_u03_padya_p02_f8b9fc"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 4,
+      "type": "padya",
+      "clips": [
+       "ymb_004_u04_padya_p01_c5b2eb",
+       "ymb_004_u04_padya_p02_7e0a70"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 5,
+      "type": "padya",
+      "clips": [
+       "ymb_004_u05_padya_p01_cbf84d",
+       "ymb_004_u05_padya_p02_a9d1c2"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "ymb_004_u01_padya_p01_062258",
+     "ymb_004_u01_padya_p02_f926c0",
+     "ymb_004_u02_padya_p01_aa0445",
+     "ymb_004_u02_padya_p02_02e430",
+     "ymb_004_u03_padya_p01_c446ae",
+     "ymb_004_u03_padya_p02_f8b9fc",
+     "ymb_004_u04_padya_p01_c5b2eb",
+     "ymb_004_u04_padya_p02_7e0a70",
+     "ymb_004_u05_padya_p01_cbf84d",
+     "ymb_004_u05_padya_p02_a9d1c2"
+    ],
+    "est_sec": 58.5,
+    "path": "yamaka_bharata/ymb_004.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "३१",
+    "start": 3027,
+    "end": 3132,
+    "padas": [
+     "येन हिडिम्बबकाद्या रक्षोधीशा निपातिता बबकाद्याः",
+     "भीमे प्रीतिममेयां व्यञ्जयता तेनैव शेषपाति ममे याम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "येन हिडिम्बबकाद्या रक्षोधीशा निपातिता बबकाद्याः भीमे प्रीतिममेयां व्यञ्जयता तेनैव शेषपाति ममे याम्",
+    "n": 1,
+    "seq": 8,
+    "seqs": [
+     8
+    ],
+    "clip": "ymb_004_u01_padya_4bb57b",
+    "clips": [
+     "ymb_004_u01_padya_p01_062258",
+     "ymb_004_u01_padya_p02_f926c0"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "३२",
+    "start": 3132,
+    "end": 3246,
+    "padas": [
+     "अथ कृष्णावरणे तान् प्राप्तान् राज्ञोऽशृणोत् सदावरणेतान्",
+     "द्रष्टुं यातः सबलस्तां चैनैषीत् पृथासुतांस्ततः सबलः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "अथ कृष्णावरणे तान् प्राप्तान् राज्ञोऽशृणोत् सदावरणेतान् द्रष्टुं यातः सबलस्तां चैनैषीत् पृथासुतांस्ततः सबलः",
+    "n": 2,
+    "seq": 8,
+    "seqs": [
+     8
+    ],
+    "clip": "ymb_004_u02_padya_e0be43",
+    "clips": [
+     "ymb_004_u02_padya_p01_aa0445",
+     "ymb_004_u02_padya_p02_02e430"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "३३",
+    "start": 3246,
+    "end": 3352,
+    "padas": [
+     "तानिन्द्रस्थलवासांश्चक्रे कृष्णः परो निजस्थलवासान्",
+     "स्वबलोद्रेचितमानैर्जुगोप धर्मं च तैः पराचितमानैः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "तानिन्द्रस्थलवासांश्चक्रे कृष्णः परो निजस्थलवासान् स्वबलोद्रेचितमानैर्जुगोप धर्मं च तैः पराचितमानैः",
+    "n": 3,
+    "seq": 8,
+    "seqs": [
+     8
+    ],
+    "clip": "ymb_004_u03_padya_49247e",
+    "clips": [
+     "ymb_004_u03_padya_p01_c446ae",
+     "ymb_004_u03_padya_p02_f8b9fc"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "३४",
+    "start": 3352,
+    "end": 3449,
+    "padas": [
+     "वालिवधानुनयाय प्रणयी सख्यं सुसन्दधे नु नयाय",
+     "वासवजेन विशेषात् तेनैव पुनर्नृजन्मजेन विशेषात्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "वालिवधानुनयाय प्रणयी सख्यं सुसन्दधे नु नयाय वासवजेन विशेषात् तेनैव पुनर्नृजन्मजेन विशेषात्",
+    "n": 4,
+    "seq": 8,
+    "seqs": [
+     8
+    ],
+    "clip": "ymb_004_u04_padya_876562",
+    "clips": [
+     "ymb_004_u04_padya_p01_c5b2eb",
+     "ymb_004_u04_padya_p02_7e0a70"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "३५",
+    "start": 3449,
+    "end": 3551,
+    "padas": [
+     "मातुः परिभवहान्यै राज्ञा द्युसदामितश्च परिभवहाऽन्यैः",
+     "अभवन्नरकमुरारिर्योऽवासीदत् समस्तनरकमुरारिः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "मातुः परिभवहान्यै राज्ञा द्युसदामितश्च परिभवहाऽन्यैः अभवन्नरकमुरारिर्योऽवासीदत् समस्तनरकमुरारिः",
+    "n": 5,
+    "seq": 8,
+    "seqs": [
+     8,
+     10
+    ],
+    "clip": "ymb_004_u05_padya_42ca98",
+    "clips": [
+     "ymb_004_u05_padya_p01_cbf84d",
+     "ymb_004_u05_padya_p02_a9d1c2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ymb_005",
+  "ref": null,
+  "seq": 10,
+  "kind": "sutra_block",
+  "adhyaya": "भारतकथानिर्णयः",
+  "pada": "पुनश्च कृष्णकथा पाण्डवकथा च",
+  "adhikarana": null,
+  "est_sec": 107.9,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "ymb_005",
+    "from": 1,
+    "to": 9,
+    "seq": 10,
+    "covers": [
+     10,
+     13
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "ymb_005_u01_padya_p01_ca3e66",
+       "ymb_005_u01_padya_p02_a0d723"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "ymb_005_u02_padya_p01_fcab0b",
+       "ymb_005_u02_padya_p02_2d1a08"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 3,
+      "type": "padya",
+      "clips": [
+       "ymb_005_u03_padya_p01_1a39fe",
+       "ymb_005_u03_padya_p02_beed93"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 4,
+      "type": "padya",
+      "clips": [
+       "ymb_005_u04_padya_p01_5ff3db",
+       "ymb_005_u04_padya_p02_84b068"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 5,
+      "type": "padya",
+      "clips": [
+       "ymb_005_u05_padya_p01_4f231a",
+       "ymb_005_u05_padya_p02_66907c"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 6,
+      "type": "padya",
+      "clips": [
+       "ymb_005_u06_padya_p01_d97a3a",
+       "ymb_005_u06_padya_p02_390651"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 7,
+      "type": "padya",
+      "clips": [
+       "ymb_005_u07_padya_p01_d713be",
+       "ymb_005_u07_padya_p02_ea8c86"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 8,
+      "type": "padya",
+      "clips": [
+       "ymb_005_u08_padya_p01_959545",
+       "ymb_005_u08_padya_p02_b90f1d"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 9,
+      "type": "padya",
+      "clips": [
+       "ymb_005_u09_padya_p01_a9085e",
+       "ymb_005_u09_padya_p02_ea7283"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "ymb_005_u01_padya_p01_ca3e66",
+     "ymb_005_u01_padya_p02_a0d723",
+     "ymb_005_u02_padya_p01_fcab0b",
+     "ymb_005_u02_padya_p02_2d1a08",
+     "ymb_005_u03_padya_p01_1a39fe",
+     "ymb_005_u03_padya_p02_beed93",
+     "ymb_005_u04_padya_p01_5ff3db",
+     "ymb_005_u04_padya_p02_84b068",
+     "ymb_005_u05_padya_p01_4f231a",
+     "ymb_005_u05_padya_p02_66907c",
+     "ymb_005_u06_padya_p01_d97a3a",
+     "ymb_005_u06_padya_p02_390651",
+     "ymb_005_u07_padya_p01_d713be",
+     "ymb_005_u07_padya_p02_ea8c86",
+     "ymb_005_u08_padya_p01_959545",
+     "ymb_005_u08_padya_p02_b90f1d",
+     "ymb_005_u09_padya_p01_a9085e",
+     "ymb_005_u09_padya_p02_ea7283"
+    ],
+    "est_sec": 107.9,
+    "path": "yamaka_bharata/ymb_005.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "३६",
+    "start": 3551,
+    "end": 3647,
+    "padas": [
+     "नीतो दिवि देववरै रेमे सत्यासमन्वितोऽदेववरैः",
+     "सर्वर्तुवने शशिना निशि सत्यां वासरे वनेऽशशिना"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "नीतो दिवि देववरै रेमे सत्यासमन्वितोऽदेववरैः सर्वर्तुवने शशिना निशि सत्यां वासरे वनेऽशशिना",
+    "n": 1,
+    "seq": 10,
+    "seqs": [
+     10
+    ],
+    "clip": "ymb_005_u01_padya_440be5",
+    "clips": [
+     "ymb_005_u01_padya_p01_ca3e66",
+     "ymb_005_u01_padya_p02_a0d723"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "३७",
+    "start": 3647,
+    "end": 3744,
+    "padas": [
+     "सुरतरुमापालिमतात् प्रकाशयञ्छक्तिमात्मनः पालिमतात्",
+     "सुरवरवीरेषु दरी प्रधानजीवेश्वरः परेषुदरी"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "सुरतरुमापालिमतात् प्रकाशयञ्छक्तिमात्मनः पालिमतात् सुरवरवीरेषु दरी प्रधानजीवेश्वरः परेषुदरी",
+    "n": 2,
+    "seq": 10,
+    "seqs": [
+     10
+    ],
+    "clip": "ymb_005_u02_padya_2d7f55",
+    "clips": [
+     "ymb_005_u02_padya_p01_fcab0b",
+     "ymb_005_u02_padya_p02_2d1a08"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "३८",
+    "start": 3744,
+    "end": 3843,
+    "padas": [
+     "पुरमभियायारिदरी दत्वा भद्रां पृथासुतायारिदरी",
+     "शक्रपुरीमभियातः प्रादाद् वह्नेर्वनं सतामभियाऽतः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "पुरमभियायारिदरी दत्वा भद्रां पृथासुतायारिदरी शक्रपुरीमभियातः प्रादाद् वह्नेर्वनं सतामभियाऽतः",
+    "n": 3,
+    "seq": 10,
+    "seqs": [
+     10
+    ],
+    "clip": "ymb_005_u03_padya_904acd",
+    "clips": [
+     "ymb_005_u03_padya_p01_1a39fe",
+     "ymb_005_u03_padya_p02_beed93"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "३९",
+    "start": 3843,
+    "end": 3950,
+    "padas": [
+     "शिवभक्तप्रवराद्यं पुमान् न सेहे गिरीशविप्रवराद्यम्",
+     "तं स्वात्मेन्द्रवरेण व्यधुनोद् भीमेन धूतरुद्रवरेण"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "शिवभक्तप्रवराद्यं पुमान् न सेहे गिरीशविप्रवराद्यम् तं स्वात्मेन्द्रवरेण व्यधुनोद् भीमेन धूतरुद्रवरेण",
+    "n": 4,
+    "seq": 10,
+    "seqs": [
+     10
+    ],
+    "clip": "ymb_005_u04_padya_f95369",
+    "clips": [
+     "ymb_005_u04_padya_p01_5ff3db",
+     "ymb_005_u04_padya_p02_84b068"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "४०",
+    "start": 3950,
+    "end": 4061,
+    "padas": [
+     "यस्याज्ञाबलसारैः पार्थैर्दिग्भ्यो हृतं धनं बलसारैः",
+     "जित्वा क्ष्मामविशेषां प्रसह्य भूपान् समस्तकामविशेषाम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "यस्याज्ञाबलसारैः पार्थैर्दिग्भ्यो हृतं धनं बलसारैः जित्वा क्ष्मामविशेषां प्रसह्य भूपान् समस्तकामविशेषाम्",
+    "n": 5,
+    "seq": 10,
+    "seqs": [
+     10
+    ],
+    "clip": "ymb_005_u05_padya_82be4d",
+    "clips": [
+     "ymb_005_u05_padya_p01_4f231a",
+     "ymb_005_u05_padya_p02_66907c"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "४१",
+    "start": 4061,
+    "end": 4168,
+    "padas": [
+     "अथ पार्थान् क्रतुराजं प्रापयदमरेट् सरुद्रशक्रतुराजम्",
+     "पूजा तेनावापि च्छिन्नश्चैद्यः सृतिं गते नावाऽपि"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "अथ पार्थान् क्रतुराजं प्रापयदमरेट् सरुद्रशक्रतुराजम् पूजा तेनावापि च्छिन्नश्चैद्यः सृतिं गते नावाऽपि",
+    "n": 6,
+    "seq": 10,
+    "seqs": [
+     10
+    ],
+    "clip": "ymb_005_u06_padya_3a061c",
+    "clips": [
+     "ymb_005_u06_padya_p01_d97a3a",
+     "ymb_005_u06_padya_p02_390651"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "४२",
+    "start": 4168,
+    "end": 4265,
+    "padas": [
+     "निहतौ सौभकरूशौ शीतो भातश्च येन तौ भकरूशौ",
+     "अजयद् रुद्रं च रणे बाणार्थेऽवनतिपतितकचन्द्रं चरणे"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "निहतौ सौभकरूशौ शीतो भातश्च येन तौ भकरूशौ अजयद् रुद्रं च रणे बाणार्थेऽवनतिपतितकचन्द्रं चरणे",
+    "n": 7,
+    "seq": 10,
+    "seqs": [
+     10
+    ],
+    "clip": "ymb_005_u07_padya_cc19f6",
+    "clips": [
+     "ymb_005_u07_padya_p01_d713be",
+     "ymb_005_u07_padya_p02_ea8c86"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "४३",
+    "start": 4265,
+    "end": 4377,
+    "padas": [
+     "असृजज्ज्वरमुग्रतमःक्षयप्रदो लीलयाऽधिवरमुग् रतमः",
+     "क्रीडामात्रं विश्वं प्रकाशयन्नात्मनः सविहरकमात्रं विश्वम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "असृजज्ज्वरमुग्रतमःक्षयप्रदो लीलयाऽधिवरमुग् रतमः क्रीडामात्रं विश्वं प्रकाशयन्नात्मनः सविहरकमात्रं विश्वम्",
+    "n": 8,
+    "seq": 10,
+    "seqs": [
+     10
+    ],
+    "clip": "ymb_005_u08_padya_1fbe78",
+    "clips": [
+     "ymb_005_u08_padya_p01_959545",
+     "ymb_005_u08_padya_p02_b90f1d"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "४४",
+    "start": 4377,
+    "end": 4481,
+    "padas": [
+     "यस्यावेशोरुबलान्न्यहनत् पार्थोऽसुरान् प्रजेशोरुबलान्",
+     "वरदानादस्यैव जगत्प्रभोरीरणात् समनुगतनादस्यैव"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "यस्यावेशोरुबलान्न्यहनत् पार्थोऽसुरान् प्रजेशोरुबलान् वरदानादस्यैव जगत्प्रभोरीरणात् समनुगतनादस्यैव",
+    "n": 9,
+    "seq": 10,
+    "seqs": [
+     10,
+     13
+    ],
+    "clip": "ymb_005_u09_padya_d6c74f",
+    "clips": [
+     "ymb_005_u09_padya_p01_a9085e",
+     "ymb_005_u09_padya_p02_ea7283"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ymb_006",
+  "ref": null,
+  "seq": 13,
+  "kind": "sutra_block",
+  "adhyaya": "भारतकथानिर्णयः",
+  "pada": "श्रीकृष्णभक्तानां कथाः",
+  "adhikarana": "अर्जुनकथा",
+  "est_sec": 12.0,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "ymb_006",
+    "from": 1,
+    "to": 1,
+    "seq": 13,
+    "covers": [
+     13,
+     15
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "ymb_006_u01_padya_p01_cb6057",
+       "ymb_006_u01_padya_p02_505144"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "ymb_006_u01_padya_p01_cb6057",
+     "ymb_006_u01_padya_p02_505144"
+    ],
+    "est_sec": 12.0,
+    "path": "yamaka_bharata/ymb_006.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "४५",
+    "start": 4481,
+    "end": 4590,
+    "padas": [
+     "यस्यावेशात् स बलः प्रचकर्ष पुरं प्रसह्य चेशात् सबलः",
+     "कुरुपतिनाम नु यमुनाऽऽकृष्टा येनाहुरर्ह्यमतनु यमुना"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "यस्यावेशात् स बलः प्रचकर्ष पुरं प्रसह्य चेशात् सबलः कुरुपतिनाम नु यमुनाऽऽकृष्टा येनाहुरर्ह्यमतनु यमुना",
+    "n": 1,
+    "seq": 13,
+    "seqs": [
+     13,
+     15
+    ],
+    "clip": "ymb_006_u01_padya_b3a02f",
+    "clips": [
+     "ymb_006_u01_padya_p01_cb6057",
+     "ymb_006_u01_padya_p02_505144"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ymb_007",
+  "ref": null,
+  "seq": 15,
+  "kind": "sutra_block",
+  "adhyaya": "भारतकथानिर्णयः",
+  "pada": "श्रीकृष्णभक्तानां कथाः",
+  "adhikarana": "बलरामकथा",
+  "est_sec": 11.1,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "ymb_007",
+    "from": 1,
+    "to": 1,
+    "seq": 15,
+    "covers": [
+     15,
+     17
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "ymb_007_u01_padya_p01_f2bbe5",
+       "ymb_007_u01_padya_p02_54fe9c"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "ymb_007_u01_padya_p01_f2bbe5",
+     "ymb_007_u01_padya_p02_54fe9c"
+    ],
+    "est_sec": 11.1,
+    "path": "yamaka_bharata/ymb_007.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "४६",
+    "start": 4590,
+    "end": 4698,
+    "padas": [
+     "यद्बलवान् क्रोधवशान् निनाय नाशं वृकोदरः क्रोधवशान्",
+     "लेभेऽचान्या गम्यं स्थानं पुष्पाणि धाम चान्यागम्यम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "यद्बलवान् क्रोधवशान् निनाय नाशं वृकोदरः क्रोधवशान् लेभेऽचान्या गम्यं स्थानं पुष्पाणि धाम चान्यागम्यम्",
+    "n": 1,
+    "seq": 15,
+    "seqs": [
+     15,
+     17
+    ],
+    "clip": "ymb_007_u01_padya_ea51dd",
+    "clips": [
+     "ymb_007_u01_padya_p01_f2bbe5",
+     "ymb_007_u01_padya_p02_54fe9c"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ymb_008",
+  "ref": null,
+  "seq": 17,
+  "kind": "sutra_block",
+  "adhyaya": "भारतकथानिर्णयः",
+  "pada": "श्रीकृष्णभक्तानां कथाः",
+  "adhikarana": "भीमकथा",
+  "est_sec": 74.4,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "ymb_008",
+    "from": 1,
+    "to": 6,
+    "seq": 17,
+    "covers": [
+     17,
+     19
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "ymb_008_u01_padya_p01_a6f023",
+       "ymb_008_u01_padya_p02_0c96ea"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "ymb_008_u02_padya_p01_fa5960",
+       "ymb_008_u02_padya_p02_954a7f"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 3,
+      "type": "padya",
+      "clips": [
+       "ymb_008_u03_padya_p01_cba99e",
+       "ymb_008_u03_padya_p02_d401d3"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 4,
+      "type": "padya",
+      "clips": [
+       "ymb_008_u04_padya_p01_ac2abb",
+       "ymb_008_u04_padya_p02_39897e"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 5,
+      "type": "padya",
+      "clips": [
+       "ymb_008_u05_padya_p01_c8e7c8",
+       "ymb_008_u05_padya_p02_d32da4"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 6,
+      "type": "padya",
+      "clips": [
+       "ymb_008_u06_padya_p01_06acef",
+       "ymb_008_u06_padya_p02_4efdb9"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "ymb_008_u01_padya_p01_a6f023",
+     "ymb_008_u01_padya_p02_0c96ea",
+     "ymb_008_u02_padya_p01_fa5960",
+     "ymb_008_u02_padya_p02_954a7f",
+     "ymb_008_u03_padya_p01_cba99e",
+     "ymb_008_u03_padya_p02_d401d3",
+     "ymb_008_u04_padya_p01_ac2abb",
+     "ymb_008_u04_padya_p02_39897e",
+     "ymb_008_u05_padya_p01_c8e7c8",
+     "ymb_008_u05_padya_p02_d32da4",
+     "ymb_008_u06_padya_p01_06acef",
+     "ymb_008_u06_padya_p02_4efdb9"
+    ],
+    "est_sec": 74.4,
+    "path": "yamaka_bharata/ymb_008.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "४७",
+    "start": 4698,
+    "end": 4801,
+    "padas": [
+     "यद्बलभारवहत्त्वान्नाचलदुरगादिभिः सुभारवहत्त्वात्",
+     "धर्मादरिहाऽपि पदं भीमो येनैव साहसं रिहाऽपि पदम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "यद्बलभारवहत्त्वान्नाचलदुरगादिभिः सुभारवहत्त्वात् धर्मादरिहाऽपि पदं भीमो येनैव साहसं रिहाऽपि पदम्",
+    "n": 1,
+    "seq": 17,
+    "seqs": [
+     17
+    ],
+    "clip": "ymb_008_u01_padya_04e7bb",
+    "clips": [
+     "ymb_008_u01_padya_p01_a6f023",
+     "ymb_008_u01_padya_p02_0c96ea"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "४८",
+    "start": 4801,
+    "end": 4922,
+    "padas": [
+     "नहि नहुषोऽलं नहितुं धर्मो द्रौणिस्तथेतरोऽलं न हितुम्",
+     "नो राट्कर्णौ ब्रह्मवरी येन ध्वस्तोऽस्त्रमग्रहीत् सब्रह्म-वरी"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "नहि नहुषोऽलं नहितुं धर्मो द्रौणिस्तथेतरोऽलं न हितुम् नो राट्कर्णौ ब्रह्मवरी येन ध्वस्तोऽस्त्रमग्रहीत् सब्रह्म-वरी",
+    "n": 2,
+    "seq": 17,
+    "seqs": [
+     17
+    ],
+    "clip": "ymb_008_u02_padya_163b2a",
+    "clips": [
+     "ymb_008_u02_padya_p01_fa5960",
+     "ymb_008_u02_padya_p02_954a7f"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "४९",
+    "start": 4922,
+    "end": 5025,
+    "padas": [
+     "क्षात्रं धर्मं स्ववता गुरुवृत्त्यै केशवाज्ञया च मं स्ववता",
+     "सर्वं सेहेऽमनसा भीमेनेशैकमानिना हेमनसा"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "क्षात्रं धर्मं स्ववता गुरुवृत्त्यै केशवाज्ञया च मं स्ववता सर्वं सेहेऽमनसा भीमेनेशैकमानिना हेमनसा",
+    "n": 3,
+    "seq": 17,
+    "seqs": [
+     17
+    ],
+    "clip": "ymb_008_u03_padya_4b56e5",
+    "clips": [
+     "ymb_008_u03_padya_p01_cba99e",
+     "ymb_008_u03_padya_p02_d401d3"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "५०",
+    "start": 5025,
+    "end": 5129,
+    "padas": [
+     "यद्भक्तप्रवरेण प्रोतः स्वस्मिन् स कीचकः प्रवरेण",
+     "पतितास्तस्य सहायाः कृष्णार्थे मानिनः समस्य सहायाः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "यद्भक्तप्रवरेण प्रोतः स्वस्मिन् स कीचकः प्रवरेण पतितास्तस्य सहायाः कृष्णार्थे मानिनः समस्य सहायाः",
+    "n": 4,
+    "seq": 17,
+    "seqs": [
+     17
+    ],
+    "clip": "ymb_008_u04_padya_d03e17",
+    "clips": [
+     "ymb_008_u04_padya_p01_ac2abb",
+     "ymb_008_u04_padya_p02_39897e"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "५१",
+    "start": 5129,
+    "end": 5248,
+    "padas": [
+     "यद्भक्त्याऽनुगृहीतौ पार्थो भीमश्च गोनृपौ नु गृहीतौ",
+     "ऋणमुक्त्यै सुव्यत्यस्त्यै क्रमशो वीरावमुञ्चतां सुव्यत्यस्त्यै"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "यद्भक्त्याऽनुगृहीतौ पार्थो भीमश्च गोनृपौ नु गृहीतौ ऋणमुक्त्यै सुव्यत्यस्त्यै क्रमशो वीरावमुञ्चतां सुव्यत्यस्त्यै",
+    "n": 5,
+    "seq": 17,
+    "seqs": [
+     17
+    ],
+    "clip": "ymb_008_u05_padya_766116",
+    "clips": [
+     "ymb_008_u05_padya_p01_c8e7c8",
+     "ymb_008_u05_padya_p02_d32da4"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "५२",
+    "start": 5248,
+    "end": 5361,
+    "padas": [
+     "यद्भक्त्याऽमितयाऽलं कृष्णा कार्ये विवेश कृष्णाकार्ये",
+     "यामीरार्द्धतनुत्वान्नापाद् भीमादृतेऽपि नाऽपाद् भीमात्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "यद्भक्त्याऽमितयाऽलं कृष्णा कार्ये विवेश कृष्णाकार्ये यामीरार्द्धतनुत्वान्नापाद् भीमादृतेऽपि नाऽपाद् भीमात्",
+    "n": 6,
+    "seq": 17,
+    "seqs": [
+     17,
+     19
+    ],
+    "clip": "ymb_008_u06_padya_694c0c",
+    "clips": [
+     "ymb_008_u06_padya_p01_06acef",
+     "ymb_008_u06_padya_p02_4efdb9"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ymb_009",
+  "ref": null,
+  "seq": 19,
+  "kind": "sutra_block",
+  "adhyaya": "भारतकथानिर्णयः",
+  "pada": "श्रीकृष्णभक्तानां कथाः",
+  "adhikarana": "द्रौपदीकथा",
+  "est_sec": 37.5,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "ymb_009",
+    "from": 1,
+    "to": 3,
+    "seq": 19,
+    "covers": [
+     19,
+     22
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "ymb_009_u01_padya_p01_85429e",
+       "ymb_009_u01_padya_p02_7e4ca6"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "ymb_009_u02_padya_p01_43531a",
+       "ymb_009_u02_padya_p02_f94713"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 3,
+      "type": "padya",
+      "clips": [
+       "ymb_009_u03_padya_p01_c75b5e",
+       "ymb_009_u03_padya_p02_e3b8e0"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "ymb_009_u01_padya_p01_85429e",
+     "ymb_009_u01_padya_p02_7e4ca6",
+     "ymb_009_u02_padya_p01_43531a",
+     "ymb_009_u02_padya_p02_f94713",
+     "ymb_009_u03_padya_p01_c75b5e",
+     "ymb_009_u03_padya_p02_e3b8e0"
+    ],
+    "est_sec": 37.5,
+    "path": "yamaka_bharata/ymb_009.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "५३",
+    "start": 5361,
+    "end": 5485,
+    "padas": [
+     "यां स्प्रष्टुमिच्छन्तमजातशत्रुं न्यवारयत् स्वस्थमजातशत्रुम्",
+     "शंरूपाने नित्यरतेरियं श्रीरिति स्म देवेड् यदितेरियं-श्रीः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "यां स्प्रष्टुमिच्छन्तमजातशत्रुं न्यवारयत् स्वस्थमजातशत्रुम् शंरूपाने नित्यरतेरियं श्रीरिति स्म देवेड् यदितेरियं-श्रीः",
+    "n": 1,
+    "seq": 19,
+    "seqs": [
+     19
+    ],
+    "clip": "ymb_009_u01_padya_70bd72",
+    "clips": [
+     "ymb_009_u01_padya_p01_85429e",
+     "ymb_009_u01_padya_p02_7e4ca6"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "५४",
+    "start": 5485,
+    "end": 5582,
+    "padas": [
+     "मनसामनसाऽमनसा मनसा यमनन्तमजस्रमवेदनुया",
+     "विलयं विलयं विलयं विलयन्निखिलं त्वशुभं प्रचकार च यः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "मनसामनसाऽमनसा मनसा यमनन्तमजस्रमवेदनुया विलयं विलयं विलयं विलयन्निखिलं त्वशुभं प्रचकार च यः",
+    "n": 2,
+    "seq": 19,
+    "seqs": [
+     19
+    ],
+    "clip": "ymb_009_u02_padya_15a4a0",
+    "clips": [
+     "ymb_009_u02_padya_p01_43531a",
+     "ymb_009_u02_padya_p02_f94713"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "५५",
+    "start": 5582,
+    "end": 5688,
+    "padas": [
+     "सोऽगाद् दूतमुखेन प्रभुणेदं वर्तते यदूतमुखेन",
+     "पार्थार्थे बहुतनुतां यत्र प्राकाशयत् स्वयं सबहुतनुताम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "सोऽगाद् दूतमुखेन प्रभुणेदं वर्तते यदूतमुखेन पार्थार्थे बहुतनुतां यत्र प्राकाशयत् स्वयं सबहुतनुताम्",
+    "n": 3,
+    "seq": 19,
+    "seqs": [
+     19,
+     22
+    ],
+    "clip": "ymb_009_u03_padya_026ff5",
+    "clips": [
+     "ymb_009_u03_padya_p01_c75b5e",
+     "ymb_009_u03_padya_p02_e3b8e0"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ymb_010",
+  "ref": null,
+  "seq": 22,
+  "kind": "sutra_block",
+  "adhyaya": "भारतकथानिर्णयः",
+  "pada": "शिष्टाः कृष्णकथाः",
+  "adhikarana": "दुष्टशिक्षणम्",
+  "est_sec": 93.2,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "ymb_010",
+    "from": 1,
+    "to": 8,
+    "seq": 22,
+    "covers": [
+     22,
+     24
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "ymb_010_u01_padya_p01_189e93",
+       "ymb_010_u01_padya_p02_6e6748"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "ymb_010_u02_padya_p01_595250",
+       "ymb_010_u02_padya_p02_bf0599"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 3,
+      "type": "padya",
+      "clips": [
+       "ymb_010_u03_padya_p01_ba9baa",
+       "ymb_010_u03_padya_p02_34daaa"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 4,
+      "type": "padya",
+      "clips": [
+       "ymb_010_u04_padya_p01_27f33f",
+       "ymb_010_u04_padya_p02_2f4a70"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 5,
+      "type": "padya",
+      "clips": [
+       "ymb_010_u05_padya_p01_f2f6d7",
+       "ymb_010_u05_padya_p02_0e4891"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 6,
+      "type": "padya",
+      "clips": [
+       "ymb_010_u06_padya_p01_68d981",
+       "ymb_010_u06_padya_p02_41a62d"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 7,
+      "type": "padya",
+      "clips": [
+       "ymb_010_u07_padya_p01_b53ac2",
+       "ymb_010_u07_padya_p02_ac6d09"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 8,
+      "type": "padya",
+      "clips": [
+       "ymb_010_u08_padya_p01_9aa09b",
+       "ymb_010_u08_padya_p02_5c756a"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "ymb_010_u01_padya_p01_189e93",
+     "ymb_010_u01_padya_p02_6e6748",
+     "ymb_010_u02_padya_p01_595250",
+     "ymb_010_u02_padya_p02_bf0599",
+     "ymb_010_u03_padya_p01_ba9baa",
+     "ymb_010_u03_padya_p02_34daaa",
+     "ymb_010_u04_padya_p01_27f33f",
+     "ymb_010_u04_padya_p02_2f4a70",
+     "ymb_010_u05_padya_p01_f2f6d7",
+     "ymb_010_u05_padya_p02_0e4891",
+     "ymb_010_u06_padya_p01_68d981",
+     "ymb_010_u06_padya_p02_41a62d",
+     "ymb_010_u07_padya_p01_b53ac2",
+     "ymb_010_u07_padya_p02_ac6d09",
+     "ymb_010_u08_padya_p01_9aa09b",
+     "ymb_010_u08_padya_p02_5c756a"
+    ],
+    "est_sec": 93.2,
+    "path": "yamaka_bharata/ymb_010.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "५६",
+    "start": 5688,
+    "end": 5790,
+    "padas": [
+     "गुरुकर्णनदीजादीनवधीच्चक्षुर्बलेन जनदीजादीन्",
+     "शक्त्या निजया परवान् स्वजनानुद्रेचयन्ननन्तयाऽपरवान्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "गुरुकर्णनदीजादीनवधीच्चक्षुर्बलेन जनदीजादीन् शक्त्या निजया परवान् स्वजनानुद्रेचयन्ननन्तयाऽपरवान्",
+    "n": 1,
+    "seq": 22,
+    "seqs": [
+     22
+    ],
+    "clip": "ymb_010_u01_padya_b42790",
+    "clips": [
+     "ymb_010_u01_padya_p01_189e93",
+     "ymb_010_u01_padya_p02_6e6748"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "५७",
+    "start": 5790,
+    "end": 5892,
+    "padas": [
+     "यस्य सुनीतिसहायान्न रिपून् मेनेऽर्जुनः समेतसहा यान्",
+     "अकरोच्चासु परासुप्रततिं सेनासु धावनासुपरासु"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "यस्य सुनीतिसहायान्न रिपून् मेनेऽर्जुनः समेतसहा यान् अकरोच्चासु परासुप्रततिं सेनासु धावनासुपरासु",
+    "n": 2,
+    "seq": 22,
+    "seqs": [
+     22
+    ],
+    "clip": "ymb_010_u02_padya_b2e586",
+    "clips": [
+     "ymb_010_u02_padya_p01_595250",
+     "ymb_010_u02_padya_p02_bf0599"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "५८",
+    "start": 5892,
+    "end": 5990,
+    "padas": [
+     "येन जयद्रथमारः पार्थः शत्रूनवापतद् रथमारः",
+     "यद्विरहादपि देहे स रथः शश्वत् स्थितेः सदादपि देहे"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "येन जयद्रथमारः पार्थः शत्रूनवापतद् रथमारः यद्विरहादपि देहे स रथः शश्वत् स्थितेः सदादपि देहे",
+    "n": 3,
+    "seq": 22,
+    "seqs": [
+     22
+    ],
+    "clip": "ymb_010_u03_padya_ec2050",
+    "clips": [
+     "ymb_010_u03_padya_p01_ba9baa",
+     "ymb_010_u03_padya_p02_34daaa"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "५९",
+    "start": 5990,
+    "end": 6082,
+    "padas": [
+     "यद्भरितो भरताभः प्रभुरम्भाभावितोऽभिभरताभः",
+     "भीमो रभसाऽभिभवी प्रसभं भाभाभिभूर्भासा भिभवी"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "यद्भरितो भरताभः प्रभुरम्भाभावितोऽभिभरताभः भीमो रभसाऽभिभवी प्रसभं भाभाभिभूर्भासा भिभवी",
+    "n": 4,
+    "seq": 22,
+    "seqs": [
+     22
+    ],
+    "clip": "ymb_010_u04_padya_b1d68e",
+    "clips": [
+     "ymb_010_u04_padya_p01_27f33f",
+     "ymb_010_u04_padya_p02_2f4a70"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "६०",
+    "start": 6082,
+    "end": 6183,
+    "padas": [
+     "यदनुग्रहपूर्णत्वाद् भीमः सर्वानरीननहिपूर्णत्वाऽत्",
+     "अदहद् बाहुबलेन क्रोधाग्नावाहितान् निजाहुबलेन"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "यदनुग्रहपूर्णत्वाद् भीमः सर्वानरीननहिपूर्णत्वाऽत् अदहद् बाहुबलेन क्रोधाग्नावाहितान् निजाहुबलेन",
+    "n": 5,
+    "seq": 22,
+    "seqs": [
+     22
+    ],
+    "clip": "ymb_010_u05_padya_108bda",
+    "clips": [
+     "ymb_010_u05_padya_p01_f2f6d7",
+     "ymb_010_u05_padya_p02_0e4891"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "६१",
+    "start": 6183,
+    "end": 6290,
+    "padas": [
+     "कृष्णाभीमाप्ततमः क्षीणं येन स्वकीयहृदयमाप्ततमः",
+     "धृतराष्ट्रसुतानवधीद् भीमेन स्थापितो मनसि सुसुतानवधीत्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "कृष्णाभीमाप्ततमः क्षीणं येन स्वकीयहृदयमाप्ततमः धृतराष्ट्रसुतानवधीद् भीमेन स्थापितो मनसि सुसुतानवधीत्",
+    "n": 6,
+    "seq": 22,
+    "seqs": [
+     22
+    ],
+    "clip": "ymb_010_u06_padya_d1c03e",
+    "clips": [
+     "ymb_010_u06_padya_p01_68d981",
+     "ymb_010_u06_padya_p02_41a62d"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "६२",
+    "start": 6290,
+    "end": 6386,
+    "padas": [
+     "भीमविपाटितदेहानदर्शयत् स्वानरीन् विपाटितदेहान्",
+     "कृष्णाया हितकारी सम्यगीरप्रियः सदाऽहितकारी"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "भीमविपाटितदेहानदर्शयत् स्वानरीन् विपाटितदेहान् कृष्णाया हितकारी सम्यगीरप्रियः सदाऽहितकारी",
+    "n": 7,
+    "seq": 22,
+    "seqs": [
+     22
+    ],
+    "clip": "ymb_010_u07_padya_a04fcf",
+    "clips": [
+     "ymb_010_u07_padya_p01_b53ac2",
+     "ymb_010_u07_padya_p02_ac6d09"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "६३",
+    "start": 6386,
+    "end": 6481,
+    "padas": [
+     "अथ हरिणा पीतबलं द्रौणेरस्त्रं महारिणाऽपीतबलम्",
+     "दधता वासोमरणं नीतं चक्रेऽभिमन्युजं सोमरणम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "अथ हरिणा पीतबलं द्रौणेरस्त्रं महारिणाऽपीतबलम् दधता वासोमरणं नीतं चक्रेऽभिमन्युजं सोमरणम्",
+    "n": 8,
+    "seq": 22,
+    "seqs": [
+     22,
+     24
+    ],
+    "clip": "ymb_010_u08_padya_5bd1c8",
+    "clips": [
+     "ymb_010_u08_padya_p01_9aa09b",
+     "ymb_010_u08_padya_p02_5c756a"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ymb_011",
+  "ref": null,
+  "seq": 24,
+  "kind": "sutra_block",
+  "adhyaya": "भारतकथानिर्णयः",
+  "pada": "शिष्टाः कृष्णकथाः",
+  "adhikarana": "शिष्टरक्षणम्",
+  "est_sec": 58.3,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "ymb_011",
+    "from": 1,
+    "to": 5,
+    "seq": 24,
+    "covers": [
+     24,
+     26
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "ymb_011_u01_padya_p01_6522ef",
+       "ymb_011_u01_padya_p02_017904"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "ymb_011_u02_padya_p01_5a960f",
+       "ymb_011_u02_padya_p02_244597"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 3,
+      "type": "padya",
+      "clips": [
+       "ymb_011_u03_padya_p01_75e74d",
+       "ymb_011_u03_padya_p02_6bcf64"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 4,
+      "type": "padya",
+      "clips": [
+       "ymb_011_u04_padya_p01_e982d7",
+       "ymb_011_u04_padya_p02_32ce09"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 5,
+      "type": "padya",
+      "clips": [
+       "ymb_011_u05_padya_p01_bae91b",
+       "ymb_011_u05_padya_p02_be86ec"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "ymb_011_u01_padya_p01_6522ef",
+     "ymb_011_u01_padya_p02_017904",
+     "ymb_011_u02_padya_p01_5a960f",
+     "ymb_011_u02_padya_p02_244597",
+     "ymb_011_u03_padya_p01_75e74d",
+     "ymb_011_u03_padya_p02_6bcf64",
+     "ymb_011_u04_padya_p01_e982d7",
+     "ymb_011_u04_padya_p02_32ce09",
+     "ymb_011_u05_padya_p01_bae91b",
+     "ymb_011_u05_padya_p02_be86ec"
+    ],
+    "est_sec": 58.3,
+    "path": "yamaka_bharata/ymb_011.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "६४",
+    "start": 6481,
+    "end": 6584,
+    "padas": [
+     "तस्य च रक्षा सुकृता जनार्दनेनेशशेषकेक्षासुकृता",
+     "पार्थेषु प्रेमवता नित्यं भर्त्राऽसुतासुविप्रेमवता"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "तस्य च रक्षा सुकृता जनार्दनेनेशशेषकेक्षासुकृता पार्थेषु प्रेमवता नित्यं भर्त्राऽसुतासुविप्रेमवता",
+    "n": 1,
+    "seq": 24,
+    "seqs": [
+     24
+    ],
+    "clip": "ymb_011_u01_padya_800282",
+    "clips": [
+     "ymb_011_u01_padya_p01_6522ef",
+     "ymb_011_u01_padya_p02_017904"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "६५",
+    "start": 6584,
+    "end": 6696,
+    "padas": [
+     "ज्ञानं परमं प्रादाद् भीष्मगतः सृतिविमोक्षचरमं प्रादात्",
+     "पाण्डुसुतानामधिकं चक्रे वेदं गुणोत्तरं स्वनामधिकम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "ज्ञानं परमं प्रादाद् भीष्मगतः सृतिविमोक्षचरमं प्रादात् पाण्डुसुतानामधिकं चक्रे वेदं गुणोत्तरं स्वनामधिकम्",
+    "n": 2,
+    "seq": 24,
+    "seqs": [
+     24
+    ],
+    "clip": "ymb_011_u02_padya_9d2b4f",
+    "clips": [
+     "ymb_011_u02_padya_p01_5a960f",
+     "ymb_011_u02_padya_p02_244597"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "६६",
+    "start": 6696,
+    "end": 6801,
+    "padas": [
+     "तेनावापि सुजातैर्हरिमेधस्तुरगवर्तनेऽपि सुजातैः",
+     "पाण्डुसुतैः सवसूकैः प्राप्तैर्व्यासात्मना सुसवसूकैः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "तेनावापि सुजातैर्हरिमेधस्तुरगवर्तनेऽपि सुजातैः पाण्डुसुतैः सवसूकैः प्राप्तैर्व्यासात्मना सुसवसूकैः",
+    "n": 3,
+    "seq": 24,
+    "seqs": [
+     24
+    ],
+    "clip": "ymb_011_u03_padya_bb8fbf",
+    "clips": [
+     "ymb_011_u03_padya_p01_75e74d",
+     "ymb_011_u03_padya_p02_6bcf64"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "६७",
+    "start": 6801,
+    "end": 6906,
+    "padas": [
+     "तदनु स पाण्डुतनूजै रेमे क्ष्मां पालयन् सुपाण्डुतनुजैः",
+     "अनुपमसुखरूपोऽजः परमः श्रीवल्लभः सति खरूपो जः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "तदनु स पाण्डुतनूजै रेमे क्ष्मां पालयन् सुपाण्डुतनुजैः अनुपमसुखरूपोऽजः परमः श्रीवल्लभः सति खरूपो जः",
+    "n": 4,
+    "seq": 24,
+    "seqs": [
+     24
+    ],
+    "clip": "ymb_011_u04_padya_a2df46",
+    "clips": [
+     "ymb_011_u04_padya_p01_e982d7",
+     "ymb_011_u04_padya_p02_32ce09"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "६८",
+    "start": 6906,
+    "end": 7015,
+    "padas": [
+     "सुगतिं चरमामददान्निजयोग्यां ज्ञानिसुततिं परमामददात्",
+     "पार्थानां सयदूनां स पितृप्रेष्यादिनामिनां सयदूनाम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "सुगतिं चरमामददान्निजयोग्यां ज्ञानिसुततिं परमामददात् पार्थानां सयदूनां स पितृप्रेष्यादिनामिनां सयदूनाम्",
+    "n": 5,
+    "seq": 24,
+    "seqs": [
+     24,
+     26
+    ],
+    "clip": "ymb_011_u05_padya_d893a2",
+    "clips": [
+     "ymb_011_u05_padya_p01_bae91b",
+     "ymb_011_u05_padya_p02_be86ec"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ymb_012",
+  "ref": null,
+  "seq": 26,
+  "kind": "sutra_block",
+  "adhyaya": "भारतकथानिर्णयः",
+  "pada": "शिष्टाः कृष्णकथाः",
+  "adhikarana": "कृष्णावतारोपसंहारः",
+  "est_sec": 21.5,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "ymb_012",
+    "from": 1,
+    "to": 2,
+    "seq": 26,
+    "covers": [
+     26,
+     29
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "ymb_012_u01_padya_p01_596c82",
+       "ymb_012_u01_padya_p02_d9f420"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "ymb_012_u02_padya_p01_b0f55b",
+       "ymb_012_u02_padya_p02_9571f0"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "ymb_012_u01_padya_p01_596c82",
+     "ymb_012_u01_padya_p02_d9f420",
+     "ymb_012_u02_padya_p01_b0f55b",
+     "ymb_012_u02_padya_p02_9571f0"
+    ],
+    "est_sec": 21.5,
+    "path": "yamaka_bharata/ymb_012.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "६९",
+    "start": 7015,
+    "end": 7118,
+    "padas": [
+     "रेमे तत्रापिसुखी परमोऽनन्तो ननन्द तत्रापि सुखी",
+     "प्राणेनेन्दिरया च प्रयुतो नित्यं महागुणेन्दिरया च"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "रेमे तत्रापिसुखी परमोऽनन्तो ननन्द तत्रापि सुखी प्राणेनेन्दिरया च प्रयुतो नित्यं महागुणेन्दिरया च",
+    "n": 1,
+    "seq": 26,
+    "seqs": [
+     26
+    ],
+    "clip": "ymb_012_u01_padya_b66b34",
+    "clips": [
+     "ymb_012_u01_padya_p01_596c82",
+     "ymb_012_u01_padya_p02_d9f420"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "७०",
+    "start": 7118,
+    "end": 7221,
+    "padas": [
+     "एवं सर्वाणि हरे रूपाणि श्रीपतेः सुपर्वाणिहरेः",
+     "पूर्णसुखानि सुभान्ति प्रततानि निरन्तराणि सुभान्ति"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "एवं सर्वाणि हरे रूपाणि श्रीपतेः सुपर्वाणिहरेः पूर्णसुखानि सुभान्ति प्रततानि निरन्तराणि सुभान्ति",
+    "n": 2,
+    "seq": 26,
+    "seqs": [
+     26,
+     29
+    ],
+    "clip": "ymb_012_u02_padya_cdbace",
+    "clips": [
+     "ymb_012_u02_padya_p01_b0f55b",
+     "ymb_012_u02_padya_p02_9571f0"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ymb_013",
+  "ref": null,
+  "seq": 29,
+  "kind": "sutra_block",
+  "adhyaya": "अन्यभगवद्रूपाणां स्तुतिः",
+  "pada": "मत्स्यादिस्तुतिः",
+  "adhikarana": null,
+  "est_sec": 7.0,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "ymb_013",
+    "from": 1,
+    "to": 1,
+    "seq": 29,
+    "covers": [
+     29,
+     31
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "ymb_013_u01_padya_p01_1889c8",
+       "ymb_013_u01_padya_p02_47c649"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "ymb_013_u01_padya_p01_1889c8",
+     "ymb_013_u01_padya_p02_47c649"
+    ],
+    "est_sec": 7.0,
+    "path": "yamaka_bharata/ymb_013.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "७१",
+    "start": 7221,
+    "end": 7294,
+    "padas": [
+     "राम राम महाबाहो माया ते सुदुरासदा",
+     "वादसादद को लोके पादावेव तवासजेत्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "राम राम महाबाहो माया ते सुदुरासदा वादसादद को लोके पादावेव तवासजेत्",
+    "n": 1,
+    "seq": 29,
+    "seqs": [
+     29,
+     31
+    ],
+    "clip": "ymb_013_u01_padya_16d414",
+    "clips": [
+     "ymb_013_u01_padya_p01_1889c8",
+     "ymb_013_u01_padya_p02_47c649"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ymb_014",
+  "ref": null,
+  "seq": 31,
+  "kind": "sutra_block",
+  "adhyaya": "अन्यभगवद्रूपाणां स्तुतिः",
+  "pada": "रामस्तुतिः",
+  "adhikarana": null,
+  "est_sec": 15.6,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "ymb_014",
+    "from": 1,
+    "to": 2,
+    "seq": 31,
+    "covers": [
+     31,
+     33
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "ymb_014_u01_padya_p01_5b631c",
+       "ymb_014_u01_padya_p02_6b5541"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "ymb_014_u02_padya_p01_0c9b0d",
+       "ymb_014_u02_padya_p02_e0f927"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "ymb_014_u01_padya_p01_5b631c",
+     "ymb_014_u01_padya_p02_6b5541",
+     "ymb_014_u02_padya_p01_0c9b0d",
+     "ymb_014_u02_padya_p02_e0f927"
+    ],
+    "est_sec": 15.6,
+    "path": "yamaka_bharata/ymb_014.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "७२",
+    "start": 7294,
+    "end": 7365,
+    "padas": [
+     "जेत् सवातव वेदापाके लोकोदद सादवा",
+     "दासरादुसुतेयामाहोबाहा मम राम रा"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "जेत् सवातव वेदापाके लोकोदद सादवा दासरादुसुतेयामाहोबाहा मम राम रा",
+    "n": 1,
+    "seq": 31,
+    "seqs": [
+     31
+    ],
+    "clip": "ymb_014_u01_padya_f0559b",
+    "clips": [
+     "ymb_014_u01_padya_p01_5b631c",
+     "ymb_014_u01_padya_p02_6b5541"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "७३",
+    "start": 7365,
+    "end": 7442,
+    "padas": [
+     "देवानां पतयो नित्यं मतं यस्य न जानते",
+     "तस्मै देव नमस्येऽहं भवते सुरमारये"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "देवानां पतयो नित्यं मतं यस्य न जानते तस्मै देव नमस्येऽहं भवते सुरमारये",
+    "n": 2,
+    "seq": 31,
+    "seqs": [
+     31,
+     33
+    ],
+    "clip": "ymb_014_u02_padya_904d0e",
+    "clips": [
+     "ymb_014_u02_padya_p01_0c9b0d",
+     "ymb_014_u02_padya_p02_e0f927"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ymb_015",
+  "ref": null,
+  "seq": 33,
+  "kind": "sutra_block",
+  "adhyaya": "अन्यभगवद्रूपाणां स्तुतिः",
+  "pada": "बुद्धस्तुतिः",
+  "adhikarana": null,
+  "est_sec": 7.8,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "ymb_015",
+    "from": 1,
+    "to": 1,
+    "seq": 33,
+    "covers": [
+     33,
+     35
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "ymb_015_u01_padya_p01_15f931",
+       "ymb_015_u01_padya_p02_3f4ccb"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "ymb_015_u01_padya_p01_15f931",
+     "ymb_015_u01_padya_p02_3f4ccb"
+    ],
+    "est_sec": 7.8,
+    "path": "yamaka_bharata/ymb_015.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "७४",
+    "start": 7442,
+    "end": 7512,
+    "padas": [
+     "समस्तदेवजनकवासुदेवपरामृत",
+     "वासुदेव परामृत ज्ञानमूर्ते नमोऽस्तु ते"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "समस्तदेवजनकवासुदेवपरामृत वासुदेव परामृत ज्ञानमूर्ते नमोऽस्तु ते",
+    "n": 1,
+    "seq": 33,
+    "seqs": [
+     33,
+     35
+    ],
+    "clip": "ymb_015_u01_padya_8567e0",
+    "clips": [
+     "ymb_015_u01_padya_p01_15f931",
+     "ymb_015_u01_padya_p02_3f4ccb"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ymb_016",
+  "ref": null,
+  "seq": 35,
+  "kind": "sutra_block",
+  "adhyaya": "अन्यभगवद्रूपाणां स्तुतिः",
+  "pada": "वासुदेव-कल्कि-स्तुतिः",
+  "adhikarana": null,
+  "est_sec": 22.1,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "ymb_016",
+    "from": 1,
+    "to": 2,
+    "seq": 35,
+    "covers": [
+     35,
+     37
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "ymb_016_u01_padya_p01_95ca9e",
+       "ymb_016_u01_padya_p02_85d11a"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "ymb_016_u02_padya_p01_2bdea2",
+       "ymb_016_u02_padya_p02_e97814"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "ymb_016_u01_padya_p01_95ca9e",
+     "ymb_016_u01_padya_p02_85d11a",
+     "ymb_016_u02_padya_p01_2bdea2",
+     "ymb_016_u02_padya_p02_e97814"
+    ],
+    "est_sec": 22.1,
+    "path": "yamaka_bharata/ymb_016.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "७५",
+    "start": 7512,
+    "end": 7585,
+    "padas": [
+     "देवादे देवलोकप पूर्णानन्दमहोदधे",
+     "सर्वज्ञेश रमानाथ देवाऽदेऽदेऽव लोकप"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "देवादे देवलोकप पूर्णानन्दमहोदधे सर्वज्ञेश रमानाथ देवाऽदेऽदेऽव लोकप",
+    "n": 1,
+    "seq": 35,
+    "seqs": [
+     35
+    ],
+    "clip": "ymb_016_u01_padya_6c08a5",
+    "clips": [
+     "ymb_016_u01_padya_p01_95ca9e",
+     "ymb_016_u01_padya_p02_85d11a"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "७६",
+    "start": 7585,
+    "end": 7708,
+    "padas": [
+     "यो निर्ममेऽशेषपुराणविद्द्यां यो निर्ममेशे षपुराणविद्द्याम्",
+     "योनिर्ममेशेषपुराऽणविद् यां योऽनिर्ममेऽशेषपुराणविद् द्याम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "indravajra",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "यो निर्ममेऽशेषपुराणविद्द्यां यो निर्ममेशे षपुराणविद्द्याम् योनिर्ममेशेषपुराऽणविद् यां योऽनिर्ममेऽशेषपुराणविद् द्याम्",
+    "n": 2,
+    "seq": 35,
+    "seqs": [
+     35,
+     37
+    ],
+    "clip": "ymb_016_u02_padya_75ffbd",
+    "clips": [
+     "ymb_016_u02_padya_p01_2bdea2",
+     "ymb_016_u02_padya_p02_e97814"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ymb_017",
+  "ref": null,
+  "seq": 37,
+  "kind": "sutra_block",
+  "adhyaya": "अन्यभगवद्रूपाणां स्तुतिः",
+  "pada": "व्यासस्तुतिः",
+  "adhikarana": null,
+  "est_sec": 11.1,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "ymb_017",
+    "from": 1,
+    "to": 1,
+    "seq": 37,
+    "covers": [
+     37,
+     39
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "ymb_017_u01_padya_p01_57424a",
+       "ymb_017_u01_padya_p02_839d20"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "ymb_017_u01_padya_p01_57424a",
+     "ymb_017_u01_padya_p02_839d20"
+    ],
+    "est_sec": 11.1,
+    "path": "yamaka_bharata/ymb_017.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "७७",
+    "start": 7708,
+    "end": 7801,
+    "padas": [
+     "अनन्तपारामितविक्रमेश प्रभो रमापारमनन्तपार",
+     "महागुणाढ्यापरिमेयसत्त्व रमालयाशेषमहा-गुणाढ्य"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "upendravajra",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "अनन्तपारामितविक्रमेश प्रभो रमापारमनन्तपार महागुणाढ्यापरिमेयसत्त्व रमालयाशेषमहा-गुणाढ्य",
+    "n": 1,
+    "seq": 37,
+    "seqs": [
+     37,
+     39
+    ],
+    "clip": "ymb_017_u01_padya_6f5b21",
+    "clips": [
+     "ymb_017_u01_padya_p01_57424a",
+     "ymb_017_u01_padya_p02_839d20"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ymb_018",
+  "ref": null,
+  "seq": 39,
+  "kind": "sutra_block",
+  "adhyaya": "अन्यभगवद्रूपाणां स्तुतिः",
+  "pada": "सामान्यतः स्तुतिः",
+  "adhikarana": null,
+  "est_sec": 5.9,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "ymb_018",
+    "from": 1,
+    "to": 1,
+    "seq": 39,
+    "covers": [
+     39,
+     41
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "ymb_018_u01_padya_p01_2aa07a",
+       "ymb_018_u01_padya_p02_2aa07a"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "ymb_018_u01_padya_p01_2aa07a",
+     "ymb_018_u01_padya_p02_2aa07a"
+    ],
+    "est_sec": 5.9,
+    "path": "yamaka_bharata/ymb_018.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "७८",
+    "start": 7801,
+    "end": 7891,
+    "padas": [
+     "भा भा भा भा भा भा भा भा भा भा भा भा भा भा",
+     "भा भा भा भा भा भा भा भा भा भा भा भा भा भा"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "भा भा भा भा भा भा भा भा भा भा भा भा भा भा भा भा भा भा भा भा भा भा भा भा भा भा भा भा",
+    "n": 1,
+    "seq": 39,
+    "seqs": [
+     39,
+     41
+    ],
+    "clip": "ymb_018_u01_padya_13621d",
+    "clips": [
+     "ymb_018_u01_padya_p01_2aa07a",
+     "ymb_018_u01_padya_p02_2aa07a"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ymb_019",
+  "ref": null,
+  "seq": 41,
+  "kind": "sutra_block",
+  "adhyaya": "भगवतः सर्ववर्णप्रतिपाद्यत्वसूचनम्",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 10.7,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "ymb_019",
+    "from": 1,
+    "to": 1,
+    "seq": 41,
+    "covers": [
+     41,
+     43
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "ymb_019_u01_padya_p01_82e9f2",
+       "ymb_019_u01_padya_p02_67d108"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "ymb_019_u01_padya_p01_82e9f2",
+     "ymb_019_u01_padya_p02_67d108"
+    ],
+    "est_sec": 10.7,
+    "path": "yamaka_bharata/ymb_019.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "७९",
+    "start": 7891,
+    "end": 7984,
+    "padas": [
+     "नैव परः केशवतः परमादस्मात् समश्च सुकेशवतः",
+     "सोऽयं शपथवरो नः शश्वत् सन्धारितः सुशपथवरोऽनः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "नैव परः केशवतः परमादस्मात् समश्च सुकेशवतः सोऽयं शपथवरो नः शश्वत् सन्धारितः सुशपथवरोऽनः",
+    "n": 1,
+    "seq": 41,
+    "seqs": [
+     41,
+     43
+    ],
+    "clip": "ymb_019_u01_padya_b565bb",
+    "clips": [
+     "ymb_019_u01_padya_p01_82e9f2",
+     "ymb_019_u01_padya_p02_67d108"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ymb_020",
+  "ref": null,
+  "seq": 43,
+  "kind": "sutra_block",
+  "adhyaya": "उपसंहारः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 30.6,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "ymb_020",
+    "from": 1,
+    "to": 3,
+    "seq": 43,
+    "covers": [
+     43,
+     44
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "ymb_020_u01_padya_p01_368641",
+       "ymb_020_u01_padya_p02_dac19d"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "ymb_020_u02_padya_p01_4b53c2",
+       "ymb_020_u02_padya_p02_be37ea"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 3,
+      "type": "padya",
+      "clips": [
+       "ymb_020_u03_padya_p01_1bed56"
+      ],
+      "bounds": [
+       "hard"
+      ],
+      "gapafter": [
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "ymb_020_u01_padya_p01_368641",
+     "ymb_020_u01_padya_p02_dac19d",
+     "ymb_020_u02_padya_p01_4b53c2",
+     "ymb_020_u02_padya_p02_be37ea",
+     "ymb_020_u03_padya_p01_1bed56"
+    ],
+    "est_sec": 30.6,
+    "path": "yamaka_bharata/ymb_020.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "८०",
+    "start": 7984,
+    "end": 8083,
+    "padas": [
+     "कृष्णकथेयं यमिता सुखतीर्थेनोदिताऽनने यं-यमिता",
+     "भक्तिमता परमेशे सर्वोद्रेकात् सदानुताऽऽप रमेशे"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "कृष्णकथेयं यमिता सुखतीर्थेनोदिताऽनने यं-यमिता भक्तिमता परमेशे सर्वोद्रेकात् सदानुताऽऽप रमेशे",
+    "n": 1,
+    "seq": 43,
+    "seqs": [
+     43
+    ],
+    "clip": "ymb_020_u01_padya_4c6c27",
+    "clips": [
+     "ymb_020_u01_padya_p01_368641",
+     "ymb_020_u01_padya_p02_dac19d"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "८१",
+    "start": 8083,
+    "end": 8186,
+    "padas": [
+     "इति नारायणनामा सुखतीर्थसुपूजितः सुरायण-ना मा",
+     "पूर्ण गुणैर्धिक पूर्णज्ञानेच्छाभक्तिभिः स्वधिकपूर्ण"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "इति नारायणनामा सुखतीर्थसुपूजितः सुरायण-ना मा पूर्ण गुणैर्धिक पूर्णज्ञानेच्छाभक्तिभिः स्वधिकपूर्ण",
+    "n": 2,
+    "seq": 43,
+    "seqs": [
+     43
+    ],
+    "clip": "ymb_020_u02_padya_f3a188",
+    "clips": [
+     "ymb_020_u02_padya_p01_4b53c2",
+     "ymb_020_u02_padya_p02_be37ea"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": null,
+    "start": 8186,
+    "end": 8252,
+    "padas": [
+     "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं यमकभारतं सम्पूर्णम्"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "gapafter": [
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं यमकभारतं सम्पूर्णम्",
+    "n": 3,
+    "seq": 43,
+    "seqs": [
+     43,
+     44
+    ],
+    "clip": "ymb_020_u03_padya_1bed56",
+    "clips": [
+     "ymb_020_u03_padya_p01_1bed56"
+    ]
+   }
+  ]
+ }
+]

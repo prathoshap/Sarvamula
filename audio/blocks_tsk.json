@@ -1,0 +1,741 @@
+[
+ {
+  "id": "tsk_seq2",
+  "ref": null,
+  "seq": 2,
+  "kind": "prose_only",
+  "adhyaya": "तत्त्वस्य सामान्यविभागोद्देशौ",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 5.3,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "tsk_seq2",
+    "from": 1,
+    "to": 1,
+    "seq": 2,
+    "covers": [
+     2
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "tsk_seq2_u01_gadya_p01_d80bcb"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "tsk_seq2_u01_gadya_p01_d80bcb"
+    ],
+    "est_sec": 5.3,
+    "path": "tatva_sankhyana/misc/tsk_seq2.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "padas": [
+     "स्वतन्त्रमस्वतन्त्रं च द्विविधं तत्त्वमिष्यते"
+    ],
+    "text": "स्वतन्त्रमस्वतन्त्रं च द्विविधं तत्त्वमिष्यते",
+    "opens_pranava": false,
+    "raw": "स्वतन्त्रमस्वतन्त्रं च द्विविधं तत्त्वमिष्यते",
+    "bounds": [
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "tsk_seq2_u01_gadya_d80bcb",
+    "clips": [
+     "tsk_seq2_u01_gadya_p01_d80bcb"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tsk_seq4",
+  "ref": null,
+  "seq": 4,
+  "kind": "prose_only",
+  "adhyaya": "स्वतन्त्रतत्त्वनिर्देशः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 2.5,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "tsk_seq4",
+    "from": 1,
+    "to": 1,
+    "seq": 4,
+    "covers": [
+     4
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "tsk_seq4_u01_gadya_p01_7b9d9d"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "tsk_seq4_u01_gadya_p01_7b9d9d"
+    ],
+    "est_sec": 2.5,
+    "path": "tatva_sankhyana/misc/tsk_seq4.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "text": "स्वतन्त्रो भगवान् विष्णुः",
+    "padas": [
+     "स्वतन्त्रो भगवान् विष्णुः"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "स्वतन्त्रो भगवान् विष्णुः",
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "tsk_seq4_u01_gadya_7b9d9d",
+    "clips": [
+     "tsk_seq4_u01_gadya_p01_7b9d9d"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tsk_seq6",
+  "ref": null,
+  "seq": 6,
+  "kind": "prose_only",
+  "adhyaya": "अस्वतन्त्रतत्त्वविभागनिर्देशौ",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 1.8,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "tsk_seq6",
+    "from": 1,
+    "to": 1,
+    "seq": 6,
+    "covers": [
+     6
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "tsk_seq6_u01_gadya_p01_909750"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "tsk_seq6_u01_gadya_p01_909750"
+    ],
+    "est_sec": 1.8,
+    "path": "tatva_sankhyana/misc/tsk_seq6.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "padas": [
+     "भावाभावौ द्विधेतरत्‌"
+    ],
+    "text": "भावाभावौ द्विधेतरत्‌",
+    "opens_pranava": false,
+    "raw": "भावाभावौ द्विधेतरत्‌",
+    "bounds": [
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "tsk_seq6_u01_gadya_909750",
+    "clips": [
+     "tsk_seq6_u01_gadya_p01_909750"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tsk_seq8",
+  "ref": null,
+  "seq": 8,
+  "kind": "prose_only",
+  "adhyaya": "अभावविभागनिर्देशौ",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 4.8,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "tsk_seq8",
+    "from": 1,
+    "to": 1,
+    "seq": 8,
+    "covers": [
+     8
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "tsk_seq8_u01_gadya_p01_3668ad"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "tsk_seq8_u01_gadya_p01_3668ad"
+    ],
+    "est_sec": 4.8,
+    "path": "tatva_sankhyana/misc/tsk_seq8.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "text": "प्राक्प्रध्वंससदात्वेन त्रिविधोऽभाव इष्यते",
+    "padas": [
+     "प्राक्प्रध्वंससदात्वेन त्रिविधोऽभाव इष्यते"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "प्राक्प्रध्वंससदात्वेन त्रिविधोऽभाव इष्यते।",
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "tsk_seq8_u01_gadya_3668ad",
+    "clips": [
+     "tsk_seq8_u01_gadya_p01_3668ad"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tsk_seq10",
+  "ref": null,
+  "seq": 10,
+  "kind": "prose_only",
+  "adhyaya": "भावविभागनिर्देशौ",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 3.8,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "tsk_seq10",
+    "from": 1,
+    "to": 1,
+    "seq": 10,
+    "covers": [
+     10
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "tsk_seq10_u01_gadya_p01_025fdf"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "tsk_seq10_u01_gadya_p01_025fdf"
+    ],
+    "est_sec": 3.8,
+    "path": "tatva_sankhyana/misc/tsk_seq10.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "padas": [
+     "चेतनाचेतनत्वेन भावोऽपि द्विविधो मतः"
+    ],
+    "text": "चेतनाचेतनत्वेन भावोऽपि द्विविधो मतः",
+    "opens_pranava": false,
+    "raw": "चेतनाचेतनत्वेन भावोऽपि द्विविधो मतः",
+    "bounds": [
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "tsk_seq10_u01_gadya_025fdf",
+    "clips": [
+     "tsk_seq10_u01_gadya_p01_025fdf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tsk_seq12",
+  "ref": null,
+  "seq": 12,
+  "kind": "prose_only",
+  "adhyaya": "चेतनविभागादि",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 43.0,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "tsk_seq12",
+    "from": 1,
+    "to": 1,
+    "seq": 12,
+    "covers": [
+     12
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "tsk_seq12_u01_padya_p01_b45f7c",
+       "tsk_seq12_u01_padya_p02_c677d5",
+       "tsk_seq12_u01_padya_p03_f3ee76",
+       "tsk_seq12_u01_padya_p04_f01579",
+       "tsk_seq12_u01_padya_p05_cf2549",
+       "tsk_seq12_u01_padya_p06_053329",
+       "tsk_seq12_u01_padya_p07_a61bff",
+       "tsk_seq12_u01_padya_p08_e67855",
+       "tsk_seq12_u01_padya_p09_9cdc95"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "tsk_seq12_u01_padya_p01_b45f7c",
+     "tsk_seq12_u01_padya_p02_c677d5",
+     "tsk_seq12_u01_padya_p03_f3ee76",
+     "tsk_seq12_u01_padya_p04_f01579",
+     "tsk_seq12_u01_padya_p05_cf2549",
+     "tsk_seq12_u01_padya_p06_053329",
+     "tsk_seq12_u01_padya_p07_a61bff",
+     "tsk_seq12_u01_padya_p08_e67855",
+     "tsk_seq12_u01_padya_p09_9cdc95"
+    ],
+    "est_sec": 43.0,
+    "path": "tatva_sankhyana/misc/tsk_seq12.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "padas": [
+     "दुःखस्पृष्टं तदस्पृष्टमिति द्वेधैव चेतनम्",
+     "नित्यादुःखा रमाऽन्ये तु स्पृष्टदुःखाः समस्तशः",
+     "स्पृष्टदुःखा विमुक्ताश्च दुःखसंस्था इति द्विधा",
+     "दुःखसंस्था मुक्तियोग्या अयोग्या इति च द्विधा",
+     "देवर्षिपितृपनरा इति मुक्तास्तु पञ्चधा",
+     "एवं विमुक्तियोग्याश्च तमोगाः सृतिसंस्थिताः",
+     "इति द्विधा मुक्त्ययोग्या दैत्यरक्षःपिशाचकाः",
+     "मर्त्याधमाश्चतुर्धैव तमोयोग्याः प्रकीर्तिताः",
+     "ते च प्राप्तान्धतमसः सृतिसंस्था इति द्विधा"
+    ],
+    "text": "दुःखस्पृष्टं तदस्पृष्टमिति द्वेधैव चेतनम् नित्यादुःखा रमाऽन्ये तु स्पृष्टदुःखाः समस्तशः स्पृष्टदुःखा विमुक्ताश्च दुःखसंस्था इति द्विधा दुःखसंस्था मुक्तियोग्या अयोग्या इति च द्विधा देवर्षिपितृपनरा इति मुक्तास्तु पञ्चधा एवं विमुक्तियोग्याश्च तमोगाः सृतिसंस्थिताः इति द्विधा मुक्त्ययोग्या दैत्यरक्षःपिशाचकाः मर्त्याधमाश्चतुर्धैव तमोयोग्याः प्रकीर्तिताः ते च प्राप्तान्धतमसः सृतिसंस्था इति द्विधा",
+    "opens_pranava": false,
+    "raw": "दुःखस्पृष्टं तदस्पृष्टमिति द्वेधैव चेतनम्। नित्यादुःखा रमाऽन्ये तु स्पृष्टदुःखाः समस्तशः॥ ॥ स्पृष्टदुःखा विमुक्ताश्च दुःखसंस्था इति द्विधा। दुःखसंस्था मुक्तियोग्या अयोग्या इति च द्विधा॥ ॥ देवर्षिपितृपनरा इति मुक्तास्तु पञ्चधा। एवं विमुक्तियोग्याश्च तमोगाः सृतिसंस्थिताः॥ ॥ इति द्विधा मुक्त्ययोग्या दैत्यरक्षःपिशाचकाः। मर्त्याधमाश्चतुर्धैव तमोयोग्याः प्रकीर्तिताः॥ ॥ ते च प्राप्तान्धतमसः सृतिसंस्था इति द्विधा।",
+    "bounds": [
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback:len16:undetected",
+    "clip": "tsk_seq12_u01_padya_8519dd",
+    "clips": [
+     "tsk_seq12_u01_padya_p01_b45f7c",
+     "tsk_seq12_u01_padya_p02_c677d5",
+     "tsk_seq12_u01_padya_p03_f3ee76",
+     "tsk_seq12_u01_padya_p04_f01579",
+     "tsk_seq12_u01_padya_p05_cf2549",
+     "tsk_seq12_u01_padya_p06_053329",
+     "tsk_seq12_u01_padya_p07_a61bff",
+     "tsk_seq12_u01_padya_p08_e67855",
+     "tsk_seq12_u01_padya_p09_9cdc95"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tsk_seq14",
+  "ref": null,
+  "seq": 14,
+  "kind": "prose_only",
+  "adhyaya": "अचेतनविभागादि",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 28.9,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "tsk_seq14",
+    "from": 1,
+    "to": 4,
+    "seq": 14,
+    "covers": [
+     14
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "tsk_seq14_u01_gadya_p01_2ad23f"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "tsk_seq14_u02_padya_p01_437b60",
+       "tsk_seq14_u02_padya_p02_c84827"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 3,
+      "type": "padya",
+      "clips": [
+       "tsk_seq14_u03_padya_p01_c63fe9",
+       "tsk_seq14_u03_padya_p02_f07cff"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 4,
+      "type": "gadya",
+      "clips": [
+       "tsk_seq14_u04_gadya_p01_0fb12d"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "tsk_seq14_u01_gadya_p01_2ad23f",
+     "tsk_seq14_u02_padya_p01_437b60",
+     "tsk_seq14_u02_padya_p02_c84827",
+     "tsk_seq14_u03_padya_p01_c63fe9",
+     "tsk_seq14_u03_padya_p02_f07cff",
+     "tsk_seq14_u04_gadya_p01_0fb12d"
+    ],
+    "est_sec": 28.9,
+    "path": "tatva_sankhyana/misc/tsk_seq14.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "padas": [
+     "नित्यानित्यविभागेन त्रिधैवाचेतनं मतम्"
+    ],
+    "text": "नित्यानित्यविभागेन त्रिधैवाचेतनं मतम्",
+    "opens_pranava": false,
+    "raw": "नित्यानित्यविभागेन त्रिधैवाचेतनं मतम्",
+    "bounds": [
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "tsk_seq14_u01_gadya_2ad23f",
+    "clips": [
+     "tsk_seq14_u01_gadya_p01_2ad23f"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "नित्या वेदाः पुराणाद्याः कालः प्रकृतिरेव च",
+     "नित्यानित्यं त्रिधा प्रोक्तमनित्यं द्विविधं मतम्"
+    ],
+    "text": "नित्या वेदाः पुराणाद्याः कालः प्रकृतिरेव च नित्यानित्यं त्रिधा प्रोक्तमनित्यं द्विविधं मतम्",
+    "opens_pranava": false,
+    "raw": "नित्या वेदाः पुराणाद्याः कालः प्रकृतिरेव च। नित्यानित्यं त्रिधा प्रोक्तमनित्यं द्विविधं मतम्",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 2,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "tsk_seq14_u02_padya_8b173c",
+    "clips": [
+     "tsk_seq14_u02_padya_p01_437b60",
+     "tsk_seq14_u02_padya_p02_c84827"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "असंसृष्टं च संसृष्टमसंसृष्टं महानहम्",
+     "बुद्धिर्मनः खानि दश मात्रा भूतानि पञ्च च"
+    ],
+    "text": "असंसृष्टं च संसृष्टमसंसृष्टं महानहम् बुद्धिर्मनः खानि दश मात्रा भूतानि पञ्च च",
+    "opens_pranava": false,
+    "raw": "असंसृष्टं च संसृष्टमसंसृष्टं महानहम्। बुद्धिर्मनः खानि दश मात्रा भूतानि पञ्च च",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 3,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "tsk_seq14_u03_padya_613a0d",
+    "clips": [
+     "tsk_seq14_u03_padya_p01_c63fe9",
+     "tsk_seq14_u03_padya_p02_f07cff"
+    ]
+   },
+   {
+    "type": "gadya",
+    "padas": [
+     "संसृष्टमण्डं तद्गं च समस्तं सम्प्रकीर्तितम्"
+    ],
+    "text": "संसृष्टमण्डं तद्गं च समस्तं सम्प्रकीर्तितम्",
+    "opens_pranava": false,
+    "raw": "संसृष्टमण्डं तद्गं च समस्तं सम्प्रकीर्तितम्",
+    "bounds": [
+     "hard"
+    ],
+    "n": 4,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "tsk_seq14_u04_gadya_0fb12d",
+    "clips": [
+     "tsk_seq14_u04_gadya_p01_0fb12d"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tsk_seq16",
+  "ref": null,
+  "seq": 16,
+  "kind": "prose_only",
+  "adhyaya": "स्वतन्त्रास्वतन्त्रसम्बन्धप्रदर्शनपूर्वक उपसंहारः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 13.9,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "tsk_seq16",
+    "from": 1,
+    "to": 2,
+    "seq": 16,
+    "covers": [
+     16
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "tsk_seq16_u01_gadya_p01_257464"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "tsk_seq16_u02_padya_p01_65f828",
+       "tsk_seq16_u02_padya_p02_035d18"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "tsk_seq16_u01_gadya_p01_257464",
+     "tsk_seq16_u02_padya_p01_65f828",
+     "tsk_seq16_u02_padya_p02_035d18"
+    ],
+    "est_sec": 13.9,
+    "path": "tatva_sankhyana/misc/tsk_seq16.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "padas": [
+     "सृष्टिः स्थितिः संहृतिश्च नियमोऽज्ञानबोधने"
+    ],
+    "text": "सृष्टिः स्थितिः संहृतिश्च नियमोऽज्ञानबोधने",
+    "opens_pranava": false,
+    "raw": "सृष्टिः स्थितिः संहृतिश्च नियमोऽज्ञानबोधने",
+    "bounds": [
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "tsk_seq16_u01_gadya_257464",
+    "clips": [
+     "tsk_seq16_u01_gadya_p01_257464"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "बन्धो मोक्षः सुखं दुःखमावृत्तिर्ज्योतिरेव च",
+     "विष्णुनास्य समस्तस्य समासव्यासयोगतः"
+    ],
+    "text": "बन्धो मोक्षः सुखं दुःखमावृत्तिर्ज्योतिरेव च विष्णुनास्य समस्तस्य समासव्यासयोगतः",
+    "opens_pranava": false,
+    "raw": "बन्धो मोक्षः सुखं दुःखमावृत्तिर्ज्योतिरेव च। विष्णुनास्य समस्तस्य समासव्यासयोगतः",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 2,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "tsk_seq16_u02_padya_cfcb7a",
+    "clips": [
+     "tsk_seq16_u02_padya_p01_65f828",
+     "tsk_seq16_u02_padya_p02_035d18"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tsk_seq17",
+  "ref": null,
+  "seq": 17,
+  "kind": "colophon",
+  "adhyaya": "स्वतन्त्रास्वतन्त्रसम्बन्धप्रदर्शनपूर्वक उपसंहारः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 8.3,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "tsk_seq17",
+    "from": 1,
+    "to": 1,
+    "seq": 17,
+    "covers": [
+     17
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "tsk_seq17_u01_gadya_p01_64e93c"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "tsk_seq17_u01_gadya_p01_64e93c"
+    ],
+    "est_sec": 8.3,
+    "path": "tatva_sankhyana/misc/tsk_seq17.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "padas": [
+     "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं तत्त्वसङ्ख्यानं सम्पूर्णम्"
+    ],
+    "text": "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं तत्त्वसङ्ख्यानं सम्पूर्णम्",
+    "opens_pranava": false,
+    "raw": "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं तत्त्वसङ्ख्यानं सम्पूर्णम्",
+    "bounds": [
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "tsk_seq17_u01_gadya_64e93c",
+    "clips": [
+     "tsk_seq17_u01_gadya_p01_64e93c"
+    ]
+   }
+  ]
+ }
+]

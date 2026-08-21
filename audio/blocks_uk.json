@@ -1,0 +1,1177 @@
+[
+ {
+  "id": "uk_seq1",
+  "ref": null,
+  "seq": 1,
+  "kind": "prose_only",
+  "adhyaya": "नित्यागण्यगुणालयस्य प्रसादाशंसनम्",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 7.6,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "uk_seq1",
+    "from": 1,
+    "to": 1,
+    "seq": 1,
+    "covers": [
+     1
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "uk_seq1_u01_padya_p01_300a13",
+       "uk_seq1_u01_padya_p02_c003fa"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "uk_seq1_u01_padya_p01_300a13",
+     "uk_seq1_u01_padya_p02_c003fa"
+    ],
+    "est_sec": 7.6,
+    "path": "upadhi_khandana/misc/uk_seq1.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "padas": [
+     "नारायणोऽगण्यगुणनित्यैकनिलयाकृतिः",
+     "अशेषदोषरहितः प्रीयतां कमलालयः"
+    ],
+    "text": "नारायणोऽगण्यगुणनित्यैकनिलयाकृतिः अशेषदोषरहितः प्रीयतां कमलालयः",
+    "opens_pranava": false,
+    "raw": "नारायणोऽगण्यगुणनित्यैकनिलयाकृतिः। अशेषदोषरहितः प्रीयतां कमलालयः",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "uk_seq1_u01_padya_834baa",
+    "clips": [
+     "uk_seq1_u01_padya_p01_300a13",
+     "uk_seq1_u01_padya_p02_c003fa"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "uk_seq3",
+  "ref": null,
+  "seq": 3,
+  "kind": "prose_only",
+  "adhyaya": "मायावाद-भास्करमतयोः क्रमेण निराकरणम्",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 85.0,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "uk_seq3",
+    "from": 1,
+    "to": 9,
+    "seq": 3,
+    "covers": [
+     3
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "uk_seq3_u01_padya_p01_932977",
+       "uk_seq3_u01_padya_p02_06eb5b"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "uk_seq3_u02_padya_p01_33d68c",
+       "uk_seq3_u02_padya_p02_6d86f9"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 3,
+      "type": "padya",
+      "clips": [
+       "uk_seq3_u03_padya_p01_cd8291",
+       "uk_seq3_u03_padya_p02_ca877f"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 4,
+      "type": "padya",
+      "clips": [
+       "uk_seq3_u04_padya_p01_40301d",
+       "uk_seq3_u04_padya_p02_96eac8"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 5,
+      "type": "padya",
+      "clips": [
+       "uk_seq3_u05_padya_p01_dc507c",
+       "uk_seq3_u05_padya_p02_60f02e"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 6,
+      "type": "padya",
+      "clips": [
+       "uk_seq3_u06_padya_p01_59152c",
+       "uk_seq3_u06_padya_p02_d49815"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 7,
+      "type": "padya",
+      "clips": [
+       "uk_seq3_u07_padya_p01_f17be3",
+       "uk_seq3_u07_padya_p02_5d6b15"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 8,
+      "type": "padya",
+      "clips": [
+       "uk_seq3_u08_padya_p01_85cbb2",
+       "uk_seq3_u08_padya_p02_2ff735"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 9,
+      "type": "padya",
+      "clips": [
+       "uk_seq3_u09_padya_p01_9325ab",
+       "uk_seq3_u09_padya_p02_a7cc46"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "uk_seq3_u01_padya_p01_932977",
+     "uk_seq3_u01_padya_p02_06eb5b",
+     "uk_seq3_u02_padya_p01_33d68c",
+     "uk_seq3_u02_padya_p02_6d86f9",
+     "uk_seq3_u03_padya_p01_cd8291",
+     "uk_seq3_u03_padya_p02_ca877f",
+     "uk_seq3_u04_padya_p01_40301d",
+     "uk_seq3_u04_padya_p02_96eac8",
+     "uk_seq3_u05_padya_p01_dc507c",
+     "uk_seq3_u05_padya_p02_60f02e",
+     "uk_seq3_u06_padya_p01_59152c",
+     "uk_seq3_u06_padya_p02_d49815",
+     "uk_seq3_u07_padya_p01_f17be3",
+     "uk_seq3_u07_padya_p02_5d6b15",
+     "uk_seq3_u08_padya_p01_85cbb2",
+     "uk_seq3_u08_padya_p02_2ff735",
+     "uk_seq3_u09_padya_p01_9325ab",
+     "uk_seq3_u09_padya_p02_a7cc46"
+    ],
+    "est_sec": 85.0,
+    "path": "upadhi_khandana/misc/uk_seq3.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "padas": [
+     "अज्ञताऽखिलसंवेत्तुर्घटते न कुतश्चन",
+     "उपाधिभेदाद् घटत इति चेत् स स्वभावतः"
+    ],
+    "text": "अज्ञताऽखिलसंवेत्तुर्घटते न कुतश्चन उपाधिभेदाद् घटत इति चेत् स स्वभावतः",
+    "opens_pranava": false,
+    "raw": "अज्ञताऽखिलसंवेत्तुर्घटते न कुतश्चन। उपाधिभेदाद् घटत इति चेत् स स्वभावतः",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "uk_seq3_u01_padya_dda05a",
+    "clips": [
+     "uk_seq3_u01_padya_p01_932977",
+     "uk_seq3_u01_padya_p02_06eb5b"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "अज्ञानतो वा द्वैतस्य सत्यता स्वत एव चेत्",
+     "अनवस्थितिरज्ञानहेतौ वाऽन्योन्यसिद्धिता"
+    ],
+    "text": "अज्ञानतो वा द्वैतस्य सत्यता स्वत एव चेत् अनवस्थितिरज्ञानहेतौ वाऽन्योन्यसिद्धिता",
+    "opens_pranava": false,
+    "raw": "अज्ञानतो वा द्वैतस्य सत्यता स्वत एव चेत्। अनवस्थितिरज्ञानहेतौ वाऽन्योन्यसिद्धिता",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 2,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "uk_seq3_u02_padya_975b2f",
+    "clips": [
+     "uk_seq3_u02_padya_p01_33d68c",
+     "uk_seq3_u02_padya_p02_6d86f9"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "चक्रकापत्तिरथवा भेदश्चोपाधितः कुतः",
+     "विद्यमानस्य भेदस्य ज्ञापको नैव कारकः"
+    ],
+    "text": "चक्रकापत्तिरथवा भेदश्चोपाधितः कुतः विद्यमानस्य भेदस्य ज्ञापको नैव कारकः",
+    "opens_pranava": false,
+    "raw": "चक्रकापत्तिरथवा भेदश्चोपाधितः कुतः। विद्यमानस्य भेदस्य ज्ञापको नैव कारकः",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 3,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "uk_seq3_u03_padya_022afe",
+    "clips": [
+     "uk_seq3_u03_padya_p01_cd8291",
+     "uk_seq3_u03_padya_p02_ca877f"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "उपाधिर्दृष्टपूर्वो हि खेऽपि देशान्तरस्य सः",
+     "ज्ञापको विद्यमानस्य मूढबुद्धिव्यपेक्षया"
+    ],
+    "text": "उपाधिर्दृष्टपूर्वो हि खेऽपि देशान्तरस्य सः ज्ञापको विद्यमानस्य मूढबुद्धिव्यपेक्षया",
+    "opens_pranava": false,
+    "raw": "उपाधिर्दृष्टपूर्वो हि खेऽपि देशान्तरस्य सः। ज्ञापको विद्यमानस्य मूढबुद्धिव्यपेक्षया",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 4,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "uk_seq3_u04_padya_7a5b1b",
+    "clips": [
+     "uk_seq3_u04_padya_p01_40301d",
+     "uk_seq3_u04_padya_p02_96eac8"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "न चेदुपाधिसम्बन्ध एकदेशेऽथ सर्वगः",
+     "एकदेशेऽनवस्था स्यात् सर्वगश्चेन्न भेदकः"
+    ],
+    "text": "न चेदुपाधिसम्बन्ध एकदेशेऽथ सर्वगः एकदेशेऽनवस्था स्यात् सर्वगश्चेन्न भेदकः",
+    "opens_pranava": false,
+    "raw": "न चेदुपाधिसम्बन्ध एकदेशेऽथ सर्वगः। एकदेशेऽनवस्था स्यात् सर्वगश्चेन्न भेदकः",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 5,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "uk_seq3_u05_padya_0c6542",
+    "clips": [
+     "uk_seq3_u05_padya_p01_dc507c",
+     "uk_seq3_u05_padya_p02_60f02e"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "सुखदुःखादिभोगश्च स्वरूपैक्ये न भेदतः",
+     "दृश्यो ह्युपाधिभेदेऽपि हस्तपादादिगो यथा"
+    ],
+    "text": "सुखदुःखादिभोगश्च स्वरूपैक्ये न भेदतः दृश्यो ह्युपाधिभेदेऽपि हस्तपादादिगो यथा",
+    "opens_pranava": false,
+    "raw": "सुखदुःखादिभोगश्च स्वरूपैक्ये न भेदतः। दृश्यो ह्युपाधिभेदेऽपि हस्तपादादिगो यथा",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 6,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "uk_seq3_u06_padya_dc0697",
+    "clips": [
+     "uk_seq3_u06_padya_p01_59152c",
+     "uk_seq3_u06_padya_p02_d49815"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "नानादेहगभोगानुसन्धानं योगिनो यथा",
+     "न चेद् भोगानुसन्धानं तदिच्छा योगिनः कुतः"
+    ],
+    "text": "नानादेहगभोगानुसन्धानं योगिनो यथा न चेद् भोगानुसन्धानं तदिच्छा योगिनः कुतः",
+    "opens_pranava": false,
+    "raw": "नानादेहगभोगानुसन्धानं योगिनो यथा। न चेद् भोगानुसन्धानं तदिच्छा योगिनः कुतः",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 7,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "uk_seq3_u07_padya_cb728c",
+    "clips": [
+     "uk_seq3_u07_padya_p01_f17be3",
+     "uk_seq3_u07_padya_p02_5d6b15"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "अनुसन्धानरहितदेहबाहुल्यमन्यथा",
+     "सिद्धमेव हि तत्पक्षे विशेषो योगिनः कुतः"
+    ],
+    "text": "अनुसन्धानरहितदेहबाहुल्यमन्यथा सिद्धमेव हि तत्पक्षे विशेषो योगिनः कुतः",
+    "opens_pranava": false,
+    "raw": "अनुसन्धानरहितदेहबाहुल्यमन्यथा। सिद्धमेव हि तत्पक्षे विशेषो योगिनः कुतः",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 8,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "uk_seq3_u08_padya_445447",
+    "clips": [
+     "uk_seq3_u08_padya_p01_85cbb2",
+     "uk_seq3_u08_padya_p02_2ff735"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "सिद्धौ हि कर्मभेदस्य स्यादुपाधिविभिन्नता",
+     "तत्सिद्धौ चैव तत्सिद्धिरित्यन्योन्यव्यपाश्रयः"
+    ],
+    "text": "सिद्धौ हि कर्मभेदस्य स्यादुपाधिविभिन्नता तत्सिद्धौ चैव तत्सिद्धिरित्यन्योन्यव्यपाश्रयः",
+    "opens_pranava": false,
+    "raw": "सिद्धौ हि कर्मभेदस्य स्यादुपाधिविभिन्नता। तत्सिद्धौ चैव तत्सिद्धिरित्यन्योन्यव्यपाश्रयः",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 9,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "uk_seq3_u09_padya_4ce1df",
+    "clips": [
+     "uk_seq3_u09_padya_p01_9325ab",
+     "uk_seq3_u09_padya_p02_a7cc46"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "uk_seq5",
+  "ref": null,
+  "seq": 5,
+  "kind": "prose_only",
+  "adhyaya": "उभयोरपि साधारणदोषेण दूषणम्",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 44.6,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "uk_seq5",
+    "from": 1,
+    "to": 3,
+    "seq": 5,
+    "covers": [
+     5
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "uk_seq5_u01_padya_p01_163d84",
+       "uk_seq5_u01_padya_p02_4b3c1f",
+       "uk_seq5_u01_padya_p03_0e60dd",
+       "uk_seq5_u01_padya_p04_6f957e",
+       "uk_seq5_u01_padya_p05_250fd5",
+       "uk_seq5_u01_padya_p06_f5b65d",
+       "uk_seq5_u01_padya_p07_3c736a"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "uk_seq5_u02_padya_p01_be7026"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 3,
+      "type": "padya",
+      "clips": [
+       "uk_seq5_u03_padya_p01_96a029",
+       "uk_seq5_u03_padya_p02_8626c8"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "uk_seq5_u01_padya_p01_163d84",
+     "uk_seq5_u01_padya_p02_4b3c1f",
+     "uk_seq5_u01_padya_p03_0e60dd",
+     "uk_seq5_u01_padya_p04_6f957e",
+     "uk_seq5_u01_padya_p05_250fd5",
+     "uk_seq5_u01_padya_p06_f5b65d",
+     "uk_seq5_u01_padya_p07_3c736a",
+     "uk_seq5_u02_padya_p01_be7026",
+     "uk_seq5_u03_padya_p01_96a029",
+     "uk_seq5_u03_padya_p02_8626c8"
+    ],
+    "est_sec": 44.6,
+    "path": "upadhi_khandana/misc/uk_seq5.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "padas": [
+     "आत्मस्वभावभेदस्य विदोषत्वेन चाखिलः",
+     "प्रत्यक्षादिविरोधाच्च दुष्टः पक्षोऽयमञ्जसा",
+     "चेष्टालिङ्गेन सात्मत्वे परदेहस्य साधिते",
+     "अन्यत्वं स्वात्मनस्तस्मात् सर्वैरेवानुभूयते",
+     "अज्ञता चाल्पशक्तित्वं दुःखित्वं स्वल्पकर्तृता",
+     "सर्वज्ञतादीशगुणविरुद्धा ह्यनुभूतिगाः",
+     "सार्वज्ञादिगुणा विष्णोः श्रुतिषु प्रतिपादिताः"
+    ],
+    "text": "आत्मस्वभावभेदस्य विदोषत्वेन चाखिलः प्रत्यक्षादिविरोधाच्च दुष्टः पक्षोऽयमञ्जसा चेष्टालिङ्गेन सात्मत्वे परदेहस्य साधिते अन्यत्वं स्वात्मनस्तस्मात् सर्वैरेवानुभूयते अज्ञता चाल्पशक्तित्वं दुःखित्वं स्वल्पकर्तृता सर्वज्ञतादीशगुणविरुद्धा ह्यनुभूतिगाः सार्वज्ञादिगुणा विष्णोः श्रुतिषु प्रतिपादिताः",
+    "opens_pranava": false,
+    "raw": "आत्मस्वभावभेदस्य विदोषत्वेन चाखिलः। प्रत्यक्षादिविरोधाच्च दुष्टः पक्षोऽयमञ्जसा॥ ॥ चेष्टालिङ्गेन सात्मत्वे परदेहस्य साधिते। अन्यत्वं स्वात्मनस्तस्मात् सर्वैरेवानुभूयते॥ ॥ अज्ञता चाल्पशक्तित्वं दुःखित्वं स्वल्पकर्तृता। सर्वज्ञतादीशगुणविरुद्धा ह्यनुभूतिगाः॥ ॥ सार्वज्ञादिगुणा विष्णोः श्रुतिषु प्रतिपादिताः।",
+    "bounds": [
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback:len16:undetected",
+    "clip": "uk_seq5_u01_padya_ec9ba1",
+    "clips": [
+     "uk_seq5_u01_padya_p01_163d84",
+     "uk_seq5_u01_padya_p02_4b3c1f",
+     "uk_seq5_u01_padya_p03_0e60dd",
+     "uk_seq5_u01_padya_p04_6f957e",
+     "uk_seq5_u01_padya_p05_250fd5",
+     "uk_seq5_u01_padya_p06_f5b65d",
+     "uk_seq5_u01_padya_p07_3c736a"
+    ]
+   },
+   {
+    "type": "padya",
+    "text": "सत्यः सो अस्य महिमा",
+    "padas": [
+     "सत्यः सो अस्य महिमा"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "सत्यः सो अस्य महिमा",
+    "n": 2,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback:len8:undetected",
+    "clip": "uk_seq5_u02_padya_be7026",
+    "clips": [
+     "uk_seq5_u02_padya_p01_be7026"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "इत्यादिवाक्यान्मृषा नच",
+     "नच वेदोक्तमिथ्यात्वे मानं तन्मानताऽपि न"
+    ],
+    "text": "इत्यादिवाक्यान्मृषा नच नच वेदोक्तमिथ्यात्वे मानं तन्मानताऽपि न",
+    "opens_pranava": false,
+    "raw": "इत्यादिवाक्यान्मृषा नच॥ ॥ नच वेदोक्तमिथ्यात्वे मानं तन्मानताऽपि न।",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 3,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback:len16:undetected",
+    "clip": "uk_seq5_u03_padya_bc8e3c",
+    "clips": [
+     "uk_seq5_u03_padya_p01_96a029",
+     "uk_seq5_u03_padya_p02_8626c8"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "uk_seq7",
+  "ref": null,
+  "seq": 7,
+  "kind": "prose_only",
+  "adhyaya": "अद्वैतमतेऽधिकार्याद्यभावसमर्थनम्",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 13.3,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "uk_seq7",
+    "from": 1,
+    "to": 2,
+    "seq": 7,
+    "covers": [
+     7
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "uk_seq7_u01_gadya_p01_e307b5"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "uk_seq7_u02_padya_p01_902bdc",
+       "uk_seq7_u02_padya_p02_aba945"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "uk_seq7_u01_gadya_p01_e307b5",
+     "uk_seq7_u02_padya_p01_902bdc",
+     "uk_seq7_u02_padya_p02_aba945"
+    ],
+    "est_sec": 13.3,
+    "path": "upadhi_khandana/misc/uk_seq7.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "padas": [
+     "अतोऽज्ञासम्भवादेव नाधिकार्यैक्यवादिनाम्"
+    ],
+    "text": "अतोऽज्ञासम्भवादेव नाधिकार्यैक्यवादिनाम्",
+    "opens_pranava": false,
+    "raw": "अतोऽज्ञासम्भवादेव नाधिकार्यैक्यवादिनाम्",
+    "bounds": [
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "uk_seq7_u01_gadya_e307b5",
+    "clips": [
+     "uk_seq7_u01_gadya_p01_e307b5"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "अतो नाज्ञातमिति च विषयो विषयान्तरे",
+     "अज्ञाभावात् फलं कस्य योगः शशनृशृङ्गयोः"
+    ],
+    "text": "अतो नाज्ञातमिति च विषयो विषयान्तरे अज्ञाभावात् फलं कस्य योगः शशनृशृङ्गयोः",
+    "opens_pranava": false,
+    "raw": "अतो नाज्ञातमिति च विषयो विषयान्तरे। अज्ञाभावात् फलं कस्य योगः शशनृशृङ्गयोः",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 2,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "uk_seq7_u02_padya_7089da",
+    "clips": [
+     "uk_seq7_u02_padya_p01_902bdc",
+     "uk_seq7_u02_padya_p02_aba945"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "uk_seq9",
+  "ref": null,
+  "seq": 9,
+  "kind": "prose_only",
+  "adhyaya": "अज्ञानदौर्घट्यस्य भूषणत्वदूषणम्",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 9.6,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "uk_seq9",
+    "from": 1,
+    "to": 1,
+    "seq": 9,
+    "covers": [
+     9
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "uk_seq9_u01_padya_p01_2a56d3",
+       "uk_seq9_u01_padya_p02_b1d98f"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "uk_seq9_u01_padya_p01_2a56d3",
+     "uk_seq9_u01_padya_p02_b1d98f"
+    ],
+    "est_sec": 9.6,
+    "path": "upadhi_khandana/misc/uk_seq9.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "padas": [
+     "दुर्घटत्वं भूषणं चेत् स्यादविद्यात्वमात्मनः",
+     "अन्धन्तमोऽप्यलङ्कारो नित्यदुःखं शिरोमणिः"
+    ],
+    "text": "दुर्घटत्वं भूषणं चेत् स्यादविद्यात्वमात्मनः अन्धन्तमोऽप्यलङ्कारो नित्यदुःखं शिरोमणिः",
+    "opens_pranava": false,
+    "raw": "दुर्घटत्वं भूषणं चेत् स्यादविद्यात्वमात्मनः। अन्धन्तमोऽप्यलङ्कारो नित्यदुःखं शिरोमणिः",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "uk_seq9_u01_padya_7a19bb",
+    "clips": [
+     "uk_seq9_u01_padya_p01_2a56d3",
+     "uk_seq9_u01_padya_p02_b1d98f"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "uk_seq11",
+  "ref": null,
+  "seq": 11,
+  "kind": "prose_only",
+  "adhyaya": "भेदमते विषयादिसद्भावप्रतिपादनम्",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 16.9,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "uk_seq11",
+    "from": 1,
+    "to": 7,
+    "seq": 11,
+    "covers": [
+     11
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "uk_seq11_u01_gadya_p01_16bf83"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "uk_seq11_u02_padya_p01_b723b8"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 3,
+      "type": "gadya",
+      "clips": [
+       "uk_seq11_u03_gadya_p01_3f080a"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 4,
+      "type": "padya",
+      "clips": [
+       "uk_seq11_u04_padya_p01_32edae"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 5,
+      "type": "padya",
+      "clips": [
+       "uk_seq11_u05_padya_p01_41e35d",
+       "uk_seq11_u05_padya_p02_5fbbc3"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 6,
+      "type": "padya",
+      "clips": [
+       "uk_seq11_u06_padya_p01_06f3bf"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 7,
+      "type": "gadya",
+      "clips": [
+       "uk_seq11_u07_gadya_p01_11ef1e"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "uk_seq11_u01_gadya_p01_16bf83",
+     "uk_seq11_u02_padya_p01_b723b8",
+     "uk_seq11_u03_gadya_p01_3f080a",
+     "uk_seq11_u04_padya_p01_32edae",
+     "uk_seq11_u05_padya_p01_41e35d",
+     "uk_seq11_u05_padya_p02_5fbbc3",
+     "uk_seq11_u06_padya_p01_06f3bf",
+     "uk_seq11_u07_gadya_p01_11ef1e"
+    ],
+    "est_sec": 16.9,
+    "path": "upadhi_khandana/misc/uk_seq11.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "text": "अतः",
+    "padas": [
+     "अतः"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "अतः",
+    "src_padya": true,
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "uk_seq11_u01_gadya_16bf83",
+    "clips": [
+     "uk_seq11_u01_gadya_p01_16bf83"
+    ]
+   },
+   {
+    "type": "padya",
+    "text": "परो मात्रया",
+    "padas": [
+     "परो मात्रया"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "परो मात्रया",
+    "n": 2,
+    "meter": "vasantatilakā",
+    "meter_src": "fallback:len5-nomatch:undetected",
+    "clip": "uk_seq11_u02_padya_b723b8",
+    "clips": [
+     "uk_seq11_u02_padya_p01_b723b8"
+    ]
+   },
+   {
+    "type": "gadya",
+    "text": "इतिपूर्वश्रुतिनिदर्शितः",
+    "padas": [
+     "इतिपूर्वश्रुतिनिदर्शितः"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "इतिपूर्वश्रुतिनिदर्शितः।",
+    "src_padya": true,
+    "n": 3,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "uk_seq11_u03_gadya_3f080a",
+    "clips": [
+     "uk_seq11_u03_gadya_p01_3f080a"
+    ]
+   },
+   {
+    "type": "padya",
+    "text": "अन्यमीशम्",
+    "padas": [
+     "अन्यमीशम्"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "अन्यमीशम्",
+    "n": 4,
+    "meter": "vasantatilakā",
+    "meter_src": "fallback:len4-nomatch:undetected",
+    "clip": "uk_seq11_u04_padya_32edae",
+    "clips": [
+     "uk_seq11_u04_padya_p01_32edae"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "इति श्रुत्या भिन्नजीवदृशं गतः",
+     "भिन्नत्वेनात्मसादृश्यदो"
+    ],
+    "text": "इति श्रुत्या भिन्नजीवदृशं गतः भिन्नत्वेनात्मसादृश्यदो",
+    "opens_pranava": false,
+    "raw": "इति श्रुत्या भिन्नजीवदृशं गतः। भिन्नत्वेनात्मसादृश्यदो",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 5,
+    "meter": "drutavilambita",
+    "meter_src": "fallback:len12:undetected",
+    "clip": "uk_seq11_u05_padya_3d7bde",
+    "clips": [
+     "uk_seq11_u05_padya_p01_41e35d",
+     "uk_seq11_u05_padya_p02_5fbbc3"
+    ]
+   },
+   {
+    "type": "padya",
+    "text": "यदा",
+    "padas": [
+     "यदा"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "यदा",
+    "n": 6,
+    "meter": "vasantatilakā",
+    "meter_src": "fallback:len2-nomatch:undetected",
+    "clip": "uk_seq11_u06_padya_06f3bf",
+    "clips": [
+     "uk_seq11_u06_padya_p01_06f3bf"
+    ]
+   },
+   {
+    "type": "gadya",
+    "text": "इति श्रुतेः सदा",
+    "padas": [
+     "इति श्रुतेः सदा"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "इति श्रुतेः सदा॥ ॥",
+    "src_padya": true,
+    "n": 7,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "uk_seq11_u07_gadya_11ef1e",
+    "clips": [
+     "uk_seq11_u07_gadya_p01_11ef1e"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "uk_seq13",
+  "ref": null,
+  "seq": 13,
+  "kind": "prose_only",
+  "adhyaya": "उपसंहारः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 18.7,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "uk_seq13",
+    "from": 1,
+    "to": 2,
+    "seq": 13,
+    "covers": [
+     13
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "uk_seq13_u01_padya_p01_4ae7c0",
+       "uk_seq13_u01_padya_p02_9e78fc"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "uk_seq13_u02_padya_p01_c311a6",
+       "uk_seq13_u02_padya_p02_7d50a0"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "uk_seq13_u01_padya_p01_4ae7c0",
+     "uk_seq13_u01_padya_p02_9e78fc",
+     "uk_seq13_u02_padya_p01_c311a6",
+     "uk_seq13_u02_padya_p02_7d50a0"
+    ],
+    "est_sec": 18.7,
+    "path": "upadhi_khandana/misc/uk_seq13.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "padas": [
+     "मायावादतमोव्याप्तमिति तत्त्वदृशा जगत्",
+     "भातं सर्वज्ञसूर्येण प्रीतये श्रीपतेः सदा"
+    ],
+    "text": "मायावादतमोव्याप्तमिति तत्त्वदृशा जगत् भातं सर्वज्ञसूर्येण प्रीतये श्रीपतेः सदा",
+    "opens_pranava": false,
+    "raw": "मायावादतमोव्याप्तमिति तत्त्वदृशा जगत्। भातं सर्वज्ञसूर्येण प्रीतये श्रीपतेः सदा",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "uk_seq13_u01_padya_b74b69",
+    "clips": [
+     "uk_seq13_u01_padya_p01_4ae7c0",
+     "uk_seq13_u01_padya_p02_9e78fc"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "नमोऽमन्दनिजानन्दसान्द्रसुन्दरमूर्तये",
+     "इन्दिरापतये नित्यानन्दभोजनदायिने"
+    ],
+    "text": "नमोऽमन्दनिजानन्दसान्द्रसुन्दरमूर्तये इन्दिरापतये नित्यानन्दभोजनदायिने",
+    "opens_pranava": false,
+    "raw": "नमोऽमन्दनिजानन्दसान्द्रसुन्दरमूर्तये। इन्दिरापतये नित्यानन्दभोजनदायिने",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 2,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "uk_seq13_u02_padya_c0e83f",
+    "clips": [
+     "uk_seq13_u02_padya_p01_c311a6",
+     "uk_seq13_u02_padya_p02_7d50a0"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "uk_seq14",
+  "ref": null,
+  "seq": 14,
+  "kind": "colophon",
+  "adhyaya": "उपसंहारः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 11.3,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "uk_seq14",
+    "from": 1,
+    "to": 1,
+    "seq": 14,
+    "covers": [
+     14
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "uk_seq14_u01_gadya_p01_dcf9fe",
+       "uk_seq14_u01_gadya_p02_eaa928",
+       "uk_seq14_u01_gadya_p03_af5386"
+      ],
+      "bounds": [
+       "soft",
+       "soft",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "uk_seq14_u01_gadya_p01_dcf9fe",
+     "uk_seq14_u01_gadya_p02_eaa928",
+     "uk_seq14_u01_gadya_p03_af5386"
+    ],
+    "est_sec": 11.3,
+    "path": "upadhi_khandana/misc/uk_seq14.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "padas": [
+     "इति",
+     "श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितमुपाधिखण्डनं",
+     "तत्त्वप्रकाशिकापरनामकं सम्पूर्णम्"
+    ],
+    "text": "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितमुपाधिखण्डनं तत्त्वप्रकाशिकापरनामकं सम्पूर्णम्",
+    "opens_pranava": false,
+    "raw": "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितमुपाधिखण्डनं तत्त्वप्रकाशिकापरनामकं सम्पूर्णम्",
+    "bounds": [
+     "soft",
+     "soft",
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "uk_seq14_u01_gadya_df5f24",
+    "clips": [
+     "uk_seq14_u01_gadya_p01_dcf9fe",
+     "uk_seq14_u01_gadya_p02_eaa928",
+     "uk_seq14_u01_gadya_p03_af5386"
+    ]
+   }
+  ]
+ }
+]

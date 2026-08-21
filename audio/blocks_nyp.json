@@ -1,0 +1,735 @@
+[
+ {
+  "id": "nyp_001",
+  "ref": null,
+  "seq": 1,
+  "kind": "sutra_block",
+  "adhyaya": "न्यासपद्धतिः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 144.9,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "nyp_001",
+    "from": 1,
+    "to": 13,
+    "seq": 1,
+    "covers": [
+     1,
+     2
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "nyp_001_u01_padya_p01_74ad33",
+       "nyp_001_u01_padya_p02_4a5ea2"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "nyp_001_u02_padya_p01_b6a020",
+       "nyp_001_u02_padya_p02_ef8fb7"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 3,
+      "type": "padya",
+      "clips": [
+       "nyp_001_u03_padya_p01_4f2095",
+       "nyp_001_u03_padya_p02_6bad1f"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 4,
+      "type": "padya",
+      "clips": [
+       "nyp_001_u04_padya_p01_b68787",
+       "nyp_001_u04_padya_p02_d280c3"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 5,
+      "type": "padya",
+      "clips": [
+       "nyp_001_u05_padya_p01_331d96",
+       "nyp_001_u05_padya_p02_5dfa18"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 6,
+      "type": "padya",
+      "clips": [
+       "nyp_001_u06_padya_p01_f32082",
+       "nyp_001_u06_padya_p02_13b224",
+       "nyp_001_u06_padya_p03_ac92d5"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 7,
+      "type": "padya",
+      "clips": [
+       "nyp_001_u07_padya_p01_16f1cc",
+       "nyp_001_u07_padya_p02_bc5d2d"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 8,
+      "type": "padya",
+      "clips": [
+       "nyp_001_u08_padya_p01_16e065",
+       "nyp_001_u08_padya_p02_441624"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 9,
+      "type": "padya",
+      "clips": [
+       "nyp_001_u09_padya_p01_d5b2a9",
+       "nyp_001_u09_padya_p02_ca74f8",
+       "nyp_001_u09_padya_p03_8661e8"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 10,
+      "type": "padya",
+      "clips": [
+       "nyp_001_u10_padya_p01_65da81",
+       "nyp_001_u10_padya_p02_8f0541",
+       "nyp_001_u10_padya_p03_085635"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 11,
+      "type": "padya",
+      "clips": [
+       "nyp_001_u11_padya_p01_fe3078",
+       "nyp_001_u11_padya_p02_9d2118",
+       "nyp_001_u11_padya_p03_055479"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 12,
+      "type": "padya",
+      "clips": [
+       "nyp_001_u12_padya_p01_be1de0",
+       "nyp_001_u12_padya_p02_2d0848"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 13,
+      "type": "padya",
+      "clips": [
+       "nyp_001_u13_padya_p01_176735"
+      ],
+      "bounds": [
+       "hard"
+      ],
+      "gapafter": [
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "nyp_001_u01_padya_p01_74ad33",
+     "nyp_001_u01_padya_p02_4a5ea2",
+     "nyp_001_u02_padya_p01_b6a020",
+     "nyp_001_u02_padya_p02_ef8fb7",
+     "nyp_001_u03_padya_p01_4f2095",
+     "nyp_001_u03_padya_p02_6bad1f",
+     "nyp_001_u04_padya_p01_b68787",
+     "nyp_001_u04_padya_p02_d280c3",
+     "nyp_001_u05_padya_p01_331d96",
+     "nyp_001_u05_padya_p02_5dfa18",
+     "nyp_001_u06_padya_p01_f32082",
+     "nyp_001_u06_padya_p02_13b224",
+     "nyp_001_u06_padya_p03_ac92d5",
+     "nyp_001_u07_padya_p01_16f1cc",
+     "nyp_001_u07_padya_p02_bc5d2d",
+     "nyp_001_u08_padya_p01_16e065",
+     "nyp_001_u08_padya_p02_441624",
+     "nyp_001_u09_padya_p01_d5b2a9",
+     "nyp_001_u09_padya_p02_ca74f8",
+     "nyp_001_u09_padya_p03_8661e8",
+     "nyp_001_u10_padya_p01_65da81",
+     "nyp_001_u10_padya_p02_8f0541",
+     "nyp_001_u10_padya_p03_085635",
+     "nyp_001_u11_padya_p01_fe3078",
+     "nyp_001_u11_padya_p02_9d2118",
+     "nyp_001_u11_padya_p03_055479",
+     "nyp_001_u12_padya_p01_be1de0",
+     "nyp_001_u12_padya_p02_2d0848",
+     "nyp_001_u13_padya_p01_176735"
+    ],
+    "est_sec": 144.9,
+    "path": "nyasa_paddhati/nyp_001.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "१",
+    "start": 0,
+    "end": 86,
+    "padas": [
+     "नरनारायणं नत्वा पूर्णं ब्रह्माक्षरोदितम्",
+     "यतेराचरणं वक्ष्ये पूर्णं शास्त्रानुसारतः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "नरनारायणं नत्वा पूर्णं ब्रह्माक्षरोदितम् यतेराचरणं वक्ष्ये पूर्णं शास्त्रानुसारतः",
+    "n": 1,
+    "seq": 1,
+    "seqs": [
+     1
+    ],
+    "clip": "nyp_001_u01_padya_9b0d8d",
+    "clips": [
+     "nyp_001_u01_padya_p01_74ad33",
+     "nyp_001_u01_padya_p02_4a5ea2"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "२",
+    "start": 86,
+    "end": 165,
+    "padas": [
+     "अरुणोदयवेळायामुत्थाय हरिमानसः",
+     "शौचादिकं यथान्यायं कृत्वा दन्तान् विशोधयेत्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "अरुणोदयवेळायामुत्थाय हरिमानसः शौचादिकं यथान्यायं कृत्वा दन्तान् विशोधयेत्",
+    "n": 2,
+    "seq": 1,
+    "seqs": [
+     1
+    ],
+    "clip": "nyp_001_u02_padya_221509",
+    "clips": [
+     "nyp_001_u02_padya_p01_b6a020",
+     "nyp_001_u02_padya_p02_ef8fb7"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "३",
+    "start": 165,
+    "end": 256,
+    "padas": [
+     "कटिशौचं मृदा कुर्याच्छुद्ध्यर्थं जलसंस्थितः",
+     "स्नानं कुर्याद् यथोक्तेन विधिना नियतो हरौ"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "कटिशौचं मृदा कुर्याच्छुद्ध्यर्थं जलसंस्थितः स्नानं कुर्याद् यथोक्तेन विधिना नियतो हरौ",
+    "n": 3,
+    "seq": 1,
+    "seqs": [
+     1
+    ],
+    "clip": "nyp_001_u03_padya_34b747",
+    "clips": [
+     "nyp_001_u03_padya_p01_4f2095",
+     "nyp_001_u03_padya_p02_6bad1f"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "४",
+    "start": 256,
+    "end": 352,
+    "padas": [
+     "धृतोर्ध्वपुण्ड्रं विधिवत् प्रकल्प्यासनमच्युते",
+     "मनो निवेश्याष्टमन्त्रान् यथाशक्ति जपेच्छुचिः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "धृतोर्ध्वपुण्ड्रं विधिवत् प्रकल्प्यासनमच्युते मनो निवेश्याष्टमन्त्रान् यथाशक्ति जपेच्छुचिः",
+    "n": 4,
+    "seq": 1,
+    "seqs": [
+     1
+    ],
+    "clip": "nyp_001_u04_padya_6144c7",
+    "clips": [
+     "nyp_001_u04_padya_p01_b68787",
+     "nyp_001_u04_padya_p02_d280c3"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "५",
+    "start": 352,
+    "end": 439,
+    "padas": [
+     "द्वादशसहस्रावृत्ति परं ब्रह्माक्षरं जपेत्",
+     "दण्डोदकं जपस्यान्ते दद्याद् विधिविधानतः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "द्वादशसहस्रावृत्ति परं ब्रह्माक्षरं जपेत् दण्डोदकं जपस्यान्ते दद्याद् विधिविधानतः",
+    "n": 5,
+    "seq": 1,
+    "seqs": [
+     1
+    ],
+    "clip": "nyp_001_u05_padya_d24f3e",
+    "clips": [
+     "nyp_001_u05_padya_p01_331d96",
+     "nyp_001_u05_padya_p02_5dfa18"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "६",
+    "start": 439,
+    "end": 558,
+    "padas": [
+     "देवतां परमां सम्यक् पूजयेच्च विधानतः",
+     "भिक्षाकाले विधानेन चरेद् भिक्षाटनं यतिः",
+     "एकत्र भिक्षाचरणं जघन्यमिति चोच्यते"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "देवतां परमां सम्यक् पूजयेच्च विधानतः भिक्षाकाले विधानेन चरेद् भिक्षाटनं यतिः एकत्र भिक्षाचरणं जघन्यमिति चोच्यते",
+    "n": 6,
+    "seq": 1,
+    "seqs": [
+     1
+    ],
+    "clip": "nyp_001_u06_padya_d79d3f",
+    "clips": [
+     "nyp_001_u06_padya_p01_f32082",
+     "nyp_001_u06_padya_p02_13b224",
+     "nyp_001_u06_padya_p03_ac92d5"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "७",
+    "start": 558,
+    "end": 644,
+    "padas": [
+     "अनेकभिक्षाचरणं मुख्यधर्मो यतेः स्मृतः",
+     "त्रिपञ्चसप्तसद्मानि गच्छेन्नातोऽधिकं पुनः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "अनेकभिक्षाचरणं मुख्यधर्मो यतेः स्मृतः त्रिपञ्चसप्तसद्मानि गच्छेन्नातोऽधिकं पुनः",
+    "n": 7,
+    "seq": 1,
+    "seqs": [
+     1
+    ],
+    "clip": "nyp_001_u07_padya_be68d4",
+    "clips": [
+     "nyp_001_u07_padya_p01_16f1cc",
+     "nyp_001_u07_padya_p02_bc5d2d"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "८",
+    "start": 644,
+    "end": 743,
+    "padas": [
+     "भिक्षाग्रहणकाले तु गृह्णीयाद् दातृतो जलम्",
+     "भिक्षान्ने तज्जलं प्रोक्ष्य पुनर्ग्राह्यं विदा जलम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "भिक्षाग्रहणकाले तु गृह्णीयाद् दातृतो जलम् भिक्षान्ने तज्जलं प्रोक्ष्य पुनर्ग्राह्यं विदा जलम्",
+    "n": 8,
+    "seq": 1,
+    "seqs": [
+     1
+    ],
+    "clip": "nyp_001_u08_padya_a095c7",
+    "clips": [
+     "nyp_001_u08_padya_p01_16e065",
+     "nyp_001_u08_padya_p02_441624"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "९",
+    "start": 743,
+    "end": 868,
+    "padas": [
+     "निवेदयेत् तदन्नं तु वारिजस्योदकेन तु",
+     "प्रोक्ष्य देवाय महते मूलमन्त्रेण वाग्यतः",
+     "तदन्नं भक्षयेत् स्वस्थो ह्यजवद्धरिमानसः"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "निवेदयेत् तदन्नं तु वारिजस्योदकेन तु प्रोक्ष्य देवाय महते मूलमन्त्रेण वाग्यतः तदन्नं भक्षयेत् स्वस्थो ह्यजवद्धरिमानसः",
+    "n": 9,
+    "seq": 1,
+    "seqs": [
+     1
+    ],
+    "clip": "nyp_001_u09_padya_f5c9e6",
+    "clips": [
+     "nyp_001_u09_padya_p01_d5b2a9",
+     "nyp_001_u09_padya_p02_ca74f8",
+     "nyp_001_u09_padya_p03_8661e8"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "१०",
+    "start": 868,
+    "end": 1006,
+    "padas": [
+     "त्रिवारमुदकस्रानं यतेः शास्त्रेषु चोदितम्",
+     "अशक्तस्य यतेः शास्त्रे द्विवारं स्रानचोद‌ना",
+     "अत्यन्ताशक्तविषये त्वेकं स्नानं स्मृतं बुधैः"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "त्रिवारमुदकस्रानं यतेः शास्त्रेषु चोदितम् अशक्तस्य यतेः शास्त्रे द्विवारं स्रानचोद‌ना अत्यन्ताशक्तविषये त्वेकं स्नानं स्मृतं बुधैः",
+    "n": 10,
+    "seq": 1,
+    "seqs": [
+     1
+    ],
+    "clip": "nyp_001_u10_padya_133ac9",
+    "clips": [
+     "nyp_001_u10_padya_p01_65da81",
+     "nyp_001_u10_padya_p02_8f0541",
+     "nyp_001_u10_padya_p03_085635"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "११",
+    "start": 1006,
+    "end": 1143,
+    "padas": [
+     "वेदान्तशास्त्राभ्यसनं मुख्यधर्मो यतेः स्मृतः",
+     "देवो नारायणो नित्यं सृष्टिस्थित्यन्तकारकः",
+     "भक्तानां मुक्तिदो नित्यमन्यथाज्ञानिनां तमः"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "वेदान्तशास्त्राभ्यसनं मुख्यधर्मो यतेः स्मृतः देवो नारायणो नित्यं सृष्टिस्थित्यन्तकारकः भक्तानां मुक्तिदो नित्यमन्यथाज्ञानिनां तमः",
+    "n": 11,
+    "seq": 1,
+    "seqs": [
+     1
+    ],
+    "clip": "nyp_001_u11_padya_b13b25",
+    "clips": [
+     "nyp_001_u11_padya_p01_fe3078",
+     "nyp_001_u11_padya_p02_9d2118",
+     "nyp_001_u11_padya_p03_055479"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "१२",
+    "start": 1143,
+    "end": 1231,
+    "padas": [
+     "पूर्णप्रज्ञेन मुनिना व्यासवाक्यसमुद्धृतिः",
+     "न्यासधर्मस्य विषये शुभा सङ्क्षेपतः कृता"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "पूर्णप्रज्ञेन मुनिना व्यासवाक्यसमुद्धृतिः न्यासधर्मस्य विषये शुभा सङ्क्षेपतः कृता",
+    "n": 12,
+    "seq": 1,
+    "seqs": [
+     1
+    ],
+    "clip": "nyp_001_u12_padya_404991",
+    "clips": [
+     "nyp_001_u12_padya_p01_be1de0",
+     "nyp_001_u12_padya_p02_2d0848"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": null,
+    "start": 1231,
+    "end": 1289,
+    "padas": [
+     "इति श्रीमदानन्दतीर्थभगवत्पादकृता न्यासपद्धतिः समाप्ता"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "gapafter": [
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "इति श्रीमदानन्दतीर्थभगवत्पादकृता न्यासपद्धतिः समाप्ता",
+    "n": 13,
+    "seq": 1,
+    "seqs": [
+     1,
+     2
+    ],
+    "clip": "nyp_001_u13_padya_176735",
+    "clips": [
+     "nyp_001_u13_padya_p01_176735"
+    ]
+   }
+  ]
+ }
+]

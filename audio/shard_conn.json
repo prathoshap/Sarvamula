@@ -1,0 +1,5 @@
+[
+ {"id":"conn_s60",     "meter":"gadya","padas":["ॐ इति स्कान्दे"],"seed":60,"no_sandhi":true,"speed":0.90,"out":"/home/ece/Prathosh/sarvamula_try/clips7/conn_s60.wav"},
+ {"id":"conn_slow",    "meter":"gadya","padas":["ॐ इति स्कान्दे"],"seed":60,"no_sandhi":true,"speed":0.75,"out":"/home/ece/Prathosh/sarvamula_try/clips7/conn_slow.wav"},
+ {"id":"conn_s62",     "meter":"gadya","padas":["ॐ इति स्कान्दे"],"seed":62,"no_sandhi":true,"speed":0.90,"out":"/home/ece/Prathosh/sarvamula_try/clips7/conn_s62.wav"}
+]

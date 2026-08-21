@@ -1,0 +1,928 @@
+[
+ {
+  "id": "pmk_seq1",
+  "ref": null,
+  "seq": 1,
+  "kind": "prose_only",
+  "adhyaya": "मायावाद्युदितप्रपञ्चमिथ्यात्वानुमानानुवादः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 6.9,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "pmk_seq1",
+    "from": 1,
+    "to": 1,
+    "seq": 1,
+    "covers": [
+     1
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "pmk_seq1_u01_padya_p01_7a905e",
+       "pmk_seq1_u01_padya_p02_984fbc",
+       "pmk_seq1_u01_padya_p03_cad1bf",
+       "pmk_seq1_u01_padya_p04_190330"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "pmk_seq1_u01_padya_p01_7a905e",
+     "pmk_seq1_u01_padya_p02_984fbc",
+     "pmk_seq1_u01_padya_p03_cad1bf",
+     "pmk_seq1_u01_padya_p04_190330"
+    ],
+    "est_sec": 6.9,
+    "path": "prapancha_mithyatva_khandana/misc/pmk_seq1.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "text": "विमतं मिथ्या दृश्यत्वात् यदित्थं तत् तथा यथा सम्प्रतिपन्नम्",
+    "padas": [
+     "विमतं मिथ्या",
+     "दृश्यत्वात्",
+     "यदित्थं तत् तथा",
+     "यथा सम्प्रतिपन्नम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "विमतं मिथ्या, दृश्यत्वात्, यदित्थं तत् तथा, यथा सम्प्रतिपन्नम्",
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback:len6:undetected",
+    "clip": "pmk_seq1_u01_padya_a625ba",
+    "clips": [
+     "pmk_seq1_u01_padya_p01_7a905e",
+     "pmk_seq1_u01_padya_p02_984fbc",
+     "pmk_seq1_u01_padya_p03_cad1bf",
+     "pmk_seq1_u01_padya_p04_190330"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pmk_seq3",
+  "ref": null,
+  "seq": 3,
+  "kind": "prose_only",
+  "adhyaya": "तत्र प्रतिज्ञादोषाः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 13.6,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "pmk_seq3",
+    "from": 1,
+    "to": 1,
+    "seq": 3,
+    "covers": [
+     3
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "pmk_seq3_u01_gadya_p01_5d7f9e",
+       "pmk_seq3_u01_gadya_p02_a75c0b",
+       "pmk_seq3_u01_gadya_p03_001e01",
+       "pmk_seq3_u01_gadya_p04_2fbc0d"
+      ],
+      "bounds": [
+       "soft",
+       "hard",
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "pmk_seq3_u01_gadya_p01_5d7f9e",
+     "pmk_seq3_u01_gadya_p02_a75c0b",
+     "pmk_seq3_u01_gadya_p03_001e01",
+     "pmk_seq3_u01_gadya_p04_2fbc0d"
+    ],
+    "est_sec": 13.6,
+    "path": "prapancha_mithyatva_khandana/misc/pmk_seq3.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "text": "इत्युक्ते जगतो भावादाश्रयासिद्धः पक्षः अनिर्वचनीयासिद्धेरप्रसिद्धविशेषणः सदसद्वैलक्षण्ये मिथ्यात्वे सिद्धसाधनता",
+    "padas": [
+     "इत्युक्ते जगतो भावादाश्रयासिद्धः",
+     "पक्षः",
+     "अनिर्वचनीयासिद्धेरप्रसिद्धविशेषणः",
+     "सदसद्वैलक्षण्ये मिथ्यात्वे सिद्धसाधनता"
+    ],
+    "bounds": [
+     "soft",
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "इत्युक्ते जगतो भावादाश्रयासिद्धः पक्षः। अनिर्वचनीयासिद्धेरप्रसिद्धविशेषणः। सदसद्वैलक्षण्ये मिथ्यात्वे सिद्धसाधनता।",
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pmk_seq3_u01_gadya_346faf",
+    "clips": [
+     "pmk_seq3_u01_gadya_p01_5d7f9e",
+     "pmk_seq3_u01_gadya_p02_a75c0b",
+     "pmk_seq3_u01_gadya_p03_001e01",
+     "pmk_seq3_u01_gadya_p04_2fbc0d"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pmk_seq5",
+  "ref": null,
+  "seq": 5,
+  "kind": "prose_only",
+  "adhyaya": "हेतुदोषाः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 57.5,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "pmk_seq5",
+    "from": 1,
+    "to": 9,
+    "seq": 5,
+    "covers": [
+     5
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "pmk_seq5_u01_gadya_p01_f872a6",
+       "pmk_seq5_u01_gadya_p02_96f690",
+       "pmk_seq5_u01_gadya_p03_57f39e",
+       "pmk_seq5_u01_gadya_p04_1d1218",
+       "pmk_seq5_u01_gadya_p05_9ca241",
+       "pmk_seq5_u01_gadya_p06_05e1ef"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "pmk_seq5_u02_padya_p01_fc5b1c"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 3,
+      "type": "gadya",
+      "clips": [
+       "pmk_seq5_u03_gadya_p01_a74d77"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 4,
+      "type": "padya",
+      "clips": [
+       "pmk_seq5_u04_padya_p01_3ebfc0"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 5,
+      "type": "gadya",
+      "clips": [
+       "pmk_seq5_u05_gadya_p01_fb4694"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 6,
+      "type": "padya",
+      "clips": [
+       "pmk_seq5_u06_padya_p01_3d9c02",
+       "pmk_seq5_u06_padya_p02_e3dc05"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 7,
+      "type": "gadya",
+      "clips": [
+       "pmk_seq5_u07_gadya_p01_6dcc17"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 8,
+      "type": "padya",
+      "clips": [
+       "pmk_seq5_u08_padya_p01_81d7d8",
+       "pmk_seq5_u08_padya_p02_8213bc",
+       "pmk_seq5_u08_padya_p03_cad1bf",
+       "pmk_seq5_u08_padya_p04_35f20d"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 9,
+      "type": "gadya",
+      "clips": [
+       "pmk_seq5_u09_gadya_p01_7a2db9"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "pmk_seq5_u01_gadya_p01_f872a6",
+     "pmk_seq5_u01_gadya_p02_96f690",
+     "pmk_seq5_u01_gadya_p03_57f39e",
+     "pmk_seq5_u01_gadya_p04_1d1218",
+     "pmk_seq5_u01_gadya_p05_9ca241",
+     "pmk_seq5_u01_gadya_p06_05e1ef",
+     "pmk_seq5_u02_padya_p01_fc5b1c",
+     "pmk_seq5_u03_gadya_p01_a74d77",
+     "pmk_seq5_u04_padya_p01_3ebfc0",
+     "pmk_seq5_u05_gadya_p01_fb4694",
+     "pmk_seq5_u06_padya_p01_3d9c02",
+     "pmk_seq5_u06_padya_p02_e3dc05",
+     "pmk_seq5_u07_gadya_p01_6dcc17",
+     "pmk_seq5_u08_padya_p01_81d7d8",
+     "pmk_seq5_u08_padya_p02_8213bc",
+     "pmk_seq5_u08_padya_p03_cad1bf",
+     "pmk_seq5_u08_padya_p04_35f20d",
+     "pmk_seq5_u09_gadya_p01_7a2db9"
+    ],
+    "est_sec": 57.5,
+    "path": "prapancha_mithyatva_khandana/misc/pmk_seq5.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "text": "दृश्यत्वाभावादसिद्धो हेतुः अनिर्वचनीयासिद्धेरेव अनिर्वचनीयासिद्धेरेव सपक्षाभावाद्‌ विरुद्धः आत्मनोऽपि दृश्यत्वादनैकान्तिकः जगतोऽभावेऽनुमानस्याप्यभाव इति तर्कबाधितत्वेनानध्यवसितः प्रत्यक्षादिविरुद्धत्वात्",
+    "padas": [
+     "दृश्यत्वाभावादसिद्धो हेतुः",
+     "अनिर्वचनीयासिद्धेरेव",
+     "अनिर्वचनीयासिद्धेरेव सपक्षाभावाद्‌ विरुद्धः",
+     "आत्मनोऽपि दृश्यत्वादनैकान्तिकः",
+     "जगतोऽभावेऽनुमानस्याप्यभाव इति तर्कबाधितत्वेनानध्यवसितः",
+     "प्रत्यक्षादिविरुद्धत्वात्"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "दृश्यत्वाभावादसिद्धो हेतुः। अनिर्वचनीयासिद्धेरेव। अनिर्वचनीयासिद्धेरेव सपक्षाभावाद्‌ विरुद्धः। आत्मनोऽपि दृश्यत्वादनैकान्तिकः। जगतोऽभावेऽनुमानस्याप्यभाव इति तर्कबाधितत्वेनानध्यवसितः। प्रत्यक्षादिविरुद्धत्वात्",
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pmk_seq5_u01_gadya_b483a7",
+    "clips": [
+     "pmk_seq5_u01_gadya_p01_f872a6",
+     "pmk_seq5_u01_gadya_p02_96f690",
+     "pmk_seq5_u01_gadya_p03_57f39e",
+     "pmk_seq5_u01_gadya_p04_1d1218",
+     "pmk_seq5_u01_gadya_p05_9ca241",
+     "pmk_seq5_u01_gadya_p06_05e1ef"
+    ]
+   },
+   {
+    "type": "padya",
+    "text": "विश्वं सत्यम्",
+    "padas": [
+     "विश्वं सत्यम्"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "विश्वं सत्यम्",
+    "n": 2,
+    "meter": "vasantatilakā",
+    "meter_src": "fallback:len4-nomatch:undetected",
+    "clip": "pmk_seq5_u02_padya_fc5b1c",
+    "clips": [
+     "pmk_seq5_u02_padya_p01_fc5b1c"
+    ]
+   },
+   {
+    "type": "gadya",
+    "text": "इत्यादिवाक्यविरुद्धत्वाच्च कालात्ययापदिष्टः",
+    "padas": [
+     "इत्यादिवाक्यविरुद्धत्वाच्च कालात्ययापदिष्टः"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "इत्यादिवाक्यविरुद्धत्वाच्च कालात्ययापदिष्टः।",
+    "n": 3,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pmk_seq5_u03_gadya_a74d77",
+    "clips": [
+     "pmk_seq5_u03_gadya_p01_a74d77"
+    ]
+   },
+   {
+    "type": "padya",
+    "text": "रजतं दृष्टम्",
+    "padas": [
+     "रजतं दृष्टम्"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "रजतं दृष्टम्",
+    "n": 4,
+    "meter": "vasantatilakā",
+    "meter_src": "fallback:len5-nomatch:undetected",
+    "clip": "pmk_seq5_u04_padya_3ebfc0",
+    "clips": [
+     "pmk_seq5_u04_padya_p01_3ebfc0"
+    ]
+   },
+   {
+    "type": "gadya",
+    "text": "इति भ्रममात्रत्वात्",
+    "padas": [
+     "इति भ्रममात्रत्वात्"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "इति भ्रममात्रत्वात्",
+    "n": 5,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pmk_seq5_u05_gadya_fb4694",
+    "clips": [
+     "pmk_seq5_u05_gadya_p01_fb4694"
+    ]
+   },
+   {
+    "type": "padya",
+    "text": "विमतं सत्यं दृश्यत्वात् आत्मवत्‌",
+    "padas": [
+     "विमतं सत्यं दृश्यत्वात्",
+     "आत्मवत्‌"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "विमतं सत्यं दृश्यत्वात्, आत्मवत्‌",
+    "n": 6,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback:len8:undetected",
+    "clip": "pmk_seq5_u06_padya_f8afb7",
+    "clips": [
+     "pmk_seq5_u06_padya_p01_3d9c02",
+     "pmk_seq5_u06_padya_p02_e3dc05"
+    ]
+   },
+   {
+    "type": "gadya",
+    "text": "इत्यपि प्रयोज्यत्वात् प्रकरणसमः",
+    "padas": [
+     "इत्यपि प्रयोज्यत्वात् प्रकरणसमः"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "इत्यपि प्रयोज्यत्वात् प्रकरणसमः।",
+    "n": 7,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pmk_seq5_u07_gadya_6dcc17",
+    "clips": [
+     "pmk_seq5_u07_gadya_p01_6dcc17"
+    ]
+   },
+   {
+    "type": "padya",
+    "text": "विमतं सत्यम् प्रमाणदृष्टत्वात् यदित्थं तत् तथा यथाऽऽत्मा",
+    "padas": [
+     "विमतं सत्यम्",
+     "प्रमाणदृष्टत्वात्",
+     "यदित्थं तत् तथा",
+     "यथाऽऽत्मा"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "विमतं सत्यम्, प्रमाणदृष्टत्वात्, यदित्थं तत् तथा, यथाऽऽत्मा",
+    "n": 8,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback:len6:undetected",
+    "clip": "pmk_seq5_u08_padya_4a06a2",
+    "clips": [
+     "pmk_seq5_u08_padya_p01_81d7d8",
+     "pmk_seq5_u08_padya_p02_8213bc",
+     "pmk_seq5_u08_padya_p03_cad1bf",
+     "pmk_seq5_u08_padya_p04_35f20d"
+    ]
+   },
+   {
+    "type": "gadya",
+    "text": "इति प्रयोगात् सप्रतिसाधनः",
+    "padas": [
+     "इति प्रयोगात् सप्रतिसाधनः"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "इति प्रयोगात् सप्रतिसाधनः।",
+    "n": 9,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pmk_seq5_u09_gadya_7a2db9",
+    "clips": [
+     "pmk_seq5_u09_gadya_p01_7a2db9"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pmk_seq7",
+  "ref": null,
+  "seq": 7,
+  "kind": "prose_only",
+  "adhyaya": "दृष्टान्तदोषौ",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 12.0,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "pmk_seq7",
+    "from": 1,
+    "to": 1,
+    "seq": 7,
+    "covers": [
+     7
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "pmk_seq7_u01_gadya_p01_4d0f16",
+       "pmk_seq7_u01_gadya_p02_d68790"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "pmk_seq7_u01_gadya_p01_4d0f16",
+     "pmk_seq7_u01_gadya_p02_d68790"
+    ],
+    "est_sec": 12.0,
+    "path": "prapancha_mithyatva_khandana/misc/pmk_seq7.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "text": "शुक्तिरजतस्याप्यनिर्वचनीयत्वाभावात् साध्यविकलो दृष्टान्तः उक्तप्रकारेण दृश्यत्वाभावात् साधनविकलश्च",
+    "padas": [
+     "शुक्तिरजतस्याप्यनिर्वचनीयत्वाभावात् साध्यविकलो दृष्टान्तः",
+     "उक्तप्रकारेण दृश्यत्वाभावात् साधनविकलश्च"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "शुक्तिरजतस्याप्यनिर्वचनीयत्वाभावात् साध्यविकलो दृष्टान्तः। उक्तप्रकारेण दृश्यत्वाभावात् साधनविकलश्च।",
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pmk_seq7_u01_gadya_a25a88",
+    "clips": [
+     "pmk_seq7_u01_gadya_p01_4d0f16",
+     "pmk_seq7_u01_gadya_p02_d68790"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pmk_seq9",
+  "ref": null,
+  "seq": 9,
+  "kind": "prose_only",
+  "adhyaya": "उपाधिरूपदोषः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 2.5,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "pmk_seq9",
+    "from": 1,
+    "to": 1,
+    "seq": 9,
+    "covers": [
+     9
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "pmk_seq9_u01_gadya_p01_a7aea4"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "pmk_seq9_u01_gadya_p01_a7aea4"
+    ],
+    "est_sec": 2.5,
+    "path": "prapancha_mithyatva_khandana/misc/pmk_seq9.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "text": "प्रमाणविरुद्धत्वमुपाधिः",
+    "padas": [
+     "प्रमाणविरुद्धत्वमुपाधिः"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "प्रमाणविरुद्धत्वमुपाधिः।",
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pmk_seq9_u01_gadya_a7aea4",
+    "clips": [
+     "pmk_seq9_u01_gadya_p01_a7aea4"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pmk_seq11",
+  "ref": null,
+  "seq": 11,
+  "kind": "prose_only",
+  "adhyaya": "पक्षप्रतिज्ञादिदलक्षणम्",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 16.6,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "pmk_seq11",
+    "from": 1,
+    "to": 1,
+    "seq": 11,
+    "covers": [
+     11
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "pmk_seq11_u01_gadya_p01_ea73ed",
+       "pmk_seq11_u01_gadya_p02_a2b9b3",
+       "pmk_seq11_u01_gadya_p03_f24bb9",
+       "pmk_seq11_u01_gadya_p04_e03b83",
+       "pmk_seq11_u01_gadya_p05_3ecc0e",
+       "pmk_seq11_u01_gadya_p06_f985eb"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "pmk_seq11_u01_gadya_p01_ea73ed",
+     "pmk_seq11_u01_gadya_p02_a2b9b3",
+     "pmk_seq11_u01_gadya_p03_f24bb9",
+     "pmk_seq11_u01_gadya_p04_e03b83",
+     "pmk_seq11_u01_gadya_p05_3ecc0e",
+     "pmk_seq11_u01_gadya_p06_f985eb"
+    ],
+    "est_sec": 16.6,
+    "path": "prapancha_mithyatva_khandana/misc/pmk_seq11.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "text": "साध्यधर्मविशिष्टः पक्षः साध्यसमानधर्मविशिष्टः सपक्षः साध्यविपरीतधर्मविशिष्टो विपक्षः पक्षवचनं प्रतिज्ञा लिङ्गं हेतुः निदर्शनं दृष्टान्तः",
+    "padas": [
+     "साध्यधर्मविशिष्टः पक्षः",
+     "साध्यसमानधर्मविशिष्टः सपक्षः",
+     "साध्यविपरीतधर्मविशिष्टो विपक्षः",
+     "पक्षवचनं प्रतिज्ञा",
+     "लिङ्गं हेतुः",
+     "निदर्शनं दृष्टान्तः"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "साध्यधर्मविशिष्टः पक्षः। साध्यसमानधर्मविशिष्टः सपक्षः। साध्यविपरीतधर्मविशिष्टो विपक्षः। पक्षवचनं प्रतिज्ञा। लिङ्गं हेतुः। निदर्शनं दृष्टान्तः।",
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pmk_seq11_u01_gadya_8cb9aa",
+    "clips": [
+     "pmk_seq11_u01_gadya_p01_ea73ed",
+     "pmk_seq11_u01_gadya_p02_a2b9b3",
+     "pmk_seq11_u01_gadya_p03_f24bb9",
+     "pmk_seq11_u01_gadya_p04_e03b83",
+     "pmk_seq11_u01_gadya_p05_3ecc0e",
+     "pmk_seq11_u01_gadya_p06_f985eb"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pmk_seq13",
+  "ref": null,
+  "seq": 13,
+  "kind": "prose_only",
+  "adhyaya": "अन्तिममङ्गलाचरणम्",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 10.3,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "pmk_seq13",
+    "from": 1,
+    "to": 3,
+    "seq": 13,
+    "covers": [
+     13
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "pmk_seq13_u01_gadya_p01_f4cfe3"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "pmk_seq13_u02_padya_p01_d9f9b6"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 3,
+      "type": "gadya",
+      "clips": [
+       "pmk_seq13_u03_gadya_p01_378a7a",
+       "pmk_seq13_u03_gadya_p02_a19318"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "pmk_seq13_u01_gadya_p01_f4cfe3",
+     "pmk_seq13_u02_padya_p01_d9f9b6",
+     "pmk_seq13_u03_gadya_p01_378a7a",
+     "pmk_seq13_u03_gadya_p02_a19318"
+    ],
+    "est_sec": 10.3,
+    "path": "prapancha_mithyatva_khandana/misc/pmk_seq13.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "text": "यो",
+    "padas": [
+     "यो"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "यो",
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pmk_seq13_u01_gadya_f4cfe3",
+    "clips": [
+     "pmk_seq13_u01_gadya_p01_f4cfe3"
+    ]
+   },
+   {
+    "type": "padya",
+    "text": "दृश्यते",
+    "padas": [
+     "दृश्यते"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "दृश्यते",
+    "n": 2,
+    "meter": "vasantatilakā",
+    "meter_src": "fallback:len3-nomatch:undetected",
+    "clip": "pmk_seq13_u02_padya_d9f9b6",
+    "clips": [
+     "pmk_seq13_u02_padya_p01_d9f9b6"
+    ]
+   },
+   {
+    "type": "gadya",
+    "padas": [
+     "सदानन्दनित्यव्यक्तचिदात्मना",
+     "निर्दोषाखिलकल्याणगुणं वन्दे रमापतिम्"
+    ],
+    "text": "सदानन्दनित्यव्यक्तचिदात्मना निर्दोषाखिलकल्याणगुणं वन्दे रमापतिम्",
+    "opens_pranava": false,
+    "raw": "सदानन्दनित्यव्यक्तचिदात्मना। निर्दोषाखिलकल्याणगुणं वन्दे रमापतिम्",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 3,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pmk_seq13_u03_gadya_ac51ba",
+    "clips": [
+     "pmk_seq13_u03_gadya_p01_378a7a",
+     "pmk_seq13_u03_gadya_p02_a19318"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pmk_seq14",
+  "ref": null,
+  "seq": 14,
+  "kind": "colophon",
+  "adhyaya": "अन्तिममङ्गलाचरणम्",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 10.2,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "pmk_seq14",
+    "from": 1,
+    "to": 1,
+    "seq": 14,
+    "covers": [
+     14
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "pmk_seq14_u01_gadya_p01_8a5f69",
+       "pmk_seq14_u01_gadya_p02_164ead"
+      ],
+      "bounds": [
+       "soft",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "pmk_seq14_u01_gadya_p01_8a5f69",
+     "pmk_seq14_u01_gadya_p02_164ead"
+    ],
+    "est_sec": 10.2,
+    "path": "prapancha_mithyatva_khandana/misc/pmk_seq14.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "padas": [
+     "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं",
+     "प्रपञ्चमिथ्यात्वानुमानखण्डनं सम्पूर्णम्"
+    ],
+    "text": "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं प्रपञ्चमिथ्यात्वानुमानखण्डनं सम्पूर्णम्",
+    "opens_pranava": false,
+    "raw": "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं प्रपञ्चमिथ्यात्वानुमानखण्डनं सम्पूर्णम्",
+    "bounds": [
+     "soft",
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pmk_seq14_u01_gadya_386c88",
+    "clips": [
+     "pmk_seq14_u01_gadya_p01_8a5f69",
+     "pmk_seq14_u01_gadya_p02_164ead"
+    ]
+   }
+  ]
+ }
+]

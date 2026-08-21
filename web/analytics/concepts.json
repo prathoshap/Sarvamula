@@ -1,0 +1,842 @@
+[
+ {
+  "id": "taratamya",
+  "dev": "तारतम्य",
+  "iast": "tāratamya",
+  "gloss": "gradation/hierarchy of souls",
+  "terms": [
+   "तारतम्य"
+  ],
+  "stems": [
+   "taratamya"
+  ],
+  "topics": [
+   "तारतम्य"
+  ]
+ },
+ {
+  "id": "bheda",
+  "dev": "भेद",
+  "iast": "bheda",
+  "gloss": "difference (pañca-bheda)",
+  "terms": [
+   "भेद",
+   "पञ्चभेद"
+  ],
+  "stems": [
+   "beda",
+   "pancabeda"
+  ],
+  "topics": [
+   "भेद",
+   "पञ्चभेद"
+  ]
+ },
+ {
+  "id": "abheda",
+  "dev": "अभेद",
+  "iast": "abheda",
+  "gloss": "non-difference (refuted)",
+  "terms": [
+   "अभेद"
+  ],
+  "stems": [
+   "abeda"
+  ],
+  "topics": [
+   "अभेद"
+  ]
+ },
+ {
+  "id": "moksha",
+  "dev": "मोक्ष",
+  "iast": "mokṣa",
+  "gloss": "liberation",
+  "terms": [
+   "मोक्ष",
+   "मुक्ति",
+   "अपवर्ग"
+  ],
+  "stems": [
+   "apavarga",
+   "moksa",
+   "mukti"
+  ],
+  "topics": [
+   "मोक्ष",
+   "मुक्ति",
+   "अपवर्ग"
+  ]
+ },
+ {
+  "id": "jiva",
+  "dev": "जीव",
+  "iast": "jīva",
+  "gloss": "the individual soul",
+  "terms": [
+   "जीव"
+  ],
+  "stems": [
+   "jiva"
+  ],
+  "topics": [
+   "जीव"
+  ]
+ },
+ {
+  "id": "sakshi",
+  "dev": "साक्षी",
+  "iast": "sākṣī",
+  "gloss": "the witness-consciousness",
+  "terms": [
+   "साक्षि",
+   "साक्षी"
+  ],
+  "stems": [
+   "saksi"
+  ],
+  "topics": [
+   "साक्षि",
+   "साक्षी"
+  ]
+ },
+ {
+  "id": "bimba",
+  "dev": "बिम्ब",
+  "iast": "bimba-pratibimba",
+  "gloss": "reflection (soul as God’s image)",
+  "terms": [
+   "बिम्ब",
+   "प्रतिबिम्ब"
+  ],
+  "stems": [
+   "bimba",
+   "pratibimba"
+  ],
+  "topics": [
+   "बिम्ब",
+   "प्रतिबिम्ब"
+  ]
+ },
+ {
+  "id": "svatantra",
+  "dev": "स्वतन्त्र",
+  "iast": "svatantra",
+  "gloss": "the independent (God)",
+  "terms": [
+   "स्वतन्त्र"
+  ],
+  "stems": [
+   "svatantra"
+  ],
+  "topics": [
+   "स्वतन्त्र"
+  ]
+ },
+ {
+  "id": "paratantra",
+  "dev": "परतन्त्र",
+  "iast": "paratantra",
+  "gloss": "the dependent (all else)",
+  "terms": [
+   "परतन्त्र",
+   "अस्वतन्त्र"
+  ],
+  "stems": [
+   "asvatantra",
+   "paratantra"
+  ],
+  "topics": [
+   "परतन्त्र",
+   "अस्वतन्त्र"
+  ]
+ },
+ {
+  "id": "sarvottama",
+  "dev": "सर्वोत्तम",
+  "iast": "viṣṇu-sarvottamatva",
+  "gloss": "supremacy of Viṣṇu",
+  "terms": [
+   "सर्वोत्तम",
+   "उत्तमत्व"
+  ],
+  "stems": [
+   "sarvottama",
+   "uttamatva"
+  ],
+  "topics": [
+   "सर्वोत्तम",
+   "उत्तमत्व"
+  ]
+ },
+ {
+  "id": "vayu",
+  "dev": "वायु",
+  "iast": "vāyu (jīvottama)",
+  "gloss": "Vāyu as the highest soul",
+  "terms": [
+   "वायु",
+   "मुख्यप्राण",
+   "हनूमत्",
+   "भीम"
+  ],
+  "stems": [
+   "bima",
+   "hanumat",
+   "mukyaprana",
+   "vayu"
+  ],
+  "topics": [
+   "वायु",
+   "मुख्यप्राण",
+   "हनूमत्",
+   "भीम"
+  ]
+ },
+ {
+  "id": "aparoksha",
+  "dev": "अपरोक्ष",
+  "iast": "aparokṣa-jñāna",
+  "gloss": "direct/intuitive knowledge",
+  "terms": [
+   "अपरोक्ष"
+  ],
+  "stems": [
+   "aparoksa"
+  ],
+  "topics": [
+   "अपरोक्ष"
+  ]
+ },
+ {
+  "id": "bhakti",
+  "dev": "भक्ति",
+  "iast": "bhakti",
+  "gloss": "devotion",
+  "terms": [
+   "भक्ति"
+  ],
+  "stems": [
+   "bakti"
+  ],
+  "topics": [
+   "भक्ति"
+  ]
+ },
+ {
+  "id": "prasada",
+  "dev": "प्रसाद",
+  "iast": "prasāda",
+  "gloss": "divine grace",
+  "terms": [
+   "प्रसाद"
+  ],
+  "stems": [
+   "prasada"
+  ],
+  "topics": [
+   "प्रसाद"
+  ]
+ },
+ {
+  "id": "ananda",
+  "dev": "आनन्द",
+  "iast": "ānanda",
+  "gloss": "bliss (of Brahman/mukta)",
+  "terms": [
+   "आनन्द"
+  ],
+  "stems": [
+   "ananda"
+  ],
+  "topics": [
+   "आनन्द"
+  ]
+ },
+ {
+  "id": "guna",
+  "dev": "गुण",
+  "iast": "guṇa-paripūrṇatva",
+  "gloss": "fullness of auspicious qualities",
+  "terms": [
+   "गुण",
+   "निर्दोष",
+   "दोषवर्जित"
+  ],
+  "stems": [
+   "dosavarjita",
+   "guna",
+   "nirdosa"
+  ],
+  "topics": [
+   "गुण",
+   "निर्दोष",
+   "दोषवर्जित"
+  ]
+ },
+ {
+  "id": "avatara",
+  "dev": "अवतार",
+  "iast": "avatāra",
+  "gloss": "divine descents",
+  "terms": [
+   "अवतार"
+  ],
+  "stems": [
+   "avatara"
+  ],
+  "topics": [
+   "अवतार"
+  ]
+ },
+ {
+  "id": "prakriti",
+  "dev": "प्रकृति",
+  "iast": "prakṛti",
+  "gloss": "primordial matter",
+  "terms": [
+   "प्रकृति"
+  ],
+  "stems": [
+   "prakriti"
+  ],
+  "topics": [
+   "प्रकृति"
+  ]
+ },
+ {
+  "id": "karma",
+  "dev": "कर्म",
+  "iast": "karma",
+  "gloss": "action / its fruits",
+  "terms": [
+   "कर्म"
+  ],
+  "stems": [
+   "karma"
+  ],
+  "topics": [
+   "कर्म"
+  ]
+ },
+ {
+  "id": "yogyata",
+  "dev": "योग्यता",
+  "iast": "yogyatā",
+  "gloss": "innate fitness (of souls)",
+  "terms": [
+   "योग्यता",
+   "स्वरूप"
+  ],
+  "stems": [
+   "svarupa",
+   "yogyata"
+  ],
+  "topics": [
+   "योग्यता",
+   "स्वरूप"
+  ]
+ },
+ {
+  "id": "pramana",
+  "dev": "प्रमाण",
+  "iast": "pramāṇa",
+  "gloss": "means of valid knowledge",
+  "terms": [
+   "प्रमाण"
+  ],
+  "stems": [
+   "pramana"
+  ],
+  "topics": [
+   "प्रमाण"
+  ]
+ },
+ {
+  "id": "sakshin_kevala",
+  "dev": "केवल",
+  "iast": "kevala-pramāṇa",
+  "gloss": "the witness as ultimate pramāṇa",
+  "terms": [
+   "केवल"
+  ],
+  "stems": [
+   "kevala"
+  ],
+  "topics": [
+   "केवल"
+  ]
+ },
+ {
+  "id": "brahman",
+  "dev": "ब्रह्म",
+  "iast": "brahman",
+  "gloss": "the Supreme (Viṣṇu)",
+  "terms": [
+   "ब्रह्म",
+   "नारायण",
+   "विष्णु",
+   "हरि",
+   "केशव",
+   "वासुदेव"
+  ],
+  "stems": [
+   "brahma",
+   "hari",
+   "kesava",
+   "narayana",
+   "vasudeva",
+   "visnu"
+  ],
+  "topics": [
+   "ब्रह्म",
+   "नारायण",
+   "विष्णु",
+   "हरि",
+   "केशव",
+   "वासुदेव"
+  ]
+ },
+ {
+  "id": "mukti_taratamya",
+  "dev": "मुक्तितारतम्य",
+  "iast": "mukti-tāratamya",
+  "gloss": "gradation even in liberation",
+  "terms": [
+   "मुक्तितारतम्य",
+   "आनन्दतारतम्य"
+  ],
+  "stems": [
+   "anandataratamya",
+   "muktitaratamya"
+  ],
+  "topics": [
+   "मुक्तितारतम्य",
+   "आनन्दतारतम्य"
+  ]
+ },
+ {
+  "id": "nitya_baddha",
+  "dev": "नित्यबद्ध",
+  "iast": "nitya-baddha / tamo-yogya",
+  "gloss": "eternally-bound souls",
+  "terms": [
+   "नित्यबद्ध",
+   "तमोयोग्य",
+   "अन्धन्तम"
+  ],
+  "stems": [
+   "andantama",
+   "nityabadda",
+   "tamoyogya"
+  ],
+  "topics": [
+   "नित्यबद्ध",
+   "तमोयोग्य",
+   "अन्धन्तम"
+  ]
+ },
+ {
+  "id": "dvaita",
+  "dev": "द्वैत",
+  "iast": "dvaita",
+  "gloss": "the doctrine of real difference",
+  "terms": [
+   "द्वैत",
+   "द्वित्व"
+  ],
+  "stems": [
+   "dveta",
+   "dvitva"
+  ],
+  "topics": [
+   "द्वैत",
+   "द्वित्व"
+  ]
+ },
+ {
+  "id": "ishvara",
+  "dev": "ईश्वर",
+  "iast": "īśvara",
+  "gloss": "the Lord",
+  "terms": [
+   "ईश्वर",
+   "ईशित"
+  ],
+  "stems": [
+   "isita",
+   "isvara"
+  ],
+  "topics": [
+   "ईश्वर",
+   "ईशित"
+  ]
+ },
+ {
+  "id": "lakshmi",
+  "dev": "लक्ष्मी",
+  "iast": "lakṣmī / śrī",
+  "gloss": "the consort, first among dependents",
+  "terms": [
+   "लक्ष्मी",
+   "श्री",
+   "रमा",
+   "इन्दिरा"
+  ],
+  "stems": [
+   "indira",
+   "laksmi",
+   "rama",
+   "sri"
+  ],
+  "topics": [
+   "लक्ष्मी",
+   "श्री",
+   "रमा",
+   "इन्दिरा"
+  ]
+ },
+ {
+  "id": "mukhyaprana",
+  "dev": "मुख्यप्राण",
+  "iast": "mukhya-prāṇa",
+  "gloss": "chief vital-force (= Vāyu)",
+  "terms": [
+   "मुख्यप्राण",
+   "प्राण"
+  ],
+  "stems": [
+   "mukyaprana",
+   "prana"
+  ],
+  "topics": [
+   "मुख्यप्राण",
+   "प्राण"
+  ]
+ },
+ {
+  "id": "tamas",
+  "dev": "तमस्",
+  "iast": "andha-tamas",
+  "gloss": "the blinding darkness (for tamo-yogyas)",
+  "terms": [
+   "तमस्",
+   "अन्धन्तम",
+   "अन्धतम"
+  ],
+  "stems": [
+   "andantama",
+   "andatama",
+   "tamas"
+  ],
+  "topics": [
+   "तमस्",
+   "अन्धन्तम",
+   "अन्धतम"
+  ]
+ },
+ {
+  "id": "sadhana",
+  "dev": "साधन",
+  "iast": "sādhana",
+  "gloss": "the means to liberation",
+  "terms": [
+   "साधन"
+  ],
+  "stems": [
+   "sadana"
+  ],
+  "topics": [
+   "साधन"
+  ]
+ },
+ {
+  "id": "vairagya",
+  "dev": "वैराग्य",
+  "iast": "vairāgya",
+  "gloss": "dispassion",
+  "terms": [
+   "वैराग्य"
+  ],
+  "stems": [
+   "veragya"
+  ],
+  "topics": [
+   "वैराग्य"
+  ]
+ },
+ {
+  "id": "jnana",
+  "dev": "ज्ञान",
+  "iast": "jñāna",
+  "gloss": "knowledge",
+  "terms": [
+   "ज्ञान",
+   "विज्ञान"
+  ],
+  "stems": [
+   "jnana",
+   "vijnana"
+  ],
+  "topics": [
+   "ज्ञान",
+   "विज्ञान"
+  ]
+ },
+ {
+  "id": "upasana",
+  "dev": "उपासन",
+  "iast": "upāsanā",
+  "gloss": "meditative worship",
+  "terms": [
+   "उपासन",
+   "उपास"
+  ],
+  "stems": [
+   "upasa",
+   "upasana"
+  ],
+  "topics": [
+   "उपासन",
+   "उपास"
+  ]
+ },
+ {
+  "id": "guru",
+  "dev": "गुरु",
+  "iast": "guru",
+  "gloss": "the teacher",
+  "terms": [
+   "गुरु"
+  ],
+  "stems": [
+   "guru"
+  ],
+  "topics": [
+   "गुरु"
+  ]
+ },
+ {
+  "id": "vedapramanya",
+  "dev": "प्रामाण्य",
+  "iast": "veda-prāmāṇya",
+  "gloss": "authority of the Veda",
+  "terms": [
+   "प्रामाण्य",
+   "अपौरुषेय"
+  ],
+  "stems": [
+   "aporuseya",
+   "pramanya"
+  ],
+  "topics": [
+   "प्रामाण्य",
+   "अपौरुषेय"
+  ]
+ },
+ {
+  "id": "antaryami",
+  "dev": "अन्तर्यामि",
+  "iast": "antaryāmin",
+  "gloss": "the inner controller",
+  "terms": [
+   "अन्तर्यामि",
+   "नियन्तृ",
+   "नियम"
+  ],
+  "stems": [
+   "antaryami",
+   "niyama",
+   "niyantri"
+  ],
+  "topics": [
+   "अन्तर्यामि",
+   "नियन्तृ",
+   "नियम"
+  ]
+ },
+ {
+  "id": "srishti",
+  "dev": "सृष्टि",
+  "iast": "sṛṣṭi",
+  "gloss": "creation",
+  "terms": [
+   "सृष्टि",
+   "उत्पत्ति"
+  ],
+  "stems": [
+   "sristi",
+   "utpatti"
+  ],
+  "topics": [
+   "सृष्टि",
+   "उत्पत्ति"
+  ]
+ },
+ {
+  "id": "samhara",
+  "dev": "संहार",
+  "iast": "saṃhāra",
+  "gloss": "dissolution",
+  "terms": [
+   "संहार",
+   "प्रलय"
+  ],
+  "stems": [
+   "pralaya",
+   "sahara"
+  ],
+  "topics": [
+   "संहार",
+   "प्रलय"
+  ]
+ },
+ {
+  "id": "nirdosha",
+  "dev": "निर्दोष",
+  "iast": "nirdoṣatva",
+  "gloss": "faultlessness of God",
+  "terms": [
+   "निर्दोष",
+   "दोषवर्जित"
+  ],
+  "stems": [
+   "dosavarjita",
+   "nirdosa"
+  ],
+  "topics": [
+   "निर्दोष",
+   "दोषवर्जित"
+  ]
+ },
+ {
+  "id": "svarupa",
+  "dev": "स्वरूप",
+  "iast": "svarūpa",
+  "gloss": "essential nature",
+  "terms": [
+   "स्वरूप"
+  ],
+  "stems": [
+   "svarupa"
+  ],
+  "topics": [
+   "स्वरूप"
+  ]
+ },
+ {
+  "id": "paramatma",
+  "dev": "परमात्मन्",
+  "iast": "paramātman",
+  "gloss": "the supreme Self",
+  "terms": [
+   "परमात्म"
+  ],
+  "stems": [
+   "paramatma"
+  ],
+  "topics": [
+   "परमात्म"
+  ]
+ },
+ {
+  "id": "yathartha",
+  "dev": "यथार्थ",
+  "iast": "yathārtha-jñāna",
+  "gloss": "veridical cognition",
+  "terms": [
+   "यथार्थ"
+  ],
+  "stems": [
+   "yatarta"
+  ],
+  "topics": [
+   "यथार्थ"
+  ]
+ },
+ {
+  "id": "bhoga",
+  "dev": "भोग",
+  "iast": "bhoga",
+  "gloss": "experience of karmic fruits",
+  "terms": [
+   "भोग"
+  ],
+  "stems": [
+   "boga"
+  ],
+  "topics": [
+   "भोग"
+  ]
+ },
+ {
+  "id": "acyuta",
+  "dev": "अच्युत",
+  "iast": "acyuta",
+  "gloss": "the changeless one",
+  "terms": [
+   "अच्युत",
+   "निर्विकार"
+  ],
+  "stems": [
+   "acyuta",
+   "nirvikara"
+  ],
+  "topics": [
+   "अच्युत",
+   "निर्विकार"
+  ]
+ },
+ {
+  "id": "vyapti",
+  "dev": "व्यापक",
+  "iast": "vyāpti / sarva-gatatva",
+  "gloss": "divine omnipresence",
+  "terms": [
+   "व्यापक",
+   "व्याप्त",
+   "सर्वगत"
+  ],
+  "stems": [
+   "sarvagata",
+   "vyapaka",
+   "vyapta"
+  ],
+  "topics": [
+   "व्यापक",
+   "व्याप्त",
+   "सर्वगत"
+  ]
+ },
+ {
+  "id": "pada_mahima",
+  "dev": "पादमहिमा",
+  "iast": "pāda-mahimā",
+  "gloss": "the glory of the Lord's feet",
+  "terms": [
+   "पादमहिमा",
+   "चरणमहिमा"
+  ],
+  "topics": [
+   "महिम"
+  ],
+  "all": [
+   [
+    "पाद",
+    "चरण",
+    "पदाम्बुज",
+    "श्रीचरण"
+   ],
+   [
+    "महिमा",
+    "माहात्म्य"
+   ]
+  ],
+  "not": [
+   "प्रथमः पादः",
+   "द्वितीयः पादः",
+   "तृतीयः पादः",
+   "चतुर्थः पादः"
+  ]
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "id": "tsk_seq16_u01_gadya_p01_257464",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सृष्टिः स्थितिः संहृतिश्च नियमोऽज्ञानबोधने"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/works/tatva_sankhyana/clips/tsk_seq16_u01_gadya_p01_257464.wav"
+ },
+ {
+  "id": "tsk_seq16_u02_padya_p01_65f828",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "बन्धो मोक्षः सुखं दुःखमावृत्तिर्ज्योतिरेव च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/works/tatva_sankhyana/clips/tsk_seq16_u02_padya_p01_65f828.wav"
+ },
+ {
+  "id": "tsk_seq16_u02_padya_p02_035d18",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "विष्णुनास्य समस्तस्य समासव्यासयोगतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/works/tatva_sankhyana/clips/tsk_seq16_u02_padya_p02_035d18.wav"
+ }
+]

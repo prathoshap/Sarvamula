@@ -1,0 +1,672 @@
+[
+ {
+  "id": "gt_12_13_u08_padya_p01_f6c54c",
+  "meter": "indravajrā",
+  "padas": [
+   "इत्यादेः सामान्यविशेषव्याख्यानव्याख्येयभावेनापुनरुक्तिः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/gt_12_13_u08_padya_p01_f6c54c.wav"
+ },
+ {
+  "id": "gt_12_13_u08_padya_p02_6abf57",
+  "meter": "indravajrā",
+  "padas": [
+   "हर्षादिभिर्मुक्त इत्युक्ते कादाचित्कमपि भवतीति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/gt_12_13_u08_padya_p02_6abf57.wav"
+ },
+ {
+  "id": "gt_12_13_u10_padya_p01_6cf02c",
+  "meter": "indravajrā",
+  "padas": [
+   "इत्यादि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/gt_12_13_u10_padya_p01_6cf02c.wav"
+ },
+ {
+  "id": "gt_12_13_u10_padya_p02_ed94f3",
+  "meter": "indravajrā",
+  "padas": [
+   "उपचारपरिहारार्थं पूर्वम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/gt_12_13_u10_padya_p02_ed94f3.wav"
+ },
+ {
+  "id": "gt_12_13_u10_padya_p03_342b56",
+  "meter": "indravajrā",
+  "padas": [
+   "आधिक्यज्ञापनार्थं भक्त्यभ्यासः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/gt_12_13_u10_padya_p03_342b56.wav"
+ },
+ {
+  "id": "gt_12_13_u12_gadya_p01_7f42ae",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इत्यादेः प्रपञ्च एषः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/gt_12_13_u12_gadya_p01_7f42ae.wav"
+ },
+ {
+  "id": "gt_14_9_u09_padya_p01_2f0226",
+  "meter": "indravajrā",
+  "padas": [
+   "रजसस्तु फलं दुःखमिति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/gt_14_9_u09_padya_p01_2f0226.wav"
+ },
+ {
+  "id": "gt_14_9_u09_padya_p02_b21f5e",
+  "meter": "indravajrā",
+  "padas": [
+   "अल्पसुखं दुःखम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/gt_14_9_u09_padya_p02_b21f5e.wav"
+ },
+ {
+  "id": "gt_14_9_u09_padya_p03_24a8db",
+  "meter": "indravajrā",
+  "padas": [
+   "तथाहि शार्कराक्ष्यशाखायाम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/gt_14_9_u09_padya_p03_24a8db.wav"
+ },
+ {
+  "id": "gt_14_9_u10_padya_p01_149e08",
+  "meter": "vasantatilakā",
+  "padas": [
+   "रजसो ह्येव जायते मात्रया सुखं दुःखं तस्मात् तान्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/gt_14_9_u10_padya_p01_149e08.wav"
+ },
+ {
+  "id": "gt_14_9_u10_padya_p02_8f1465",
+  "meter": "vasantatilakā",
+  "padas": [
+   "सुखिनो दुःखिन इत्याचक्षते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/gt_14_9_u10_padya_p02_8f1465.wav"
+ },
+ {
+  "id": "gt_14_9_u11_padya_p01_b715db",
+  "meter": "śārdūlavikrīḍita",
+  "padas": [
+   "इति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/gt_14_9_u11_padya_p01_b715db.wav"
+ },
+ {
+  "id": "gt_14_9_u11_padya_p02_38fa43",
+  "meter": "śārdūlavikrīḍita",
+  "padas": [
+   "अन्यथा दुःखस्यातिकष्टत्वात् तमोऽधिकत्वं रजसो न स्यात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/gt_14_9_u11_padya_p02_38fa43.wav"
+ },
+ {
+  "id": "nvv_seq342_u02_padya_p01_5aa574",
+  "meter": "sragdharā",
+  "padas": [
+   "नच गुर्वधीनत्वे ज्ञानमोक्षयोर्ज्ञानिनोऽपि कदाचित् गुरुकोपाज्ज्ञानपराभावेनामुक्तिप्रसङ्गान्न गुर्वधीनत्वमिति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq342_u02_padya_p01_5aa574.wav"
+ },
+ {
+  "id": "nvv_seq342_u02_padya_p02_49d872",
+  "meter": "sragdharā",
+  "padas": [
+   "ज्ञानिनो गुरुशापेऽपि नामुक्तिः संसृतेः क्वचित्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq342_u02_padya_p02_49d872.wav"
+ },
+ {
+  "id": "nvv_seq342_u02_padya_p03_1ecbed",
+  "meter": "sragdharā",
+  "padas": [
+   "आनन्दह्रासदोषेण सैव मुक्तिर्विदुष्यति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq342_u02_padya_p03_1ecbed.wav"
+ },
+ {
+  "id": "nvv_seq342_u02_padya_p04_2245fa",
+  "meter": "sragdharā",
+  "padas": [
+   "इति वचनान्मुक्तिदूषणेनैव गुरुकोपादेः कृतार्थत्वात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq342_u02_padya_p04_2245fa.wav"
+ },
+ {
+  "id": "nvv_seq342_u02_padya_p05_8d3d87",
+  "meter": "sragdharā",
+  "padas": [
+   "ज्ञानिनो ब्रह्मवस्तुवैभवेन मुक्तिः स्यादिति गुरोर्वरेण वा मुक्त्युपपत्तेः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq342_u02_padya_p05_8d3d87.wav"
+ },
+ {
+  "id": "nvv_seq358_u02_padya_p01_5ea8f4",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "भक्तिरेवैनम् इति भक्तेरेव पृथङ्मोचकत्वदर्शनान्नेशकृत्यमिति न मन्तव्यम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq358_u02_padya_p01_5ea8f4.wav"
+ },
+ {
+  "id": "nvv_seq358_u02_padya_p02_f75a5c",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अनादितो गुणाः सन्तो भक्त्याद्या नह्यमूमुचन्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq358_u02_padya_p02_f75a5c.wav"
+ },
+ {
+  "id": "nvv_seq358_u02_padya_p03_1ad184",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "जीवं तद्गुणसुव्यक्तिं कृत्वैनं मोचयेद्धरिः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq358_u02_padya_p03_1ad184.wav"
+ },
+ {
+  "id": "nvv_seq358_u02_padya_p04_dc1e93",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "किञ्चिन्न मोचयेद् वाऽसौ स्वातन्त्र्यं तेन तस्य हि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq358_u02_padya_p04_dc1e93.wav"
+ },
+ {
+  "id": "nvv_seq358_u02_padya_p05_68cb11",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "भक्तिवाक् करणत्वेन सावकाशेशवागथ"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq358_u02_padya_p05_68cb11.wav"
+ },
+ {
+  "id": "nvv_seq358_u02_padya_p06_180217",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "भक्त्यैनं मोचयेद् विष्णुरिति मानत्वमेष्यति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq358_u02_padya_p06_180217.wav"
+ },
+ {
+  "id": "nvv_seq358_u02_padya_p07_ab8fb2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति ब्रह्मतर्कवचनादनादिगुणविस्तरे सत्यप्यव्यक्त्यादिना तदिच्छां विना मोक्षाप्राप्तेः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq358_u02_padya_p07_ab8fb2.wav"
+ },
+ {
+  "id": "nvv_seq427_u02_padya_p01_e29513",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नच सत्यसङ्कल्पत्वादेरीश्वरसङ्कल्पाद्यनुसारित्वनियमे संसारसमानधर्मत्वं मुक्तेरिति वाच्यम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq427_u02_padya_p01_e29513.wav"
+ },
+ {
+  "id": "nvv_seq427_u02_padya_p02_ae1d7e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "कृतार्थत्वेनैव विशेषोपपत्तेः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq427_u02_padya_p02_ae1d7e.wav"
+ },
+ {
+  "id": "nvv_seq427_u02_padya_p03_28e394",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अपूर्णतादिभावो वा दुःखं वा नास्ति किञ्चन"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq427_u02_padya_p03_28e394.wav"
+ },
+ {
+  "id": "nvv_seq427_u02_padya_p04_ca3154",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "मुक्तस्य पारतन्त्र्येऽपि तारतम्येऽप्यतः सुखी"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq427_u02_padya_p04_ca3154.wav"
+ },
+ {
+  "id": "nvv_seq427_u02_padya_p05_1c3dca",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति च श्रुतिः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq427_u02_padya_p05_1c3dca.wav"
+ },
+ {
+  "id": "nvv_seq439_u02_padya_p01_e45f47",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नच चतुर्मुखमुक्तिपर्यन्तं सन्ततत्वनियमात् बन्धस्य तावद् भगवत्प्राप्तिर्नास्तीति नियमः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq439_u02_padya_p01_e45f47.wav"
+ },
+ {
+  "id": "nvv_seq439_u02_padya_p02_69525c",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यान्ति देवं परं केचित् पूर्वं केचिल्लये विभुम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq439_u02_padya_p02_69525c.wav"
+ },
+ {
+  "id": "nvv_seq439_u02_padya_p03_2b6a3c",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "योग्यतातारतम्येन विशेषोऽयमपीष्यते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq439_u02_padya_p03_2b6a3c.wav"
+ },
+ {
+  "id": "nvv_seq439_u02_padya_p04_3cf66a",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति श्रुतेस्तथा प्राप्तत्वात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq439_u02_padya_p04_3cf66a.wav"
+ },
+ {
+  "id": "nvv_seq439_u02_padya_p05_a6752b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नच परब्रह्मण एव ब्रह्मशब्दमुख्यार्थत्वेन प्रथमप्राप्तत्वादपोहायुक्तेस्तस्यैव प्राप्तिनियमः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq439_u02_padya_p05_a6752b.wav"
+ },
+ {
+  "id": "nvv_seq439_u02_padya_p06_8fcac4",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यान्ति देवं परं केचित् इति प्रमाणप्राप्तत्वादेव"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq439_u02_padya_p06_8fcac4.wav"
+ },
+ {
+  "id": "nvv_seq439_u02_padya_p07_d2a765",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नच परप्राप्तिर्यस्याभीष्टा तस्य तत्प्राप्तिरिति नियमः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq439_u02_padya_p07_d2a765.wav"
+ },
+ {
+  "id": "nvv_seq439_u02_padya_p08_1d1b82",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "क्रमानुरागी भगवान् क्रमात् पुम्भिरवाप्यते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq439_u02_padya_p08_1d1b82.wav"
+ },
+ {
+  "id": "nvv_seq439_u02_padya_p09_015b13",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अतः क्रमात् समृद्धे तु ज्ञाने ब्रह्मलये नरैः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq439_u02_padya_p09_015b13.wav"
+ },
+ {
+  "id": "nvv_seq439_u02_padya_p10_792a92",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्राप्यते नियमेनैव कैश्चिदेवाप्यते मृतौ"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq439_u02_padya_p10_792a92.wav"
+ },
+ {
+  "id": "nvv_seq439_u02_padya_p11_1a77cc",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति भगवतः क्रमानुरागित्वश्रुतेः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq439_u02_padya_p11_1a77cc.wav"
+ },
+ {
+  "id": "nvv_seq439_u02_padya_p12_f905dc",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नच बहुधा श्रुतेर्यथासौकर्यं चतुर्मुखस्य परस्य वा प्राप्तिरिति वाच्यम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq439_u02_padya_p12_f905dc.wav"
+ },
+ {
+  "id": "nvv_seq439_u02_padya_p13_33fff8",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "श्रुत्युक्तानुवृत्तेरेव न्याय्यत्वात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq439_u02_padya_p13_33fff8.wav"
+ },
+ {
+  "id": "nvv_seq439_u02_padya_p14_c00a86",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सप्रतीकाश्चतुर्मुखमप्रतीकाः परममु हैते गच्छन्त्यागच्छन्ति च चतुर्मुखात् परमं पराच्चतुर्मुखं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq439_u02_padya_p14_c00a86.wav"
+ },
+ {
+  "id": "nvv_seq439_u02_padya_p15_667d32",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यावद् विलयमथ सह चतुर्मुखेन विमुच्यन्त आनन्दिनो भवन्ति इति हि श्रुतिः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq439_u02_padya_p15_667d32.wav"
+ },
+ {
+  "id": "nvv_seq439_u02_padya_p16_5334e2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अन्तर्भेदाधिकरणत्वात् समुदायोक्तिः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/nvv_seq439_u02_padya_p16_5334e2.wav"
+ },
+ {
+  "id": "spr_seq8_u02_padya_p01_9019b2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तस्मै स होवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/spr_seq8_u02_padya_p01_9019b2.wav"
+ },
+ {
+  "id": "spr_seq8_u02_padya_p02_2acd50",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "आकाशो ह वा एष देवो वायुरग्निरापः पृथिवी वाङ्मनश्चक्षुः श्रोत्रं च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/spr_seq8_u02_padya_p02_2acd50.wav"
+ },
+ {
+  "id": "spr_seq8_u02_padya_p03_5b1199",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ते प्राकाश्या अभिवदन्ति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/spr_seq8_u02_padya_p03_5b1199.wav"
+ },
+ {
+  "id": "spr_seq8_u02_padya_p04_c6e352",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "वयमेतद् बाणमवष्टभ्य विधारयाम इति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/spr_seq8_u02_padya_p04_c6e352.wav"
+ },
+ {
+  "id": "spr_seq8_u04_padya_p01_c4b3e4",
+  "meter": "indravajrā",
+  "padas": [
+   "इत्यत्र भूतवायुरुच्यते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/spr_seq8_u04_padya_p01_c4b3e4.wav"
+ },
+ {
+  "id": "spr_seq8_u04_padya_p02_339b7b",
+  "meter": "indravajrā",
+  "padas": [
+   "प्राणशब्देन प्रधानवायुः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/spr_seq8_u04_padya_p02_339b7b.wav"
+ },
+ {
+  "id": "bsb_2_1_27_u02_padya_p01_21f44c",
+  "meter": "vasantatilakā",
+  "padas": [
+   "कृत्स्नप्रसक्तिर्निरवयवत्वशब्दकोपो वा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/bsb_2_1_27_u02_padya_p01_21f44c.wav"
+ },
+ {
+  "id": "bsb_2_1_27_u02_padya_p02_2b6d9e",
+  "meter": "vasantatilakā",
+  "padas": [
+   "अयं च दोषो जीवकर्तृत्वपक्षे"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/bsb_2_1_27_u02_padya_p02_2b6d9e.wav"
+ },
+ {
+  "id": "bsb_2_1_27_u02_padya_p03_2b3d0a",
+  "meter": "vasantatilakā",
+  "padas": [
+   "एकेनाङ्गुलिमात्रेण प्रवर्तमानोऽपि पूर्णप्रवृत्तिः स्यात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/bsb_2_1_27_u02_padya_p03_2b3d0a.wav"
+ },
+ {
+  "id": "bsb_2_1_27_u02_padya_p04_1a1792",
+  "meter": "vasantatilakā",
+  "padas": [
+   "नच तद् युज्यते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/bsb_2_1_27_u02_padya_p04_1a1792.wav"
+ },
+ {
+  "id": "bsb_2_1_27_u02_padya_p05_7ffd83",
+  "meter": "vasantatilakā",
+  "padas": [
+   "सामर्थ्यैकदेशदर्शनात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/bsb_2_1_27_u02_padya_p05_7ffd83.wav"
+ },
+ {
+  "id": "bsb_2_1_27_u02_padya_p06_5eacc0",
+  "meter": "vasantatilakā",
+  "padas": [
+   "नचैकदेशेन"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/bsb_2_1_27_u02_padya_p06_5eacc0.wav"
+ },
+ {
+  "id": "bsb_2_1_27_u02_padya_p07_7fe311",
+  "meter": "vasantatilakā",
+  "padas": [
+   "निरवयवत्वात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/bsb_2_1_27_u02_padya_p07_7fe311.wav"
+ },
+ {
+  "id": "bsb_2_1_27_u04_padya_p01_1a2cc6",
+  "meter": "vasantatilakā",
+  "padas": [
+   "इति भाल्लवेयश्रुतिः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/bsb_2_1_27_u04_padya_p01_1a2cc6.wav"
+ },
+ {
+  "id": "bsb_2_1_27_u04_padya_p02_4554bf",
+  "meter": "vasantatilakā",
+  "padas": [
+   "नचोपाधिकृतोंऽशः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/bsb_2_1_27_u04_padya_p02_4554bf.wav"
+ },
+ {
+  "id": "bsb_2_1_27_u04_padya_p03_4fe18c",
+  "meter": "vasantatilakā",
+  "padas": [
+   "स एवांश उपहित इति द्वित्वापेक्षत्वात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/bsb_2_1_27_u04_padya_p03_4fe18c.wav"
+ },
+ {
+  "id": "bsb_2_1_27_u04_padya_p04_3e5cd9",
+  "meter": "vasantatilakā",
+  "padas": [
+   "नचान्यत् कल्प्यम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/bsb_2_1_27_u04_padya_p04_3e5cd9.wav"
+ },
+ {
+  "id": "vtn_seq127_u01_padya_p01_80412e",
+  "meter": "śārdūlavikrīḍita",
+  "padas": [
+   "यदि न स्वरूपं भेदः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/vtn_seq127_u01_padya_p01_80412e.wav"
+ },
+ {
+  "id": "vtn_seq127_u01_padya_p02_a26ed4",
+  "meter": "śārdūlavikrīḍita",
+  "padas": [
+   "तदा पदार्थे दृष्टे प्रायः सर्वतो वैलक्षण्यं तस्य न ज्ञायेत"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/vtn_seq127_u01_padya_p02_a26ed4.wav"
+ },
+ {
+  "id": "vtn_seq127_u01_padya_p03_4bcec0",
+  "meter": "śārdūlavikrīḍita",
+  "padas": [
+   "अज्ञाते च वैलक्षण्ये आत्मनि घट इत्यपि संशयः स्यात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/vtn_seq127_u01_padya_p03_4bcec0.wav"
+ },
+ {
+  "id": "vtn_seq127_u01_padya_p04_b1d88a",
+  "meter": "śārdūlavikrīḍita",
+  "padas": [
+   "नहि कश्चित् तथा संशयं करोति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/reseg2_out/vtn_seq127_u01_padya_p04_b1d88a.wav"
+ }
+]

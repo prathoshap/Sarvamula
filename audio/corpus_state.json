@@ -1,0 +1,181 @@
+{
+  "_doc": "Facts about each grantha that CANNOT be derived from the DB or the repo — where its audio came from, whether it reached R2, and any decision taken about it. Everything derivable (akṣaras, padas, GPU-h, whether it is segmented, whether it is in the audio table) is computed by corpus_status.py and must NOT be duplicated here.",
+  "_r2_bucket": "sarvamoola",
+  "_stage_root": "ece-box:/home/ece/BigDisk/Prathosh/sarvamula_audio/r2",
+  "_pipeline": [
+    "scoped",
+    "segmented",
+    "rendered",
+    "qc",
+    "assembled",
+    "in_db",
+    "uploaded"
+  ],
+  "sutra_bhashya": {
+    "stage": "in_db",
+    "clips": "ece-box:works/sutra_bhashya/clips",
+    "qc": "CER-only, thresh 0.15 — 236/5403 flagged, 154 rescued, 69 left >0.15",
+    "note": "Two sutras share ref 2/4/10; the second is bsb_2_4_10b / BSB_2.4.10b.m4a. 2026-08-08: the quote pattern now also matches SINGLE curly quotes, which fixed 2 blocks (bsb_1_1_6, bsb_2_1_25) where citations were being recited as prose — 24 clips to re-render (bsb_quotefix.json), then re-assemble those 2 blocks."
+  },
+  "anu_vyakhyana": {
+    "stage": "in_db",
+    "clips": "ece-box:works/anu_vyakhyana/clips",
+    "qc": "CER-only, thresh 0.15 — 23/3921 flagged, 16 rescued, 7 left",
+    "note": "42 lacunae rendered as 0.9 s silence + an inert '— — —' karaoke line, never bridged."
+  },
+  "mbtn": {
+    "stage": "in_db",
+    "clips": "ece-box:/home/ece/BigDisk/mbtn_prod/work/adhNN/wav",
+    "granularity": "hemistich",
+    "note": "Rendered for the YouTube series: 32 adhyayas, 10,220 canonical clips over 5,179 verses, 269,772 aksharas, 100% text-matched to our corpus. REUSED AS IS (user call 2026-08-08) — karaoke lights a hemistich, not a pada. ~3% of our mbtn text (colophons) still needs rendering."
+  },
+  "bhagavata_tatparya": {
+    "stage": "in_db",
+    "reuse": "https://pub-303f7559721c4b40bf6712eb557e350c.r2.dev/Bhagavata_Audio/skandha_NN/adhyaya_NNN/BhP_NN.NNN.RRR.m4a",
+    "note": "Shape A (verse+commentary), not B-prose — the types are just named Bhagavatam/Tatparya. All 16,017 mula verses VERIFIED 100% rank-aligned to the Bhagavatam project's corpus (345/345 chapters, identical verse counts, 16017/16017 exact text), so mula audio AND its karaoke timings are reused at zero GPU cost: 714k aksharas / ~47.5 h free. SEGMENTED 2026-08-08 (shape-A registry): 1,730 blocks / 4,588 units / 9,130 padas / 1,751 files / 10.25 h / ~21.3 GPU-h. Shards bt_all.[0-5].json + bt_all_man.json ready. Subject lines SKIPPED (user call). All 344 Colophon_Bhagavatam texts match the Bhagavatam project, which has NOT rendered them — doing so completes both. OPEN: render the 380 editorial 'Subject' lines (29,870 aks, 3.9 GPU-h)? Bhagavatam skipped them. Needs a per-row audio base in the `audio` table (two buckets). Scope: Sarvamula_grantha_bhagavata_tatparya.md RENDERED 2026-08-09: 9,125/9,125 padas on 8 cards in ~4 h. 3 padas were unrenderable junk ('-', '()', '.') — a drop_empty_padas guard now removes pādas with no akṣara (OFF for the shipped works, which it would re-index)."
+  },
+  "gita_bhashya": {
+    "stage": "in_db",
+    "note": "Shape A, mula = Gita verses (rendered; 699 mula units = 31% of the work). 267 blocks / 2,014 units / 4,500 padas / 308 files / 5.76 h. Shape A. Mūla = Bhagavad-Gītā verses, RENDERED (no existing audio anywhere). 2,014 units / 4,518 padas / 309 files / ~5.6 h / ~11.4 GPU-h.",
+    "qc": "CER-only — 4500 clips, 165 flagged, 69 rescued (alternate VOICE won 28, more than any seed: this work is prose-heavy), median 0.000, 84 left >0.15"
+  },
+  "gita_tatparya": {
+    "stage": "in_db",
+    "note": "Shape A, mula = Gita verses (rendered). 399 blocks / 2,897 units / 5,620 padas / 441 files / 6.36 h. 1,894 clips (34%) were COPIED from gita_bhashya rather than rendered — identical text+metre gives an identical content hash, and renders are bit-deterministic. Shape A, same shape as gita_bhashya. 2,897 units / 5,638 padas / 441 files / ~6.0 h / ~12.2 GPU-h.",
+    "qc": "CER-only — 5620 clips, 266 flagged, 125 rescued, median CER 0.000, 107 left >0.15"
+  },
+  "_decisions_2026_08_09": [
+    "Gītā mūla entries are multi-verse SLABS (one entry = up to 4,262 chars / ~30 verses) and were emitting a single 1,541-syllable pāda that no TTS call could render. mula_verses=True splits them on the printed ॥ a/v ॥, which also supplies the ref the columns lack (verse/adhyaya are NULL).",
+    "Gītā mūla units are typed padya, NOT sutra: the sutra type splices the pranava exemplar around a unit, which is a BSB convention and would put a ॐ around every Gītā verse.",
+    "Gītā mūla metre is DETECTED (mula_meter=detect), not forced to SUTRA_METER: the Gītā is not uniformly anuṣṭubh (ch. 11/15 carry triṣṭubh-class metres).",
+    "No ref is fabricated where none is printed: Madhva comments on a SELECTION of verses, so positional numbering would invent wrong Gītā references. Those blocks key on source seq.",
+    "Undetected quotations fall back to the NEAREST-LENGTH bank reference, not a fixed metre (89% of bhagavata_tatparya's were 16-syllable anuṣṭubh hemistichs). Shipped works keep the fixed fallback so they stay byte-identical.",
+    "Works run SERIALLY on all 8 cards (user call): QC and assembly are single-machine, so overlapping works would idle cards for less benefit than finishing one grantha cleanly.",
+    "box5 (.167) joined the pool: its NVML is broken (nvidia-smi fails, driver 560.35.03 vs lib .05) but CUDA works, so torch renders fine. box1->box5 needed an ed25519 key; the RSA one was rejected.",
+    "Pranava re-cut to 0.877 s by period-synchronous stretch of the 0.557 s exemplar's pitch-stable zone, and is now DISPLAYED as its own karaoke line. PREBUILT holds the sūtra BODY only so framing applies.",
+    "Bhagavata Tatparya mangala, 2nd hemistich: the model's learned visarga echo put a 0.6 s gap inside the line at 'समस्ताः सकलगुणनिधिः'. Diagnosed by sweeping seeds (pause present in all 10, only its length varied: 0.36-0.60 s), references (malini removed it), and sandhi forms. The fix is removing the WORD BOUNDARY (समस्ताःसकल…) at seed 62 — the letter change alone does not work (visarga->स् with the space kept still breaks), nor the seed alone. Approved by ear and PINNED via assemble_bsb.PREBUILT on the clip id, so the printed text keeps its space and only the audio uses the joined rendering. If the text ever changes the id changes and the pin stops applying.",
+    "Four supervisors (night_run, roll2, finish_works, finish_box1) proved worse than one: roll2 died silently and the others kept waiting for clips nothing was producing, so Gita Tatparya sat idle for an hour with 8 free cards. stage_next.py now owns the whole queue, judges progress by CLIPS ON DISK (not .done flags, which vanish when a node is restaged), and relaunches a work's shards once if progress stalls ~25 min. It ran 6 works unattended overnight with no intervention."
+  ],
+  "tantrasara_sangraha": {
+    "stage": "in_db",
+    "qc": "CER-only — 893 clips, 10 flagged, 4 rescued, 2 left >0.15",
+    "note": "Shape B-verse (segment_anu registry, split='number'). 64 blocks / 402 slokas / 893 padas / 75 files / 1.31 h."
+  },
+  "krshna_amrta_maharnava": {
+    "stage": "in_db",
+    "qc": "CER-only — 600 clips, 25 flagged, 7 rescued, 2 left >0.15",
+    "note": "Shape B-verse with split='danda': the edition prints NO verse numbers at all, so each dandaspan is a verse. 22 blocks / 298 slokas / 600 padas / 30 files / 0.87 h."
+  },
+  "sadachara_smriti": {
+    "stage": "in_db",
+    "qc": "CER-only — 83 clips, 1 flagged, 0 rescued",
+    "note": "Shape B-verse (split='number'). 5 blocks / 30 slokas / 83 padas / 6 files / 0.12 h."
+  },
+  "vishnu_tatva_nirnaya": {
+    "stage": "in_db",
+    "qc": "CER-only — 1220 clips, 46 flagged, 29 rescued, 16 left >0.15",
+    "note": "Commentary with NO mula: registered in segment_bsb.WORKS with mula='__none__' + orphans=True, so every entry falls through as an orphan and is segmented as prose. Needed no new segmenter because its entries top out at 1,187 aksharas. 177 blocks / 535 units / 1,220 padas / 178 files / 1.52 h."
+  },
+  "tatvodyota": {
+    "stage": "in_db",
+    "qc": "CER-only — 264 clips, 8 flagged, 6 rescued, 0 left >0.15",
+    "note": "Same shape as vishnu_tatva_nirnaya (mula='__none__'). 43 blocks / 107 units / 264 padas / 43 files / 0.34 h."
+  },
+  "ishavasya_bhashya": {
+    "stage": "in_db",
+    "note": "Upaniṣad bhāṣya. render_mula=True with skip_svara: unaccented śruti is voiced, svara-marked passages are held for hand recitation (Sarvamula_shruti_to_record.md)."
+  },
+  "talavakara_bhashya": {
+    "stage": "in_db",
+    "note": "Upaniṣad bhāṣya. render_mula=True with skip_svara: unaccented śruti is voiced, svara-marked passages are held for hand recitation (Sarvamula_shruti_to_record.md)."
+  },
+  "shatprashna_bhashya": {
+    "stage": "in_db",
+    "note": "Upaniṣad bhāṣya. render_mula=True with skip_svara: unaccented śruti is voiced, svara-marked passages are held for hand recitation (Sarvamula_shruti_to_record.md)."
+  },
+  "manduka_bhashya": {
+    "stage": "in_db",
+    "note": "Upaniṣad bhāṣya. render_mula=True with skip_svara: unaccented śruti is voiced, svara-marked passages are held for hand recitation (Sarvamula_shruti_to_record.md)."
+  },
+  "atharvana_bhashya": {
+    "stage": "in_db",
+    "note": "Upaniṣad bhāṣya. render_mula=True with skip_svara: unaccented śruti is voiced, svara-marked passages are held for hand recitation (Sarvamula_shruti_to_record.md)."
+  },
+  "kathaka_bhashya": {
+    "stage": "in_db",
+    "note": "Upaniṣad bhāṣya. render_mula=True with skip_svara: unaccented śruti is voiced, svara-marked passages are held for hand recitation (Sarvamula_shruti_to_record.md)."
+  },
+  "taittiriya_bhashya": {
+    "stage": "in_db",
+    "note": "Upaniṣad bhāṣya, marathon complete 11 Aug 05:49. render_mula=True with skip_svara: unaccented śruti voiced, svara-marked passages held for hand recitation."
+  },
+  "chandogya_bhashya": {
+    "stage": "in_db",
+    "note": "Upaniṣad bhāṣya, marathon complete 11 Aug 05:49. render_mula=True with skip_svara: unaccented śruti voiced, svara-marked passages held for hand recitation."
+  },
+  "aitareya_bhashya": {
+    "stage": "in_db",
+    "note": "Upaniṣad bhāṣya, marathon complete 11 Aug 05:49. render_mula=True with skip_svara: unaccented śruti voiced, svara-marked passages held for hand recitation."
+  },
+  "kanva_bhashya": {
+    "stage": "in_db",
+    "note": "Upaniṣad bhāṣya, marathon complete 11 Aug 05:49. render_mula=True with skip_svara: unaccented śruti voiced, svara-marked passages held for hand recitation."
+  },
+  "brahmasutra": {
+    "stage": "in_db",
+    "note": "Mūla-only reading work built from BSB sūtra clips — 564 sūtras, 16 pārāyaṇa tracks (one per pāda), 57 min. Every sūtra framed ॐ…ॐ as recited; the first has two leading pranavas. Nothing rendered: assemble_parayana.py restitches existing clips."
+  },
+  "bhagavadgita": {
+    "stage": "in_db",
+    "note": "Mūla-only reading work from gita_tatparya mūla clips — 701 verses, 18 pārāyaṇa tracks (one per adhyāya), 119 min. Verses not individually framed."
+  },
+  "_decisions_2026_08_11": [
+    "Two mūla-only works added (brahmasutra, bhagavadgita) reusing existing clips — pārāyaṇa cut: continuous per pāda / adhyāya, karaoke still per sūtra / verse. Zero GPU, zero extra storage.",
+    "Per-sūtra pranava REINSTATED after I removed it: ॐ…ॐ round every sūtra is how the Brahmasūtras are recited in the sampradāya, not an artefact of being quoted in a bhāṣya (user correction).",
+    "Render rate recalibrated on tonight's runs: 9.5 s/clip/card median (was using 11.3 from BTN, whose pādas are longer). QC+assembly is 17–54 min per work regardless of size — model loads dominate.",
+    "box3 (.180) down for the SECOND time, both times during sustained dual-GPU rendering; ARP INCOMPLETE from box1, so it is powered off, not flapping. Suspect PSU/thermal under ~750 W sustained. Cap with nvidia-smi -pl 200 or run one GPU before trusting it with a long job.",
+    "The Mac-side baker (bake_marathon.py) waited ~9 h on a VPN outage (01:51–10:44) for work box1 had already finished at 05:49. Rendering was never blocked — only baking. If this recurs, run the bake step on the box or have the box push timings when the link returns.",
+    "Ṛg Bhāṣya prints RV 1.2.6, 1.2.7 and 1.28.8 INSIDE Sarvamula entries instead of tagging them Mula, so they reached the segmenter as commentary and would have been synthesised with their svara. A _SVARA guard in segment_anu now drops any accented pāda and logs it — the same three the site's rgbhashya.json was missing, and all three are in the user's 489-mantra recording set.",
+    "segment_anu also gained a _MARKER guard: this edition prints '॥ छ॥' where a verse number would go, which became three one-akṣara clips of a bare consonant. Pādas under 2 akṣaras are dropped.",
+    "Ṛgveda recording script rebuilt to the recorder's exact format (adhyaya_02.json): content_type 'Sarvamula' not 'Mula' — every file the app has accepted uses Sarvamula — is_padya before text, and a Devanāgarī title line. 489 mantras, RV 1.1-1.40."
+  ],
+  "_upanishad_marathon": {
+    "finished": "2026-08-11 05:49 (render/QC/assemble); baked 10:51",
+    "works": 10,
+    "tracks": 670,
+    "hours": 16.8,
+    "svara_passages_held": 49,
+    "note": "All ten Upaniṣad bhāṣyas playable. Coverage verified: every uncovered body entry is svara-marked and logged in Sarvamula_shruti_to_record.md — no silent gaps."
+  },
+  "rg_bhashya": {
+    "stage": "baked_needs_reassembly",
+    "note": "Commentary rendered + QC (1,753 clips; 38 flagged, 18 rescued, 20 left at 1.1%). BAKED FROM STALE BLOCKS: the parens strip in segment_anu shortened the stream after load_stream had recorded entry offsets, so 481 of 899 ślokas claimed the wrong entries. Fixed (blank, do not delete, the parentheticals); blocks_rgb.json is corrected and now aligns 899/899 with 471/471 entries covered, but parts changed 77->78 so it needs RE-ASSEMBLY on the box then re-bake. The 455 accented ṛks stay uncovered — user is reciting them."
+  },
+  "_decisions_2026_08_12": [
+    "segment_anu parens bug: the editorial-parenthesis strip deleted characters from the stream AFTER load_stream recorded each entry's offset in it, so seqs_in mapped ślokas to entries by stale offsets. Now blanked to equal-length spaces. Audited every parens=True work: tantrasara/sadachara/krshna/sangraha all align 0-mismatched (too few parentheticals, or entries too long for the drift to cross one), so nothing already shipped is damaged.",
+    "build_shard_bsb with --shards>1 never wrote <stem>.json or <stem>_man.json, so QC died on rg_bhashya — the first work rendered from scratch since the omission appeared — and the supervisor assembled unverified audio. Builder now always writes both.",
+    "Five short works (yamaka_bharata, parishishta, yati_pranava_kalpa, jayanti_kalpa, nyasa_paddhati) registered as shape B, split=number; 346 clips rendered in ONE combined pass since five model loads would cost more than the synthesis. Yamaka hyphens (व्या-सोऽभवत्) are stripped in the shard only — the display keeps them, since the pun is the poem."
+  ],
+  "nyaya_vivarana": {
+    "stage": "rendering",
+    "note": "Shape A: each section is headed by the SŪTRA itself (content_type Title, framed ॐ…ॐ with the pūrvapakṣa/siddhānta pair), so it pairs like Sūtra Bhāṣya. comm=(\"Sarvamula\",\"Mula\") because the 15 Nyāyamālā verses quoted from Anuvyākhyāna are typed Mula. mula_prose=True: several Title entries hold MANY sūtras at once and a mūla is otherwise one pāda — max clip was 125 akṣaras (~30 s in one breath), now 61. 1,548 clips, staged 13 Aug 11:20."
+  },
+  "_decisions_2026_08_13": [
+    "Reader bug: renderWork drops a chapter's first row only when isHeading() says so, but isHeading omitted 'Title' and 'Skandha_Heading' even though CHAP_ORDER splits on them — so Nyāya Vivaraṇa printed each of its 215 sūtra headings twice, once as the chapter title and again as the opening row. Both types added.",
+    "segment_bsb load_blocks silently discarded any content type that was neither mūla nor commentary. comm may now be a tuple, and a guard prints what falls through with its akṣara count — Nyāya Vivaraṇa would have lost 2,331 akṣaras of Nyāyamālā verse without a word."
+  ],
+  "karma_nirnaya": {
+    "stage": "in_db",
+    "note": "Shape A with skip_svara: 48 files, 52 min. All 22 accented mantras held — they are in the user’s śruti recording (sarvamula_shruti_by_shloka.json)."
+  },
+  "dvadasha_stotra": {
+    "stage": "in_db",
+    "note": "TTS render (39 files, 62 min) baked over the hand recitation while the recorder’s timestamps are sorted out. The recited m4a files remain in web/audio/dvadasha_stotra/ and cut_recording.py re-bakes them in a minute."
+  },
+  "_decisions_2026_08_15": [
+    "ALL 40 WORKS VOICED. 25,677 files, 142.3 h.",
+    "Recording pipeline (cut_recording.py): TS marks the TAP, not the voice — a retake’s mark lands ~1 s after the reciter resumes, so blocks opened mid-word. --snap anchors at the mark and walks to the pause bounding the utterance, both directions, bounded by neighbours. Reproduces every hand correction to within 40-54 ms. Applied to the Ṛgveda recordings only.",
+    "Energy cannot remove a trailing burp: one measured 0.151 RMS, the level of quiet recitation. That needs text-aware alignment (Su-shrota), still unbuilt.",
+    "normalize.js offset-transliterated U+0951-0954 into UNASSIGNED codepoints (U+0CD1/0CD2 in Kannada, U+0C51/0C52 in Telugu) — the Vedic accents could never render in any font. Now passed through unchanged. The font work layered on top of this was misdirected and reverted."
+  ]
+}

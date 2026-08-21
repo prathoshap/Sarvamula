@@ -1,0 +1,178 @@
+[
+ {
+  "id": "bsb_1_1_1_u05_gadya_p01_0a061f_S35",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इत्यादि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "sps": 0.35,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/sps/bsb_1_1_1_u05_gadya_p01_0a061f_S35.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u05_gadya_p01_0a061f_S45",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इत्यादि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "sps": 0.45,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/sps/bsb_1_1_1_u05_gadya_p01_0a061f_S45.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u07_gadya_p01_dcf9fe_S35",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "sps": 0.35,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/sps/bsb_1_1_1_u07_gadya_p01_dcf9fe_S35.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u07_gadya_p01_dcf9fe_S45",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "sps": 0.45,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/sps/bsb_1_1_1_u07_gadya_p01_dcf9fe_S45.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u12_padya_p01_283e88_S35",
+  "meter": "vasantatilakā",
+  "padas": [
+   "नाविशेषात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "sps": 0.35,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/sps/bsb_1_1_1_u12_padya_p01_283e88_S35.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u12_padya_p01_283e88_S45",
+  "meter": "vasantatilakā",
+  "padas": [
+   "नाविशेषात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "sps": 0.45,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/sps/bsb_1_1_1_u12_padya_p01_283e88_S45.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u13_gadya_p01_37cc92_S35",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति चोपरि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "sps": 0.35,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/sps/bsb_1_1_1_u13_gadya_p01_37cc92_S35.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u13_gadya_p01_37cc92_S45",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति चोपरि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "sps": 0.45,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/sps/bsb_1_1_1_u13_gadya_p01_37cc92_S45.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u18_gadya_p01_2f35a4_S35",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इत्यादिश्रुतिभ्यश्च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "sps": 0.35,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/sps/bsb_1_1_1_u18_gadya_p01_2f35a4_S35.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u18_gadya_p01_2f35a4_S45",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इत्यादिश्रुतिभ्यश्च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "sps": 0.45,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/sps/bsb_1_1_1_u18_gadya_p01_2f35a4_S45.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u22_gadya_p01_649811_S35",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति बृहत्संहितायाम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "sps": 0.35,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/sps/bsb_1_1_1_u22_gadya_p01_649811_S35.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u22_gadya_p01_649811_S45",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति बृहत्संहितायाम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "sps": 0.45,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/sps/bsb_1_1_1_u22_gadya_p01_649811_S45.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u27_gadya_p01_b44518_S35",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इत्यादिश्रुतिस्मृतिभ्यः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "sps": 0.35,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/sps/bsb_1_1_1_u27_gadya_p01_b44518_S35.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u27_gadya_p01_b44518_S45",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इत्यादिश्रुतिस्मृतिभ्यः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "sps": 0.45,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/sps/bsb_1_1_1_u27_gadya_p01_b44518_S45.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u29_gadya_p01_44abf7_S35",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति नारदीये"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "sps": 0.35,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/sps/bsb_1_1_1_u29_gadya_p01_44abf7_S35.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u29_gadya_p01_44abf7_S45",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति नारदीये"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "sps": 0.45,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/sps/bsb_1_1_1_u29_gadya_p01_44abf7_S45.wav"
+ }
+]

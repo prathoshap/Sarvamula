@@ -1,0 +1,32 @@
+[
+ {
+  "id": "tss_024_u02_padya_p01_3feb40",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "आदित्यचन्द्रावपि चक्रशङ्खौ शङ्खप्रसूनाख्यनिधी दधानः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/works/tantrasara_sangraha/clips/tss_024_u02_padya_p01_3feb40.wav"
+ },
+ {
+  "id": "tss_024_u02_padya_p03_6880df",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "क्रूरं वीरं बृहद्विष्णुं दीप्यन्तं विश्वतोमुखम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/works/tantrasara_sangraha/clips/tss_024_u02_padya_p03_6880df.wav"
+ },
+ {
+  "id": "tss_059_u03_padya_p03_0231a4",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अत्रोक्तसर्वमन्त्राणां नायकोपलसन्निभः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/works/tantrasara_sangraha/clips/tss_059_u03_padya_p03_0231a4.wav"
+ }
+]

@@ -1,0 +1,1336 @@
+[
+ {
+  "id": "kl_seq1",
+  "ref": null,
+  "seq": 1,
+  "kind": "prose_only",
+  "adhyaya": "देवतानमस्कारपूर्वकं विवक्षितनिर्देशः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 9.1,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "kl_seq1",
+    "from": 1,
+    "to": 1,
+    "seq": 1,
+    "covers": [
+     1
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "kl_seq1_u01_padya_p01_34d383",
+       "kl_seq1_u01_padya_p02_da8f98"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "kl_seq1_u01_padya_p01_34d383",
+     "kl_seq1_u01_padya_p02_da8f98"
+    ],
+    "est_sec": 9.1,
+    "path": "katha_lakshana/misc/kl_seq1.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "padas": [
+     "नृसिंहमखिलाज्ञानतिमिराशिशिराद्युतिम्",
+     "सम्प्रणम्य प्रवक्ष्यामि कथालक्षणमञ्जसा"
+    ],
+    "text": "नृसिंहमखिलाज्ञानतिमिराशिशिराद्युतिम् सम्प्रणम्य प्रवक्ष्यामि कथालक्षणमञ्जसा",
+    "opens_pranava": false,
+    "raw": "नृसिंहमखिलाज्ञानतिमिराशिशिराद्युतिम्। सम्प्रणम्य प्रवक्ष्यामि कथालक्षणमञ्जसा",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "kl_seq1_u01_padya_862526",
+    "clips": [
+     "kl_seq1_u01_padya_p01_34d383",
+     "kl_seq1_u01_padya_p02_da8f98"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kl_seq3",
+  "ref": null,
+  "seq": 3,
+  "kind": "prose_only",
+  "adhyaya": "कथासामान्यलक्षणम्, तद्विभागश्च",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 3.8,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "kl_seq3",
+    "from": 1,
+    "to": 1,
+    "seq": 3,
+    "covers": [
+     3
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "kl_seq3_u01_gadya_p01_d4dc1d"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "kl_seq3_u01_gadya_p01_d4dc1d"
+    ],
+    "est_sec": 3.8,
+    "path": "katha_lakshana/misc/kl_seq3.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "text": "वादो जल्पो वितण्डेति त्रिविधा विदुषां कथा",
+    "padas": [
+     "वादो जल्पो वितण्डेति त्रिविधा विदुषां कथा"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "वादो जल्पो वितण्डेति त्रिविधा विदुषां कथा।",
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "kl_seq3_u01_gadya_d4dc1d",
+    "clips": [
+     "kl_seq3_u01_gadya_p01_d4dc1d"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kl_seq5",
+  "ref": null,
+  "seq": 5,
+  "kind": "prose_only",
+  "adhyaya": "वादादीनां लक्षणम्",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 19.4,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "kl_seq5",
+    "from": 1,
+    "to": 3,
+    "seq": 5,
+    "covers": [
+     5
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "kl_seq5_u01_gadya_p01_9d096e"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "kl_seq5_u02_padya_p01_f89aff",
+       "kl_seq5_u02_padya_p02_796302"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 3,
+      "type": "gadya",
+      "clips": [
+       "kl_seq5_u03_gadya_p01_4f790c"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "kl_seq5_u01_gadya_p01_9d096e",
+     "kl_seq5_u02_padya_p01_f89aff",
+     "kl_seq5_u02_padya_p02_796302",
+     "kl_seq5_u03_gadya_p01_4f790c"
+    ],
+    "est_sec": 19.4,
+    "path": "katha_lakshana/misc/kl_seq5.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "padas": [
+     "तत्त्वनिर्णयमुद्दिश्य केवलं गुरुशिष्ययोः"
+    ],
+    "text": "तत्त्वनिर्णयमुद्दिश्य केवलं गुरुशिष्ययोः",
+    "opens_pranava": false,
+    "raw": "तत्त्वनिर्णयमुद्दिश्य केवलं गुरुशिष्ययोः",
+    "bounds": [
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "kl_seq5_u01_gadya_9d096e",
+    "clips": [
+     "kl_seq5_u01_gadya_p01_9d096e"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "कथाऽन्येषामपि सतां वादो वा समितेः शुभा",
+     "ख्यात्याद्यर्थं स्पर्धया वा सतां जल्प इतीर्यते"
+    ],
+    "text": "कथाऽन्येषामपि सतां वादो वा समितेः शुभा ख्यात्याद्यर्थं स्पर्धया वा सतां जल्प इतीर्यते",
+    "opens_pranava": false,
+    "raw": "कथाऽन्येषामपि सतां वादो वा समितेः शुभा। ख्यात्याद्यर्थं स्पर्धया वा सतां जल्प इतीर्यते",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 2,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "kl_seq5_u02_padya_cdedf5",
+    "clips": [
+     "kl_seq5_u02_padya_p01_f89aff",
+     "kl_seq5_u02_padya_p02_796302"
+    ]
+   },
+   {
+    "type": "gadya",
+    "padas": [
+     "वितण्डा तु सतामन्यैस्तत्त्वमेषु निगूहितम्"
+    ],
+    "text": "वितण्डा तु सतामन्यैस्तत्त्वमेषु निगूहितम्",
+    "opens_pranava": false,
+    "raw": "वितण्डा तु सतामन्यैस्तत्त्वमेषु निगूहितम्",
+    "bounds": [
+     "hard"
+    ],
+    "n": 3,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "kl_seq5_u03_gadya_4f790c",
+    "clips": [
+     "kl_seq5_u03_gadya_p01_4f790c"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kl_seq7",
+  "ref": null,
+  "seq": 7,
+  "kind": "prose_only",
+  "adhyaya": "प्राश्निकविचारः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 34.3,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "kl_seq7",
+    "from": 1,
+    "to": 4,
+    "seq": 7,
+    "covers": [
+     7
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "kl_seq7_u01_gadya_p01_f1216d"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "kl_seq7_u02_padya_p01_1b2d05",
+       "kl_seq7_u02_padya_p02_448b57"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 3,
+      "type": "padya",
+      "clips": [
+       "kl_seq7_u03_padya_p01_8eab82",
+       "kl_seq7_u03_padya_p02_31b442"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 4,
+      "type": "padya",
+      "clips": [
+       "kl_seq7_u04_padya_p01_b1036b",
+       "kl_seq7_u04_padya_p02_b43d3a"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "kl_seq7_u01_gadya_p01_f1216d",
+     "kl_seq7_u02_padya_p01_1b2d05",
+     "kl_seq7_u02_padya_p02_448b57",
+     "kl_seq7_u03_padya_p01_8eab82",
+     "kl_seq7_u03_padya_p02_31b442",
+     "kl_seq7_u04_padya_p01_b1036b",
+     "kl_seq7_u04_padya_p02_b43d3a"
+    ],
+    "est_sec": 34.3,
+    "path": "katha_lakshana/misc/kl_seq7.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "padas": [
+     "स्वयं वा प्राश्निकैर्वादे चिन्तयेत् तत्त्वनिर्णयम्"
+    ],
+    "text": "स्वयं वा प्राश्निकैर्वादे चिन्तयेत् तत्त्वनिर्णयम्",
+    "opens_pranava": false,
+    "raw": "स्वयं वा प्राश्निकैर्वादे चिन्तयेत् तत्त्वनिर्णयम्",
+    "bounds": [
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "kl_seq7_u01_gadya_f1216d",
+    "clips": [
+     "kl_seq7_u01_gadya_p01_f1216d"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "रागद्वेषविहीनास्तु सर्वविद्याविशारदाः",
+     "प्राश्निका इति विज्ञेया विषमा एक एव वा"
+    ],
+    "text": "रागद्वेषविहीनास्तु सर्वविद्याविशारदाः प्राश्निका इति विज्ञेया विषमा एक एव वा",
+    "opens_pranava": false,
+    "raw": "रागद्वेषविहीनास्तु सर्वविद्याविशारदाः। प्राश्निका इति विज्ञेया विषमा एक एव वा",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 2,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "kl_seq7_u02_padya_01e6be",
+    "clips": [
+     "kl_seq7_u02_padya_p01_1b2d05",
+     "kl_seq7_u02_padya_p02_448b57"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "अशेषसंशयच्छेत्ता निःसंशय उदारधीः",
+     "एकश्चेत् प्राश्निको ज्ञेयस्सर्वदोषविवर्जितः"
+    ],
+    "text": "अशेषसंशयच्छेत्ता निःसंशय उदारधीः एकश्चेत् प्राश्निको ज्ञेयस्सर्वदोषविवर्जितः",
+    "opens_pranava": false,
+    "raw": "अशेषसंशयच्छेत्ता निःसंशय उदारधीः। एकश्चेत् प्राश्निको ज्ञेयस्सर्वदोषविवर्जितः",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 3,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "kl_seq7_u03_padya_8ad700",
+    "clips": [
+     "kl_seq7_u03_padya_p01_8eab82",
+     "kl_seq7_u03_padya_p02_31b442"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "एको वा बहवो वा स्युर्विष्णुभक्तिपराः सदा",
+     "विष्णुभक्तिर्हि सर्वेषां सद्गुणानां स्वलक्षणम्"
+    ],
+    "text": "एको वा बहवो वा स्युर्विष्णुभक्तिपराः सदा विष्णुभक्तिर्हि सर्वेषां सद्गुणानां स्वलक्षणम्",
+    "opens_pranava": false,
+    "raw": "एको वा बहवो वा स्युर्विष्णुभक्तिपराः सदा। विष्णुभक्तिर्हि सर्वेषां सद्गुणानां स्वलक्षणम्",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 4,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "kl_seq7_u04_padya_11f86e",
+    "clips": [
+     "kl_seq7_u04_padya_p01_b1036b",
+     "kl_seq7_u04_padya_p02_b43d3a"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kl_seq9",
+  "ref": null,
+  "seq": 9,
+  "kind": "prose_only",
+  "adhyaya": "वादादीनां प्रवृत्तिप्रकारः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 93.1,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "kl_seq9",
+    "from": 1,
+    "to": 12,
+    "seq": 9,
+    "covers": [
+     9
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "kl_seq9_u01_gadya_p01_9eceb6"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "kl_seq9_u02_padya_p01_77dd64"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 3,
+      "type": "gadya",
+      "clips": [
+       "kl_seq9_u03_gadya_p01_50fc16"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 4,
+      "type": "padya",
+      "clips": [
+       "kl_seq9_u04_padya_p01_a418bd",
+       "kl_seq9_u04_padya_p02_d6cbf2"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 5,
+      "type": "padya",
+      "clips": [
+       "kl_seq9_u05_padya_p01_c9f85f",
+       "kl_seq9_u05_padya_p02_453363"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 6,
+      "type": "padya",
+      "clips": [
+       "kl_seq9_u06_padya_p01_b14132",
+       "kl_seq9_u06_padya_p02_b0cd88"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 7,
+      "type": "padya",
+      "clips": [
+       "kl_seq9_u07_padya_p01_e70df7",
+       "kl_seq9_u07_padya_p02_fc7af4"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 8,
+      "type": "padya",
+      "clips": [
+       "kl_seq9_u08_padya_p01_4b025a",
+       "kl_seq9_u08_padya_p02_0b6cd3"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 9,
+      "type": "padya",
+      "clips": [
+       "kl_seq9_u09_padya_p01_85d533",
+       "kl_seq9_u09_padya_p02_eba07b"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 10,
+      "type": "padya",
+      "clips": [
+       "kl_seq9_u10_padya_p01_df2e23",
+       "kl_seq9_u10_padya_p02_26c5c8"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 11,
+      "type": "padya",
+      "clips": [
+       "kl_seq9_u11_padya_p01_f76f81",
+       "kl_seq9_u11_padya_p02_898d67"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 12,
+      "type": "gadya",
+      "clips": [
+       "kl_seq9_u12_gadya_p01_1d8cf8"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "kl_seq9_u01_gadya_p01_9eceb6",
+     "kl_seq9_u02_padya_p01_77dd64",
+     "kl_seq9_u03_gadya_p01_50fc16",
+     "kl_seq9_u04_padya_p01_a418bd",
+     "kl_seq9_u04_padya_p02_d6cbf2",
+     "kl_seq9_u05_padya_p01_c9f85f",
+     "kl_seq9_u05_padya_p02_453363",
+     "kl_seq9_u06_padya_p01_b14132",
+     "kl_seq9_u06_padya_p02_b0cd88",
+     "kl_seq9_u07_padya_p01_e70df7",
+     "kl_seq9_u07_padya_p02_fc7af4",
+     "kl_seq9_u08_padya_p01_4b025a",
+     "kl_seq9_u08_padya_p02_0b6cd3",
+     "kl_seq9_u09_padya_p01_85d533",
+     "kl_seq9_u09_padya_p02_eba07b",
+     "kl_seq9_u10_padya_p01_df2e23",
+     "kl_seq9_u10_padya_p02_26c5c8",
+     "kl_seq9_u11_padya_p01_f76f81",
+     "kl_seq9_u11_padya_p02_898d67",
+     "kl_seq9_u12_gadya_p01_1d8cf8"
+    ],
+    "est_sec": 93.1,
+    "path": "katha_lakshana/misc/kl_seq9.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "text": "पृष्टेनागम एवादौ वक्तव्यः साध्यसिद्धये",
+    "padas": [
+     "पृष्टेनागम एवादौ वक्तव्यः साध्यसिद्धये"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "पृष्टेनागम एवादौ वक्तव्यः साध्यसिद्धये।",
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "kl_seq9_u01_gadya_9eceb6",
+    "clips": [
+     "kl_seq9_u01_gadya_p01_9eceb6"
+    ]
+   },
+   {
+    "type": "padya",
+    "text": "नैषा तर्केणापनेया मतिः",
+    "padas": [
+     "नैषा तर्केणापनेया मतिः"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "नैषा तर्केणापनेया मतिः",
+    "n": 2,
+    "meter": "indravajrā",
+    "meter_src": "fallback:len10:undetected",
+    "clip": "kl_seq9_u02_padya_77dd64",
+    "clips": [
+     "kl_seq9_u02_padya_p01_77dd64"
+    ]
+   },
+   {
+    "type": "gadya",
+    "padas": [
+     "इत्याह हि श्रुतिः"
+    ],
+    "text": "इत्याह हि श्रुतिः",
+    "opens_pranava": false,
+    "raw": "इत्याह हि श्रुतिः",
+    "bounds": [
+     "hard"
+    ],
+    "n": 3,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "kl_seq9_u03_gadya_50fc16",
+    "clips": [
+     "kl_seq9_u03_gadya_p01_50fc16"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "अन्यार्थ एवागमस्य वक्तव्यः प्रतिवादिना",
+     "ऋग्यजुःसामाथर्वाश्च भारतं पञ्चरात्रकम्"
+    ],
+    "text": "अन्यार्थ एवागमस्य वक्तव्यः प्रतिवादिना ऋग्यजुःसामाथर्वाश्च भारतं पञ्चरात्रकम्",
+    "opens_pranava": false,
+    "raw": "अन्यार्थ एवागमस्य वक्तव्यः प्रतिवादिना। ऋग्यजुःसामाथर्वाश्च भारतं पञ्चरात्रकम्",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 4,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "kl_seq9_u04_padya_58b80e",
+    "clips": [
+     "kl_seq9_u04_padya_p01_a418bd",
+     "kl_seq9_u04_padya_p02_d6cbf2"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "मूलरामायणं चैव सम्प्रोच्यन्ते सदागमाः",
+     "अनुकूला य एतेषां ते च प्रोक्ताः सदागमाः"
+    ],
+    "text": "मूलरामायणं चैव सम्प्रोच्यन्ते सदागमाः अनुकूला य एतेषां ते च प्रोक्ताः सदागमाः",
+    "opens_pranava": false,
+    "raw": "मूलरामायणं चैव सम्प्रोच्यन्ते सदागमाः। अनुकूला य एतेषां ते च प्रोक्ताः सदागमाः",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 5,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "kl_seq9_u05_padya_714cd7",
+    "clips": [
+     "kl_seq9_u05_padya_p01_c9f85f",
+     "kl_seq9_u05_padya_p02_453363"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "अन्ये दुरागमा नाम तैर्न साध्यं हि साध्यते",
+     "स्वपक्ष आगमश्चैव वक्तव्यः प्रतिवादिना"
+    ],
+    "text": "अन्ये दुरागमा नाम तैर्न साध्यं हि साध्यते स्वपक्ष आगमश्चैव वक्तव्यः प्रतिवादिना",
+    "opens_pranava": false,
+    "raw": "अन्ये दुरागमा नाम तैर्न साध्यं हि साध्यते। स्वपक्ष आगमश्चैव वक्तव्यः प्रतिवादिना",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 6,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "kl_seq9_u06_padya_59dabe",
+    "clips": [
+     "kl_seq9_u06_padya_p01_b14132",
+     "kl_seq9_u06_padya_p02_b0cd88"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "तस्याप्यन्यार्थता साध्या वादिना स्वार्थसिद्धये",
+     "अन्यार्थता निराकार्या स्वागमस्य विनिश्चयात्"
+    ],
+    "text": "तस्याप्यन्यार्थता साध्या वादिना स्वार्थसिद्धये अन्यार्थता निराकार्या स्वागमस्य विनिश्चयात्",
+    "opens_pranava": false,
+    "raw": "तस्याप्यन्यार्थता साध्या वादिना स्वार्थसिद्धये। अन्यार्थता निराकार्या स्वागमस्य विनिश्चयात्",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 7,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "kl_seq9_u07_padya_080f9c",
+    "clips": [
+     "kl_seq9_u07_padya_p01_e70df7",
+     "kl_seq9_u07_padya_p02_fc7af4"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "उपपत्त्यवकाशोऽत्र ह्यागमार्थविनिर्णये",
+     "वाद्यागमार्थे निर्णीत आगमार्थः परस्य तु"
+    ],
+    "text": "उपपत्त्यवकाशोऽत्र ह्यागमार्थविनिर्णये वाद्यागमार्थे निर्णीत आगमार्थः परस्य तु",
+    "opens_pranava": false,
+    "raw": "उपपत्त्यवकाशोऽत्र ह्यागमार्थविनिर्णये। वाद्यागमार्थे निर्णीत आगमार्थः परस्य तु",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 8,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "kl_seq9_u08_padya_9110bd",
+    "clips": [
+     "kl_seq9_u08_padya_p01_4b025a",
+     "kl_seq9_u08_padya_p02_0b6cd3"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "निर्णेयः सहितैः पश्चात् ततो निःशेषनिर्णयः",
+     "प्रत्यक्षसिद्धेष्वर्थेषु प्रश्ने मामक्षजं वदेत्"
+    ],
+    "text": "निर्णेयः सहितैः पश्चात् ततो निःशेषनिर्णयः प्रत्यक्षसिद्धेष्वर्थेषु प्रश्ने मामक्षजं वदेत्",
+    "opens_pranava": false,
+    "raw": "निर्णेयः सहितैः पश्चात् ततो निःशेषनिर्णयः। प्रत्यक्षसिद्धेष्वर्थेषु प्रश्ने मामक्षजं वदेत्",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 9,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "kl_seq9_u09_padya_4835a5",
+    "clips": [
+     "kl_seq9_u09_padya_p01_85d533",
+     "kl_seq9_u09_padya_p02_eba07b"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "ज्ञानं वा ज्ञानसिद्धेषु नानुमां प्रथमं वदेत्",
+     "परतुष्टिकरं वाक्यं वदेतां यदि वादिनौ"
+    ],
+    "text": "ज्ञानं वा ज्ञानसिद्धेषु नानुमां प्रथमं वदेत् परतुष्टिकरं वाक्यं वदेतां यदि वादिनौ",
+    "opens_pranava": false,
+    "raw": "ज्ञानं वा ज्ञानसिद्धेषु नानुमां प्रथमं वदेत्। परतुष्टिकरं वाक्यं वदेतां यदि वादिनौ",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 10,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "kl_seq9_u10_padya_4846cc",
+    "clips": [
+     "kl_seq9_u10_padya_p01_df2e23",
+     "kl_seq9_u10_padya_p02_26c5c8"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "स एवात्रागमो ज्ञेयः परतुष्टिर्हि तत्फलम्",
+     "एवं निर्णयपर्यन्तं वादे सुबहवोऽपि हि"
+    ],
+    "text": "स एवात्रागमो ज्ञेयः परतुष्टिर्हि तत्फलम् एवं निर्णयपर्यन्तं वादे सुबहवोऽपि हि",
+    "opens_pranava": false,
+    "raw": "स एवात्रागमो ज्ञेयः परतुष्टिर्हि तत्फलम्। एवं निर्णयपर्यन्तं वादे सुबहवोऽपि हि",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 11,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "kl_seq9_u11_padya_4545da",
+    "clips": [
+     "kl_seq9_u11_padya_p01_f76f81",
+     "kl_seq9_u11_padya_p02_898d67"
+    ]
+   },
+   {
+    "type": "gadya",
+    "padas": [
+     "घटेयुश्चिरकालं च जल्पे यावत् परो जितः"
+    ],
+    "text": "घटेयुश्चिरकालं च जल्पे यावत् परो जितः",
+    "opens_pranava": false,
+    "raw": "घटेयुश्चिरकालं च जल्पे यावत् परो जितः",
+    "bounds": [
+     "hard"
+    ],
+    "n": 12,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "kl_seq9_u12_gadya_1d8cf8",
+    "clips": [
+     "kl_seq9_u12_gadya_p01_1d8cf8"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kl_seq11",
+  "ref": null,
+  "seq": 11,
+  "kind": "prose_only",
+  "adhyaya": "वादादिषु पराजयादिविचारः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 65.7,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "kl_seq11",
+    "from": 1,
+    "to": 7,
+    "seq": 11,
+    "covers": [
+     11
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "kl_seq11_u01_gadya_p01_0991b3"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "kl_seq11_u02_padya_p01_cc93d0",
+       "kl_seq11_u02_padya_p02_c10c58"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 3,
+      "type": "padya",
+      "clips": [
+       "kl_seq11_u03_padya_p01_5c2729",
+       "kl_seq11_u03_padya_p02_a987eb"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 4,
+      "type": "padya",
+      "clips": [
+       "kl_seq11_u04_padya_p01_a80ce7",
+       "kl_seq11_u04_padya_p02_8bd73d"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 5,
+      "type": "padya",
+      "clips": [
+       "kl_seq11_u05_padya_p01_8f6985",
+       "kl_seq11_u05_padya_p02_e27d48"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 6,
+      "type": "padya",
+      "clips": [
+       "kl_seq11_u06_padya_p01_85ad66",
+       "kl_seq11_u06_padya_p02_9bbc36"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 7,
+      "type": "padya",
+      "clips": [
+       "kl_seq11_u07_padya_p01_790108",
+       "kl_seq11_u07_padya_p02_bfa61d"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "kl_seq11_u01_gadya_p01_0991b3",
+     "kl_seq11_u02_padya_p01_cc93d0",
+     "kl_seq11_u02_padya_p02_c10c58",
+     "kl_seq11_u03_padya_p01_5c2729",
+     "kl_seq11_u03_padya_p02_a987eb",
+     "kl_seq11_u04_padya_p01_a80ce7",
+     "kl_seq11_u04_padya_p02_8bd73d",
+     "kl_seq11_u05_padya_p01_8f6985",
+     "kl_seq11_u05_padya_p02_e27d48",
+     "kl_seq11_u06_padya_p01_85ad66",
+     "kl_seq11_u06_padya_p02_9bbc36",
+     "kl_seq11_u07_padya_p01_790108",
+     "kl_seq11_u07_padya_p02_bfa61d"
+    ],
+    "est_sec": 65.7,
+    "path": "katha_lakshana/misc/kl_seq11.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "padas": [
+     "तत्त्वनिर्णयवैलोम्यं वादे साक्षात् पराजयः"
+    ],
+    "text": "तत्त्वनिर्णयवैलोम्यं वादे साक्षात् पराजयः",
+    "opens_pranava": false,
+    "raw": "तत्त्वनिर्णयवैलोम्यं वादे साक्षात् पराजयः",
+    "bounds": [
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "kl_seq11_u01_gadya_0991b3",
+    "clips": [
+     "kl_seq11_u01_gadya_p01_0991b3"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "संवादे श्लाघ्यतैव स्याद् गुरुत्वमितरस्य च",
+     "तत्त्वनिर्णयवैलोम्ये निन्द्यो दण्ड्योऽथवा भवेत्"
+    ],
+    "text": "संवादे श्लाघ्यतैव स्याद् गुरुत्वमितरस्य च तत्त्वनिर्णयवैलोम्ये निन्द्यो दण्ड्योऽथवा भवेत्",
+    "opens_pranava": false,
+    "raw": "संवादे श्लाघ्यतैव स्याद् गुरुत्वमितरस्य च। तत्त्वनिर्णयवैलोम्ये निन्द्यो दण्ड्योऽथवा भवेत्",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 2,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "kl_seq11_u02_padya_952182",
+    "clips": [
+     "kl_seq11_u02_padya_p01_cc93d0",
+     "kl_seq11_u02_padya_p02_c10c58"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "विरोधासङ्गतिन्यूनतूष्णीम्भावादिकैर्जितः",
+     "भवेज्जल्पे वितण्डायां न्यायो जल्पवदीरितः"
+    ],
+    "text": "विरोधासङ्गतिन्यूनतूष्णीम्भावादिकैर्जितः भवेज्जल्पे वितण्डायां न्यायो जल्पवदीरितः",
+    "opens_pranava": false,
+    "raw": "विरोधासङ्गतिन्यूनतूष्णीम्भावादिकैर्जितः। भवेज्जल्पे वितण्डायां न्यायो जल्पवदीरितः",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 3,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "kl_seq11_u03_padya_069894",
+    "clips": [
+     "kl_seq11_u03_padya_p01_5c2729",
+     "kl_seq11_u03_padya_p02_a987eb"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "संवादे दण्ड्यता न स्याद् वितण्डजल्पयोरपि",
+     "पराजितत्वमात्रं स्यान्निन्द्यो दण्ड्योऽपि वाऽन्यथा"
+    ],
+    "text": "संवादे दण्ड्यता न स्याद् वितण्डजल्पयोरपि पराजितत्वमात्रं स्यान्निन्द्यो दण्ड्योऽपि वाऽन्यथा",
+    "opens_pranava": false,
+    "raw": "संवादे दण्ड्यता न स्याद् वितण्डजल्पयोरपि। पराजितत्वमात्रं स्यान्निन्द्यो दण्ड्योऽपि वाऽन्यथा",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 4,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "kl_seq11_u04_padya_f1c6bd",
+    "clips": [
+     "kl_seq11_u04_padya_p01_a80ce7",
+     "kl_seq11_u04_padya_p02_8bd73d"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "अनुवादादिराहित्यं नैव जल्पेपि दूषणम्",
+     "विद्याहीनत्वलिङ्गेऽपि वादिनोः स्यात् पराजयः"
+    ],
+    "text": "अनुवादादिराहित्यं नैव जल्पेपि दूषणम् विद्याहीनत्वलिङ्गेऽपि वादिनोः स्यात् पराजयः",
+    "opens_pranava": false,
+    "raw": "अनुवादादिराहित्यं नैव जल्पेपि दूषणम्। विद्याहीनत्वलिङ्गेऽपि वादिनोः स्यात् पराजयः",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 5,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "kl_seq11_u05_padya_7a31e4",
+    "clips": [
+     "kl_seq11_u05_padya_p01_8f6985",
+     "kl_seq11_u05_padya_p02_e27d48"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "तदभावान्नैव षट्कादन्यो निग्रह इष्यते",
+     "अन्तर्भावादिहान्येषां निग्रहाणामिति स्म ह"
+    ],
+    "text": "तदभावान्नैव षट्कादन्यो निग्रह इष्यते अन्तर्भावादिहान्येषां निग्रहाणामिति स्म ह",
+    "opens_pranava": false,
+    "raw": "तदभावान्नैव षट्कादन्यो निग्रह इष्यते। अन्तर्भावादिहान्येषां निग्रहाणामिति स्म ह",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 6,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "kl_seq11_u06_padya_6b79da",
+    "clips": [
+     "kl_seq11_u06_padya_p01_85ad66",
+     "kl_seq11_u06_padya_p02_9bbc36"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "विद्यापरीक्षापूर्वैव वृत्तिर्जल्पवितण्डयोः",
+     "स्खलितत्वादिमात्रेण न तत्रापि पराजयः"
+    ],
+    "text": "विद्यापरीक्षापूर्वैव वृत्तिर्जल्पवितण्डयोः स्खलितत्वादिमात्रेण न तत्रापि पराजयः",
+    "opens_pranava": false,
+    "raw": "विद्यापरीक्षापूर्वैव वृत्तिर्जल्पवितण्डयोः। स्खलितत्वादिमात्रेण न तत्रापि पराजयः",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 7,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "kl_seq11_u07_padya_de077b",
+    "clips": [
+     "kl_seq11_u07_padya_p01_790108",
+     "kl_seq11_u07_padya_p02_bfa61d"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kl_seq13",
+  "ref": null,
+  "seq": 13,
+  "kind": "prose_only",
+  "adhyaya": "उपसंहारः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 23.7,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "kl_seq13",
+    "from": 1,
+    "to": 3,
+    "seq": 13,
+    "covers": [
+     13
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "kl_seq13_u01_gadya_p01_24980b"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "kl_seq13_u02_padya_p01_7a8ec6",
+       "kl_seq13_u02_padya_p02_ee458b"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 3,
+      "type": "padya",
+      "clips": [
+       "kl_seq13_u03_padya_p01_138da7",
+       "kl_seq13_u03_padya_p02_16ce1d"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "kl_seq13_u01_gadya_p01_24980b",
+     "kl_seq13_u02_padya_p01_7a8ec6",
+     "kl_seq13_u02_padya_p02_ee458b",
+     "kl_seq13_u03_padya_p01_138da7",
+     "kl_seq13_u03_padya_p02_16ce1d"
+    ],
+    "est_sec": 23.7,
+    "path": "katha_lakshana/misc/kl_seq13.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "padas": [
+     "वादजल्पवितण्डानामिति शुद्धं स्वलक्षणम्"
+    ],
+    "text": "वादजल्पवितण्डानामिति शुद्धं स्वलक्षणम्",
+    "opens_pranava": false,
+    "raw": "वादजल्पवितण्डानामिति शुद्धं स्वलक्षणम्",
+    "bounds": [
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "kl_seq13_u01_gadya_24980b",
+    "clips": [
+     "kl_seq13_u01_gadya_p01_24980b"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "आनन्दतीर्थमुनिना ब्रह्मतर्कानुसारतः",
+     "कथालक्षणमित्युक्तं प्रीत्यर्थं शार्ङ्गधन्वनः"
+    ],
+    "text": "आनन्दतीर्थमुनिना ब्रह्मतर्कानुसारतः कथालक्षणमित्युक्तं प्रीत्यर्थं शार्ङ्गधन्वनः",
+    "opens_pranava": false,
+    "raw": "आनन्दतीर्थमुनिना ब्रह्मतर्कानुसारतः। कथालक्षणमित्युक्तं प्रीत्यर्थं शार्ङ्गधन्वनः",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 2,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "kl_seq13_u02_padya_f49299",
+    "clips": [
+     "kl_seq13_u02_padya_p01_7a8ec6",
+     "kl_seq13_u02_padya_p02_ee458b"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "सदोदितामितज्ञानपूरवारितहृत्तमाः",
+     "नरसिंहः प्रियतमः प्रीयतां पुरुषोत्तमः"
+    ],
+    "text": "सदोदितामितज्ञानपूरवारितहृत्तमाः नरसिंहः प्रियतमः प्रीयतां पुरुषोत्तमः",
+    "opens_pranava": false,
+    "raw": "सदोदितामितज्ञानपूरवारितहृत्तमाः। नरसिंहः प्रियतमः प्रीयतां पुरुषोत्तमः",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 3,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "kl_seq13_u03_padya_57710b",
+    "clips": [
+     "kl_seq13_u03_padya_p01_138da7",
+     "kl_seq13_u03_padya_p02_16ce1d"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kl_seq14",
+  "ref": null,
+  "seq": 14,
+  "kind": "colophon",
+  "adhyaya": "उपसंहारः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 7.7,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "kl_seq14",
+    "from": 1,
+    "to": 1,
+    "seq": 14,
+    "covers": [
+     14
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "kl_seq14_u01_gadya_p01_c5b40f"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "kl_seq14_u01_gadya_p01_c5b40f"
+    ],
+    "est_sec": 7.7,
+    "path": "katha_lakshana/misc/kl_seq14.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "padas": [
+     "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं कथालक्षणं सम्पूर्णम्"
+    ],
+    "text": "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं कथालक्षणं सम्पूर्णम्",
+    "opens_pranava": false,
+    "raw": "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं कथालक्षणं सम्पूर्णम्",
+    "bounds": [
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "kl_seq14_u01_gadya_c5b40f",
+    "clips": [
+     "kl_seq14_u01_gadya_p01_c5b40f"
+    ]
+   }
+  ]
+ }
+]

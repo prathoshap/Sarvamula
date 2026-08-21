@@ -1,0 +1,382 @@
+[
+ {
+  "id": "gt_1_1_u02_padya_p01_b993d2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सञ्जय उवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gt_1_1_u02_padya_p01_b993d2.wav"
+ },
+ {
+  "id": "gt_1_1_u24_padya_p01_b993d2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सञ्जय उवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gt_1_1_u24_padya_p01_b993d2.wav"
+ },
+ {
+  "id": "gt_1_1_u28_padya_p02_8141c2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अर्जुन उवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gt_1_1_u28_padya_p02_8141c2.wav"
+ },
+ {
+  "id": "gt_2_1_u01_padya_p02_43d4ee",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तं तथा कृपयाऽऽविष्टमश्रुपूर्णाकुलेक्षणम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gt_2_1_u01_padya_p02_43d4ee.wav"
+ },
+ {
+  "id": "gt_2_1_u09_padya_p02_2ff114",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "एवमुक्त्वा हृषीकेशं गुडाकेशः परन्तप"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gt_2_1_u09_padya_p02_2ff114.wav"
+ },
+ {
+  "id": "gt_3_1_u01_padya_p02_09757e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ज्यायसी चेत् कर्मणस्ते मता बुद्धिर्जनार्दन"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gt_3_1_u01_padya_p02_09757e.wav"
+ },
+ {
+  "id": "gt_4_4_u01_padya_p02_7dd2b2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अपरं भवतो जन्म परं जन्म विवस्वतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gt_4_4_u01_padya_p02_7dd2b2.wav"
+ },
+ {
+  "id": "gt_5_1_u01_padya_p03_213219",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gt_5_1_u01_padya_p03_213219.wav"
+ },
+ {
+  "id": "gt_6_37_u01_padya_p03_cace70",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gt_6_37_u01_padya_p03_cace70.wav"
+ },
+ {
+  "id": "gt_9_2_u03_padya_p01_a333e9",
+  "meter": "sragdharā",
+  "padas": [
+   "यः प्राणे तिष्ठन् प्राणादन्तरो यं प्राणो न वेद"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gt_9_2_u03_padya_p01_a333e9.wav"
+ },
+ {
+  "id": "gt_9_28_u07_padya_p01_5bb4a8",
+  "meter": "indravajrā",
+  "padas": [
+   "ये वै भजन्ते परमं पुमांसं तेषां वशः स"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gt_9_28_u07_padya_p01_5bb4a8.wav"
+ },
+ {
+  "id": "gt_10_9_u04_padya_p03_8bd3b1",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gt_10_9_u04_padya_p03_8bd3b1.wav"
+ },
+ {
+  "id": "gt_11_5_u05_padya_p01_b993d2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सञ्जय उवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gt_11_5_u05_padya_p01_b993d2.wav"
+ },
+ {
+  "id": "gt_11_35_u01_padya_p01_530ac8",
+  "meter": "indravajrā",
+  "padas": [
+   "सञ्जय उवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gt_11_35_u01_padya_p01_530ac8.wav"
+ },
+ {
+  "id": "gt_11_43_u08_padya_p01_530ac8",
+  "meter": "indravajrā",
+  "padas": [
+   "सञ्जय उवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gt_11_43_u08_padya_p01_530ac8.wav"
+ },
+ {
+  "id": "gt_12_1_u01_padya_p01_8141c2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अर्जुन उवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gt_12_1_u01_padya_p01_8141c2.wav"
+ },
+ {
+  "id": "gt_14_9_u11_padya_p01_149e08",
+  "meter": "vasantatilakā",
+  "padas": [
+   "रजसो ह्येव जायते मात्रया सुखं दुःखं तस्मात् तान्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gt_14_9_u11_padya_p01_149e08.wav"
+ },
+ {
+  "id": "gt_15_2_u04_padya_p10_7c341f",
+  "meter": "indravajrā",
+  "padas": [
+   "कदाचनान्यथा जायते नान्यथा जायते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gt_15_2_u04_padya_p10_7c341f.wav"
+ },
+ {
+  "id": "gt_17_1_u01_padya_p02_375df2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयाऽन्विताः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gt_17_1_u01_padya_p02_375df2.wav"
+ },
+ {
+  "id": "gt_18_1_u01_padya_p03_99759a",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "त्यागस्य च हृषीकेश पृथक् केशिनिषूदन"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gt_18_1_u01_padya_p03_99759a.wav"
+ },
+ {
+  "id": "gt_18_67_u08_padya_p03_230a2a",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "संवादमिममश्रौषमद्भुतं रोमहर्षणम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gt_18_67_u08_padya_p03_230a2a.wav"
+ },
+ {
+  "id": "gb_1_1_u02_padya_p03_b33a0c",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "आचार्यमुपसङ्गम्य राजा वचनमब्रवीत्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gb_1_1_u02_padya_p03_b33a0c.wav"
+ },
+ {
+  "id": "gb_1_1_u24_padya_p03_e2a9c1",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gb_1_1_u24_padya_p03_e2a9c1.wav"
+ },
+ {
+  "id": "gb_1_1_u47_padya_p01_b993d2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सञ्जय उवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gb_1_1_u47_padya_p01_b993d2.wav"
+ },
+ {
+  "id": "gb_2_1_u04_padya_p01_8141c2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अर्जुन उवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gb_2_1_u04_padya_p01_8141c2.wav"
+ },
+ {
+  "id": "gb_2_17b_u21_padya_p01_dd42c0",
+  "meter": "vasantatilakā",
+  "padas": [
+   "परं ज्योतिरुपसम्पद्य स्वेन रूपेणाभिनिष्पद्यतेस तत्र पर्येति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gb_2_17b_u21_padya_p01_dd42c0.wav"
+ },
+ {
+  "id": "gb_2_47_u03_padya_p03_8bf8ca",
+  "meter": "vasantatilakā",
+  "padas": [
+   "भवति तस्मादन्य एवासौ भगवान् वेदितव्यः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gb_2_47_u03_padya_p03_8bf8ca.wav"
+ },
+ {
+  "id": "gb_3_1_u01_padya_p03_f92204",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तत् किं कर्मणि घोरे मां नियोजयसि केशव"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gb_3_1_u01_padya_p03_f92204.wav"
+ },
+ {
+  "id": "gb_4_4_u01_padya_p01_8141c2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अर्जुन उवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gb_4_4_u01_padya_p01_8141c2.wav"
+ },
+ {
+  "id": "gb_6_33_u01_padya_p01_8141c2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अर्जुन उवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gb_6_33_u01_padya_p01_8141c2.wav"
+ },
+ {
+  "id": "gb_8_1_u01_padya_p01_8141c2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अर्जुन उवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gb_8_1_u01_padya_p01_8141c2.wav"
+ },
+ {
+  "id": "gb_10_10_u03_padya_p03_8bd3b1",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gb_10_10_u03_padya_p03_8bd3b1.wav"
+ },
+ {
+  "id": "gb_11_1_u15_padya_p01_456349",
+  "meter": "indravajrā",
+  "padas": [
+   "अर्जुन उवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gb_11_1_u15_padya_p01_456349.wav"
+ },
+ {
+  "id": "gb_11_35_u02_padya_p01_456349",
+  "meter": "indravajrā",
+  "padas": [
+   "अर्जुन उवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gb_11_35_u02_padya_p01_456349.wav"
+ },
+ {
+  "id": "gb_11_51_u01_padya_p01_8141c2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अर्जुन उवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gb_11_51_u01_padya_p01_8141c2.wav"
+ },
+ {
+  "id": "gb_13_0_u01_padya_p01_4b812d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "[अर्जुन उवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gb_13_0_u01_padya_p01_4b812d.wav"
+ },
+ {
+  "id": "gb_17_1_u01_padya_p01_8141c2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अर्जुन उवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gb_17_1_u01_padya_p01_8141c2.wav"
+ },
+ {
+  "id": "gb_18_72_u02_padya_p01_8141c2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अर्जुन उवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/gb_18_72_u02_padya_p01_8141c2.wav"
+ }
+]

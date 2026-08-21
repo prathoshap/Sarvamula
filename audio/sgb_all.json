@@ -1,0 +1,752 @@
+[
+ {
+  "id": "sgb_001_u01_padya_p01_e03f5e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नारायणं गुणैः सर्वैरुदीर्णं दोषवर्जितम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_001_u01_padya_p01_e03f5e.wav"
+ },
+ {
+  "id": "sgb_001_u01_padya_p02_5bd31f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ज्ञेयं गम्यं गुरूंश्चापि नत्वा सूत्रार्थ उच्यते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_001_u01_padya_p02_5bd31f.wav"
+ },
+ {
+  "id": "sgb_001_u02_padya_p01_698865",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "विष्णुरेव विजिज्ञास्यः सर्वकर्ताऽऽगमोदितः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_001_u02_padya_p01_698865.wav"
+ },
+ {
+  "id": "sgb_001_u02_padya_p02_4a33e5",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "समन्वयादीक्षतेश्च पूर्णानन्दोऽन्तरः खवत्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_001_u02_padya_p02_4a33e5.wav"
+ },
+ {
+  "id": "sgb_001_u03_padya_p01_9a7e45",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रणेता ज्योतिरित्याद्यैः प्रसिद्धैरन्यवस्तुषु"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_001_u03_padya_p01_9a7e45.wav"
+ },
+ {
+  "id": "sgb_001_u03_padya_p02_7bc72a",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "उच्यते विष्णुरेवैकः सर्वैः सर्वगुणत्वतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_001_u03_padya_p02_7bc72a.wav"
+ },
+ {
+  "id": "sgb_001_u04_padya_p01_0a09ba",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सर्वगोऽत्ता नियन्ता च दृश्यत्वाद्युज्झितः सदा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_001_u04_padya_p01_0a09ba.wav"
+ },
+ {
+  "id": "sgb_001_u04_padya_p02_696400",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "| विश्वजीवान्तरत्वाद्यैर्लिङ्गैः सर्वैर्युतः स हि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_001_u04_padya_p02_696400.wav"
+ },
+ {
+  "id": "sgb_001_u05_padya_p01_622dc3",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सर्वाश्रयः पूर्णगुणः सोऽक्षरः सन् हृदब्जगः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_001_u05_padya_p01_622dc3.wav"
+ },
+ {
+  "id": "sgb_001_u05_padya_p02_8942e5",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सूर्यादिभासकः प्राणप्रेरको दैवतैरपि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_001_u05_padya_p02_8942e5.wav"
+ },
+ {
+  "id": "sgb_001_u06_padya_p01_d49312",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ज्ञेयो न वेदैः शूद्राद्यैः कम्पकोऽन्यश्च जीवतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_001_u06_padya_p01_d49312.wav"
+ },
+ {
+  "id": "sgb_001_u06_padya_p02_7f5037",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पतित्वादिगुणैर्युक्तस्तदन्यत्र च वाचकैः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_001_u06_padya_p02_7f5037.wav"
+ },
+ {
+  "id": "sgb_001_u07_padya_p01_da479a",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "मुख्यतः सर्वशब्दैश्च वाच्य एको जनार्दनः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_001_u07_padya_p01_da479a.wav"
+ },
+ {
+  "id": "sgb_001_u07_padya_p02_233433",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अव्यक्तः कर्मवाक्यैश्च वाच्य एकोऽमितात्मकः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_001_u07_padya_p02_233433.wav"
+ },
+ {
+  "id": "sgb_001_u08_padya_p01_10955c",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अवान्तरं कारणं च प्रकृतिः शून्यमेव च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_001_u08_padya_p01_10955c.wav"
+ },
+ {
+  "id": "sgb_001_u08_padya_p02_c00a56",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इत्याद्यन्यत्र नियतैरपि मुख्यतयोदितः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_001_u08_padya_p02_c00a56.wav"
+ },
+ {
+  "id": "sgb_001_u08_padya_p03_7d64de",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "शब्दैरतोऽनन्तगुणो यच्छब्दा योगवृत्तयः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_001_u08_padya_p03_7d64de.wav"
+ },
+ {
+  "id": "sgb_001_u09_padya_p01_3e58b1",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_001_u09_padya_p01_3e58b1.wav"
+ },
+ {
+  "id": "sgb_001_u09_padya_p02_6a64aa",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ब्रह्मसूत्रसङ्ग्रहभाष्ये प्रथमोऽध्यायः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_001_u09_padya_p02_6a64aa.wav"
+ },
+ {
+  "id": "sgb_001_u09_padya_p03_1a6996",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "श्रौतस्मृतिविरुद्धत्वात् स्मृतयो न गुणान् हरेः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_001_u09_padya_p03_1a6996.wav"
+ },
+ {
+  "id": "sgb_001_u09_padya_p04_c6c455",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "निषेद्धुं शक्नुयुर्वेदा नित्यत्वान्मानमुत्तमम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_001_u09_padya_p04_c6c455.wav"
+ },
+ {
+  "id": "sgb_002_u01_padya_p01_3d4950",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "देवतावचनादापो वदन्तीत्यादिकं वचः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_002_u01_padya_p01_3d4950.wav"
+ },
+ {
+  "id": "sgb_002_u01_padya_p02_087f3c",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नायुक्तवाद्यसन्नैव कारणं दृश्यते क्वचित्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_002_u01_padya_p02_087f3c.wav"
+ },
+ {
+  "id": "sgb_002_u02_padya_p01_801d8b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "असज्जीवप्रधानादिशब्दा ब्रह्मैव नापरम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_002_u02_padya_p01_801d8b.wav"
+ },
+ {
+  "id": "sgb_002_u02_padya_p02_7a162e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "वदन्ति कारणत्वेन क्वापि पूर्णगुणो हरिः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_002_u02_padya_p02_7a162e.wav"
+ },
+ {
+  "id": "sgb_002_u03_padya_p01_8f2e49",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स्वातन्त्र्यात् सर्वकर्तृत्वान्नायुक्तं तद् वदेच्छ्रुतिः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_002_u03_padya_p01_8f2e49.wav"
+ },
+ {
+  "id": "sgb_002_u03_padya_p02_ec5280",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "भ्रान्तिमूलतया सर्वसमयानामयुक्तितः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_002_u03_padya_p02_ec5280.wav"
+ },
+ {
+  "id": "sgb_002_u04_padya_p01_69d399",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "न तद्विरोधाद् वचनं वैदिकं शङ्क्यतां व्रजेत्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_002_u04_padya_p01_69d399.wav"
+ },
+ {
+  "id": "sgb_002_u04_padya_p02_53b822",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "आकाशदिसमस्तं च तज्जं तेनैव लीयते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_002_u04_padya_p02_53b822.wav"
+ },
+ {
+  "id": "sgb_002_u05_padya_p01_63974e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सोऽनुत्पत्तिलयः कर्ता जीवस्तद्वशगः सदा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_002_u05_padya_p01_63974e.wav"
+ },
+ {
+  "id": "sgb_002_u05_padya_p02_50f40d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तदाभासो हरिः सर्वरूपेष्वपि समः सदा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_002_u05_padya_p02_50f40d.wav"
+ },
+ {
+  "id": "sgb_002_u06_padya_p01_c62c9e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "मुख्यप्राणश्चेन्द्रियाणि देहश्चैव तदुद्भवः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_002_u06_padya_p01_c62c9e.wav"
+ },
+ {
+  "id": "sgb_002_u06_padya_p02_8de6cb",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "मुख्यप्राणवशे सर्वं स विष्णोर्वशगः सदा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_002_u06_padya_p02_8de6cb.wav"
+ },
+ {
+  "id": "sgb_002_u07_padya_p01_b8f813",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सर्वदोषोज्झितस्तस्माद् भगवान् पुरुषोत्तमः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_002_u07_padya_p01_b8f813.wav"
+ },
+ {
+  "id": "sgb_002_u07_padya_p02_e39746",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "उक्ता गुणाश्चाविरुद्धास्तस्य वेदेन सर्वशः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_002_u07_padya_p02_e39746.wav"
+ },
+ {
+  "id": "sgb_002_u08_padya_p01_3e58b1",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_002_u08_padya_p01_3e58b1.wav"
+ },
+ {
+  "id": "sgb_002_u08_padya_p02_8e38d2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ब्रह्मसूत्रसङ्ग्रहभाष्ये द्वितीयोऽध्यायः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_002_u08_padya_p02_8e38d2.wav"
+ },
+ {
+  "id": "sgb_002_u08_padya_p03_fcb164",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "शुभेन कर्मणा स्वर्गं निरयं च विकर्मणा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_002_u08_padya_p03_fcb164.wav"
+ },
+ {
+  "id": "sgb_002_u08_padya_p04_d74087",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "मिथ्याज्ञानेन च तमो ज्ञानेनैव परं पदम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_002_u08_padya_p04_d74087.wav"
+ },
+ {
+  "id": "sgb_003_u01_padya_p01_710714",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "याति तस्माद् विरक्तः सन् ज्ञानमेव समाश्रयेत्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_003_u01_padya_p01_710714.wav"
+ },
+ {
+  "id": "sgb_003_u01_padya_p02_658cf9",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सर्वावस्थाप्रेरकश्च सर्वरूपेष्वभेदवान्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_003_u01_padya_p02_658cf9.wav"
+ },
+ {
+  "id": "sgb_003_u02_padya_p01_0ce8ee",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सर्वदेशेषु कालेषु स एकः परमेश्वरः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_003_u02_padya_p01_0ce8ee.wav"
+ },
+ {
+  "id": "sgb_003_u02_padya_p02_2454c1",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तद्भक्तितारतम्येन तारतम्यं विमुक्तिगम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_003_u02_padya_p02_2454c1.wav"
+ },
+ {
+  "id": "sgb_003_u03_padya_p01_aa82ee",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सच्चिदानन्द आत्मेति मानुषैस्तु सुरेश्वरैः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_003_u03_padya_p01_aa82ee.wav"
+ },
+ {
+  "id": "sgb_003_u03_padya_p02_54eea2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यथाक्रमं बहुगुणैर्ब्रह्मणा त्वखिलैर्गुणैः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_003_u03_padya_p02_54eea2.wav"
+ },
+ {
+  "id": "sgb_003_u04_padya_p01_20bb56",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "उपास्यः सर्ववेदैश्च सर्वैरपि यथाबलम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_003_u04_padya_p01_20bb56.wav"
+ },
+ {
+  "id": "sgb_003_u04_padya_p02_a1a7a2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ज्ञेयो विष्णुर्विशेषस्तु ज्ञाने स्यादुत्तरोत्तरम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_003_u04_padya_p02_a1a7a2.wav"
+ },
+ {
+  "id": "sgb_003_u05_padya_p01_190695",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सर्वेऽपि पुरुषार्थाः स्युर्ज्ञानादेव न संशयः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_003_u05_padya_p01_190695.wav"
+ },
+ {
+  "id": "sgb_003_u05_padya_p02_6cffce",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "न लिप्यते ज्ञानवांश्च सर्वदोषैरपि क्वचित्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_003_u05_padya_p02_6cffce.wav"
+ },
+ {
+  "id": "sgb_003_u06_padya_p01_f42a53",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "गुणदौषैः सुखस्यापि वृद्धिह्रासौ विमुक्तिगौ"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_003_u06_padya_p01_f42a53.wav"
+ },
+ {
+  "id": "sgb_003_u06_padya_p02_905aee",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नृणां सुराणां मुक्तौ तु सुखं कॢप्तं यथाक्रमम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_003_u06_padya_p02_905aee.wav"
+ },
+ {
+  "id": "sgb_003_u07_padya_p01_3e58b1",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_003_u07_padya_p01_3e58b1.wav"
+ },
+ {
+  "id": "sgb_003_u07_padya_p02_84fbb4",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ब्रह्मसूत्रसङ्ग्रहभाष्ये तृतीयोऽध्यायः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_003_u07_padya_p02_84fbb4.wav"
+ },
+ {
+  "id": "sgb_003_u07_padya_p03_db8afb",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "विष्णुर्ब्रह्म तथाऽऽदातेत्येवं नित्यमुपासनम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_003_u07_padya_p03_db8afb.wav"
+ },
+ {
+  "id": "sgb_003_u07_padya_p04_6451c1",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "कार्यमापद्यपि ब्रह्म तेन यात्यपरोक्षताम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_003_u07_padya_p04_6451c1.wav"
+ },
+ {
+  "id": "sgb_004_u01_padya_p01_055446",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रारब्धकर्मणोऽन्यस्य ज्ञानादेव परिक्षयः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_004_u01_padya_p01_055446.wav"
+ },
+ {
+  "id": "sgb_004_u01_padya_p02_bc8627",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अनिष्टस्योभयस्यापि सर्वस्यान्यस्य भोगतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_004_u01_padya_p02_bc8627.wav"
+ },
+ {
+  "id": "sgb_004_u02_padya_p01_69a5b7",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "उत्तरेषूत्तरेष्वेवं यावद् वायुं विमुक्तिगाः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_004_u02_padya_p01_69a5b7.wav"
+ },
+ {
+  "id": "sgb_004_u02_padya_p02_cb9266",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रविश्य भुञ्जते भोगांस्तदन्तर्बहिरेव वा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_004_u02_padya_p02_cb9266.wav"
+ },
+ {
+  "id": "sgb_004_u03_padya_p01_23792f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "वायुर्विष्णुं प्रविश्यैव भोगश्चैवोत्तरोत्तरम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_004_u03_padya_p01_23792f.wav"
+ },
+ {
+  "id": "sgb_004_u03_padya_p02_642117",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "उत्क्रम्य मानुषा मुक्तिं यान्ति देहक्षयात् सुराः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_004_u03_padya_p02_642117.wav"
+ },
+ {
+  "id": "sgb_004_u04_padya_p01_5080e7",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अर्चिरादिपथा वायुं प्राप्य तेन जनार्दनम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_004_u04_padya_p01_5080e7.wav"
+ },
+ {
+  "id": "sgb_004_u04_padya_p02_9d53d9",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यान्त्युत्तमा नरोच्चाद्या ब्रह्मलोकात् सहामुना"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_004_u04_padya_p02_9d53d9.wav"
+ },
+ {
+  "id": "sgb_004_u05_padya_p01_7e38dc",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यथासङ्कल्पभोगाश्च चिदानन्दशरीरिणः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_004_u05_padya_p01_7e38dc.wav"
+ },
+ {
+  "id": "sgb_004_u05_padya_p02_013ebe",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "जगत्सृष्ट्यादिविषये महासामर्थ्यमप्यृते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_004_u05_padya_p02_013ebe.wav"
+ },
+ {
+  "id": "sgb_004_u06_padya_p01_eae8c1",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यथेष्टशक्तिमन्तश्च विना स्वाभाविकोत्तमान्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_004_u06_padya_p01_eae8c1.wav"
+ },
+ {
+  "id": "sgb_004_u06_padya_p02_056b2d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अनन्यवशगाश्चैव वृद्धिह्रासविवर्जिताः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_004_u06_padya_p02_056b2d.wav"
+ },
+ {
+  "id": "sgb_004_u06_padya_p03_06e962",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "दुःखादिरहिता नित्यं मोदन्तेऽविरतं सुखम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_004_u06_padya_p03_06e962.wav"
+ },
+ {
+  "id": "sgb_004_u07_padya_p01_b01363",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पूर्णप्रज्ञेन मुनिना सर्वशास्त्रार्थसङ्ग्रहः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_004_u07_padya_p01_b01363.wav"
+ },
+ {
+  "id": "sgb_004_u07_padya_p02_b1fed2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "कृतोऽयं प्रीयतां तेन परमात्मा रमापतिः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_004_u07_padya_p02_b1fed2.wav"
+ },
+ {
+  "id": "sgb_005_u01_padya_p01_575b88",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नमोनमोऽशेषदोषदूरपूर्णगुणात्मने"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_005_u01_padya_p01_575b88.wav"
+ },
+ {
+  "id": "sgb_005_u01_padya_p02_4aa201",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "विरिञ्चिशर्वपूर्वेड्य वन्द्याय श्रीवराय ते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_005_u01_padya_p02_4aa201.wav"
+ },
+ {
+  "id": "sgb_005_u02_padya_p01_3e58b1",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_005_u02_padya_p01_3e58b1.wav"
+ },
+ {
+  "id": "sgb_005_u02_padya_p02_44fa76",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ब्रह्मसूत्रसङ्ग्रहभाष्ये चतुर्थोऽध्यायः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_005_u02_padya_p02_44fa76.wav"
+ },
+ {
+  "id": "sgb_005_u02_padya_p03_23267e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "समाप्तश्चायं ग्रन्थः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/tmp/prak_out/sgb_005_u02_padya_p03_23267e.wav"
+ }
+]

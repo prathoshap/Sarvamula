@@ -1,0 +1,22 @@
+[
+ {
+  "id": "sgb_001_u01_padya_p01_e03f5e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नारायणं गुणैः सर्वैरुदीर्णं दोषवर्जितम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/works/sangraha_bhashya/clips/sgb_001_u01_padya_p01_e03f5e.wav"
+ },
+ {
+  "id": "sgb_001_u02_padya_p01_698865",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "विष्णुरेव विजिज्ञास्यः सर्वकर्ताऽऽगमोदितः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/works/sangraha_bhashya/clips/sgb_001_u02_padya_p01_698865.wav"
+ }
+]

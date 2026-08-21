@@ -1,0 +1,1682 @@
+[
+ {
+  "id": "pl_seq1",
+  "ref": null,
+  "seq": 1,
+  "kind": "prose_only",
+  "adhyaya": "देवतानमस्कारपूर्वकं विषयनिर्देशः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 9.1,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "pl_seq1",
+    "from": 1,
+    "to": 1,
+    "seq": 1,
+    "covers": [
+     1
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "pl_seq1_u01_padya_p01_cb05bc",
+       "pl_seq1_u01_padya_p02_3414ac"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "pl_seq1_u01_padya_p01_cb05bc",
+     "pl_seq1_u01_padya_p02_3414ac"
+    ],
+    "est_sec": 9.1,
+    "path": "pramana_lakshana/misc/pl_seq1.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "padas": [
+     "अशेषगुरुमीशेशं नारायणमनामयम्",
+     "सम्प्रणम्य प्रवक्ष्यामि प्रमाणानां स्वलक्षणम्"
+    ],
+    "text": "अशेषगुरुमीशेशं नारायणमनामयम् सम्प्रणम्य प्रवक्ष्यामि प्रमाणानां स्वलक्षणम्",
+    "opens_pranava": false,
+    "raw": "अशेषगुरुमीशेशं नारायणमनामयम्। सम्प्रणम्य प्रवक्ष्यामि प्रमाणानां स्वलक्षणम्",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "pl_seq1_u01_padya_144258",
+    "clips": [
+     "pl_seq1_u01_padya_p01_cb05bc",
+     "pl_seq1_u01_padya_p02_3414ac"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pl_seq3",
+  "ref": null,
+  "seq": 3,
+  "kind": "prose_only",
+  "adhyaya": "प्रायः प्रमाणविचारः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 159.9,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "pl_seq3",
+    "from": 1,
+    "to": 1,
+    "seq": 3,
+    "covers": [
+     3
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "pl_seq3_u01_gadya_p01_c01eee",
+       "pl_seq3_u01_gadya_p02_97bc5a",
+       "pl_seq3_u01_gadya_p03_67f543",
+       "pl_seq3_u01_gadya_p04_d06a23",
+       "pl_seq3_u01_gadya_p05_40edc6",
+       "pl_seq3_u01_gadya_p06_4d3e32",
+       "pl_seq3_u01_gadya_p07_438b90",
+       "pl_seq3_u01_gadya_p08_4850ff",
+       "pl_seq3_u01_gadya_p09_3acf29",
+       "pl_seq3_u01_gadya_p10_8cfad9",
+       "pl_seq3_u01_gadya_p11_eec027",
+       "pl_seq3_u01_gadya_p12_02cc09",
+       "pl_seq3_u01_gadya_p13_1764ad",
+       "pl_seq3_u01_gadya_p14_fbbc01",
+       "pl_seq3_u01_gadya_p15_cf842e",
+       "pl_seq3_u01_gadya_p16_17814e",
+       "pl_seq3_u01_gadya_p17_4900d1",
+       "pl_seq3_u01_gadya_p18_4239db",
+       "pl_seq3_u01_gadya_p19_b8f397",
+       "pl_seq3_u01_gadya_p20_244971",
+       "pl_seq3_u01_gadya_p21_4a2770",
+       "pl_seq3_u01_gadya_p22_12d172",
+       "pl_seq3_u01_gadya_p23_8e5d92",
+       "pl_seq3_u01_gadya_p24_fcad8e",
+       "pl_seq3_u01_gadya_p25_bb0f61",
+       "pl_seq3_u01_gadya_p26_f71b66",
+       "pl_seq3_u01_gadya_p27_9c89c6",
+       "pl_seq3_u01_gadya_p28_c8a41e",
+       "pl_seq3_u01_gadya_p29_107992",
+       "pl_seq3_u01_gadya_p30_115893",
+       "pl_seq3_u01_gadya_p31_91831e",
+       "pl_seq3_u01_gadya_p32_50c504",
+       "pl_seq3_u01_gadya_p33_60e894",
+       "pl_seq3_u01_gadya_p34_ac5dcc",
+       "pl_seq3_u01_gadya_p35_37cf96",
+       "pl_seq3_u01_gadya_p36_28d6e7",
+       "pl_seq3_u01_gadya_p37_771bc1",
+       "pl_seq3_u01_gadya_p38_9f5d3e",
+       "pl_seq3_u01_gadya_p39_ec9e78",
+       "pl_seq3_u01_gadya_p40_d41d33",
+       "pl_seq3_u01_gadya_p41_67fbf1",
+       "pl_seq3_u01_gadya_p42_089742",
+       "pl_seq3_u01_gadya_p43_6889d1",
+       "pl_seq3_u01_gadya_p44_da3f7f",
+       "pl_seq3_u01_gadya_p45_3c083f",
+       "pl_seq3_u01_gadya_p46_84a0de",
+       "pl_seq3_u01_gadya_p47_3ec288",
+       "pl_seq3_u01_gadya_p48_241ebd",
+       "pl_seq3_u01_gadya_p49_065b2c",
+       "pl_seq3_u01_gadya_p50_5adbe3",
+       "pl_seq3_u01_gadya_p51_e9b219",
+       "pl_seq3_u01_gadya_p52_69d151",
+       "pl_seq3_u01_gadya_p53_f12ad9",
+       "pl_seq3_u01_gadya_p54_01e8e2"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "soft",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "pl_seq3_u01_gadya_p01_c01eee",
+     "pl_seq3_u01_gadya_p02_97bc5a",
+     "pl_seq3_u01_gadya_p03_67f543",
+     "pl_seq3_u01_gadya_p04_d06a23",
+     "pl_seq3_u01_gadya_p05_40edc6",
+     "pl_seq3_u01_gadya_p06_4d3e32",
+     "pl_seq3_u01_gadya_p07_438b90",
+     "pl_seq3_u01_gadya_p08_4850ff",
+     "pl_seq3_u01_gadya_p09_3acf29",
+     "pl_seq3_u01_gadya_p10_8cfad9",
+     "pl_seq3_u01_gadya_p11_eec027",
+     "pl_seq3_u01_gadya_p12_02cc09",
+     "pl_seq3_u01_gadya_p13_1764ad",
+     "pl_seq3_u01_gadya_p14_fbbc01",
+     "pl_seq3_u01_gadya_p15_cf842e",
+     "pl_seq3_u01_gadya_p16_17814e",
+     "pl_seq3_u01_gadya_p17_4900d1",
+     "pl_seq3_u01_gadya_p18_4239db",
+     "pl_seq3_u01_gadya_p19_b8f397",
+     "pl_seq3_u01_gadya_p20_244971",
+     "pl_seq3_u01_gadya_p21_4a2770",
+     "pl_seq3_u01_gadya_p22_12d172",
+     "pl_seq3_u01_gadya_p23_8e5d92",
+     "pl_seq3_u01_gadya_p24_fcad8e",
+     "pl_seq3_u01_gadya_p25_bb0f61",
+     "pl_seq3_u01_gadya_p26_f71b66",
+     "pl_seq3_u01_gadya_p27_9c89c6",
+     "pl_seq3_u01_gadya_p28_c8a41e",
+     "pl_seq3_u01_gadya_p29_107992",
+     "pl_seq3_u01_gadya_p30_115893",
+     "pl_seq3_u01_gadya_p31_91831e",
+     "pl_seq3_u01_gadya_p32_50c504",
+     "pl_seq3_u01_gadya_p33_60e894",
+     "pl_seq3_u01_gadya_p34_ac5dcc",
+     "pl_seq3_u01_gadya_p35_37cf96",
+     "pl_seq3_u01_gadya_p36_28d6e7",
+     "pl_seq3_u01_gadya_p37_771bc1",
+     "pl_seq3_u01_gadya_p38_9f5d3e",
+     "pl_seq3_u01_gadya_p39_ec9e78",
+     "pl_seq3_u01_gadya_p40_d41d33",
+     "pl_seq3_u01_gadya_p41_67fbf1",
+     "pl_seq3_u01_gadya_p42_089742",
+     "pl_seq3_u01_gadya_p43_6889d1",
+     "pl_seq3_u01_gadya_p44_da3f7f",
+     "pl_seq3_u01_gadya_p45_3c083f",
+     "pl_seq3_u01_gadya_p46_84a0de",
+     "pl_seq3_u01_gadya_p47_3ec288",
+     "pl_seq3_u01_gadya_p48_241ebd",
+     "pl_seq3_u01_gadya_p49_065b2c",
+     "pl_seq3_u01_gadya_p50_5adbe3",
+     "pl_seq3_u01_gadya_p51_e9b219",
+     "pl_seq3_u01_gadya_p52_69d151",
+     "pl_seq3_u01_gadya_p53_f12ad9",
+     "pl_seq3_u01_gadya_p54_01e8e2"
+    ],
+    "est_sec": 159.9,
+    "path": "pramana_lakshana/misc/pl_seq3.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "text": "यथार्थं प्रमाणम् तद् द्विविधम् केवलमनुप्रमाणं च यथार्थज्ञानं केवलम् तत्साधनमनुप्रमाणम् केवलं चतुर्विधम् ईशलक्ष्मीयोग्ययोगिभेदेन पूर्वद्वयमनादिनित्यम् स्वातन्त्र्यपारतन्त्र्याभ्यां तद्विशेषः पूर्वं स्वपरगताखिलविशेषविषयम् द्वितीयमीशेऽन्येभ्योऽधिकम् असार्वत्रिकम् अन्यत्र सर्वविषयम् स्पष्टत्वे भेदः योगिज्ञानमृजूनामनादिनित्यम् ईशे जीवेभ्योऽधिकम् अन्यत्रालोचने सर्वविषयम् क्रमेण वर्धमानम् आमुक्तेः ततोऽव्ययम् ततोऽर्वाक् क्रमेण ह्रसितम् सादि च तात्त्विकेभ्योऽन्यत्र अयोगिज्ञानमुत्पत्तिविनाशवत् अल्पम् अनुप्रमाणं त्रिविधम् प्रत्यक्षमनुमानमागम इति निर्दोषार्थेन्द्रियसन्निकर्षः प्रत्यक्षम् निदोषोपपत्तिरनुमानम् निर्दोषः शब्द आगमः अर्थापत्त्युपमे अनुमाविशेषः अभावोऽनुमा प्रत्यक्षं च परामर्शापरामर्शविशेषात् सम्भवपरिशेषावनुमा आत्मान्योन्याश्रयताचक्रकानवस्थाकल्पनागौरवश्रुतदृष्टहानादयो दूषणानुमा उपक्रमोपसंहारतदैकरूप्याभ्यासापूर्वताफलार्थवादाश्च उपपत्तिविशेषाः त एव सोपपत्तयो लिङ्गानि समाख्यावाक्यप्रकरणस्थानानि च लिङ्गविशेषाः व्याप्तिरुपपत्तिमूलम् सा प्रतिज्ञाहेतुदृष्टान्तरूपा हेतुगर्भा प्रतिज्ञा केवलाऽपि सिद्धौ प्रतिज्ञायां हेतुमात्रं च दृष्टान्तः सप्रतिज्ञो हेतुगर्भः उपपत्तिदोषौ विरोधासङ्गती न्यूनाधिके वाचनिके संवादानुक्तियुता निग्रहाः प्रत्यक्षं सप्तविधम् साक्षिषडिन्द्रियभेदेन मानसप्रत्यक्षजा स्मृतिः स्मृत्यनुवादयोर्नाप्रामाण्यम् यथार्थत्वानुभवात् अहानेश्च",
+    "padas": [
+     "यथार्थं प्रमाणम्",
+     "तद् द्विविधम्",
+     "केवलमनुप्रमाणं च",
+     "यथार्थज्ञानं केवलम्",
+     "तत्साधनमनुप्रमाणम्",
+     "केवलं चतुर्विधम्",
+     "ईशलक्ष्मीयोग्ययोगिभेदेन",
+     "पूर्वद्वयमनादिनित्यम्",
+     "स्वातन्त्र्यपारतन्त्र्याभ्यां तद्विशेषः",
+     "पूर्वं स्वपरगताखिलविशेषविषयम्",
+     "द्वितीयमीशेऽन्येभ्योऽधिकम्",
+     "असार्वत्रिकम्",
+     "अन्यत्र सर्वविषयम्",
+     "स्पष्टत्वे भेदः",
+     "योगिज्ञानमृजूनामनादिनित्यम्",
+     "ईशे जीवेभ्योऽधिकम्",
+     "अन्यत्रालोचने सर्वविषयम्",
+     "क्रमेण वर्धमानम्",
+     "आमुक्तेः",
+     "ततोऽव्ययम्",
+     "ततोऽर्वाक् क्रमेण ह्रसितम्",
+     "सादि च तात्त्विकेभ्योऽन्यत्र",
+     "अयोगिज्ञानमुत्पत्तिविनाशवत्",
+     "अल्पम्",
+     "अनुप्रमाणं त्रिविधम्",
+     "प्रत्यक्षमनुमानमागम इति",
+     "निर्दोषार्थेन्द्रियसन्निकर्षः",
+     "प्रत्यक्षम्",
+     "निदोषोपपत्तिरनुमानम्",
+     "निर्दोषः शब्द आगमः",
+     "अर्थापत्त्युपमे अनुमाविशेषः",
+     "अभावोऽनुमा प्रत्यक्षं च",
+     "परामर्शापरामर्शविशेषात्",
+     "सम्भवपरिशेषावनुमा",
+     "आत्मान्योन्याश्रयताचक्रकानवस्थाकल्पनागौरवश्रुतदृष्टहानादयो दूषणानुमा",
+     "उपक्रमोपसंहारतदैकरूप्याभ्यासापूर्वताफलार्थवादाश्च",
+     "उपपत्तिविशेषाः",
+     "त एव सोपपत्तयो लिङ्गानि",
+     "समाख्यावाक्यप्रकरणस्थानानि च",
+     "लिङ्गविशेषाः",
+     "व्याप्तिरुपपत्तिमूलम्",
+     "सा प्रतिज्ञाहेतुदृष्टान्तरूपा",
+     "हेतुगर्भा प्रतिज्ञा केवलाऽपि",
+     "सिद्धौ प्रतिज्ञायां हेतुमात्रं च",
+     "दृष्टान्तः सप्रतिज्ञो हेतुगर्भः",
+     "उपपत्तिदोषौ विरोधासङ्गती",
+     "न्यूनाधिके वाचनिके",
+     "संवादानुक्तियुता निग्रहाः",
+     "प्रत्यक्षं सप्तविधम्",
+     "साक्षिषडिन्द्रियभेदेन",
+     "मानसप्रत्यक्षजा स्मृतिः",
+     "स्मृत्यनुवादयोर्नाप्रामाण्यम्",
+     "यथार्थत्वानुभवात्",
+     "अहानेश्च"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "soft",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "यथार्थं प्रमाणम्। तद् द्विविधम्। केवलमनुप्रमाणं च। यथार्थज्ञानं केवलम्। तत्साधनमनुप्रमाणम्। केवलं चतुर्विधम्। ईशलक्ष्मीयोग्ययोगिभेदेन। पूर्वद्वयमनादिनित्यम्। स्वातन्त्र्यपारतन्त्र्याभ्यां तद्विशेषः। पूर्वं स्वपरगताखिलविशेषविषयम्। द्वितीयमीशेऽन्येभ्योऽधिकम्। असार्वत्रिकम्। अन्यत्र सर्वविषयम्। स्पष्टत्वे भेदः। योगिज्ञानमृजूनामनादिनित्यम्। ईशे जीवेभ्योऽधिकम्। अन्यत्रालोचने सर्वविषयम्। क्रमेण वर्धमानम्। आमुक्तेः। ततोऽव्ययम्। ततोऽर्वाक् क्रमेण ह्रसितम्। सादि च तात्त्विकेभ्योऽन्यत्र। अयोगिज्ञानमुत्पत्तिविनाशवत्। अल्पम्। अनुप्रमाणं त्रिविधम्। प्रत्यक्षमनुमानमागम इति। निर्दोषार्थेन्द्रियसन्निकर्षः प्रत्यक्षम्। निदोषोपपत्तिरनुमानम्। निर्दोषः शब्द आगमः। अर्थापत्त्युपमे अनुमाविशेषः। अभावोऽनुमा प्रत्यक्षं च। परामर्शापरामर्शविशेषात्। सम्भवपरिशेषावनुमा। आत्मान्योन्याश्रयताचक्रकानवस्थाकल्पनागौरवश्रुतदृष्टहानादयो दूषणानुमा। उपक्रमोपसंहारतदैकरूप्याभ्यासापूर्वताफलार्थवादाश्च। उपपत्तिविशेषाः। त एव सोपपत्तयो लिङ्गानि। समाख्यावाक्यप्रकरणस्थानानि च। लिङ्गविशेषाः। व्याप्तिरुपपत्तिमूलम्। सा प्रतिज्ञाहेतुदृष्टान्तरूपा। हेतुगर्भा प्रतिज्ञा केवलाऽपि। सिद्धौ प्रतिज्ञायां हेतुमात्रं च। दृष्टान्तः सप्रतिज्ञो हेतुगर्भः। उपपत्तिदोषौ विरोधासङ्गती। न्यूनाधिके वाचनिके। संवादानुक्तियुता निग्रहाः। प्रत्यक्षं सप्तविधम्। साक्षिषडिन्द्रियभेदेन। मानसप्रत्यक्षजा स्मृतिः। स्मृत्यनुवादयोर्नाप्रामाण्यम्। यथार्थत्वानुभवात्। अहानेश्च।",
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pl_seq3_u01_gadya_55e509",
+    "clips": [
+     "pl_seq3_u01_gadya_p01_c01eee",
+     "pl_seq3_u01_gadya_p02_97bc5a",
+     "pl_seq3_u01_gadya_p03_67f543",
+     "pl_seq3_u01_gadya_p04_d06a23",
+     "pl_seq3_u01_gadya_p05_40edc6",
+     "pl_seq3_u01_gadya_p06_4d3e32",
+     "pl_seq3_u01_gadya_p07_438b90",
+     "pl_seq3_u01_gadya_p08_4850ff",
+     "pl_seq3_u01_gadya_p09_3acf29",
+     "pl_seq3_u01_gadya_p10_8cfad9",
+     "pl_seq3_u01_gadya_p11_eec027",
+     "pl_seq3_u01_gadya_p12_02cc09",
+     "pl_seq3_u01_gadya_p13_1764ad",
+     "pl_seq3_u01_gadya_p14_fbbc01",
+     "pl_seq3_u01_gadya_p15_cf842e",
+     "pl_seq3_u01_gadya_p16_17814e",
+     "pl_seq3_u01_gadya_p17_4900d1",
+     "pl_seq3_u01_gadya_p18_4239db",
+     "pl_seq3_u01_gadya_p19_b8f397",
+     "pl_seq3_u01_gadya_p20_244971",
+     "pl_seq3_u01_gadya_p21_4a2770",
+     "pl_seq3_u01_gadya_p22_12d172",
+     "pl_seq3_u01_gadya_p23_8e5d92",
+     "pl_seq3_u01_gadya_p24_fcad8e",
+     "pl_seq3_u01_gadya_p25_bb0f61",
+     "pl_seq3_u01_gadya_p26_f71b66",
+     "pl_seq3_u01_gadya_p27_9c89c6",
+     "pl_seq3_u01_gadya_p28_c8a41e",
+     "pl_seq3_u01_gadya_p29_107992",
+     "pl_seq3_u01_gadya_p30_115893",
+     "pl_seq3_u01_gadya_p31_91831e",
+     "pl_seq3_u01_gadya_p32_50c504",
+     "pl_seq3_u01_gadya_p33_60e894",
+     "pl_seq3_u01_gadya_p34_ac5dcc",
+     "pl_seq3_u01_gadya_p35_37cf96",
+     "pl_seq3_u01_gadya_p36_28d6e7",
+     "pl_seq3_u01_gadya_p37_771bc1",
+     "pl_seq3_u01_gadya_p38_9f5d3e",
+     "pl_seq3_u01_gadya_p39_ec9e78",
+     "pl_seq3_u01_gadya_p40_d41d33",
+     "pl_seq3_u01_gadya_p41_67fbf1",
+     "pl_seq3_u01_gadya_p42_089742",
+     "pl_seq3_u01_gadya_p43_6889d1",
+     "pl_seq3_u01_gadya_p44_da3f7f",
+     "pl_seq3_u01_gadya_p45_3c083f",
+     "pl_seq3_u01_gadya_p46_84a0de",
+     "pl_seq3_u01_gadya_p47_3ec288",
+     "pl_seq3_u01_gadya_p48_241ebd",
+     "pl_seq3_u01_gadya_p49_065b2c",
+     "pl_seq3_u01_gadya_p50_5adbe3",
+     "pl_seq3_u01_gadya_p51_e9b219",
+     "pl_seq3_u01_gadya_p52_69d151",
+     "pl_seq3_u01_gadya_p53_f12ad9",
+     "pl_seq3_u01_gadya_p54_01e8e2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pl_seq5",
+  "ref": null,
+  "seq": 5,
+  "kind": "prose_only",
+  "adhyaya": "प्रमाणाभासविचारः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 232.7,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "pl_seq5_p1",
+    "from": 1,
+    "to": 7,
+    "seq": 5,
+    "covers": [
+     5
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "pl_seq5_u01_gadya_p01_997ceb",
+       "pl_seq5_u01_gadya_p02_e193be",
+       "pl_seq5_u01_gadya_p03_9f8f14"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "pl_seq5_u02_padya_p01_aa3505"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 3,
+      "type": "gadya",
+      "clips": [
+       "pl_seq5_u03_gadya_p01_58d374",
+       "pl_seq5_u03_gadya_p02_540438",
+       "pl_seq5_u03_gadya_p03_a7c496",
+       "pl_seq5_u03_gadya_p04_79e4ec",
+       "pl_seq5_u03_gadya_p05_966dd6",
+       "pl_seq5_u03_gadya_p06_e1a543"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 4,
+      "type": "padya",
+      "clips": [
+       "pl_seq5_u04_padya_p01_57efb5"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 5,
+      "type": "gadya",
+      "clips": [
+       "pl_seq5_u05_gadya_p01_855873"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 6,
+      "type": "padya",
+      "clips": [
+       "pl_seq5_u06_padya_p01_9a05d1"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 7,
+      "type": "gadya",
+      "clips": [
+       "pl_seq5_u07_gadya_p01_9f55ce",
+       "pl_seq5_u07_gadya_p02_89c59d",
+       "pl_seq5_u07_gadya_p03_59fde9",
+       "pl_seq5_u07_gadya_p04_da4f29",
+       "pl_seq5_u07_gadya_p05_f4c0fe",
+       "pl_seq5_u07_gadya_p06_6b4bd7",
+       "pl_seq5_u07_gadya_p07_943f2e",
+       "pl_seq5_u07_gadya_p08_cc092d",
+       "pl_seq5_u07_gadya_p09_9e0b16",
+       "pl_seq5_u07_gadya_p10_2a1b46",
+       "pl_seq5_u07_gadya_p11_1e490c",
+       "pl_seq5_u07_gadya_p12_691f05",
+       "pl_seq5_u07_gadya_p13_784008",
+       "pl_seq5_u07_gadya_p14_cead5e",
+       "pl_seq5_u07_gadya_p15_ee383a",
+       "pl_seq5_u07_gadya_p16_47fd4c",
+       "pl_seq5_u07_gadya_p17_010375",
+       "pl_seq5_u07_gadya_p18_2604e8",
+       "pl_seq5_u07_gadya_p19_82d8c9",
+       "pl_seq5_u07_gadya_p20_42a4d8",
+       "pl_seq5_u07_gadya_p21_481e5c",
+       "pl_seq5_u07_gadya_p22_979fc2",
+       "pl_seq5_u07_gadya_p23_5e4926",
+       "pl_seq5_u07_gadya_p24_379e0f",
+       "pl_seq5_u07_gadya_p25_30e65f",
+       "pl_seq5_u07_gadya_p26_7f2e93",
+       "pl_seq5_u07_gadya_p27_8dc859",
+       "pl_seq5_u07_gadya_p28_b09f30",
+       "pl_seq5_u07_gadya_p29_228e7b",
+       "pl_seq5_u07_gadya_p30_af94df",
+       "pl_seq5_u07_gadya_p31_4bacb8",
+       "pl_seq5_u07_gadya_p32_7b22ed",
+       "pl_seq5_u07_gadya_p33_fc6ef3",
+       "pl_seq5_u07_gadya_p34_78525b",
+       "pl_seq5_u07_gadya_p35_545761",
+       "pl_seq5_u07_gadya_p36_32dffa",
+       "pl_seq5_u07_gadya_p37_2e3ea6",
+       "pl_seq5_u07_gadya_p38_1758f3"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "soft",
+       "soft",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "soft",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "pl_seq5_u01_gadya_p01_997ceb",
+     "pl_seq5_u01_gadya_p02_e193be",
+     "pl_seq5_u01_gadya_p03_9f8f14",
+     "pl_seq5_u02_padya_p01_aa3505",
+     "pl_seq5_u03_gadya_p01_58d374",
+     "pl_seq5_u03_gadya_p02_540438",
+     "pl_seq5_u03_gadya_p03_a7c496",
+     "pl_seq5_u03_gadya_p04_79e4ec",
+     "pl_seq5_u03_gadya_p05_966dd6",
+     "pl_seq5_u03_gadya_p06_e1a543",
+     "pl_seq5_u04_padya_p01_57efb5",
+     "pl_seq5_u05_gadya_p01_855873",
+     "pl_seq5_u06_padya_p01_9a05d1",
+     "pl_seq5_u07_gadya_p01_9f55ce",
+     "pl_seq5_u07_gadya_p02_89c59d",
+     "pl_seq5_u07_gadya_p03_59fde9",
+     "pl_seq5_u07_gadya_p04_da4f29",
+     "pl_seq5_u07_gadya_p05_f4c0fe",
+     "pl_seq5_u07_gadya_p06_6b4bd7",
+     "pl_seq5_u07_gadya_p07_943f2e",
+     "pl_seq5_u07_gadya_p08_cc092d",
+     "pl_seq5_u07_gadya_p09_9e0b16",
+     "pl_seq5_u07_gadya_p10_2a1b46",
+     "pl_seq5_u07_gadya_p11_1e490c",
+     "pl_seq5_u07_gadya_p12_691f05",
+     "pl_seq5_u07_gadya_p13_784008",
+     "pl_seq5_u07_gadya_p14_cead5e",
+     "pl_seq5_u07_gadya_p15_ee383a",
+     "pl_seq5_u07_gadya_p16_47fd4c",
+     "pl_seq5_u07_gadya_p17_010375",
+     "pl_seq5_u07_gadya_p18_2604e8",
+     "pl_seq5_u07_gadya_p19_82d8c9",
+     "pl_seq5_u07_gadya_p20_42a4d8",
+     "pl_seq5_u07_gadya_p21_481e5c",
+     "pl_seq5_u07_gadya_p22_979fc2",
+     "pl_seq5_u07_gadya_p23_5e4926",
+     "pl_seq5_u07_gadya_p24_379e0f",
+     "pl_seq5_u07_gadya_p25_30e65f",
+     "pl_seq5_u07_gadya_p26_7f2e93",
+     "pl_seq5_u07_gadya_p27_8dc859",
+     "pl_seq5_u07_gadya_p28_b09f30",
+     "pl_seq5_u07_gadya_p29_228e7b",
+     "pl_seq5_u07_gadya_p30_af94df",
+     "pl_seq5_u07_gadya_p31_4bacb8",
+     "pl_seq5_u07_gadya_p32_7b22ed",
+     "pl_seq5_u07_gadya_p33_fc6ef3",
+     "pl_seq5_u07_gadya_p34_78525b",
+     "pl_seq5_u07_gadya_p35_545761",
+     "pl_seq5_u07_gadya_p36_32dffa",
+     "pl_seq5_u07_gadya_p37_2e3ea6",
+     "pl_seq5_u07_gadya_p38_1758f3"
+    ],
+    "est_sec": 184.6,
+    "path": "pramana_lakshana/misc/pl_seq5_p1.m4a"
+   },
+   {
+    "part": 2,
+    "kind": "mula",
+    "id": "pl_seq5_p2",
+    "from": 8,
+    "to": 9,
+    "seq": 5,
+    "covers": [
+     5
+    ],
+    "units": [
+     {
+      "n": 8,
+      "type": "padya",
+      "clips": [
+       "pl_seq5_u08_padya_p01_875ec2"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 9,
+      "type": "gadya",
+      "clips": [
+       "pl_seq5_u09_gadya_p01_e5ec1c",
+       "pl_seq5_u09_gadya_p02_fc5ffa",
+       "pl_seq5_u09_gadya_p03_00c548",
+       "pl_seq5_u09_gadya_p04_76fa53",
+       "pl_seq5_u09_gadya_p05_18dbce",
+       "pl_seq5_u09_gadya_p06_60577d",
+       "pl_seq5_u09_gadya_p07_022630",
+       "pl_seq5_u09_gadya_p08_5dd2c8",
+       "pl_seq5_u09_gadya_p09_fc4d4f",
+       "pl_seq5_u09_gadya_p10_fa9333",
+       "pl_seq5_u09_gadya_p11_9b06d1"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "pl_seq5_u08_padya_p01_875ec2",
+     "pl_seq5_u09_gadya_p01_e5ec1c",
+     "pl_seq5_u09_gadya_p02_fc5ffa",
+     "pl_seq5_u09_gadya_p03_00c548",
+     "pl_seq5_u09_gadya_p04_76fa53",
+     "pl_seq5_u09_gadya_p05_18dbce",
+     "pl_seq5_u09_gadya_p06_60577d",
+     "pl_seq5_u09_gadya_p07_022630",
+     "pl_seq5_u09_gadya_p08_5dd2c8",
+     "pl_seq5_u09_gadya_p09_fc4d4f",
+     "pl_seq5_u09_gadya_p10_fa9333",
+     "pl_seq5_u09_gadya_p11_9b06d1"
+    ],
+    "est_sec": 47.3,
+    "path": "pramana_lakshana/misc/pl_seq5_p2.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "text": "विरोधो मानस्ववाक्याभ्याम् स्ववाक्यविरोधोऽपसिद्धान्तजातिरूपेण जातिः",
+    "padas": [
+     "विरोधो मानस्ववाक्याभ्याम्",
+     "स्ववाक्यविरोधोऽपसिद्धान्तजातिरूपेण",
+     "जातिः"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "विरोधो मानस्ववाक्याभ्याम्। स्ववाक्यविरोधोऽपसिद्धान्तजातिरूपेण। जातिः",
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pl_seq5_u01_gadya_703eb2",
+    "clips": [
+     "pl_seq5_u01_gadya_p01_997ceb",
+     "pl_seq5_u01_gadya_p02_e193be",
+     "pl_seq5_u01_gadya_p03_9f8f14"
+    ]
+   },
+   {
+    "type": "padya",
+    "text": "न मेये मानापेक्षा",
+    "padas": [
+     "न मेये मानापेक्षा"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "न मेये मानापेक्षा",
+    "n": 2,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback:len7:undetected",
+    "clip": "pl_seq5_u02_padya_aa3505",
+    "clips": [
+     "pl_seq5_u02_padya_p01_aa3505"
+    ]
+   },
+   {
+    "type": "gadya",
+    "text": "इत्यादिका मेये मानापेक्षाऽस्तीति च तेनैव न्यायेन सिद्धत्वात् मानविरोधश्च छलमसङ्गतम् अन्यच्च गृष्टिविवक्षया",
+    "padas": [
+     "इत्यादिका",
+     "मेये मानापेक्षाऽस्तीति च तेनैव न्यायेन सिद्धत्वात्",
+     "मानविरोधश्च",
+     "छलमसङ्गतम्",
+     "अन्यच्च",
+     "गृष्टिविवक्षया"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "इत्यादिका। मेये मानापेक्षाऽस्तीति च तेनैव न्यायेन सिद्धत्वात्। मानविरोधश्च। छलमसङ्गतम्। अन्यच्च। गृष्टिविवक्षया",
+    "n": 3,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pl_seq5_u03_gadya_3b3d5d",
+    "clips": [
+     "pl_seq5_u03_gadya_p01_58d374",
+     "pl_seq5_u03_gadya_p02_540438",
+     "pl_seq5_u03_gadya_p03_a7c496",
+     "pl_seq5_u03_gadya_p04_79e4ec",
+     "pl_seq5_u03_gadya_p05_966dd6",
+     "pl_seq5_u03_gadya_p06_e1a543"
+    ]
+   },
+   {
+    "type": "padya",
+    "text": "गामानय",
+    "padas": [
+     "गामानय"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "गामानय",
+    "n": 4,
+    "meter": "vasantatilakā",
+    "meter_src": "fallback:len4-nomatch:undetected",
+    "clip": "pl_seq5_u04_padya_57efb5",
+    "clips": [
+     "pl_seq5_u04_padya_p01_57efb5"
+    ]
+   },
+   {
+    "type": "gadya",
+    "text": "इत्युक्ते पृथिवीविवक्षया",
+    "padas": [
+     "इत्युक्ते पृथिवीविवक्षया"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "इत्युक्ते पृथिवीविवक्षया",
+    "n": 5,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pl_seq5_u05_gadya_855873",
+    "clips": [
+     "pl_seq5_u05_gadya_p01_855873"
+    ]
+   },
+   {
+    "type": "padya",
+    "text": "गवानयनमशक्यम्",
+    "padas": [
+     "गवानयनमशक्यम्"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "गवानयनमशक्यम्",
+    "n": 6,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback:len8:undetected",
+    "clip": "pl_seq5_u06_padya_9a05d1",
+    "clips": [
+     "pl_seq5_u06_padya_p01_9a05d1"
+    ]
+   },
+   {
+    "type": "gadya",
+    "text": "इतिवत् त्रिविधो विरोधः प्रतिज्ञाहेतुदृष्टान्तभेदेन प्रमाणविरुद्धार्थप्रतिज्ञा प्रतिज्ञाविरोधः हेतुस्वरूपासिद्धिरव्याप्तिश्चेति हेतुविरोधः साध्यस्य साधनस्य वाऽननुगमो दृष्टान्तविरोधः प्रतिज्ञायाः समबलविरोध एव सप्रतिसाधनः स एवोपाधिदोषोऽपि सर्व एते दृश्यत्वानुमाने द्रष्टव्याः प्रत्यक्षागमदिभिर्जगतः सत्यत्वात् तत्पक्षे दृश्यत्वस्य च मिथ्यात्वात् अनिर्वचनीयस्य प्रतिवादिनोऽसिद्धत्वात् आत्मनोऽपि दृश्यत्वात् शुक्तिरजतदेरनिर्वचनीयत्वाभावात् अनिर्वचनीयदृश्यत्वाभावात् मानसिद्धत्वादिति सप्रतिसाधनत्वाच्च जगत्सत्यत्वग्राहिप्रत्यक्षस्य वर्तमानमात्रग्राहित्वे अनुमानागमप्रामाण्यग्राहिणोऽपि प्रत्यक्षत्वाविशेषादुत्तरक्षणे प्रामाण्यं न सेत्स्यतीति भेदादिवाक्यानामेव प्रामाण्यं स्यात् तस्य साक्षिसिद्धत्वं चेत् जगत्सत्यत्वमपि साक्षिसिद्धम् व्यभिचारश्चेत् आगमार्थानुमानिर्दोषत्वाध्यवसाये च समः अत उत्तरदिवसेऽभेदवाक्यस्य भेदोऽर्थः स्यात् निर्दोषानुमायाः सदोषत्वम् सदोषानुमाया निर्दोषत्वम् - इत्यव्यवस्था आश्रयसाध्यव्यधिकरणासिद्धयो न दूषणम्‌ अतिप्रसङ्गाभावात् अतिप्रसङ्गेन हि दोषत्वादोषत्वे कल्प्ये व्याप्तिरेव हि प्रयोजिका असत्यपि व्याप्तिरस्त्येव असदाश्रयस्य साधकत्वं नेत्यपि व्याप्तिं विना कथं निवार्यते असदाश्रयमित्यादिविशेषणत्वसम्भवे कथमव्याप्तिः नचात्यन्ताभावोऽपि सर्वधर्मरहितः प्रमेयत्वाद्यनुभवात् परिशेषार्थापत्तिप्रामाण्याभ्युपगमाच्च",
+    "padas": [
+     "इतिवत्",
+     "त्रिविधो विरोधः",
+     "प्रतिज्ञाहेतुदृष्टान्तभेदेन",
+     "प्रमाणविरुद्धार्थप्रतिज्ञा प्रतिज्ञाविरोधः",
+     "हेतुस्वरूपासिद्धिरव्याप्तिश्चेति हेतुविरोधः",
+     "साध्यस्य साधनस्य वाऽननुगमो दृष्टान्तविरोधः",
+     "प्रतिज्ञायाः समबलविरोध एव सप्रतिसाधनः",
+     "स एवोपाधिदोषोऽपि",
+     "सर्व एते दृश्यत्वानुमाने द्रष्टव्याः",
+     "प्रत्यक्षागमदिभिर्जगतः सत्यत्वात्",
+     "तत्पक्षे दृश्यत्वस्य च मिथ्यात्वात्",
+     "अनिर्वचनीयस्य प्रतिवादिनोऽसिद्धत्वात्",
+     "आत्मनोऽपि दृश्यत्वात्",
+     "शुक्तिरजतदेरनिर्वचनीयत्वाभावात्",
+     "अनिर्वचनीयदृश्यत्वाभावात्",
+     "मानसिद्धत्वादिति सप्रतिसाधनत्वाच्च",
+     "जगत्सत्यत्वग्राहिप्रत्यक्षस्य वर्तमानमात्रग्राहित्वे",
+     "अनुमानागमप्रामाण्यग्राहिणोऽपि",
+     "प्रत्यक्षत्वाविशेषादुत्तरक्षणे प्रामाण्यं न सेत्स्यतीति",
+     "भेदादिवाक्यानामेव प्रामाण्यं स्यात्",
+     "तस्य साक्षिसिद्धत्वं चेत्",
+     "जगत्सत्यत्वमपि साक्षिसिद्धम्",
+     "व्यभिचारश्चेत्",
+     "आगमार्थानुमानिर्दोषत्वाध्यवसाये च समः",
+     "अत उत्तरदिवसेऽभेदवाक्यस्य भेदोऽर्थः",
+     "स्यात्",
+     "निर्दोषानुमायाः सदोषत्वम्",
+     "सदोषानुमाया निर्दोषत्वम् - इत्यव्यवस्था",
+     "आश्रयसाध्यव्यधिकरणासिद्धयो न दूषणम्‌",
+     "अतिप्रसङ्गाभावात्",
+     "अतिप्रसङ्गेन हि दोषत्वादोषत्वे कल्प्ये",
+     "व्याप्तिरेव हि प्रयोजिका",
+     "असत्यपि व्याप्तिरस्त्येव",
+     "असदाश्रयस्य साधकत्वं नेत्यपि व्याप्तिं विना कथं निवार्यते",
+     "असदाश्रयमित्यादिविशेषणत्वसम्भवे कथमव्याप्तिः",
+     "नचात्यन्ताभावोऽपि सर्वधर्मरहितः",
+     "प्रमेयत्वाद्यनुभवात्",
+     "परिशेषार्थापत्तिप्रामाण्याभ्युपगमाच्च"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "soft",
+     "soft",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "soft",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "इतिवत्। त्रिविधो विरोधः। प्रतिज्ञाहेतुदृष्टान्तभेदेन। प्रमाणविरुद्धार्थप्रतिज्ञा प्रतिज्ञाविरोधः। हेतुस्वरूपासिद्धिरव्याप्तिश्चेति हेतुविरोधः। साध्यस्य साधनस्य वाऽननुगमो दृष्टान्तविरोधः। प्रतिज्ञायाः समबलविरोध एव सप्रतिसाधनः। स एवोपाधिदोषोऽपि। सर्व एते दृश्यत्वानुमाने द्रष्टव्याः। प्रत्यक्षागमदिभिर्जगतः सत्यत्वात्। तत्पक्षे दृश्यत्वस्य च मिथ्यात्वात्। अनिर्वचनीयस्य प्रतिवादिनोऽसिद्धत्वात्। आत्मनोऽपि दृश्यत्वात्। शुक्तिरजतदेरनिर्वचनीयत्वाभावात्। अनिर्वचनीयदृश्यत्वाभावात्। मानसिद्धत्वादिति सप्रतिसाधनत्वाच्च। जगत्सत्यत्वग्राहिप्रत्यक्षस्य वर्तमानमात्रग्राहित्वे, अनुमानागमप्रामाण्यग्राहिणोऽपि प्रत्यक्षत्वाविशेषादुत्तरक्षणे प्रामाण्यं न सेत्स्यतीति भेदादिवाक्यानामेव प्रामाण्यं स्यात्। तस्य साक्षिसिद्धत्वं चेत्, जगत्सत्यत्वमपि साक्षिसिद्धम्। व्यभिचारश्चेत्, आगमार्थानुमानिर्दोषत्वाध्यवसाये च समः। अत उत्तरदिवसेऽभेदवाक्यस्य भेदोऽर्थः स्यात्। निर्दोषानुमायाः सदोषत्वम्, सदोषानुमाया निर्दोषत्वम् - इत्यव्यवस्था। आश्रयसाध्यव्यधिकरणासिद्धयो न दूषणम्‌, अतिप्रसङ्गाभावात्। अतिप्रसङ्गेन हि दोषत्वादोषत्वे कल्प्ये। व्याप्तिरेव हि प्रयोजिका। असत्यपि व्याप्तिरस्त्येव। असदाश्रयस्य साधकत्वं नेत्यपि व्याप्तिं विना कथं निवार्यते। असदाश्रयमित्यादिविशेषणत्वसम्भवे कथमव्याप्तिः। नचात्यन्ताभावोऽपि सर्वधर्मरहितः। प्रमेयत्वाद्यनुभवात्। परिशेषार्थापत्तिप्रामाण्याभ्युपगमाच्च।",
+    "n": 7,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pl_seq5_u07_gadya_810edf",
+    "clips": [
+     "pl_seq5_u07_gadya_p01_9f55ce",
+     "pl_seq5_u07_gadya_p02_89c59d",
+     "pl_seq5_u07_gadya_p03_59fde9",
+     "pl_seq5_u07_gadya_p04_da4f29",
+     "pl_seq5_u07_gadya_p05_f4c0fe",
+     "pl_seq5_u07_gadya_p06_6b4bd7",
+     "pl_seq5_u07_gadya_p07_943f2e",
+     "pl_seq5_u07_gadya_p08_cc092d",
+     "pl_seq5_u07_gadya_p09_9e0b16",
+     "pl_seq5_u07_gadya_p10_2a1b46",
+     "pl_seq5_u07_gadya_p11_1e490c",
+     "pl_seq5_u07_gadya_p12_691f05",
+     "pl_seq5_u07_gadya_p13_784008",
+     "pl_seq5_u07_gadya_p14_cead5e",
+     "pl_seq5_u07_gadya_p15_ee383a",
+     "pl_seq5_u07_gadya_p16_47fd4c",
+     "pl_seq5_u07_gadya_p17_010375",
+     "pl_seq5_u07_gadya_p18_2604e8",
+     "pl_seq5_u07_gadya_p19_82d8c9",
+     "pl_seq5_u07_gadya_p20_42a4d8",
+     "pl_seq5_u07_gadya_p21_481e5c",
+     "pl_seq5_u07_gadya_p22_979fc2",
+     "pl_seq5_u07_gadya_p23_5e4926",
+     "pl_seq5_u07_gadya_p24_379e0f",
+     "pl_seq5_u07_gadya_p25_30e65f",
+     "pl_seq5_u07_gadya_p26_7f2e93",
+     "pl_seq5_u07_gadya_p27_8dc859",
+     "pl_seq5_u07_gadya_p28_b09f30",
+     "pl_seq5_u07_gadya_p29_228e7b",
+     "pl_seq5_u07_gadya_p30_af94df",
+     "pl_seq5_u07_gadya_p31_4bacb8",
+     "pl_seq5_u07_gadya_p32_7b22ed",
+     "pl_seq5_u07_gadya_p33_fc6ef3",
+     "pl_seq5_u07_gadya_p34_78525b",
+     "pl_seq5_u07_gadya_p35_545761",
+     "pl_seq5_u07_gadya_p36_32dffa",
+     "pl_seq5_u07_gadya_p37_2e3ea6",
+     "pl_seq5_u07_gadya_p38_1758f3"
+    ]
+   },
+   {
+    "type": "padya",
+    "text": "विमतं सकर्तृकम्",
+    "padas": [
+     "विमतं सकर्तृकम्"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "विमतं सकर्तृकम्",
+    "n": 8,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback:len7:undetected",
+    "clip": "pl_seq5_u08_padya_875ec2",
+    "clips": [
+     "pl_seq5_u08_padya_p01_875ec2"
+    ]
+   },
+   {
+    "type": "gadya",
+    "text": "इत्यत्र सर्वज्ञत्वस्य पक्षधर्मताबलेन सिद्ध्यङ्गीकारात् परिशेषोऽर्थापत्तिरनुमानमित्यविशेषः उपपत्तिमात्रत्वात् उपपत्तेश्च व्याप्त्यपेक्षा सर्वथाऽङ्गीकार्येत्याग्रहमात्रेण भेदः उपमानस्यापि व्याप्तिरूपत्वात् नहि स्वसदृशेनासदृशं क्वचिद् दृष्टम् योग्यानुपलब्धेश्च लिङ्गत्वम् अविशेषात् उक्तदोषेष्वेवाशेषानुमानदोषाणामन्तर्भावः साध्याविशिष्टोऽसिद्धः सिद्धसाधकोऽसङ्गतः",
+    "padas": [
+     "इत्यत्र सर्वज्ञत्वस्य पक्षधर्मताबलेन सिद्ध्यङ्गीकारात्",
+     "परिशेषोऽर्थापत्तिरनुमानमित्यविशेषः",
+     "उपपत्तिमात्रत्वात्",
+     "उपपत्तेश्च व्याप्त्यपेक्षा सर्वथाऽङ्गीकार्येत्याग्रहमात्रेण भेदः",
+     "उपमानस्यापि व्याप्तिरूपत्वात्",
+     "नहि स्वसदृशेनासदृशं क्वचिद् दृष्टम्",
+     "योग्यानुपलब्धेश्च लिङ्गत्वम्",
+     "अविशेषात्",
+     "उक्तदोषेष्वेवाशेषानुमानदोषाणामन्तर्भावः",
+     "साध्याविशिष्टोऽसिद्धः",
+     "सिद्धसाधकोऽसङ्गतः"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "इत्यत्र सर्वज्ञत्वस्य पक्षधर्मताबलेन सिद्ध्यङ्गीकारात्। परिशेषोऽर्थापत्तिरनुमानमित्यविशेषः। उपपत्तिमात्रत्वात्। उपपत्तेश्च व्याप्त्यपेक्षा सर्वथाऽङ्गीकार्येत्याग्रहमात्रेण भेदः। उपमानस्यापि व्याप्तिरूपत्वात्। नहि स्वसदृशेनासदृशं क्वचिद् दृष्टम्। योग्यानुपलब्धेश्च लिङ्गत्वम्। अविशेषात्। उक्तदोषेष्वेवाशेषानुमानदोषाणामन्तर्भावः। साध्याविशिष्टोऽसिद्धः। सिद्धसाधकोऽसङ्गतः।",
+    "n": 9,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pl_seq5_u09_gadya_741430",
+    "clips": [
+     "pl_seq5_u09_gadya_p01_e5ec1c",
+     "pl_seq5_u09_gadya_p02_fc5ffa",
+     "pl_seq5_u09_gadya_p03_00c548",
+     "pl_seq5_u09_gadya_p04_76fa53",
+     "pl_seq5_u09_gadya_p05_18dbce",
+     "pl_seq5_u09_gadya_p06_60577d",
+     "pl_seq5_u09_gadya_p07_022630",
+     "pl_seq5_u09_gadya_p08_5dd2c8",
+     "pl_seq5_u09_gadya_p09_fc4d4f",
+     "pl_seq5_u09_gadya_p10_fa9333",
+     "pl_seq5_u09_gadya_p11_9b06d1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pl_seq7",
+  "ref": null,
+  "seq": 7,
+  "kind": "prose_only",
+  "adhyaya": "स्वोक्तप्रमाणलक्षणदृढीकरणम्",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 99.8,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "pl_seq7",
+    "from": 1,
+    "to": 7,
+    "seq": 7,
+    "covers": [
+     7
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "pl_seq7_u01_gadya_p01_1ee768",
+       "pl_seq7_u01_gadya_p02_343ef3",
+       "pl_seq7_u01_gadya_p03_541d2a",
+       "pl_seq7_u01_gadya_p04_c6a32b",
+       "pl_seq7_u01_gadya_p05_47c8f0",
+       "pl_seq7_u01_gadya_p06_b8882a",
+       "pl_seq7_u01_gadya_p07_2f3483"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "pl_seq7_u02_padya_p01_79f9d9",
+       "pl_seq7_u02_padya_p02_743b10"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 3,
+      "type": "gadya",
+      "clips": [
+       "pl_seq7_u03_gadya_p01_466dd0",
+       "pl_seq7_u03_gadya_p02_c4f282",
+       "pl_seq7_u03_gadya_p03_e37ea7",
+       "pl_seq7_u03_gadya_p04_5bc091",
+       "pl_seq7_u03_gadya_p05_759997",
+       "pl_seq7_u03_gadya_p06_2fe34d",
+       "pl_seq7_u03_gadya_p07_924ab4",
+       "pl_seq7_u03_gadya_p08_a10233",
+       "pl_seq7_u03_gadya_p09_7db374"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 4,
+      "type": "padya",
+      "clips": [
+       "pl_seq7_u04_padya_p01_16e188"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 5,
+      "type": "gadya",
+      "clips": [
+       "pl_seq7_u05_gadya_p01_c65f60",
+       "pl_seq7_u05_gadya_p02_f952bf",
+       "pl_seq7_u05_gadya_p03_1d69d6",
+       "pl_seq7_u05_gadya_p04_04e697",
+       "pl_seq7_u05_gadya_p05_1b8500"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 6,
+      "type": "padya",
+      "clips": [
+       "pl_seq7_u06_padya_p01_233e28"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 7,
+      "type": "gadya",
+      "clips": [
+       "pl_seq7_u07_gadya_p01_dbbf64",
+       "pl_seq7_u07_gadya_p02_e6611c",
+       "pl_seq7_u07_gadya_p03_eebb40"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "pl_seq7_u01_gadya_p01_1ee768",
+     "pl_seq7_u01_gadya_p02_343ef3",
+     "pl_seq7_u01_gadya_p03_541d2a",
+     "pl_seq7_u01_gadya_p04_c6a32b",
+     "pl_seq7_u01_gadya_p05_47c8f0",
+     "pl_seq7_u01_gadya_p06_b8882a",
+     "pl_seq7_u01_gadya_p07_2f3483",
+     "pl_seq7_u02_padya_p01_79f9d9",
+     "pl_seq7_u02_padya_p02_743b10",
+     "pl_seq7_u03_gadya_p01_466dd0",
+     "pl_seq7_u03_gadya_p02_c4f282",
+     "pl_seq7_u03_gadya_p03_e37ea7",
+     "pl_seq7_u03_gadya_p04_5bc091",
+     "pl_seq7_u03_gadya_p05_759997",
+     "pl_seq7_u03_gadya_p06_2fe34d",
+     "pl_seq7_u03_gadya_p07_924ab4",
+     "pl_seq7_u03_gadya_p08_a10233",
+     "pl_seq7_u03_gadya_p09_7db374",
+     "pl_seq7_u04_padya_p01_16e188",
+     "pl_seq7_u05_gadya_p01_c65f60",
+     "pl_seq7_u05_gadya_p02_f952bf",
+     "pl_seq7_u05_gadya_p03_1d69d6",
+     "pl_seq7_u05_gadya_p04_04e697",
+     "pl_seq7_u05_gadya_p05_1b8500",
+     "pl_seq7_u06_padya_p01_233e28",
+     "pl_seq7_u07_gadya_p01_dbbf64",
+     "pl_seq7_u07_gadya_p02_e6611c",
+     "pl_seq7_u07_gadya_p03_eebb40"
+    ],
+    "est_sec": 99.8,
+    "path": "pramana_lakshana/misc/pl_seq7.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "text": "न प्रमासाधनं प्रमाणम् ज्ञानव्यतिरिक्तप्रमायां प्रमाणाभावात् नचाज्ञातपरिच्छित्तिरेव प्रमेत्यत्र किञ्चिन्मानम् याथार्थ्यमेव प्रामाण्यमित्यङ्गीकारात् नचानुभूतिरेव प्रमाणम् स्मृत्यादावव्याप्तेः वेदानुमानादिप्रामाण्यप्रसिद्धेश्च",
+    "padas": [
+     "न प्रमासाधनं प्रमाणम्",
+     "ज्ञानव्यतिरिक्तप्रमायां प्रमाणाभावात्",
+     "नचाज्ञातपरिच्छित्तिरेव प्रमेत्यत्र किञ्चिन्मानम्",
+     "याथार्थ्यमेव प्रामाण्यमित्यङ्गीकारात्",
+     "नचानुभूतिरेव प्रमाणम्",
+     "स्मृत्यादावव्याप्तेः",
+     "वेदानुमानादिप्रामाण्यप्रसिद्धेश्च"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "न प्रमासाधनं प्रमाणम्। ज्ञानव्यतिरिक्तप्रमायां प्रमाणाभावात्। नचाज्ञातपरिच्छित्तिरेव प्रमेत्यत्र किञ्चिन्मानम्। याथार्थ्यमेव प्रामाण्यमित्यङ्गीकारात्। नचानुभूतिरेव प्रमाणम्। स्मृत्यादावव्याप्तेः। वेदानुमानादिप्रामाण्यप्रसिद्धेश्च।",
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pl_seq7_u01_gadya_c92946",
+    "clips": [
+     "pl_seq7_u01_gadya_p01_1ee768",
+     "pl_seq7_u01_gadya_p02_343ef3",
+     "pl_seq7_u01_gadya_p03_541d2a",
+     "pl_seq7_u01_gadya_p04_c6a32b",
+     "pl_seq7_u01_gadya_p05_47c8f0",
+     "pl_seq7_u01_gadya_p06_b8882a",
+     "pl_seq7_u01_gadya_p07_2f3483"
+    ]
+   },
+   {
+    "type": "padya",
+    "text": "स्मृतिः प्रत्यक्षमैतिह्यमनुमानं चतुष्टयम् प्रमाणमिति विज्ञेयं धर्माद्यर्थे बुभूषुभिः",
+    "padas": [
+     "स्मृतिः प्रत्यक्षमैतिह्यमनुमानं चतुष्टयम्",
+     "प्रमाणमिति विज्ञेयं धर्माद्यर्थे बुभूषुभिः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "स्मृतिः प्रत्यक्षमैतिह्यमनुमानं चतुष्टयम्। प्रमाणमिति विज्ञेयं धर्माद्यर्थे बुभूषुभिः॥",
+    "n": 2,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "clip": "pl_seq7_u02_padya_de5471",
+    "clips": [
+     "pl_seq7_u02_padya_p01_79f9d9",
+     "pl_seq7_u02_padya_p02_743b10"
+    ]
+   },
+   {
+    "type": "gadya",
+    "text": "इति श्रुतेश्च ऐतिह्यमागमभेदः नच सम्यगनुभवसाधनं प्रमाणम् ईश्वरज्ञानादावव्याप्तेः अप्रामाण्ये प्रमाणाभावाच्च प्रामाण्यज्ञाने च तत्राप्यङ्गीकारेऽनवस्थितेः स्वप्रकाशात्माङ्गीकारे तत्राव्याप्तेः स्मृतेश्च प्रामाण्यानङ्गीकारे",
+    "padas": [
+     "इति श्रुतेश्च",
+     "ऐतिह्यमागमभेदः",
+     "नच सम्यगनुभवसाधनं प्रमाणम्",
+     "ईश्वरज्ञानादावव्याप्तेः",
+     "अप्रामाण्ये प्रमाणाभावाच्च",
+     "प्रामाण्यज्ञाने च",
+     "तत्राप्यङ्गीकारेऽनवस्थितेः",
+     "स्वप्रकाशात्माङ्गीकारे तत्राव्याप्तेः",
+     "स्मृतेश्च प्रामाण्यानङ्गीकारे"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "इति श्रुतेश्च। ऐतिह्यमागमभेदः। नच सम्यगनुभवसाधनं प्रमाणम्। ईश्वरज्ञानादावव्याप्तेः। अप्रामाण्ये प्रमाणाभावाच्च। प्रामाण्यज्ञाने च। तत्राप्यङ्गीकारेऽनवस्थितेः। स्वप्रकाशात्माङ्गीकारे तत्राव्याप्तेः। स्मृतेश्च प्रामाण्यानङ्गीकारे",
+    "n": 3,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pl_seq7_u03_gadya_a0d5aa",
+    "clips": [
+     "pl_seq7_u03_gadya_p01_466dd0",
+     "pl_seq7_u03_gadya_p02_c4f282",
+     "pl_seq7_u03_gadya_p03_e37ea7",
+     "pl_seq7_u03_gadya_p04_5bc091",
+     "pl_seq7_u03_gadya_p05_759997",
+     "pl_seq7_u03_gadya_p06_2fe34d",
+     "pl_seq7_u03_gadya_p07_924ab4",
+     "pl_seq7_u03_gadya_p08_a10233",
+     "pl_seq7_u03_gadya_p09_7db374"
+    ]
+   },
+   {
+    "type": "padya",
+    "text": "अनुभूतं मया",
+    "padas": [
+     "अनुभूतं मया"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "अनुभूतं मया",
+    "n": 4,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback:len6:undetected",
+    "clip": "pl_seq7_u04_padya_16e188",
+    "clips": [
+     "pl_seq7_u04_padya_p01_16e188"
+    ]
+   },
+   {
+    "type": "gadya",
+    "text": "इत्यत्र प्रमाणाभावात् लिङ्गत्वेन प्रामाण्ये कल्पनागौरवम् दृष्टहानिश्च स्मृतिप्रमाणद्वैविध्यमात्रकल्पने मिथ्याज्ञानादेर्निराकरणादनुभवविरोधः तदनुभवाभाव इत्युक्ते",
+    "padas": [
+     "इत्यत्र प्रमाणाभावात्",
+     "लिङ्गत्वेन प्रामाण्ये कल्पनागौरवम्",
+     "दृष्टहानिश्च",
+     "स्मृतिप्रमाणद्वैविध्यमात्रकल्पने मिथ्याज्ञानादेर्निराकरणादनुभवविरोधः",
+     "तदनुभवाभाव इत्युक्ते"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "इत्यत्र प्रमाणाभावात्। लिङ्गत्वेन प्रामाण्ये कल्पनागौरवम्। दृष्टहानिश्च। स्मृतिप्रमाणद्वैविध्यमात्रकल्पने मिथ्याज्ञानादेर्निराकरणादनुभवविरोधः। तदनुभवाभाव इत्युक्ते",
+    "n": 5,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pl_seq7_u05_gadya_3e9fb1",
+    "clips": [
+     "pl_seq7_u05_gadya_p01_c65f60",
+     "pl_seq7_u05_gadya_p02_f952bf",
+     "pl_seq7_u05_gadya_p03_1d69d6",
+     "pl_seq7_u05_gadya_p04_04e697",
+     "pl_seq7_u05_gadya_p05_1b8500"
+    ]
+   },
+   {
+    "type": "padya",
+    "text": "अनुभवः स्मृतिश्च नास्ति",
+    "padas": [
+     "अनुभवः स्मृतिश्च नास्ति"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "अनुभवः स्मृतिश्च नास्ति",
+    "n": 6,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback:len9:undetected",
+    "clip": "pl_seq7_u06_padya_233e28",
+    "clips": [
+     "pl_seq7_u06_padya_p01_233e28"
+    ]
+   },
+   {
+    "type": "gadya",
+    "text": "इत्युक्ते किमुत्तरम् स्वसिद्धैः साधनं परसिद्धैर्दूषणम् अतो न दूषणेऽपसिद्धान्तादि",
+    "padas": [
+     "इत्युक्ते किमुत्तरम्",
+     "स्वसिद्धैः साधनं परसिद्धैर्दूषणम्",
+     "अतो न दूषणेऽपसिद्धान्तादि"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "इत्युक्ते किमुत्तरम्। स्वसिद्धैः साधनं परसिद्धैर्दूषणम्। अतो न दूषणेऽपसिद्धान्तादि।",
+    "n": 7,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pl_seq7_u07_gadya_3c7890",
+    "clips": [
+     "pl_seq7_u07_gadya_p01_dbbf64",
+     "pl_seq7_u07_gadya_p02_e6611c",
+     "pl_seq7_u07_gadya_p03_eebb40"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pl_seq9",
+  "ref": null,
+  "seq": 9,
+  "kind": "prose_only",
+  "adhyaya": "सिंहावलोकनन्यायेन मतानुज्ञाया असङ्गतावन्तर्भावः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 4.2,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "pl_seq9",
+    "from": 1,
+    "to": 1,
+    "seq": 9,
+    "covers": [
+     9
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "pl_seq9_u01_gadya_p01_25004f"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "pl_seq9_u01_gadya_p01_25004f"
+    ],
+    "est_sec": 4.2,
+    "path": "pramana_lakshana/misc/pl_seq9.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "text": "इष्टापत्तिः सिद्धसाधनत्वादसङ्गतमेव",
+    "padas": [
+     "इष्टापत्तिः सिद्धसाधनत्वादसङ्गतमेव"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "इष्टापत्तिः सिद्धसाधनत्वादसङ्गतमेव।",
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pl_seq9_u01_gadya_25004f",
+    "clips": [
+     "pl_seq9_u01_gadya_p01_25004f"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pl_seq11",
+  "ref": null,
+  "seq": 11,
+  "kind": "prose_only",
+  "adhyaya": "उपसंहारः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 18.9,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "pl_seq11",
+    "from": 1,
+    "to": 2,
+    "seq": 11,
+    "covers": [
+     11
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "pl_seq11_u01_padya_p01_8f5401",
+       "pl_seq11_u01_padya_p02_359ede"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "pl_seq11_u02_padya_p01_016c99",
+       "pl_seq11_u02_padya_p02_1bb200"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "pl_seq11_u01_padya_p01_8f5401",
+     "pl_seq11_u01_padya_p02_359ede",
+     "pl_seq11_u02_padya_p01_016c99",
+     "pl_seq11_u02_padya_p02_1bb200"
+    ],
+    "est_sec": 18.9,
+    "path": "pramana_lakshana/misc/pl_seq11.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "padas": [
+     "आनन्दतीर्थमुनिना ब्रह्मतर्कोक्तिमार्गतः",
+     "मानलक्षणमित्युक्तं सङ्क्षेणाद् ब्रह्मसिद्धये"
+    ],
+    "text": "आनन्दतीर्थमुनिना ब्रह्मतर्कोक्तिमार्गतः मानलक्षणमित्युक्तं सङ्क्षेणाद् ब्रह्मसिद्धये",
+    "opens_pranava": false,
+    "raw": "आनन्दतीर्थमुनिना ब्रह्मतर्कोक्तिमार्गतः। मानलक्षणमित्युक्तं सङ्क्षेणाद् ब्रह्मसिद्धये",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "pl_seq11_u01_padya_397771",
+    "clips": [
+     "pl_seq11_u01_padya_p01_8f5401",
+     "pl_seq11_u01_padya_p02_359ede"
+    ]
+   },
+   {
+    "type": "padya",
+    "padas": [
+     "अशेषमानमेयैकसाक्षिणेऽक्षयमूर्तये",
+     "अजेशपुरुहूतेड्य नमो नारायणाय ते"
+    ],
+    "text": "अशेषमानमेयैकसाक्षिणेऽक्षयमूर्तये अजेशपुरुहूतेड्य नमो नारायणाय ते",
+    "opens_pranava": false,
+    "raw": "अशेषमानमेयैकसाक्षिणेऽक्षयमूर्तये। अजेशपुरुहूतेड्य नमो नारायणाय ते",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 2,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "pl_seq11_u02_padya_6f7be4",
+    "clips": [
+     "pl_seq11_u02_padya_p01_016c99",
+     "pl_seq11_u02_padya_p02_1bb200"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pl_seq12",
+  "ref": null,
+  "seq": 12,
+  "kind": "colophon",
+  "adhyaya": "उपसंहारः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 8.1,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "pl_seq12",
+    "from": 1,
+    "to": 1,
+    "seq": 12,
+    "covers": [
+     12
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "pl_seq12_u01_gadya_p01_bff68c"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "pl_seq12_u01_gadya_p01_bff68c"
+    ],
+    "est_sec": 8.1,
+    "path": "pramana_lakshana/misc/pl_seq12.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "padas": [
+     "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं प्रमाणलक्षणं सम्पूर्णम्"
+    ],
+    "text": "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं प्रमाणलक्षणं सम्पूर्णम्",
+    "opens_pranava": false,
+    "raw": "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं प्रमाणलक्षणं सम्पूर्णम्",
+    "bounds": [
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "pl_seq12_u01_gadya_bff68c",
+    "clips": [
+     "pl_seq12_u01_gadya_p01_bff68c"
+    ]
+   }
+  ]
+ }
+]

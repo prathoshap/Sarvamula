@@ -1,0 +1,138 @@
+[
+ {
+  "id": "bsb_1_1_2_u01_sutra",
+  "meter": "gadya",
+  "padas": [
+   "जन्माद्यस्य यतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_2_u01_sutra.wav"
+ },
+ {
+  "id": "bsb_1_1_2_u02_gadya",
+  "meter": "gadya",
+  "padas": [
+   "ब्रह्मणो लक्षणमाह- जन्माद्यस्य यतः",
+   "सृष्टिस्थितिसंहारनियमनज्ञानाज्ञानबन्धमोक्षा यतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_2_u02_gadya.wav"
+ },
+ {
+  "id": "bsb_1_1_2_u03_padya",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "उत्पत्तिस्थितिसंहारा नियतिर्ज्ञानमावृतिः",
+   "बन्धमोक्षौ च पुरुषाद् यस्मात् स हरिरेकराट्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_2_u03_padya.wav"
+ },
+ {
+  "id": "bsb_1_1_2_u04_gadya",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इति स्कान्दे"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_2_u04_gadya.wav"
+ },
+ {
+  "id": "bsb_1_1_2_u05_padya",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "यतो वा इमानि भूतानि जायन्ते",
+   "येन जातानि जीवन्ति",
+   "यत् प्रयन्त्यभि संविशन्ति तद् विजिज्ञासस्व तद् ब्रह्मेति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_2_u05_padya.wav"
+ },
+ {
+  "id": "bsb_1_1_2_u06_padya",
+  "meter": "upajāti",
+  "padas": [
+   "य उ त्रिधातु पृथिवीमुत द्यामेको दाधार भुवनानि विश्वा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_2_u06_padya.wav"
+ },
+ {
+  "id": "bsb_1_1_2_u07_padya",
+  "meter": "upajāti",
+  "padas": [
+   "चतुर्भिः साकं नवतिं च नामभिश्चक्रं न वृत्तं व्यतीँरवीविपत्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_2_u07_padya.wav"
+ },
+ {
+  "id": "bsb_1_1_2_u08_padya",
+  "meter": "upajāti",
+  "padas": [
+   "परो मात्रया तन्वा वृधान न ते महित्वमन्वश्नुवन्ति",
+   "न ते विष्णो जायमानो न जातो देव महिम्नः परमन्तमाप"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_2_u08_padya.wav"
+ },
+ {
+  "id": "bsb_1_1_2_u09_padya",
+  "meter": "upajāti",
+  "padas": [
+   "यो नः पिता जनिता यो विधाता धामानि वेद भुवनानि विश्वा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_2_u09_padya.wav"
+ },
+ {
+  "id": "bsb_1_1_2_u10_gadya",
+  "meter": "gadya",
+  "padas": [
+   "इत्यादि च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_2_u10_gadya.wav"
+ },
+ {
+  "id": "bsb_1_1_2_u02_gadya_ALTMBTN",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "ब्रह्मणो लक्षणमाह- जन्माद्यस्य यतः",
+   "सृष्टिस्थितिसंहारनियमनज्ञानाज्ञानबन्धमोक्षा यतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_2_u02_gadya_ALTMBTN.wav"
+ },
+ {
+  "id": "bsb_1_1_2_u10_gadya_ALTMBTN",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इत्यादि च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_2_u10_gadya_ALTMBTN.wav"
+ },
+ {
+  "id": "bsb_1_1_2_u04_gadya_ALTSEED62",
+  "meter": "gadya",
+  "padas": [
+   "इति स्कान्दे"
+  ],
+  "seed": 62,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_2_u04_gadya_ALTSEED62.wav"
+ }
+]

@@ -1,0 +1,7 @@
+file '/Users/prathosh/Sarvamula/audio/pranava_exemplar.wav'
+file '/Users/prathosh/Sarvamula/audio/_g25.wav'
+file '/Users/prathosh/Sarvamula/audio/pranava_exemplar.wav'
+file '/Users/prathosh/Sarvamula/audio/_g08.wav'
+file '/Users/prathosh/Sarvamula/audio/_body_trim.wav'
+file '/Users/prathosh/Sarvamula/audio/_g25.wav'
+file '/Users/prathosh/Sarvamula/audio/pranava_exemplar.wav'

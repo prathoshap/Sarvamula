@@ -1,0 +1,3 @@
+file '/Users/prathosh/Sarvamula/audio/_front_p.wav'
+file '/Users/prathosh/Sarvamula/audio/_g.wav'
+file '/Users/prathosh/Sarvamula/audio/pranava_exemplar.wav'

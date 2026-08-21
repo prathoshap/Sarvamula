@@ -1,0 +1,472 @@
+[
+ {
+  "id": "dvd_001_u03_padya_p02_327563",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स्वर्णमञ्जीरसंवीतमारूढं जगदम्बया"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_001_u03_padya_p02_327563.wav"
+ },
+ {
+  "id": "dvd_001_u06_padya_p02_8c31f1",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पीनवृत्ता जगद्रक्षाकेवलोद्योगिनोऽनिशम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_001_u06_padya_p02_8c31f1.wav"
+ },
+ {
+  "id": "dvd_001_u09_padya_p02_bfd8e3",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "गोविन्दस्य सदा चिन्त्यं नित्यानन्दपदप्रदम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_001_u09_padya_p02_bfd8e3.wav"
+ },
+ {
+  "id": "dvd_001_u12_padya_p02_940088",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नैवोदापुर्गृणन्तोऽन्तं यद्गुणानामजादयः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_001_u12_padya_p02_940088.wav"
+ },
+ {
+  "id": "dvd_002_u02_padya_p01_d4c75f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "चिदचिद्भेदमखिलं विधायाधाय भुञ्जते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_002_u02_padya_p01_d4c75f.wav"
+ },
+ {
+  "id": "dvd_002_u05_padya_p01_17e540",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अगुणाय गुणोद्रेकस्वरूपायादिकारिणे"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_002_u05_padya_p01_17e540.wav"
+ },
+ {
+  "id": "dvd_002_u08_padya_p01_8ab4e6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "[] [] इन्दिरामन्दसान्द्राग्र्यकटाक्षप्रेक्षितात्मने"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_002_u08_padya_p01_8ab4e6.wav"
+ },
+ {
+  "id": "dvd_003_u01_padya_p02_986953",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तदलं बहुलोकविचिन्तनया प्रवणं कुरु मानसमीशपदे"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_003_u01_padya_p02_986953.wav"
+ },
+ {
+  "id": "dvd_003_u04_padya_p02_7a63b1",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यदि नाम न तस्य वशे सकलं कथमेव तु नित्यसुखं न भवेत्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_003_u04_padya_p02_7a63b1.wav"
+ },
+ {
+  "id": "dvd_003_u07_padya_p02_6d24fd",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नियतोच्चविनीचतयैव निजां स्थितिमापुरिति स्म परं वचनम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_003_u07_padya_p02_6d24fd.wav"
+ },
+ {
+  "id": "dvd_004_u01_padya_p01_c94ffe",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यदसुप्तिगतोऽपि हरिः सुखवान् सुखरूपिणमाहुरतो निगमाः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_004_u01_padya_p01_c94ffe.wav"
+ },
+ {
+  "id": "dvd_004_u04_padya_p01_a6e168",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "विमलैः श्रुतिशाणनिशाततमैः सुमनोसिभिराशु निहत्य दृढम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_004_u04_padya_p01_a6e168.wav"
+ },
+ {
+  "id": "dvd_004_u07_padya_p01_38a076",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति देववरस्य हरेः स्तवनं कृतवान् मुनिरुत्तममादरतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_004_u07_padya_p01_38a076.wav"
+ },
+ {
+  "id": "dvd_005_u01_padya_p01_98b550",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "केशव केशव शासक वन्दे पाशधरार्चित शूरवरेश"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_005_u01_padya_p01_98b550.wav"
+ },
+ {
+  "id": "dvd_005_u04_padya_p01_874e35",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "त्रिविक्रम निष्क्रम विक्रम वन्दे सुक्रम सङ्क्रम हुङ्कृतवक्त्र"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_005_u04_padya_p01_874e35.wav"
+ },
+ {
+  "id": "dvd_005_u07_padya_p01_01ae25",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "आनन्दतीर्थमुनीन्द्रकृता हरिगीतिरियं परमादरतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_005_u07_padya_p01_01ae25.wav"
+ },
+ {
+  "id": "dvd_006_u01_padya_p02_8ef3ad",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "देव नृसिंह हिरण्यकशत्रो सर्वभयान्तक दैवतबन्धो"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_006_u01_padya_p02_8ef3ad.wav"
+ },
+ {
+  "id": "dvd_006_u04_padya_p01_c03647",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "कन्दफलाशन सुन्दररूप नन्दितगोकुलवन्दितपाद"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_006_u04_padya_p01_c03647.wav"
+ },
+ {
+  "id": "dvd_006_u07_padya_p01_84c633",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नारायणामलकारणमूर्ते पूर्णगुणार्णव नित्यविबोध"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_006_u07_padya_p01_84c633.wav"
+ },
+ {
+  "id": "dvd_007_u01_padya_p02_b07b89",
+  "meter": "vasantatilaka",
+  "padas": [
+   "आश्रित्य विश्वविजयं विसृजत्यचिन्त्या श्रीर्यत्कटाक्षबलवत्यजितं नमामि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_007_u01_padya_p02_b07b89.wav"
+ },
+ {
+  "id": "dvd_007_u04_padya_p02_1b47ee",
+  "meter": "vasantatilaka",
+  "padas": [
+   "आश्रित्य विश्वमखिलं विदधाति धाता श्रीर्यत्कटाक्षबलवत्यजितं नमामि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_007_u04_padya_p02_1b47ee.wav"
+ },
+ {
+  "id": "dvd_007_u07_padya_p02_25381d",
+  "meter": "vasantatilaka",
+  "padas": [
+   "आश्रित्य शक्रमुखदेवगणैरचिन्त्यं श्रीर्यत्कटाक्षबलवत्यजितं नमामि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_007_u07_padya_p02_25381d.wav"
+ },
+ {
+  "id": "dvd_008_u01_padya_p01_b6ab87",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रीणयामो वासुदेवं देवतामण्डलाखण्डमण्डनम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_008_u01_padya_p01_b6ab87.wav"
+ },
+ {
+  "id": "dvd_008_u05_padya_p01_b6ab87",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रीणयामो वासुदेवं देवतामण्डलाखण्डमण्डनम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_008_u05_padya_p01_b6ab87.wav"
+ },
+ {
+  "id": "dvd_008_u09_padya_p01_b6ab87",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रीणयामो वासुदेवं देवतामण्डलाखण्डमण्डनम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_008_u09_padya_p01_b6ab87.wav"
+ },
+ {
+  "id": "dvd_008_u13_padya_p01_b6ab87",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रीणयामो वासुदेवं देवतामण्डलाखण्डमण्डनम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_008_u13_padya_p01_b6ab87.wav"
+ },
+ {
+  "id": "dvd_008_u17_padya_p01_b6ab87",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रीणयामो वासुदेवं देवतामण्डलाखण्डमण्डनम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_008_u17_padya_p01_b6ab87.wav"
+ },
+ {
+  "id": "dvd_008_u21_padya_p01_b6ab87",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रीणयामो वासुदेवं देवतामण्डलाखण्डमण्डनम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_008_u21_padya_p01_b6ab87.wav"
+ },
+ {
+  "id": "dvd_008_u24_padya_p02_a0257f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "शुभतमकथाशय परम सदोदित जगदेककारण राम रमारमण"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_008_u24_padya_p02_a0257f.wav"
+ },
+ {
+  "id": "dvd_009_u03_padya_p02_a0257f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "शुभतमकथाशय परम सदोदित जगदेककारण राम रमारमण"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_009_u03_padya_p02_a0257f.wav"
+ },
+ {
+  "id": "dvd_009_u06_padya_p02_a0257f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "शुभतमकथाशय परम सदोदित जगदेककारण राम रमारमण"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_009_u06_padya_p02_a0257f.wav"
+ },
+ {
+  "id": "dvd_009_u09_padya_p02_a0257f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "शुभतमकथाशय परम सदोदित जगदेककारण राम रमारमण"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_009_u09_padya_p02_a0257f.wav"
+ },
+ {
+  "id": "dvd_009_u12_padya_p02_a0257f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "शुभतमकथाशय परम सदोदित जगदेककारण राम रमारमण"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_009_u12_padya_p02_a0257f.wav"
+ },
+ {
+  "id": "dvd_009_u16_padya_p01_ae7299",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते द्वादशस्तोत्रे नवमोऽध्यायः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_009_u16_padya_p01_ae7299.wav"
+ },
+ {
+  "id": "dvd_010_u02_padya_p02_4e9fa6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "करुणापूर्ण वरप्रद चरितं ज्ञापय मे ते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_010_u02_padya_p02_4e9fa6.wav"
+ },
+ {
+  "id": "dvd_010_u05_padya_p02_4e9fa6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "करुणापूर्ण वरप्रद चरितं ज्ञापय मे ते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_010_u05_padya_p02_4e9fa6.wav"
+ },
+ {
+  "id": "dvd_010_u08_padya_p02_4e9fa6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "करुणापूर्ण वरप्रद चरितं ज्ञापय मे ते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_010_u08_padya_p02_4e9fa6.wav"
+ },
+ {
+  "id": "dvd_010_u11_padya_p02_4e9fa6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "करुणापूर्ण वरप्रद चरितं ज्ञापय मे ते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_010_u11_padya_p02_4e9fa6.wav"
+ },
+ {
+  "id": "dvd_010_u14_padya_p02_4e9fa6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "करुणापूर्ण वरप्रद चरितं ज्ञापय मे ते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_010_u14_padya_p02_4e9fa6.wav"
+ },
+ {
+  "id": "dvd_010_u17_padya_p02_4e9fa6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "करुणापूर्ण वरप्रद चरितं ज्ञापय मे ते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_010_u17_padya_p02_4e9fa6.wav"
+ },
+ {
+  "id": "dvd_011_u01_padya_p01_351f4b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सर्ववेदपदोद्गीतमिन्दिरावासमुत्तमम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_011_u01_padya_p01_351f4b.wav"
+ },
+ {
+  "id": "dvd_011_u04_padya_p01_03467c",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इन्दीवरोदरनिभं सुपूर्णं वादिमोहदम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_011_u04_padya_p01_03467c.wav"
+ },
+ {
+  "id": "dvd_011_u07_padya_p01_2d4e18",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पूर्णसर्वगुणैकार्णमनाद्यन्तं सुरेशितुः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_011_u07_padya_p01_2d4e18.wav"
+ },
+ {
+  "id": "dvd_011_u10_padya_p02_df7bce",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "आनन्दतीर्थपरानन्दवरद"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_011_u10_padya_p02_df7bce.wav"
+ },
+ {
+  "id": "dvd_012_u03_padya_p02_df7bce",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "आनन्दतीर्थपरानन्दवरद"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_012_u03_padya_p02_df7bce.wav"
+ },
+ {
+  "id": "dvd_012_u06_padya_p02_df7bce",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "आनन्दतीर्थपरानन्दवरद"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_012_u06_padya_p02_df7bce.wav"
+ },
+ {
+  "id": "dvd_012_u10_padya_p01_23267e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "समाप्तश्चायं ग्रन्थः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/dvd_012_u10_padya_p01_23267e.wav"
+ }
+]

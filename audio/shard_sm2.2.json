@@ -1,0 +1,148 @@
+[
+ {
+  "id": "bsb_1_1_1_u09_padya_434c57",
+  "meter": "upajāti",
+  "padas": [
+   "मन्दमध्योत्तमत्वेन त्रिविधा ह्यधिकारिणः",
+   "तत्र मन्दा मनुष्येषु य उत्तमगणा मताः",
+   "मध्यमा ऋषिगन्धर्वा देवास्तत्रोत्तमा मताः",
+   "इति जातिकृतो भेदस्तथाऽन्यो गुणपूर्वकः",
+   "भक्तिमान् परमे विष्णौ यस्त्वध्ययनवान् नरः",
+   "अधमः शमादिसंयुक्तो मध्यमः समुदाहृतः",
+   "आब्रह्मस्तम्बपर्यन्तमसारं चाप्यनित्यकम्",
+   "विज्ञाय जातवैराग्यो विष्णुपादैकसंश्रयः",
+   "स उत्तमोऽधिकारी स्यात् सन्न्यस्ताखिलकर्मवान्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u09_padya_434c57.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u52_padya_331368",
+  "meter": "upajāti",
+  "padas": [
+   "एष मोहं सृजाम्याशु यो जनान् मोहयिष्यति",
+   "त्वं च रुद्र महाबाहो मोहशास्त्राणि कारय",
+   "अतथ्यानि वितथ्यानि दर्शयस्व महाभुज",
+   "प्रकाशं कुरु चात्मानमप्रकाशं च मां कुरु"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u52_padya_331368.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u15_padya_ff8b81",
+  "meter": "upajāti",
+  "padas": [
+   "परीक्ष्य लोकान् कर्मचितान् ब्राह्मणो निर्वेदमायान्नास्त्यकृतः कृतेन",
+   "तद्विज्ञानार्थं स गुरुमेवाभिगच्छेत् समित्पाणिः श्रोत्रियं ब्रह्मनिष्ठम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u15_padya_ff8b81.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u21_padya_187055",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यत्रानवसरोऽन्यत्र पदं तत्र प्रतिष्ठितम्",
+   "वाक्यं वेति सतां नीतिः सावकाशे न तद् भवेत्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u21_padya_187055.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u41_gadya_a1b90a",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इति हि विष्णोर्लिङ्गम्",
+   "नच प्रसिद्धार्थं विनाऽन्योऽर्थो युज्यते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u41_gadya_a1b90a.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u54_padya_a93381",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "श्वपचादपि कष्टत्वं ब्रह्मेशानादयः सुराः",
+   "तदैवाच्युत यान्त्येव यदैव त्वं पराङ्मुखः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u54_padya_a93381.wav"
+ },
+ {
+  "id": "bsb_1_1_2_u08_padya_4dc89a",
+  "meter": "upajāti",
+  "padas": [
+   "परो मात्रया तन्वा वृधान न ते महित्वमन्वश्नुवन्ति",
+   "न ते विष्णो जायमानो न जातो देव महिम्नः परमन्तमाप"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_2_u08_padya_4dc89a.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u12_padya_d35127",
+  "meter": "upajāti",
+  "padas": [
+   "नाविशेषात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u12_padya_d35127.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u25_padya_201c57",
+  "meter": "upajāti",
+  "padas": [
+   "यमेवैष वृणुते तेन लभ्यः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u25_padya_201c57.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u33_gadya_35b771",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इति हि श्रुतिः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u33_gadya_35b771.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u43_gadya_2ae75f",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इति स्कान्दे"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u43_gadya_2ae75f.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u58_padya_dc4dae",
+  "meter": "upajāti",
+  "padas": [
+   "एष मोहम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u58_padya_dc4dae.wav"
+ },
+ {
+  "id": "bsb_1_1_2_u09_padya_e4f8e0",
+  "meter": "upajāti",
+  "padas": [
+   "यो नः पिता जनिता यो विधाता धामानि वेद भुवनानि विश्वा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_2_u09_padya_e4f8e0.wav"
+ }
+]

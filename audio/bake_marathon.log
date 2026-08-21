@@ -1,0 +1,25 @@
+[08-11 01:12:19] taittiriya_bhashya: already baked (21 rows) — skipping
+[08-11 01:12:19] === waiting for chandogya_bhashya ===
+[08-11 01:51:26]   chandogya_bhashya: box unreachable (VPN?) — will keep trying
+[08-11 02:43:37]   chandogya_bhashya: box unreachable (VPN?) — will keep trying
+[08-11 03:15:18]   chandogya_bhashya: box unreachable (VPN?) — will keep trying
+[08-11 04:07:21]   chandogya_bhashya: box unreachable (VPN?) — will keep trying
+[08-11 05:01:42]   chandogya_bhashya: box unreachable (VPN?) — will keep trying
+[08-11 05:39:20]   chandogya_bhashya: box unreachable (VPN?) — will keep trying
+[08-11 06:31:42]   chandogya_bhashya: box unreachable (VPN?) — will keep trying
+[08-11 07:09:49]   chandogya_bhashya: box unreachable (VPN?) — will keep trying
+[08-11 07:48:40]   chandogya_bhashya: box unreachable (VPN?) — will keep trying
+[08-11 10:44:28]   chandogya_bhashya: box unreachable (VPN?) — will keep trying
+[08-11 10:47:31]   chandogya_bhashya: pulled 112 timing entries
+[08-11 10:47:32]   chandogya_bhashya:   work total: 112 files, 220.46 min
+[08-11 10:47:32] === chandogya_bhashya PLAYABLE (112 rows) ===
+[08-11 10:47:32] === waiting for aitareya_bhashya ===
+[08-11 10:49:39]   aitareya_bhashya: pulled 118 timing entries
+[08-11 10:49:39]   aitareya_bhashya:   work total: 118 files, 275.86 min
+[08-11 10:49:39] === aitareya_bhashya PLAYABLE (118 rows) ===
+[08-11 10:49:39] === waiting for kanva_bhashya ===
+[08-11 10:51:46]   kanva_bhashya: pulled 167 timing entries
+[08-11 10:51:47]   kanva_bhashya:   work total: 167 files, 326.79 min
+[08-11 10:51:47] === kanva_bhashya PLAYABLE (167 rows) ===
+[08-11 10:51:47] DB_REV 2026-08-11m -> 2026-08-11n
+[08-11 10:51:47] ALL DONE — reader now 31 works, 22,658 files, 119.9 h

@@ -1,0 +1,82 @@
+[
+ {
+  "id": "bsb_1_1_1_u02_padya_p01_e03f5e_NG",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नारायणं गुणैः सर्वैरुदीर्णं दोषवर्जितम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/ng/bsb_1_1_1_u02_padya_p01_e03f5e_NG.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u04_padya_p01_45f674_NG",
+  "meter": "vasantatilakā",
+  "padas": [
+   "नारायणाद् विनिष्पन्नं ज्ञानं कृतयुगे स्थितम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/ng/bsb_1_1_1_u04_padya_p01_45f674_NG.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u04_padya_p02_4c489f_NG",
+  "meter": "vasantatilakā",
+  "padas": [
+   "किञ्चित् तदन्यथा जातं त्रेतायां द्वापरेऽखिलम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/ng/bsb_1_1_1_u04_padya_p02_4c489f_NG.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u04_padya_p05_7c5fb5_NG",
+  "meter": "vasantatilakā",
+  "padas": [
+   "शरण्यं शरणं जग्मुर्नारायणमनामयम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/ng/bsb_1_1_1_u04_padya_p05_7c5fb5_NG.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u04_padya_p08_cfd296_NG",
+  "meter": "vasantatilakā",
+  "padas": [
+   "उत्सन्नान् भगवान् वेदानुज्जहार हरिः स्वयम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/ng/bsb_1_1_1_u04_padya_p08_cfd296_NG.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u04_padya_p13_c33ef2_NG",
+  "meter": "vasantatilakā",
+  "padas": [
+   "अल्पाक्षरमसन्दिग्धं सारवद् विश्वतोमुखम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/ng/bsb_1_1_1_u04_padya_p13_c33ef2_NG.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u04_padya_p19_f96828_NG",
+  "meter": "vasantatilakā",
+  "padas": [
+   "इति वेदविदः प्राहुः शब्दतत्त्वार्थवेदिनः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/ng/bsb_1_1_1_u04_padya_p19_f96828_NG.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u05_gadya_p01_0a061f_NG",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इत्यादि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/ng/bsb_1_1_1_u05_gadya_p01_0a061f_NG.wav"
+ }
+]

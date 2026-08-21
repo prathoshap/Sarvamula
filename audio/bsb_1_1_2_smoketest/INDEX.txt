@@ -1,0 +1,53 @@
+BSB 1.1.2 (janmādyasya yataḥ) — smoke test
+Re-rendered 2026-08-02 with the soft-onset gate fix and NO ॐ primer.
+
+00_FULL_BLOCK_noprimer.m4a   all 10 units, assembled (assemble_block.py), 69.132s
+                             sutra framed by the exemplar ॐ; 0.75s unit gaps,
+                             +0.30s extra before a quote that follows prose.
+NP_u01..NP_u10               per-unit clips of that same render (out16/).
+
+THE GATE FIX (this is the headline)
+  render_batch.py gate() trimmed clip onsets with thresholds written for STOP
+  bursts: first 20ms frame over voice=0.08, back-walk while over sil=0.012, keep
+  30ms lead, then fade in from ZERO over 15ms. Correct for a stop (real closure
+  silence). Wrong for any SONORANT onset — vowel, semivowel य/व/र/ल, nasal — whose
+  attack ramps up gradually and so falls under the floor.
+  Measured on u05 यतो: the old gate started at 290ms, the fixed one at 170ms.
+  The 120ms it was discarding had RMS -27.7 dBFS and peak -13.9 dBFS — plainly
+  audible speech, not padding. Confirmed by ear 2026-08-02.
+
+  Fix: soft_onset() in render_batch.py classifies by onset type —
+       _STOPS = kKgGcCjJwWqQtTdDpPbB (SLP1); everything else takes the gentle path
+       (low 0.006 floor, no fade-in). Previously only ś/ṣ/s/h were spared.
+  Box backup of the pre-fix file: ~/Prathosh/production/render_batch.py.bak-presonorant
+
+  Onset class over this block (6 of 10 changed behaviour — exactly the units that
+  used to need the primer):
+      u01 ज stop | u02 ब stop | u03 उ SOFT | u04 इ SOFT | u05 य SOFT
+      u06 य SOFT | u07 च stop | u08 प stop | u09 य SOFT | u10 इ SOFT
+  Verified post-render: all 4 stop-onset clips have sample[0] == 0.0 exactly (fade
+  applied, as intended); all 6 soft-onset clips have sample[0] != 0 (attack kept).
+
+THE ॐ PRIMER IS RETIRED
+  It was a workaround for the gate bug, not for a model limitation. build_shard.py
+  now has PRIMER = "" and SEED = {} (the u04 seed-62 override was compensating for
+  the same bug). The model still cannot voice a LONE ॐ — that is a separate, real
+  quirk — so the sutra's pranava is still the spliced human exemplar, by choice.
+
+STILL OPEN
+  * u04 "इति स्कान्दे" / u10 "इत्यादि च" — 0.855s connective phrases; compare
+    NP_u04_gadya vs NP_u04_gadya_ALTMBTN vs NP_u04_gadya_ALTSEED62, and
+    NP_u10_gadya vs NP_u10_gadya_ALTMBTN.
+  * u02 prose — compare NP_u02_gadya vs NP_u02_gadya_ALTMBTN (gadya_mbtn is the
+    reference approved for u05; unclear yet whether it suits all prose).
+  * u06-u09 Ṛgveda mantras rendered as upajāti — Vedic svara not attempted.
+  * u05 pada grouping is an override (PADA_GROUPS in build_shard.py): segment.py
+    splits at every visarga into 5, the approved reading runs the last 3 together.
+
+GATE A/B (kept for reference)
+  u05_AB_old_then_new.m4a          hard gate -> soft gate (the "yato" fix)
+  u05_AB_softgate_then_nogate.m4a  soft gate -> --no_gate
+  u05_NOGATE.m4a / u05_RAW_NOGATE.m4a
+  Why the gate stays: without it F5's own padding (0.32s, 0.36s — uneven) stacks on
+  top of the --gap, so internal pauses go 0.58/0.58 -> 0.88/0.92 and vary per pada.
+  The gate is what makes --gap authoritative. render_batch.py --no_gate re-runs this.

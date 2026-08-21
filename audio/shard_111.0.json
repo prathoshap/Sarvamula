@@ -1,0 +1,792 @@
+[
+ {
+  "id": "bsb_1_1_1_u15_padya_p02_85524c",
+  "meter": "vasantatilakā",
+  "padas": [
+   "तद्विज्ञानार्थं स गुरुमेवाभिगच्छेत् समित्पाणिः श्रोत्रियं ब्रह्मनिष्ठम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u15_padya_p02_85524c.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u03_gadya_p02_886f6a",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ब्रह्मरुद्रेन्द्रादिभिरर्थितो भगवान् नारायणो व्यासत्वेनावततार"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u03_gadya_p02_886f6a.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u26_padya_p01_f98ba9",
+  "meter": "vasantatilakā",
+  "padas": [
+   "आत्मा वा अरे द्रष्टव्यः श्रोतव्यो मन्तव्यो निदिध्यासितव्यः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u26_padya_p01_f98ba9.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u16_padya_p01_efef5a",
+  "meter": "vasantatilakā",
+  "padas": [
+   "यमेवैष वृणुते तेन लभ्यस्तस्यैष आत्मा विवृणुते तनूं स्वाम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u16_padya_p01_efef5a.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u03_gadya_p04_4b43d5",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तज्ज्ञापनार्थं वेदमुत्सन्नं व्यञ्जयंश्चतुर्धा व्यभजत्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u03_gadya_p04_4b43d5.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u36_padya_p02_3108d7",
+  "meter": "vasantatilakā",
+  "padas": [
+   "नामानि सर्वाणि यमाविशन्ति तं वै विष्णुं परममुदाहरन्ति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u36_padya_p02_3108d7.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u42_padya_p02_bd1f99",
+  "meter": "vasantatilakā",
+  "padas": [
+   "तस्मै नमो व्यस्तसमस्तविश्वविभूतये विष्णवे लोककर्त्रे"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u42_padya_p02_bd1f99.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u02_padya_p02_5bd31f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ज्ञेयं गम्यं गुरूंश्चापि नत्वा सूत्रार्थ उच्यते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u02_padya_p02_5bd31f.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u19_padya_p02_70e3a7",
+  "meter": "vasantatilakā",
+  "padas": [
+   "स्त्रीशूद्रब्रह्मबन्धूनां तन्त्रज्ञानेऽधिकारिता"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u19_padya_p02_70e3a7.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u06_padya_p10_c1fc26",
+  "meter": "vasantatilakā",
+  "padas": [
+   "सिसृक्षोः परमाद् विष्णोः प्रथमं द्वौ विनिःसृतौ"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u06_padya_p10_c1fc26.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u04_padya_p02_4c489f",
+  "meter": "vasantatilakā",
+  "padas": [
+   "किञ्चित् तदन्यथा जातं त्रेतायां द्वापरेऽखिलम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u04_padya_p02_4c489f.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u06_padya_p17_f90b19",
+  "meter": "vasantatilakā",
+  "padas": [
+   "सूत्रेषु तु महाप्राज्ञास्तावेवादौ प्रयुञ्जते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u06_padya_p17_f90b19.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u03_gadya_p01_781fd3",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "द्वापरे सर्वत्र ज्ञान आकुलीभूते तन्निर्णयाय"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u03_gadya_p01_781fd3.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u04_padya_p15_996071",
+  "meter": "vasantatilakā",
+  "padas": [
+   "निर्विशेषितसूत्रत्वं ब्रह्मसूत्रस्य चाप्यतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u04_padya_p15_996071.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u06_padya_p08_9bf9bd",
+  "meter": "vasantatilakā",
+  "padas": [
+   "परस्य ब्रह्मणो विष्णोः प्रसादादिति वा भवेत्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u06_padya_p08_9bf9bd.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u56_padya_p02_2233c9",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "बालः क्रीडनकैर्यद्वत् क्रीडतेऽस्माभिरच्युतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u56_padya_p02_2233c9.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u04_padya_p18_7f4cd6",
+  "meter": "vasantatilakā",
+  "padas": [
+   "मुख्यस्य निर्विशेषेण शब्दोऽन्येषां विशेषतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u04_padya_p18_7f4cd6.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u17_padya_p02_aad37b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तस्यैते कथिता ह्यर्थाः प्रकाशन्ते महात्मनः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u17_padya_p02_aad37b.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u24_padya_p01_5a0d2b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रियो हि ज्ञानिनोऽत्यर्थमहं स च मम प्रियः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u24_padya_p01_5a0d2b.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u28_padya_p02_277dcb",
+  "meter": "vasantatilakā",
+  "padas": [
+   "मध्यमो ज्ञानसम्पत्त्या प्रसादस्तूत्तमो मतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u28_padya_p02_277dcb.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u04_padya_p06_4f16b2",
+  "meter": "vasantatilakā",
+  "padas": [
+   "तैर्विज्ञापितकार्यस्तु भगवान् पुरुषोत्तमः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u04_padya_p06_4f16b2.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u06_padya_p15_5bb2f2",
+  "meter": "vasantatilakā",
+  "padas": [
+   "अतश्च पूर्वमुच्चार्याः सर्व एते सतां मताः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u06_padya_p15_5bb2f2.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u04_padya_p04_37bb34",
+  "meter": "vasantatilakā",
+  "padas": [
+   "सङ्कीर्णबुद्धयो देवा ब्रह्मरुद्रपुरःसराः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u04_padya_p04_37bb34.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u04_padya_p11_383124",
+  "meter": "vasantatilakā",
+  "padas": [
+   "कृष्णो द्वादशधा चैव पुनस्तस्यार्थवित्तये"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u04_padya_p11_383124.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u04_padya_p19_f96828",
+  "meter": "vasantatilakā",
+  "padas": [
+   "इति वेदविदः प्राहुः शब्दतत्त्वार्थवेदिनः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u04_padya_p19_f96828.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u06_padya_p03_a76217",
+  "meter": "vasantatilakā",
+  "padas": [
+   "कश्चार्थश्च तयोर्विद्वन् कथमुत्तमता तयोः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u06_padya_p03_a76217.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u28_padya_p06_6d7909",
+  "meter": "vasantatilakā",
+  "padas": [
+   "साधनं ज्ञानसम्पत्तौ प्रधानं नान्यदिष्यते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u28_padya_p06_6d7909.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u54_padya_p02_a5ab7e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तदैवाच्युत यान्त्येव यदैव त्वं पराङ्मुखः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u54_padya_p02_a5ab7e.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u02_padya_p01_e03f5e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नारायणं गुणैः सर्वैरुदीर्णं दोषवर्जितम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u02_padya_p01_e03f5e.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u04_padya_p21_ceeda7",
+  "meter": "vasantatilakā",
+  "padas": [
+   "शब्दजातस्य सर्वस्य यत्प्रमाणश्च निर्णयः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u04_padya_p21_ceeda7.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u06_padya_p02_fc54c9",
+  "meter": "vasantatilakā",
+  "padas": [
+   "प्रारभन्ते नियत्यैव तत् किमत्र नियामकम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u06_padya_p02_fc54c9.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u09_padya_p07_37e78d",
+  "meter": "vasantatilakā",
+  "padas": [
+   "आब्रह्मस्तम्बपर्यन्तमसारं चाप्यनित्यकम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u09_padya_p07_37e78d.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u21_padya_p01_225227",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यत्रानवसरोऽन्यत्र पदं तत्र प्रतिष्ठितम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u21_padya_p01_225227.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u52_padya_p02_0ced87",
+  "meter": "vasantatilakā",
+  "padas": [
+   "त्वं च रुद्र महाबाहो मोहशास्त्राणि कारय"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u52_padya_p02_0ced87.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u54_padya_p01_dc049d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "श्वपचादपि कष्टत्वं ब्रह्मेशानादयः सुराः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u54_padya_p01_dc049d.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u06_padya_p01_0df1cc",
+  "meter": "vasantatilakā",
+  "padas": [
+   "अथातःशब्दपूर्वाणि सूत्राणि निखिलान्यपि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u06_padya_p01_0df1cc.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u06_padya_p07_c4f3f3",
+  "meter": "vasantatilakā",
+  "padas": [
+   "अथशब्दस्त्वतःशब्दो हेत्वर्थे समुदीरितः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u06_padya_p07_c4f3f3.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u09_padya_p08_a437cb",
+  "meter": "vasantatilakā",
+  "padas": [
+   "विज्ञाय जातवैराग्यो विष्णुपादैकसंश्रयः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u09_padya_p08_a437cb.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u19_padya_p06_7d211f",
+  "meter": "vasantatilakā",
+  "padas": [
+   "यथोर्वशी यमी चैव शच्याद्याश्च तथा पराः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u19_padya_p06_7d211f.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u49_gadya_p04_74db61",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रसिद्धत्वात् सूचितत्वाच्चास्यार्थस्य"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u49_gadya_p04_74db61.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u03_gadya_p05_f99a05",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "चतुर्विंशतिधैकशतधा सहस्रधा द्वादशधा च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u03_gadya_p05_f99a05.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u06_padya_p16_ede590",
+  "meter": "vasantatilakā",
+  "padas": [
+   "अथातःशब्दयोरेवं वीर्यमाज्ञाय तत्त्वतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u06_padya_p16_ede590.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u19_padya_p05_5aecfd",
+  "meter": "vasantatilakā",
+  "padas": [
+   "आहुरप्युत्तमस्त्रीणामधिकारं तु वैदिके"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u19_padya_p05_5aecfd.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u09_padya_p02_dcbf9d",
+  "meter": "vasantatilakā",
+  "padas": [
+   "तत्र मन्दा मनुष्येषु य उत्तमगणा मताः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u09_padya_p02_dcbf9d.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u28_padya_p07_5f5cad",
+  "meter": "vasantatilakā",
+  "padas": [
+   "नचैतानि विना कश्चिज्ज्ञानमाप कुतश्चन"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u28_padya_p07_5f5cad.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u06_padya_p09_8d64ed",
+  "meter": "vasantatilakā",
+  "padas": [
+   "स हि सर्वमनोवृत्तिप्रेरकः समुदाहृतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u06_padya_p09_8d64ed.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u09_padya_p06_971e2a",
+  "meter": "vasantatilakā",
+  "padas": [
+   "अधमः शमादिसंयुक्तो मध्यमः समुदाहृतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u09_padya_p06_971e2a.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u35_gadya_p01_6e2da6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति वचनाद् विष्णुरेव हि तत्रोच्यते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u35_gadya_p01_6e2da6.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u52_padya_p03_a1a63a",
+  "meter": "vasantatilakā",
+  "padas": [
+   "अतथ्यानि वितथ्यानि दर्शयस्व महाभुज"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u52_padya_p03_a1a63a.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u50_padya_p01_9f4e9b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "वेदे रामायणे चैव पुराणे भारते तथा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u50_padya_p01_9f4e9b.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u39_gadya_p01_d8c880",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इत्येवशब्दान्नान्येषां सर्वनामता"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u39_gadya_p01_d8c880.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u04_padya_p10_4d4eb8",
+  "meter": "vasantatilakā",
+  "padas": [
+   "शतधा चैकधा चैव तथैव च सहस्रधा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u04_padya_p10_4d4eb8.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u20_gadya_p02_5dd8ec",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यतो नारायणप्रसादमृते न मोक्षः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u20_gadya_p02_5dd8ec.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u08_gadya_p01_8d3daa",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अधिकारश्चोक्तो भागवततन्त्रे"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u08_gadya_p01_8d3daa.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u23_padya_p02_b8d3cd",
+  "meter": "vasantatilakā",
+  "padas": [
+   "नान्यः पन्था अयनाय विद्यते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u23_padya_p02_b8d3cd.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u35_gadya_p02_6ea861",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नचेतरशब्दात् तत्प्राप्तिः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u35_gadya_p02_6ea861.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u44_padya_p01_3b44a9",
+  "meter": "vasantatilakā",
+  "padas": [
+   "परो दिवा पर एना पृथिव्या"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u44_padya_p01_3b44a9.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u55_gadya_p02_999089",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ब्राह्मे च ब्रह्मवैवर्ते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u55_gadya_p02_999089.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u27_gadya_p01_b44518",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इत्यादिश्रुतिस्मृतिभ्यः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u27_gadya_p01_b44518.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u38_padya_p01_6df92d",
+  "meter": "vasantatilakā",
+  "padas": [
+   "यो देवानां नामधा एक एव"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u38_padya_p01_6df92d.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u41_gadya_p01_6ded9d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति हि विष्णोर्लिङ्गम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u41_gadya_p01_6ded9d.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u49_gadya_p03_b07a29",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "समुद्रेऽन्तर्नारायणः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u49_gadya_p03_b07a29.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u18_gadya_p01_2f35a4",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इत्यादिश्रुतिभ्यश्च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u18_gadya_p01_2f35a4.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u37_gadya_p01_f38b76",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति भाल्लवेयश्रुतिः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u37_gadya_p01_f38b76.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u45_gadya_p01_9e8eab",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति समाख्याश्रुतौ"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u45_gadya_p01_9e8eab.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u18_gadya_p02_bcb556",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "व्योमसंहितायां च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u18_gadya_p02_bcb556.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u57_gadya_p02_b1e348",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नच वैष्णवेषु तथा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u57_gadya_p02_b1e348.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u53_gadya_p02_beac22",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "शैवे च स्कान्दे"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u53_gadya_p02_beac22.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u11_padya_p01_84aeb5",
+  "meter": "vasantatilakā",
+  "padas": [
+   "अध्ययनमात्रवतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u11_padya_p01_84aeb5.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u34_padya_p01_8dcdec",
+  "meter": "vasantatilakā",
+  "padas": [
+   "तन्नो विष्णुः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u34_padya_p01_8dcdec.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u51_gadya_p01_a3a61a",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति हरिवंशेषु"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u51_gadya_p01_a3a61a.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u29_gadya_p01_44abf7",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति नारदीये"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u29_gadya_p01_44abf7.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u47_gadya_p01_f40ddb",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इत्युक्त्वा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u47_gadya_p01_f40ddb.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u13_gadya_p01_37cc92",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति चोपरि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u13_gadya_p01_37cc92.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u58_padya_p01_a4273f",
+  "meter": "vasantatilakā",
+  "padas": [
+   "एष मोहम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u58_padya_p01_a4273f.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u57_gadya_p03_7bc379",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तच्च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u57_gadya_p03_7bc379.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u07_gadya_p01_dcf9fe",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u07_gadya_p01_dcf9fe.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u20_gadya_p01_dcf9fe",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u20_gadya_p01_dcf9fe.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u57_gadya_p01_dcf9fe",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/BigDisk/Prathosh/sarvamula_audio/qc/bsb_1_1_1_u57_gadya_p01_dcf9fe.wav"
+ }
+]

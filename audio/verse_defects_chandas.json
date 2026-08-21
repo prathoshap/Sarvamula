@@ -1,0 +1,788 @@
+[
+ {
+  "work": "sutra_bhashya",
+  "block": "bsb_2_1_27",
+  "seq": 381,
+  "is_padya": 0,
+  "aks": 30,
+  "source_line": "एकेनाङ्गुलिमात्रेण प्रवर्तमानोऽपि पूर्णप्रवृत्तिः स्यात्।",
+  "became": [
+   "एकेनाङ्गुलिमात्रेण प्रवर्तमानोऽपि पूर्णप्रवृत्तिः",
+   "स्यात् ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "vishnu_tatva_nirnaya",
+  "block": "vtn_seq73",
+  "seq": 73,
+  "is_padya": 1,
+  "aks": 22,
+  "source_line": "आगमोऽदुष्टवाक्यं च स्वदृक् चानुभवः स्मृतः।",
+  "became": [
+   "आगमोऽदुष्टवाक्यं च स्वदृक् चानुभवः ।",
+   "स्मृतः ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "vishnu_tatva_nirnaya",
+  "block": "vtn_seq73",
+  "seq": 73,
+  "is_padya": 1,
+  "aks": 19,
+  "source_line": "तयोः स्वभावो बलवानुपजीव्यादिकश्च सः॥",
+  "became": [
+   "तयोः ।",
+   "स्वभावो बलवानुपजीव्यादिकश्च सः ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "vishnu_tatva_nirnaya",
+  "block": "vtn_seq76",
+  "seq": 76,
+  "is_padya": 1,
+  "aks": 21,
+  "source_line": "युक्तिः प्रतिज्ञारूपा च हेतुदृष्टान्तरूपिका।",
+  "became": [
+   "युक्तिः ।",
+   "प्रतिज्ञारूपा च हेतुदृष्टान्तरूपिका ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "vishnu_tatva_nirnaya",
+  "block": "vtn_seq80",
+  "seq": 80,
+  "is_padya": 1,
+  "aks": 22,
+  "source_line": "अर्थतः प्राप्तिरेवार्थापत्तिरित्यभिधीयते।",
+  "became": [
+   "अर्थतः ।",
+   "प्राप्तिरेवार्थापत्तिरित्यभिधीयते ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "vishnu_tatva_nirnaya",
+  "block": "vtn_seq127",
+  "seq": 127,
+  "is_padya": 0,
+  "aks": 27,
+  "source_line": "अज्ञाते च वैलक्षण्ये आत्मनि घट इत्यपि संशयः स्यात्।",
+  "became": [
+   "अज्ञाते च वैलक्षण्ये आत्मनि घट इत्यपि संशयः",
+   "स्यात् ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "upadhi_khandana",
+  "block": "uk_seq5",
+  "seq": 5,
+  "is_padya": 1,
+  "aks": 21,
+  "source_line": "सार्वज्ञादिगुणा विष्णोः श्रुतिषु प्रतिपादिताः।",
+  "became": [
+   "सार्वज्ञादिगुणा विष्णोः ।",
+   "श्रुतिषु प्रतिपादिताः ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "tatva_sankhyana",
+  "block": "tsk_seq12",
+  "seq": 12,
+  "is_padya": 1,
+  "aks": 21,
+  "source_line": "ते च प्राप्तान्धतमसः सृतिसंस्था इति द्विधा।",
+  "became": [
+   "ते च प्राप्तान्धतमसः ।",
+   "सृतिसंस्था इति द्विधा ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "tatva_viveka",
+  "block": "tvk_seq18",
+  "seq": 18,
+  "is_padya": 1,
+  "aks": 22,
+  "source_line": "गुणक्रियाजातिपूर्वा धर्माः सर्वेऽपि वस्तुनः॥ ९॥",
+  "became": [
+   "गुणक्रियाजातिपूर्वा धर्माः ।",
+   "सर्वेऽपि वस्तुनः ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "shatprashna_bhashya",
+  "block": "spr_seq8",
+  "seq": 9,
+  "is_padya": 0,
+  "aks": 32,
+  "source_line": "आकाशो ह वा एष देवो वायुरग्निरापः पृथिवी वाङ्मनश्चक्षुः श्रोत्रं च।",
+  "became": [
+   "आकाशो ह वा एष देवो वायुरग्निरापः ।",
+   "पृथिवी वाङ्मनश्चक्षुः ।",
+   "श्रोत्रं च ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq12",
+  "seq": 12,
+  "is_padya": 1,
+  "aks": 22,
+  "source_line": "प्रथितः पृथिवीनामा सोऽन्तरिक्षाभिधोऽत्रगः।",
+  "became": [
+   "प्रथितः ।",
+   "पृथिवीनामा सोऽन्तरिक्षाभिधोऽत्रगः ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq12",
+  "seq": 12,
+  "is_padya": 1,
+  "aks": 22,
+  "source_line": "मुखनासाचक्षुषां तद्भोग्यमन्नं हरेः श्रुतम्।",
+  "became": [
+   "मुखनासाचक्षुषां तद्भोग्यमन्नं हरेः ।",
+   "श्रुतम् ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq12",
+  "seq": 12,
+  "is_padya": 1,
+  "aks": 20,
+  "source_line": "अरणं गमनं यस्मादर्कः शीघ्रगतित्वतः।",
+  "became": [
+   "अरणं गमनं यस्मादर्कः ।",
+   "शीघ्रगतित्वतः ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq12",
+  "seq": 12,
+  "is_padya": 1,
+  "aks": 22,
+  "source_line": "तस्मात् तस्यार्क इति सा प्रोच्यते वैदिकैः पदैः।",
+  "became": [
+   "तस्मात् तस्यार्क इति सा प्रोच्यते वैदिकैः ।",
+   "पदैः ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq12",
+  "seq": 12,
+  "is_padya": 1,
+  "aks": 22,
+  "source_line": "योऽसौ चितिगतो वीन्द्रः सोऽग्निवातरविष्वपि।",
+  "became": [
+   "योऽसौ चितिगतो वीन्द्रः ।",
+   "सोऽग्निवातरविष्वपि ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq12",
+  "seq": 12,
+  "is_padya": 1,
+  "aks": 26,
+  "source_line": "तथा वाक्प्राणचक्षुष्षु तस्मात् तेऽर्काः प्रकीर्तिताः।",
+  "became": [
+   "तथा वाक्प्राणचक्षुष्षु तस्मात् तेऽर्काः ।",
+   "प्रकीर्तिताः ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq12",
+  "seq": 12,
+  "is_padya": 1,
+  "aks": 20,
+  "source_line": "तेषु स्थिते सुपर्णे च रूपभेदैः पृथक्पृथक्।",
+  "became": [
+   "तेषु स्थिते सुपर्णे च रूपभेदैः ।",
+   "पृथक्पृथक् ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq16",
+  "seq": 16,
+  "is_padya": 1,
+  "aks": 20,
+  "source_line": "वासुदेवाभिधं ब्रह्म प्राप प्रपदयोः पुरा।",
+  "became": [
+   "वासुदेवाभिधं ब्रह्म प्राप प्रपदयोः ।",
+   "पुरा ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq18",
+  "seq": 18,
+  "is_padya": 1,
+  "aks": 26,
+  "source_line": "अध्यात्ममग्निर्वागाख्यश्चक्षुः सूर्यः प्रकीर्तितः।",
+  "became": [
+   "अध्यात्ममग्निर्वागाख्यश्चक्षुः ।",
+   "सूर्यः ।",
+   "प्रकीर्तितः ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq18",
+  "seq": 18,
+  "is_padya": 1,
+  "aks": 23,
+  "source_line": "यज्ञादिसाधने यत् तु मनश्चन्द्रः प्रकीर्तितः।",
+  "became": [
+   "यज्ञादिसाधने यत् तु मनश्चन्द्रः ।",
+   "प्रकीर्तितः ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq18",
+  "seq": 18,
+  "is_padya": 1,
+  "aks": 20,
+  "source_line": "मित्रो यमश्च वरुणः कुबेरश्च दिगीश्वराः।",
+  "became": [
+   "मित्रो यमश्च वरुणः ।",
+   "कुबेरश्च दिगीश्वराः ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq18",
+  "seq": 18,
+  "is_padya": 1,
+  "aks": 21,
+  "source_line": "श्रोत्राभिमानिनः सर्वे वैदिकश्रवणोचितम्।",
+  "became": [
+   "श्रोत्राभिमानिनः ।",
+   "सर्वे वैदिकश्रवणोचितम् ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq18",
+  "seq": 18,
+  "is_padya": 1,
+  "aks": 23,
+  "source_line": "श्रोत्रं तु वरुणः काम्यशास्त्रार्थं मित्र एव च।",
+  "became": [
+   "श्रोत्रं तु वरुणः ।",
+   "काम्यशास्त्रार्थं मित्र एव च ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq20",
+  "seq": 20,
+  "is_padya": 1,
+  "aks": 21,
+  "source_line": "ज्ञात्वा जगदुपास्ते तु योग्यः संस्तदुपासने।",
+  "became": [
+   "ज्ञात्वा जगदुपास्ते तु योग्यः ।",
+   "संस्तदुपासने ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq20",
+  "seq": 20,
+  "is_padya": 1,
+  "aks": 23,
+  "source_line": "मुक्तः संश्च तदन्येषां ज्ञानमात्राद् विमुक्तिगैः।",
+  "became": [
+   "मुक्तः ।",
+   "संश्च तदन्येषां ज्ञानमात्राद् विमुक्तिगैः ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq20",
+  "seq": 20,
+  "is_padya": 1,
+  "aks": 25,
+  "source_line": "स्वावरैः सेव्यतैव स्यात् कैश्चिदेव क्वचित्क्वचित्।",
+  "became": [
+   "स्वावरैः ।",
+   "सेव्यतैव स्यात् कैश्चिदेव क्वचित्क्वचित् ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq24",
+  "seq": 24,
+  "is_padya": 1,
+  "aks": 23,
+  "source_line": "आ पूर्णत्वाद् गुणैः सर्वैस्तन्मूलमखिलस्य च।",
+  "became": [
+   "आ पूर्णत्वाद् गुणैः ।",
+   "सर्वैस्तन्मूलमखिलस्य च ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq24",
+  "seq": 24,
+  "is_padya": 1,
+  "aks": 22,
+  "source_line": "पुत्रा ब्रह्मादयः सर्वे नैवायं वृक्षमूलवत्।",
+  "became": [
+   "पुत्रा ब्रह्मादयः ।",
+   "सर्वे नैवायं वृक्षमूलवत् ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq24",
+  "seq": 24,
+  "is_padya": 1,
+  "aks": 24,
+  "source_line": "स्वतन्त्रत्वाज्जगन्नाथः पितृत्वात् परमेशितुः।",
+  "became": [
+   "स्वतन्त्रत्वाज्जगन्नाथः ।",
+   "पितृत्वात् परमेशितुः ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq24",
+  "seq": 24,
+  "is_padya": 1,
+  "aks": 18,
+  "source_line": "यथा यदव इत्येव रघवः कुरवस्तथा।",
+  "became": [
+   "यथा यदव इत्येव रघवः ।",
+   "कुरवस्तथा ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq24",
+  "seq": 24,
+  "is_padya": 1,
+  "aks": 20,
+  "source_line": "एवं स भगवान् विष्णुर्महिदासाभिधः प्रभुः।",
+  "became": [
+   "एवं स भगवान् विष्णुर्महिदासाभिधः ।",
+   "प्रभुः ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "aitareya_bhashya",
+  "block": "ait_seq24",
+  "seq": 24,
+  "is_padya": 1,
+  "aks": 23,
+  "source_line": "सर्वश्रोतृत्वतः श्रोत्रं मनो मन्तृत्वहेतुतः।",
+  "became": [
+   "सर्वश्रोतृत्वतः ।",
+   "श्रोत्रं मनो मन्तृत्वहेतुतः ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq143",
+  "seq": 144,
+  "is_padya": 1,
+  "aks": 18,
+  "source_line": "आकाशो नीलिमोदेति न प्रदेशः कथञ्चन।",
+  "became": [
+   "आकाशो नीलिमोदेति न प्रदेशः ।",
+   "कथञ्चन ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq157",
+  "seq": 158,
+  "is_padya": 1,
+  "aks": 26,
+  "source_line": "द्विविधः क्रम उद्दिष्टो व्यत्क्रमोऽनुक्रमस्तथा।",
+  "became": [
+   "द्विविधः ।",
+   "क्रम उद्दिष्टो व्यत्क्रमोऽनुक्रमस्तथा ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq193",
+  "seq": 194,
+  "is_padya": 1,
+  "aks": 23,
+  "source_line": "महत्वान्महतां विष्णुः कर्ता प्राणस्य चैकराट्।",
+  "became": [
+   "महत्वान्महतां विष्णुः ।",
+   "कर्ता प्राणस्य चैकराट् ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq195",
+  "seq": 196,
+  "is_padya": 1,
+  "aks": 24,
+  "source_line": "तद्दासाः पञ्च चान्येऽपि प्राणाद्याः सद्गुणैर्युताः॥",
+  "became": [
+   "तद्दासाः ।",
+   "पञ्च चान्येऽपि प्राणाद्याः ।",
+   "सद्गुणैर्युताः ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq262",
+  "seq": 263,
+  "is_padya": 1,
+  "aks": 21,
+  "source_line": "तिरस्कर्ता च कर्ता च न खण्डेशः स राजवत्॥",
+  "became": [
+   "तिरस्कर्ता च कर्ता च न खण्डेशः ।",
+   "स राजवत् ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq288",
+  "seq": 289,
+  "is_padya": 1,
+  "aks": 25,
+  "source_line": "स्वतन्त्रः पूर्णशक्तिः सन् कुतोऽसौ नियतिं त्यजेत्॥",
+  "became": [
+   "स्वतन्त्रः ।",
+   "पूर्णशक्तिः ।",
+   "सन् कुतोऽसौ नियतिं त्यजेत् ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq290",
+  "seq": 291,
+  "is_padya": 1,
+  "aks": 21,
+  "source_line": "अत ईशत्वमीशस्य न हीशोऽन्यः कथञ्चन॥",
+  "became": [
+   "अत ईशत्वमीशस्य न हीशोऽन्यः ।",
+   "कथञ्चन ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq298",
+  "seq": 299,
+  "is_padya": 1,
+  "aks": 23,
+  "source_line": "यस्य यावद् गुणाः स्पष्टं प्रतिभासन्त्युपासने।",
+  "became": [
+   "यस्य यावद् गुणाः ।",
+   "स्पष्टं प्रतिभासन्त्युपासने ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq316",
+  "seq": 317,
+  "is_padya": 1,
+  "aks": 23,
+  "source_line": "यथाशक्ति स्मृतान् धात्रा गुणान् विष्णोः सरस्वती।",
+  "became": [
+   "यथाशक्ति स्मृतान् धात्रा गुणान् विष्णोः ।",
+   "सरस्वती ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq320",
+  "seq": 321,
+  "is_padya": 1,
+  "aks": 22,
+  "source_line": "पर्यायेणैव सत्याः स्युर्नैवान्येषां कथञ्चन॥",
+  "became": [
+   "पर्यायेणैव सत्याः ।",
+   "स्युर्नैवान्येषां कथञ्चन ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq330",
+  "seq": 331,
+  "is_padya": 1,
+  "aks": 20,
+  "source_line": "स्वाधिकाराधिको यत्नः प्रायशो नोपपद्यते।",
+  "became": [
+   "स्वाधिकाराधिको यत्नः ।",
+   "प्रायशो नोपपद्यते ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq330",
+  "seq": 331,
+  "is_padya": 1,
+  "aks": 21,
+  "source_line": "कथञ्चिदधिके यत्ने दोषः कश्चित् समापतेत्॥",
+  "became": [
+   "कथञ्चिदधिके यत्ने दोषः ।",
+   "कश्चित् समापतेत् ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq336",
+  "seq": 337,
+  "is_padya": 1,
+  "aks": 22,
+  "source_line": "पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते।",
+  "became": [
+   "पूर्णमदः ।",
+   "पूर्णमिदं पूर्णात् पूर्णमुदच्यते ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq336",
+  "seq": 337,
+  "is_padya": 1,
+  "aks": 21,
+  "source_line": "सत्याद्या अहमात्मान्ता यद्गुणाः समुदीरिताः।",
+  "became": [
+   "सत्याद्या अहमात्मान्ता यद्गुणाः ।",
+   "समुदीरिताः ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq342",
+  "seq": 343,
+  "is_padya": 0,
+  "aks": 21,
+  "source_line": "ज्ञानिनो गुरुशापेऽपि नामुक्तिः संसृतेः क्वचित्।",
+  "became": [
+   "ज्ञानिनो गुरुशापेऽपि नामुक्तिः ।",
+   "संसृतेः ।",
+   "क्वचित् ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq358",
+  "seq": 359,
+  "is_padya": 0,
+  "aks": 22,
+  "source_line": "अनादितो गुणाः सन्तो भक्त्याद्या नह्यमूमुचन्।",
+  "became": [
+   "अनादितो गुणाः ।",
+   "सन्तो भक्त्याद्या नह्यमूमुचन् ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq382",
+  "seq": 383,
+  "is_padya": 1,
+  "aks": 23,
+  "source_line": "एतावतोऽधिका नास्ति प्राप्तिरित्यन्ततः स्थिता।",
+  "became": [
+   "एतावतोऽधिका नास्ति प्राप्तिरित्यन्ततः ।",
+   "स्थिता ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq417",
+  "seq": 418,
+  "is_padya": 1,
+  "aks": 23,
+  "source_line": "इन्द्रियस्थैः स्वरूपैस्तु ज्ञानानि जनयत्यसौ।",
+  "became": [
+   "इन्द्रियस्थैः ।",
+   "स्वरूपैस्तु ज्ञानानि जनयत्यसौ ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq417",
+  "seq": 418,
+  "is_padya": 1,
+  "aks": 19,
+  "source_line": "मनःस्थेन विशेषेण कार्मैः कर्मकृदेव च।",
+  "became": [
+   "मनः ।",
+   "स्थेन विशेषेण कार्मैः ।",
+   "कर्मकृदेव च ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq417",
+  "seq": 418,
+  "is_padya": 1,
+  "aks": 21,
+  "source_line": "प्राण एको वशी नित्यं बाह्यान्तःकरणेश्वरः।",
+  "became": [
+   "प्राण एको वशी नित्यं बाह्यान्तः ।",
+   "करणेश्वरः ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq427",
+  "seq": 428,
+  "is_padya": 0,
+  "aks": 19,
+  "source_line": "अपूर्णतादिभावो वा दुःखं वा नास्ति किञ्चन।",
+  "became": [
+   "अपूर्णतादिभावो वा दुः ।",
+   "खं वा नास्ति किञ्चन ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq427",
+  "seq": 428,
+  "is_padya": 0,
+  "aks": 25,
+  "source_line": "मुक्तस्य पारतन्त्र्येऽपि तारतम्येऽप्यतः सुखी॥",
+  "became": [
+   "मुक्तस्य पारतन्त्र्येऽपि तारतम्येऽप्यतः ।",
+   "सुखी ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq439",
+  "seq": 440,
+  "is_padya": 0,
+  "aks": 22,
+  "source_line": "अतः क्रमात् समृद्धे तु ज्ञाने ब्रह्मलये नरैः॥",
+  "became": [
+   "अतः ।",
+   "क्रमात् समृद्धे तु ज्ञाने ब्रह्मलये नरैः ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq457",
+  "seq": 458,
+  "is_padya": 1,
+  "aks": 21,
+  "source_line": "देहाभावाच्च भावाच्च निर्भोगित्वं च दुःखिताम्।",
+  "became": [
+   "देहाभावाच्च भावाच्च निर्भोगित्वं च दुः ।",
+   "खिताम् ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "nyaya_vivarana",
+  "block": "nvv_seq459",
+  "seq": 460,
+  "is_padya": 1,
+  "aks": 21,
+  "source_line": "मुक्तानां न जगद्यत्नस्तथाऽपि विबुधाः सदा।",
+  "became": [
+   "मुक्तानां न जगद्यत्नस्तथाऽपि विबुधाः ।",
+   "सदा ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "gita_tatparya",
+  "block": "gt_12_13",
+  "seq": 734,
+  "is_padya": 0,
+  "aks": 11,
+  "source_line": "इत्यादेः प्रपञ्च एषः॥",
+  "became": [
+   "इत्यादेः ।",
+   "प्रपञ्च एषः ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "gita_tatparya",
+  "block": "gt_14_9",
+  "seq": 794,
+  "is_padya": 0,
+  "aks": 11,
+  "source_line": "रजसस्तु फलं दुःखमिति॥",
+  "became": [
+   "रजसस्तु फलं दुः ।",
+   "खमिति ।"
+  ],
+  "meter": "anushtubh"
+ },
+ {
+  "work": "gita_tatparya",
+  "block": "gt_17_27b",
+  "seq": 871,
+  "is_padya": 1,
+  "aks": 33,
+  "source_line": "“ॐ यज्ञाद्या निष्फलं कर्म तत् स्यात् सद् वै तदर्थं कर्म वदन्ति वेदाः।",
+  "became": [
+   "यज्ञाद्या निष्फलं कर्म तत् स्यात् सद् वै तदर्थं",
+   "कर्म वदन्ति वेदाः ।"
+  ],
+  "meter": "anushtubh"
+ }
+]

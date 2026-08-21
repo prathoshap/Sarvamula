@@ -1,0 +1,147 @@
+[
+ {
+  "id": "sweep_u10_seed60",
+  "meter": "gadya",
+  "padas": [
+   "इत्यादि च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/sweep_u10_seed60.wav"
+ },
+ {
+  "id": "sweep_u10_seed61",
+  "meter": "gadya",
+  "padas": [
+   "इत्यादि च"
+  ],
+  "seed": 61,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/sweep_u10_seed61.wav"
+ },
+ {
+  "id": "sweep_u10_seed62",
+  "meter": "gadya",
+  "padas": [
+   "इत्यादि च"
+  ],
+  "seed": 62,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/sweep_u10_seed62.wav"
+ },
+ {
+  "id": "sweep_u10_seed63",
+  "meter": "gadya",
+  "padas": [
+   "इत्यादि च"
+  ],
+  "seed": 63,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/sweep_u10_seed63.wav"
+ },
+ {
+  "id": "sweep_u10_seed64",
+  "meter": "gadya",
+  "padas": [
+   "इत्यादि च"
+  ],
+  "seed": 64,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/sweep_u10_seed64.wav"
+ },
+ {
+  "id": "sweep_u10_seed65",
+  "meter": "gadya",
+  "padas": [
+   "इत्यादि च"
+  ],
+  "seed": 65,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/sweep_u10_seed65.wav"
+ },
+ {
+  "id": "sweep_u10_sps035",
+  "meter": "gadya",
+  "padas": [
+   "इत्यादि च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/sweep_u10_sps035.wav",
+  "sps": 0.35
+ },
+ {
+  "id": "sweep_u10_sps045",
+  "meter": "gadya",
+  "padas": [
+   "इत्यादि च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/sweep_u10_sps045.wav",
+  "sps": 0.45
+ },
+ {
+  "id": "sweep_u10_spsFREE",
+  "meter": "gadya",
+  "padas": [
+   "इत्यादि च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/sweep_u10_spsFREE.wav",
+  "sps": 0.0
+ },
+ {
+  "id": "sweep_u10_speed080",
+  "meter": "gadya",
+  "padas": [
+   "इत्यादि च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/sweep_u10_speed080.wav",
+  "speed": 0.8
+ },
+ {
+  "id": "sweep_u10_refanu",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इत्यादि च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/sweep_u10_refanu.wav"
+ },
+ {
+  "id": "sweep_u10_refpram",
+  "meter": "pramāṇikā",
+  "padas": [
+   "इत्यादि च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/sweep_u10_refpram.wav"
+ },
+ {
+  "id": "sweep_u10_mbtn",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इत्यादि च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/sweep_u10_mbtn.wav"
+ },
+ {
+  "id": "sweep_u10_mbtn_sps035",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इत्यादि च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/sweep_u10_mbtn_sps035.wav",
+  "sps": 0.35
+ }
+]

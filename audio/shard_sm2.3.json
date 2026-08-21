@@ -1,0 +1,157 @@
+[
+ {
+  "id": "bsb_1_1_1_u28_padya_e7a1b6",
+  "meter": "upajāti",
+  "padas": [
+   "कर्मणा त्वधमः प्रोक्तः प्रसादः श्रवणादिभिः",
+   "मध्यमो ज्ञानसम्पत्त्या प्रसादस्तूत्तमो मतः",
+   "प्रसादात् त्वधमाद् विष्णोः स्वर्गलोकः प्रकीर्तितः",
+   "मध्यमाज्जनलोकादिरुत्तमस्त्वेव मुक्तिदः",
+   "श्रवणं मननं चैव ध्यानं भक्तिस्तथैव च",
+   "साधनं ज्ञानसम्पत्तौ प्रधानं नान्यदिष्यते",
+   "नचैतानि विना कश्चिज्ज्ञानमाप कुतश्चन"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u28_padya_e7a1b6.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u03_gadya_62fd62",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "द्वापरे सर्वत्र ज्ञान आकुलीभूते तन्निर्णयाय ब्रह्मरुद्रेन्द्रादिभिरर्थितो भगवान् नारायणो व्यासत्वेनावततार",
+   "अथेष्टानिष्टप्राप्तिपरिहारेच्छूनां तद्योगमविजानतां तज्ज्ञापनार्थं वेदमुत्सन्नं व्यञ्जयंश्चतुर्धा व्यभजत्",
+   "चतुर्विंशतिधैकशतधा सहस्रधा द्वादशधा च",
+   "तदर्थनिर्णयाय ब्रह्मसूत्राणि चकार",
+   "तच्चोक्तं स्कान्दे"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u03_gadya_62fd62.wav"
+ },
+ {
+  "id": "bsb_1_1_2_u05_padya_f8ccdf",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "यतो वा इमानि भूतानि जायन्ते",
+   "येन जातानि जीवन्ति",
+   "यत् प्रयन्त्यभि संविशन्ति तद् विजिज्ञासस्व तद् ब्रह्मेति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_2_u05_padya_f8ccdf.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u23_padya_f6ffaa",
+  "meter": "upajāti",
+  "padas": [
+   "तमेवं विद्वानमृत इह भवति",
+   "नान्यः पन्था अयनाय विद्यते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u23_padya_f6ffaa.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u42_padya_1e5712",
+  "meter": "upajāti",
+  "padas": [
+   "अजस्य नाभाविति यस्य नाभेरभूच्छ्रुतेः पुष्करं लोकसारम्",
+   "तस्मै नमो व्यस्तसमस्तविश्वविभूतये विष्णवे लोककर्त्रे"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u42_padya_1e5712.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u55_gadya_a9b26d",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इति",
+   "ब्राह्मे च ब्रह्मवैवर्ते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u55_gadya_a9b26d.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u01_sutra_050706",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "अथातो ब्रह्मजिज्ञासा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u01_sutra_050706.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u07_gadya_e083b5",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u07_gadya_e083b5.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u13_gadya_66520d",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इति चोपरि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u13_gadya_66520d.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u26_padya_61ac67",
+  "meter": "upajāti",
+  "padas": [
+   "आत्मा वा अरे द्रष्टव्यः श्रोतव्यो मन्तव्यो निदिध्यासितव्यः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u26_padya_61ac67.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u34_padya_fbfb5f",
+  "meter": "upajāti",
+  "padas": [
+   "तन्नो विष्णुः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u34_padya_fbfb5f.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u44_padya_86e38d",
+  "meter": "upajāti",
+  "padas": [
+   "परो दिवा पर एना पृथिव्या"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u44_padya_86e38d.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u59_gadya_a4ac45",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इत्युक्तम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u59_gadya_a4ac45.wav"
+ },
+ {
+  "id": "bsb_1_1_2_u10_gadya_a409df",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इत्यादि च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_2_u10_gadya_a409df.wav"
+ }
+]

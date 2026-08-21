@@ -1,0 +1,4 @@
+file '/Users/prathosh/Sarvamula/audio/_connect_om.wav'
+file '/Users/prathosh/Sarvamula/audio/_omp_trim.wav'
+file '/Users/prathosh/Sarvamula/audio/_g.wav'
+file '/Users/prathosh/Sarvamula/audio/pranava_exemplar.wav'

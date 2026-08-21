@@ -1,0 +1,90 @@
+[
+ {
+  "id": "om_anu_090",
+  "meter": "gadya",
+  "padas": [
+   "ओं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "speed": 0.9,
+  "out": "/home/ece/Prathosh/sarvamula_try/om2/om_anu_090.wav"
+ },
+ {
+  "id": "om_anu_055",
+  "meter": "gadya",
+  "padas": [
+   "ओं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "speed": 0.55,
+  "out": "/home/ece/Prathosh/sarvamula_try/om2/om_anu_055.wav"
+ },
+ {
+  "id": "om_anu_040",
+  "meter": "gadya",
+  "padas": [
+   "ओं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "speed": 0.4,
+  "out": "/home/ece/Prathosh/sarvamula_try/om2/om_anu_040.wav"
+ },
+ {
+  "id": "om_anu3_055",
+  "meter": "gadya",
+  "padas": [
+   "ओ३ं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "speed": 0.55,
+  "out": "/home/ece/Prathosh/sarvamula_try/om2/om_anu3_055.wav"
+ },
+ {
+  "id": "om_glyph_055",
+  "meter": "gadya",
+  "padas": [
+   "ॐ"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "speed": 0.55,
+  "out": "/home/ece/Prathosh/sarvamula_try/om2/om_glyph_055.wav"
+ },
+ {
+  "id": "om_oam_055",
+  "meter": "gadya",
+  "padas": [
+   "ओम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "speed": 0.55,
+  "out": "/home/ece/Prathosh/sarvamula_try/om2/om_oam_055.wav"
+ },
+ {
+  "id": "ctx_anu_sutra",
+  "meter": "gadya",
+  "padas": [
+   "ओं अथातो ब्रह्मजिज्ञासा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "speed": 0.9,
+  "out": "/home/ece/Prathosh/sarvamula_try/om2/ctx_anu_sutra.wav"
+ },
+ {
+  "id": "ctx_body_only",
+  "meter": "gadya",
+  "padas": [
+   "अथातो ब्रह्मजिज्ञासा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "speed": 0.9,
+  "out": "/home/ece/Prathosh/sarvamula_try/om2/ctx_body_only.wav"
+ }
+]

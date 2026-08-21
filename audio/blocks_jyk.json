@@ -1,0 +1,919 @@
+[
+ {
+  "id": "jyk_001",
+  "ref": null,
+  "seq": 0,
+  "kind": "sutra_block",
+  "adhyaya": null,
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 166.9,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "jyk_001",
+    "from": 1,
+    "to": 17,
+    "seq": 0,
+    "covers": [
+     0,
+     1
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "jyk_001_u01_padya_p01_633d78",
+       "jyk_001_u01_padya_p02_66e8b0"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "jyk_001_u02_padya_p01_3d3b8c",
+       "jyk_001_u02_padya_p02_bff55a"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 3,
+      "type": "padya",
+      "clips": [
+       "jyk_001_u03_padya_p01_e86a54",
+       "jyk_001_u03_padya_p02_229d3e"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 4,
+      "type": "padya",
+      "clips": [
+       "jyk_001_u04_padya_p01_34f283",
+       "jyk_001_u04_padya_p02_edcdff"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 5,
+      "type": "padya",
+      "clips": [
+       "jyk_001_u05_padya_p01_f6bc30",
+       "jyk_001_u05_padya_p02_e3e1e7"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 6,
+      "type": "padya",
+      "clips": [
+       "jyk_001_u06_padya_p01_dd3605",
+       "jyk_001_u06_padya_p02_816122"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 7,
+      "type": "padya",
+      "clips": [
+       "jyk_001_u07_padya_p01_b8ef7f",
+       "jyk_001_u07_padya_p02_a1314c"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 8,
+      "type": "padya",
+      "clips": [
+       "jyk_001_u08_padya_p01_7afc13",
+       "jyk_001_u08_padya_p02_0de1d7"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 9,
+      "type": "padya",
+      "clips": [
+       "jyk_001_u09_padya_p01_336388",
+       "jyk_001_u09_padya_p02_938c63"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 10,
+      "type": "padya",
+      "clips": [
+       "jyk_001_u10_padya_p01_17ad60",
+       "jyk_001_u10_padya_p02_a39cb7"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 11,
+      "type": "padya",
+      "clips": [
+       "jyk_001_u11_padya_p01_dd9a14",
+       "jyk_001_u11_padya_p02_bb0e6e"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 12,
+      "type": "padya",
+      "clips": [
+       "jyk_001_u12_padya_p01_8f3a8c",
+       "jyk_001_u12_padya_p02_c3658d"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 13,
+      "type": "padya",
+      "clips": [
+       "jyk_001_u13_padya_p01_ae2514",
+       "jyk_001_u13_padya_p02_7f15a5"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 14,
+      "type": "padya",
+      "clips": [
+       "jyk_001_u14_padya_p01_fa2dd1",
+       "jyk_001_u14_padya_p02_903f15"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 15,
+      "type": "padya",
+      "clips": [
+       "jyk_001_u15_padya_p01_3809ea",
+       "jyk_001_u15_padya_p02_e4f0e9"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 16,
+      "type": "padya",
+      "clips": [
+       "jyk_001_u16_padya_p01_0c2bd5",
+       "jyk_001_u16_padya_p02_aaab6e",
+       "jyk_001_u16_padya_p03_829658"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard"
+      ],
+      "gapafter": [
+       false,
+       false,
+       false
+      ],
+      "lead_gap": false
+     },
+     {
+      "n": 17,
+      "type": "padya",
+      "clips": [
+       "jyk_001_u17_padya_p01_c1cb21"
+      ],
+      "bounds": [
+       "hard"
+      ],
+      "gapafter": [
+       false
+      ],
+      "lead_gap": false
+     }
+    ],
+    "clips": [
+     "jyk_001_u01_padya_p01_633d78",
+     "jyk_001_u01_padya_p02_66e8b0",
+     "jyk_001_u02_padya_p01_3d3b8c",
+     "jyk_001_u02_padya_p02_bff55a",
+     "jyk_001_u03_padya_p01_e86a54",
+     "jyk_001_u03_padya_p02_229d3e",
+     "jyk_001_u04_padya_p01_34f283",
+     "jyk_001_u04_padya_p02_edcdff",
+     "jyk_001_u05_padya_p01_f6bc30",
+     "jyk_001_u05_padya_p02_e3e1e7",
+     "jyk_001_u06_padya_p01_dd3605",
+     "jyk_001_u06_padya_p02_816122",
+     "jyk_001_u07_padya_p01_b8ef7f",
+     "jyk_001_u07_padya_p02_a1314c",
+     "jyk_001_u08_padya_p01_7afc13",
+     "jyk_001_u08_padya_p02_0de1d7",
+     "jyk_001_u09_padya_p01_336388",
+     "jyk_001_u09_padya_p02_938c63",
+     "jyk_001_u10_padya_p01_17ad60",
+     "jyk_001_u10_padya_p02_a39cb7",
+     "jyk_001_u11_padya_p01_dd9a14",
+     "jyk_001_u11_padya_p02_bb0e6e",
+     "jyk_001_u12_padya_p01_8f3a8c",
+     "jyk_001_u12_padya_p02_c3658d",
+     "jyk_001_u13_padya_p01_ae2514",
+     "jyk_001_u13_padya_p02_7f15a5",
+     "jyk_001_u14_padya_p01_fa2dd1",
+     "jyk_001_u14_padya_p02_903f15",
+     "jyk_001_u15_padya_p01_3809ea",
+     "jyk_001_u15_padya_p02_e4f0e9",
+     "jyk_001_u16_padya_p01_0c2bd5",
+     "jyk_001_u16_padya_p02_aaab6e",
+     "jyk_001_u16_padya_p03_829658",
+     "jyk_001_u17_padya_p01_c1cb21"
+    ],
+    "est_sec": 166.9,
+    "path": "jayanti_kalpa/jyk_001.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "verse": "१",
+    "start": 0,
+    "end": 86,
+    "padas": [
+     "रोहिण्यामर्धरात्रे तु यदा कालाष्टमी भवेत्",
+     "जयन्ती नाम सा प्रोक्ता सर्वपापप्रणाशनी"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "रोहिण्यामर्धरात्रे तु यदा कालाष्टमी भवेत् जयन्ती नाम सा प्रोक्ता सर्वपापप्रणाशनी",
+    "n": 1,
+    "seq": 0,
+    "seqs": [
+     0
+    ],
+    "clip": "jyk_001_u01_padya_70ff99",
+    "clips": [
+     "jyk_001_u01_padya_p01_633d78",
+     "jyk_001_u01_padya_p02_66e8b0"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "२",
+    "start": 86,
+    "end": 173,
+    "padas": [
+     "यस्यां जातो हरिः साक्षान्निशीथे भगवानजः",
+     "तस्मात् तद्दिनमत्यन्तं पुण्यं पापहरं परम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "यस्यां जातो हरिः साक्षान्निशीथे भगवानजः तस्मात् तद्दिनमत्यन्तं पुण्यं पापहरं परम्",
+    "n": 2,
+    "seq": 0,
+    "seqs": [
+     0
+    ],
+    "clip": "jyk_001_u02_padya_21b836",
+    "clips": [
+     "jyk_001_u02_padya_p01_3d3b8c",
+     "jyk_001_u02_padya_p02_bff55a"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "३",
+    "start": 173,
+    "end": 262,
+    "padas": [
+     "तस्मात् सर्वैरुपोष्या सा जयन्ती नाम वै सदा",
+     "द्विजातिभिर्विशेषेण तद्भक्तैश्च विशेषतः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "तस्मात् सर्वैरुपोष्या सा जयन्ती नाम वै सदा द्विजातिभिर्विशेषेण तद्भक्तैश्च विशेषतः",
+    "n": 3,
+    "seq": 0,
+    "seqs": [
+     0
+    ],
+    "clip": "jyk_001_u03_padya_cd8c92",
+    "clips": [
+     "jyk_001_u03_padya_p01_e86a54",
+     "jyk_001_u03_padya_p02_229d3e"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "४",
+    "start": 262,
+    "end": 356,
+    "padas": [
+     "यो भुङ्क्ते तद्दिने मोहात् पूयशोणितमत्ति सः",
+     "तस्मादुपवसेत् पुण्यं तद्दिनं श्रद्धयाऽन्वितः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "यो भुङ्क्ते तद्दिने मोहात् पूयशोणितमत्ति सः तस्मादुपवसेत् पुण्यं तद्दिनं श्रद्धयाऽन्वितः",
+    "n": 4,
+    "seq": 0,
+    "seqs": [
+     0
+    ],
+    "clip": "jyk_001_u04_padya_623734",
+    "clips": [
+     "jyk_001_u04_padya_p01_34f283",
+     "jyk_001_u04_padya_p02_edcdff"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "५",
+    "start": 356,
+    "end": 442,
+    "padas": [
+     "कृत्वा शौचं यथान्यायं स्नानं कुर्यादतन्द्रितः",
+     "प्रभातकाले मेधावी योगायेति यथाविधि"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "कृत्वा शौचं यथान्यायं स्नानं कुर्यादतन्द्रितः प्रभातकाले मेधावी योगायेति यथाविधि",
+    "n": 5,
+    "seq": 0,
+    "seqs": [
+     0
+    ],
+    "clip": "jyk_001_u05_padya_afdaa0",
+    "clips": [
+     "jyk_001_u05_padya_p01_f6bc30",
+     "jyk_001_u05_padya_p02_e3e1e7"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "६",
+    "start": 442,
+    "end": 533,
+    "padas": [
+     "नित्याह्निकं प्रकुर्वीत भगवन्तमनुस्मरन्",
+     "मध्याह्नकाले च पुमान् सायङ्काले त्वतन्द्रितः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "नित्याह्निकं प्रकुर्वीत भगवन्तमनुस्मरन् मध्याह्नकाले च पुमान् सायङ्काले त्वतन्द्रितः",
+    "n": 6,
+    "seq": 0,
+    "seqs": [
+     0
+    ],
+    "clip": "jyk_001_u06_padya_df7533",
+    "clips": [
+     "jyk_001_u06_padya_p01_dd3605",
+     "jyk_001_u06_padya_p02_816122"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "७",
+    "start": 533,
+    "end": 616,
+    "padas": [
+     "स्नायीत पूर्वमन्त्रेण वासुदेवमनुस्मरन्",
+     "ततः पूजां प्रकुर्वीत विधिवत् सुसमाहितः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "स्नायीत पूर्वमन्त्रेण वासुदेवमनुस्मरन् ततः पूजां प्रकुर्वीत विधिवत् सुसमाहितः",
+    "n": 7,
+    "seq": 0,
+    "seqs": [
+     0
+    ],
+    "clip": "jyk_001_u07_padya_0ccea3",
+    "clips": [
+     "jyk_001_u07_padya_p01_b8ef7f",
+     "jyk_001_u07_padya_p02_a1314c"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "८",
+    "start": 616,
+    "end": 703,
+    "padas": [
+     "यज्ञायेति च मन्त्रेण श्रद्धाभक्तियुतः पुमान्",
+     "कृष्णं च बलभद्रं च वसुदेवं च देवकीम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "यज्ञायेति च मन्त्रेण श्रद्धाभक्तियुतः पुमान् कृष्णं च बलभद्रं च वसुदेवं च देवकीम्",
+    "n": 8,
+    "seq": 0,
+    "seqs": [
+     0
+    ],
+    "clip": "jyk_001_u08_padya_3d8148",
+    "clips": [
+     "jyk_001_u08_padya_p01_7afc13",
+     "jyk_001_u08_padya_p02_0de1d7"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "९",
+    "start": 703,
+    "end": 794,
+    "padas": [
+     "नन्दगोपं यशोदां च सुभद्रां तत्र पूजयेत्",
+     "अर्घ्यं दत्वा समभ्यर्च्याभ्युत्थिते शशिमण्डले"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "नन्दगोपं यशोदां च सुभद्रां तत्र पूजयेत् अर्घ्यं दत्वा समभ्यर्च्याभ्युत्थिते शशिमण्डले",
+    "n": 9,
+    "seq": 0,
+    "seqs": [
+     0
+    ],
+    "clip": "jyk_001_u09_padya_db6db2",
+    "clips": [
+     "jyk_001_u09_padya_p01_336388",
+     "jyk_001_u09_padya_p02_938c63"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "१०",
+    "start": 794,
+    "end": 870,
+    "padas": [
+     "जातः कंसवधार्थाय भूभारोत्तारणाय च",
+     "कौरवाणां विनाशाय दैत्यानां निधनाय च"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "जातः कंसवधार्थाय भूभारोत्तारणाय च कौरवाणां विनाशाय दैत्यानां निधनाय च",
+    "n": 10,
+    "seq": 0,
+    "seqs": [
+     0
+    ],
+    "clip": "jyk_001_u10_padya_b3d318",
+    "clips": [
+     "jyk_001_u10_padya_p01_17ad60",
+     "jyk_001_u10_padya_p02_a39cb7"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "११",
+    "start": 870,
+    "end": 955,
+    "padas": [
+     "पाण्डवानां हितार्थाय धर्मसंस्थापनाय च",
+     "गृहाणार्घ्यं मया दत्तं देवक्या सहितो हरे"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "पाण्डवानां हितार्थाय धर्मसंस्थापनाय च गृहाणार्घ्यं मया दत्तं देवक्या सहितो हरे",
+    "n": 11,
+    "seq": 0,
+    "seqs": [
+     0
+    ],
+    "clip": "jyk_001_u11_padya_8ef85a",
+    "clips": [
+     "jyk_001_u11_padya_p01_dd9a14",
+     "jyk_001_u11_padya_p02_bb0e6e"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "१२",
+    "start": 955,
+    "end": 1042,
+    "padas": [
+     "क्षीरोदार्णवसम्भूत अत्रिगोत्रसमुद्धव",
+     "गृहाणार्घ्यं मया दत्तं रोहिण्या सहितः शशिन्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "क्षीरोदार्णवसम्भूत अत्रिगोत्रसमुद्धव गृहाणार्घ्यं मया दत्तं रोहिण्या सहितः शशिन्",
+    "n": 12,
+    "seq": 0,
+    "seqs": [
+     0
+    ],
+    "clip": "jyk_001_u12_padya_e4e1d6",
+    "clips": [
+     "jyk_001_u12_padya_p01_8f3a8c",
+     "jyk_001_u12_padya_p02_c3658d"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "१३",
+    "start": 1042,
+    "end": 1128,
+    "padas": [
+     "दत्वाऽर्घ्यं मनुनाऽनेन ह्युपस्थाय विधुं बुधः",
+     "शशिने चन्द्रदेवाय सोमदेवाय चेन्दवे"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "दत्वाऽर्घ्यं मनुनाऽनेन ह्युपस्थाय विधुं बुधः शशिने चन्द्रदेवाय सोमदेवाय चेन्दवे",
+    "n": 13,
+    "seq": 0,
+    "seqs": [
+     0
+    ],
+    "clip": "jyk_001_u13_padya_9da8c7",
+    "clips": [
+     "jyk_001_u13_padya_p01_ae2514",
+     "jyk_001_u13_padya_p02_7f15a5"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "१४",
+    "start": 1128,
+    "end": 1199,
+    "padas": [
+     "मृगिणे शीतबिम्बाय लोकदीपाय दीपिने",
+     "शीतदीधितिबिम्बाय तारकापतये नमः"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "मृगिणे शीतबिम्बाय लोकदीपाय दीपिने शीतदीधितिबिम्बाय तारकापतये नमः",
+    "n": 14,
+    "seq": 0,
+    "seqs": [
+     0
+    ],
+    "clip": "jyk_001_u14_padya_1f370e",
+    "clips": [
+     "jyk_001_u14_padya_p01_fa2dd1",
+     "jyk_001_u14_padya_p02_903f15"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "१५",
+    "start": 1199,
+    "end": 1291,
+    "padas": [
+     "उपसंहृत्य तत् सर्वं ब्रह्मचारी जितेन्द्रियः",
+     "विश्वायेति च मन्त्रेण ततः स्वापं समाचरेत्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "opens_pranava": false,
+    "text": "उपसंहृत्य तत् सर्वं ब्रह्मचारी जितेन्द्रियः विश्वायेति च मन्त्रेण ततः स्वापं समाचरेत्",
+    "n": 15,
+    "seq": 0,
+    "seqs": [
+     0
+    ],
+    "clip": "jyk_001_u15_padya_5103b2",
+    "clips": [
+     "jyk_001_u15_padya_p01_3809ea",
+     "jyk_001_u15_padya_p02_e4f0e9"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": "१६",
+    "start": 1291,
+    "end": 1423,
+    "padas": [
+     "ततो नित्याह्निकं कृत्वा शक्तितो दीयतां धनम्",
+     "सर्वायेति च मन्त्रेण ततः पारणमाचरेत्",
+     "धर्मायेति ततः स्वस्थो मुच्यते सर्वकिल्बिषैः"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "gapafter": [
+     false,
+     false,
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "ततो नित्याह्निकं कृत्वा शक्तितो दीयतां धनम् सर्वायेति च मन्त्रेण ततः पारणमाचरेत् धर्मायेति ततः स्वस्थो मुच्यते सर्वकिल्बिषैः",
+    "n": 16,
+    "seq": 0,
+    "seqs": [
+     0
+    ],
+    "clip": "jyk_001_u16_padya_8b745a",
+    "clips": [
+     "jyk_001_u16_padya_p01_0c2bd5",
+     "jyk_001_u16_padya_p02_aaab6e",
+     "jyk_001_u16_padya_p03_829658"
+    ]
+   },
+   {
+    "type": "padya",
+    "verse": null,
+    "start": 1423,
+    "end": 1494,
+    "padas": [
+     "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितो जयन्तीनिर्णयः सम्पूर्णः"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "gapafter": [
+     false
+    ],
+    "lead_gap": false,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback",
+    "opens_pranava": false,
+    "text": "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितो जयन्तीनिर्णयः सम्पूर्णः",
+    "n": 17,
+    "seq": 0,
+    "seqs": [
+     0,
+     1
+    ],
+    "clip": "jyk_001_u17_padya_c1cb21",
+    "clips": [
+     "jyk_001_u17_padya_p01_c1cb21"
+    ]
+   }
+  ]
+ }
+]

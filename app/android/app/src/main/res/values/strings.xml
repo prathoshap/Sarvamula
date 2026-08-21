@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Sarvamula</string>
+    <string name="title_activity_main">Sarvamula</string>
+    <string name="package_name">com.sarvamula.reader</string>
+    <string name="custom_url_scheme">com.sarvamula.reader</string>
+</resources>

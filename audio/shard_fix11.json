@@ -1,0 +1,122 @@
+[
+ {
+  "id": "bsb_1_1_1_u03_gadya_6d3737",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "द्वापरे सर्वत्र ज्ञान आकुलीभूते तन्निर्णयाय ब्रह्मरुद्रेन्द्रादिभिरर्थितो भगवान् नारायणो व्यासत्वेनावततार",
+   "अथेष्टानिष्टप्राप्तिपरिहारेच्छूनां तद्योगमविजानतां तज्ज्ञापनार्थं वेदमुत्सन्नं व्यञ्जयंश्चतुर्धा व्यभजत्",
+   "चतुर्विंशतिधैकशतधा सहस्रधा द्वादशधा च",
+   "तदर्थनिर्णयाय ब्रह्मसूत्राणि चकार तच्चोक्तं स्कान्दे"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u03_gadya_6d3737.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u05_gadya_c3dd4c",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इत्यादि अथातो ब्रह्मजिज्ञासा",
+   "अथशब्दो मङ्गलार्थोऽधिकारानन्तर्यार्थश्च",
+   "अतः शब्दो हेत्वर्थः उक्तं च गारुडे"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u05_gadya_c3dd4c.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u18_gadya_c51f05",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इत्यादिश्रुतिभ्यश्च व्योमसंहितायां च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u18_gadya_c51f05.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u20_gadya_66f0b0",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इति यतो नारायणप्रसादमृते न मोक्षः",
+   "नच ज्ञानं विनाऽत्यर्थप्रसादः",
+   "अतो ब्रह्मजिज्ञासा कर्तव्या"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u20_gadya_66f0b0.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u29_gadya_f73f25",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इति नारदीये ब्रह्मशब्दश्च विष्णावेव"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u29_gadya_f73f25.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u41_gadya_bcbc2c",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इति हि विष्णोर्लिङ्गम् नच प्रसिद्धार्थं विनाऽन्योऽर्थो युज्यते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u41_gadya_bcbc2c.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u49_gadya_72ee2c",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इत्याह उग्रो रुद्रः समुद्रेऽन्तर्नारायणः",
+   "प्रसिद्धत्वात् सूचितत्वाच्चास्यार्थस्य",
+   "नचाविरोधे प्रसिद्धः परित्यज्यते",
+   "उक्तन्यायेन च श्रुतय एतमेव वदन्ति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u49_gadya_72ee2c.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u51_gadya_1dae96",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इति हरिवंशेषु नचेतरग्रन्थविरोधः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u51_gadya_1dae96.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u53_gadya_5e265c",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इति वाराहवचनात् शैवे च स्कान्दे"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u53_gadya_5e265c.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u55_gadya_9c0b24",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इति ब्राह्मे च ब्रह्मवैवर्ते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u55_gadya_9c0b24.wav"
+ },
+ {
+  "id": "bsb_1_1_1_u57_gadya_a9da16",
+  "meter": "gadya_mbtn",
+  "padas": [
+   "इति नच वैष्णवेषु तथा तच्च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/bsb_1_1_1_u57_gadya_a9da16.wav"
+ }
+]

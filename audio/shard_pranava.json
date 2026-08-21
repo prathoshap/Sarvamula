@@ -1,0 +1,7 @@
+[
+ {"id":"pra_om",       "meter":"gadya","padas":["ॐ"],            "seed":60,"no_sandhi":true,"speed":0.90,"out":"/home/ece/Prathosh/sarvamula_try/clips2/pra_om.wav"},
+ {"id":"pra_oam",      "meter":"gadya","padas":["ओम्"],          "seed":60,"no_sandhi":true,"speed":0.90,"out":"/home/ece/Prathosh/sarvamula_try/clips2/pra_oam.wav"},
+ {"id":"pra_oam_slow", "meter":"gadya","padas":["ओम्"],          "seed":60,"no_sandhi":true,"speed":0.55,"out":"/home/ece/Prathosh/sarvamula_try/clips2/pra_oam_slow.wav"},
+ {"id":"pra_o3m_slow", "meter":"gadya","padas":["ओ३म्"],         "seed":60,"no_sandhi":true,"speed":0.55,"out":"/home/ece/Prathosh/sarvamula_try/clips2/pra_o3m_slow.wav"},
+ {"id":"sutra_body",   "meter":"gadya","padas":["जन्माद्यस्य यतः"],"seed":60,"no_sandhi":true,"speed":0.90,"out":"/home/ece/Prathosh/sarvamula_try/clips2/sutra_body.wav"}
+]

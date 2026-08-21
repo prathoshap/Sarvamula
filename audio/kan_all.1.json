@@ -1,0 +1,4382 @@
+[
+ {
+  "id": "kan_seq2_u01_sutra_p02_53e7a4",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्राणो व्यात्तमग्निर्वैश्वानरः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq2_u01_sutra_p02_53e7a4.wav"
+ },
+ {
+  "id": "kan_seq2_u01_sutra_p08_bbfd08",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रतिष्ठा नक्षत्राण्यस्थीनि नभो मांसान्युवध्यं सिकताः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq2_u01_sutra_p08_bbfd08.wav"
+ },
+ {
+  "id": "kan_seq4_u01_sutra_p02_5c0ee7",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "समुद्रे योनौ रात्रिरेनं पश्चान्महिमाऽन्वजायत तस्यापरे"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq4_u01_sutra_p02_5c0ee7.wav"
+ },
+ {
+  "id": "kan_seq9_u01_sutra_p01_e6b3c7",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नैवेह किञ्चनाग्र आसीत् मृत्युनैवेदमावृतमासीद् अशनाया हि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq9_u01_sutra_p01_e6b3c7.wav"
+ },
+ {
+  "id": "kan_seq11_u01_sutra_p02_249f85",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पृथिव्यभवत् तस्यामश्राम्यत् तस्य श्रान्तस्य तप्तस्य तेजो रसो निरवर्तताग्निः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq11_u01_sutra_p02_249f85.wav"
+ },
+ {
+  "id": "kan_seq15_u01_sutra_p01_3ed389",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सोऽकामयत द्वितीयो म आत्मा जायेतेति स मनसा वाचं मिथुनं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq15_u01_sutra_p01_3ed389.wav"
+ },
+ {
+  "id": "kan_seq17_u01_sutra_p02_005c8a",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "वाचा तेनात्मनेदं सर्वमसृजत यदिदं किञ्चर्चो यजूंषि सामानि च्छन्दां सि यज्ञान् प्रजाः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq17_u01_sutra_p02_005c8a.wav"
+ },
+ {
+  "id": "kan_seq19_u01_sutra_p03_a33477",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "वीर्यमुदक्रामत् प्राणा वै यशो वीर्यं तत्प्राणेषूत्क्रान्तेषु"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq19_u01_sutra_p03_a33477.wav"
+ },
+ {
+  "id": "kan_seq19_u02_gadya_p06_27f9be",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यशोवीर्यनिमित्तत्वात् प्राणास्तन्नामकाः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq19_u02_gadya_p06_27f9be.wav"
+ },
+ {
+  "id": "kan_seq21_u01_sutra_p02_377725",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "समभवत् यदश्वत् तन्मेध्यमभूदिति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq21_u01_sutra_p02_377725.wav"
+ },
+ {
+  "id": "kan_seq21_u02_gadya_p12_e71cdf",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अश्वो भूत्वा यतो मेध्यः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq21_u02_gadya_p12_e71cdf.wav"
+ },
+ {
+  "id": "kan_seq23_u01_sutra_p03_1f18ec",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्राजात्पत्यमालभन्त एष ह वा अश्वमेधो य एष तपति तस्य"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq23_u01_sutra_p03_1f18ec.wav"
+ },
+ {
+  "id": "kan_seq23_u02_gadya_p08_9e30b2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सोऽश्वरूपमधारयत्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq23_u02_gadya_p08_9e30b2.wav"
+ },
+ {
+  "id": "kan_seq23_u02_gadya_p17_9d9c84",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अग्नौ स्थितो यतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq23_u02_gadya_p17_9d9c84.wav"
+ },
+ {
+  "id": "kan_seq23_u02_gadya_p27_e8d54b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "आततत्वात् तथाऽत्तृत्वादात्माऽसौ ब्रह्मणः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq23_u02_gadya_p27_e8d54b.wav"
+ },
+ {
+  "id": "kan_seq27_u01_gadya_p01_447e6c",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "“द्वया ब्रह्मसुतास्तत्र दैतेया बहवः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq27_u01_gadya_p01_447e6c.wav"
+ },
+ {
+  "id": "kan_seq28_u02_gadya_p02_f479c6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सुराः स्मृताः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq28_u02_gadya_p02_f479c6.wav"
+ },
+ {
+  "id": "kan_seq31_u01_sutra_p02_b86074",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "उदगायत् यो घ्राणे भोगस्तं देवेभ्य आगायत् यत्कल्याणं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq31_u01_sutra_p02_b86074.wav"
+ },
+ {
+  "id": "kan_seq32_u01_sutra_p03_2e0235",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यत्कल्याणं पश्यति तदात्मने ते विदुरनेन वै न"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq32_u01_sutra_p03_2e0235.wav"
+ },
+ {
+  "id": "kan_seq33_u01_sutra_p04_254ac4",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "उद्गात्राऽत्येष्यन्तीति तमभिद्रुत्य पाप्मनाऽविध्यन् स यः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq33_u01_sutra_p04_254ac4.wav"
+ },
+ {
+  "id": "kan_seq34_u01_sutra_p05_24a1cb",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पाप्मा यदेवेदमप्रतिरूपं सङ्कल्पयति स एव स पाप्मा एवमु खल्वेता देवताः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq34_u01_sutra_p05_24a1cb.wav"
+ },
+ {
+  "id": "kan_seq35_u01_sutra_p05_a36e7b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ततो देवा अभवन् परासुरा भवत्यात्मना परास्य द्विषन् पाप्मा भ्रातृव्यो भवति य एवं वेद"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq35_u01_sutra_p05_a36e7b.wav"
+ },
+ {
+  "id": "kan_seq35_u02_gadya_p09_52f96c",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स मुख्यवायुरुदाहृतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq35_u02_gadya_p09_52f96c.wav"
+ },
+ {
+  "id": "kan_seq39_u01_sutra_p01_46f2ef",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सा वा एषा देवतैतासां देवतानां पाप्मानं मृत्युमपहत्य यत्तासां"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq39_u01_sutra_p01_46f2ef.wav"
+ },
+ {
+  "id": "kan_seq42_u01_sutra_p01_ff477d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अथ घ्राणमत्यवहत्स यदा मृत्युमत्यमुच्यत स वायुरभवत् सोऽयं वायुः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq42_u01_sutra_p01_ff477d.wav"
+ },
+ {
+  "id": "kan_seq45_u01_sutra_p01_83c318",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अथ मनोऽत्यवहत् तद्यदा मृत्युमत्यमुच्यत स चन्द्रमा अभवत् सोऽसौ चन्द्रः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq45_u01_sutra_p01_83c318.wav"
+ },
+ {
+  "id": "kan_seq48_u01_sutra_p04_2a26e8",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तेनैतास्तृप्यन्ति एवं ह वा एनं स्वा अभिसंविशन्ति भर्ता स्वानां श्रेष्ठः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq48_u01_sutra_p04_2a26e8.wav"
+ },
+ {
+  "id": "kan_seq49_u01_sutra_p03_11dea6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "कस्माच्चाङ्गात् प्राण उत्क्रामति तदेव तच्छुष्यत्येष ह वा अङ्गानां रसः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq49_u01_sutra_p03_11dea6.wav"
+ },
+ {
+  "id": "kan_seq53_u01_sutra_p02_836e25",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सामत्वम् यद्वैव समः प्लुषिणा समो मशकेन समो नागेन सम एभिस्त्रिभिर्लोकैः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq53_u01_sutra_p02_836e25.wav"
+ },
+ {
+  "id": "kan_seq54_u02_gadya_p04_7db100",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अर्धनारीनरवपुर्वायुः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq54_u02_gadya_p04_7db100.wav"
+ },
+ {
+  "id": "kan_seq58_u01_sutra_p02_1d03b9",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "एव स्वं तस्मादार्त्विज्यं करिष्यन् वाचि स्वरमिच्छेत तया"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq58_u01_sutra_p02_1d03b9.wav"
+ },
+ {
+  "id": "kan_seq59_u01_sutra_p03_b6c026",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सुवर्णं वेद"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq59_u01_sutra_p03_b6c026.wav"
+ },
+ {
+  "id": "kan_seq63_u01_sutra_p03_60f035",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ज्योतिर्गमय मृत्योर्माऽमृतं गमयेति स यदाहासतो मा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq63_u01_sutra_p03_60f035.wav"
+ },
+ {
+  "id": "kan_seq64_u01_sutra_p03_8864aa",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "वृणीत यं कामं कामयेत तं स एष एवं विदुद्गाताऽऽत्मने वा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq64_u01_sutra_p03_8864aa.wav"
+ },
+ {
+  "id": "kan_seq64_u02_gadya_p15_6439dc",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स्मृताः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq64_u02_gadya_p15_6439dc.wav"
+ },
+ {
+  "id": "kan_seq64_u02_gadya_p31_80b90e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यस्मान्नारायणस्यातिप्रियाः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq64_u02_gadya_p31_80b90e.wav"
+ },
+ {
+  "id": "kan_seq68_u01_sutra_p04_2170a4",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तस्मादप्येतर्ह्यामंत्रितोऽहमयमित्येवाग्र"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq68_u01_sutra_p04_2170a4.wav"
+ },
+ {
+  "id": "kan_seq68_u02_gadya_p05_62ccca",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "“एतस्य जगतो ह्यग्र आसीन्नारायणः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq68_u02_gadya_p05_62ccca.wav"
+ },
+ {
+  "id": "kan_seq68_u02_gadya_p22_bc8e9f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ओषेत् सर्वमतुष्टः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq68_u02_gadya_p22_bc8e9f.wav"
+ },
+ {
+  "id": "kan_seq70_u02_gadya_p02_073221",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "समजायत"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq70_u02_gadya_p02_073221.wav"
+ },
+ {
+  "id": "kan_seq70_u02_gadya_p15_640e32",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "परः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq70_u02_gadya_p15_640e32.wav"
+ },
+ {
+  "id": "kan_seq74_u01_sutra_p01_122a2b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सोहेयमीक्षाञ्चक्रे कथं नु माऽऽत्मन एव जनयित्वा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq74_u01_sutra_p01_122a2b.wav"
+ },
+ {
+  "id": "kan_seq74_u01_sutra_p07_b37326",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "किञ्च मिथुनमा पिपीलिकाभ्यस्तत्सर्वमसृजत"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq74_u01_sutra_p07_b37326.wav"
+ },
+ {
+  "id": "kan_seq77_u01_sutra_p04_9d7336",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "देवमेतस्यैव सा विसृष्टिरेष उ ह्येव सर्वे देवा अथ"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq77_u01_sutra_p04_9d7336.wav"
+ },
+ {
+  "id": "kan_seq77_u02_gadya_p07_75503d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "शब्दा वर्तेयुः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq77_u02_gadya_p07_75503d.wav"
+ },
+ {
+  "id": "kan_seq77_u02_gadya_p16_033a2f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रसादतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq77_u02_gadya_p16_033a2f.wav"
+ },
+ {
+  "id": "kan_seq82_u01_sutra_p04_e125b6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रविष्ट आनखाग्रेभ्यो यथा क्षुरः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq82_u01_sutra_p04_e125b6.wav"
+ },
+ {
+  "id": "kan_seq82_u01_sutra_p10_bb1ebd",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तदेतत्पदनीयमस्य सर्वस्य यदयमात्माऽनेन"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq82_u01_sutra_p10_bb1ebd.wav"
+ },
+ {
+  "id": "kan_seq82_u05_gadya_p08_d04b7f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पुरुषोत्तमः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq82_u05_gadya_p08_d04b7f.wav"
+ },
+ {
+  "id": "kan_seq82_u05_gadya_p18_f3ac23",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स स्याद् यस्मात् तद्गुणभागवित्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq82_u05_gadya_p18_f3ac23.wav"
+ },
+ {
+  "id": "kan_seq84_u01_sutra_p02_e055b7",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सर्वस्मादन्तरतरं यदयमात्मा स योऽन्यमात्मनः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq84_u01_sutra_p02_e055b7.wav"
+ },
+ {
+  "id": "kan_seq84_u02_gadya_p09_38b660",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रियो हरिः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq84_u02_gadya_p09_38b660.wav"
+ },
+ {
+  "id": "kan_seq84_u02_gadya_p16_d2ef24",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "एवं वदन् वैष्णवस्तु समर्थः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq84_u02_gadya_p16_d2ef24.wav"
+ },
+ {
+  "id": "kan_seq84_u02_gadya_p24_14c7fe",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नित्यप्रियकरो विष्णुर्भवेत् तस्याप्यजः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq84_u02_gadya_p24_14c7fe.wav"
+ },
+ {
+  "id": "kan_seq88_u01_sutra_p02_521640",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तस्मात् तत्सर्वमभवत् तद्यो यो देवानां प्रत्यबुध्यत स"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq88_u01_sutra_p02_521640.wav"
+ },
+ {
+  "id": "kan_seq88_u01_sutra_p08_a8b981",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पशवो मनुष्यं भुञ्जुरेवमेकैकः पुरुषो देवान्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq88_u01_sutra_p08_a8b981.wav"
+ },
+ {
+  "id": "kan_seq90_u01_sutra_p04_ddf437",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "क्षत्रियमधस्तादुपास्ते राजसूये क्षत्र एव तद्यशो दधाति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq90_u01_sutra_p04_ddf437.wav"
+ },
+ {
+  "id": "kan_seq93_u01_sutra_p01_3b1ff5",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स नैव व्यभवत् स शौद्रं वर्णमसृजत पूषणमिषं वै पूषेयं हीदं सर्वं पुष्यति यदिदं किञ्च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq93_u01_sutra_p01_3b1ff5.wav"
+ },
+ {
+  "id": "kan_seq95_u01_sutra_p04_4a712f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सत्यं वैतत् तस्मात् सत्यं वदन्तमाहुर्धर्मं वदतीति धर्मं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq95_u01_sutra_p04_4a712f.wav"
+ },
+ {
+  "id": "kan_seq95_u02_gadya_p08_31d6a1",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तस्माद् वायोः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq95_u02_gadya_p08_31d6a1.wav"
+ },
+ {
+  "id": "kan_seq95_u02_gadya_p17_44422a",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्राप्तुं धर्माभिमानी स वायुः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq95_u02_gadya_p17_44422a.wav"
+ },
+ {
+  "id": "kan_seq97_u01_sutra_p04_66b1e6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "लोकमिच्छन्ते ब्राह्मणे मनुष्येष्वेताभ्यां रूपाभ्यां"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq97_u01_sutra_p04_66b1e6.wav"
+ },
+ {
+  "id": "kan_seq99_u01_sutra_p01_be8a1f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अथो अयं वा आत्मा सर्वेषां भूतानां लोकः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq99_u01_sutra_p01_be8a1f.wav"
+ },
+ {
+  "id": "kan_seq99_u01_sutra_p07_8ed47e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तेषां लोको यथा ह वै स्वाय लोकायारिष्टिमिच्छेदेवं हैवं विदे सर्वाणि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq99_u01_sutra_p07_8ed47e.wav"
+ },
+ {
+  "id": "kan_seq101_u01_sutra_p05_af0999",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यावदप्येतेषामेकैकं न प्राप्नोत्यकृत्स्न एव तावन्मन्यते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq101_u01_sutra_p05_af0999.wav"
+ },
+ {
+  "id": "kan_seq105_u01_sutra_p01_57c677",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यत्सप्तान्नानि मेधया तपसाऽजनयत् पितैकमस्य साधारणं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq105_u01_sutra_p01_57c677.wav"
+ },
+ {
+  "id": "kan_seq107_u01_sutra_p02_7ea580",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "साधारणमितीदमेवास्य तत्साधारणमन्नं यदिदमद्यते स य"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq107_u01_sutra_p02_7ea580.wav"
+ },
+ {
+  "id": "kan_seq109_u01_sutra_p03_ad50c8",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "जातं घृतं वै वाऽग्रे प्रतिलेहयन्ति स्तनं वाऽनुधापयन्त्यथ वत्सं जातमाहुरतृणाद इति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq109_u01_sutra_p03_ad50c8.wav"
+ },
+ {
+  "id": "kan_seq111_u01_sutra_p02_765848",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स हीदमन्नं पुनः पुनर्जनयते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq111_u01_sutra_p02_765848.wav"
+ },
+ {
+  "id": "kan_seq114_u01_sutra_p02_96ee79",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तान्यात्मनेऽकुरुतान्यत्रमना अभूवं नादर्शमन्यत्रमना"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq114_u01_sutra_p02_96ee79.wav"
+ },
+ {
+  "id": "kan_seq114_u01_sutra_p08_c79f28",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्राणोऽपानो व्यान उदानः समानोऽन इत्येतत्सर्वं प्राण"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq114_u01_sutra_p08_c79f28.wav"
+ },
+ {
+  "id": "kan_seq114_u02_gadya_p06_2e42ce",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तस्मात् तद्भक्तिकामः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq114_u02_gadya_p06_2e42ce.wav"
+ },
+ {
+  "id": "kan_seq114_u02_gadya_p23_03f54d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स्यादपानस्तु निवर्तने"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq114_u02_gadya_p23_03f54d.wav"
+ },
+ {
+  "id": "kan_seq116_u01_sutra_p02_3d42be",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्राणोऽसौ लोकः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq116_u01_sutra_p02_3d42be.wav"
+ },
+ {
+  "id": "kan_seq119_u01_sutra_p02_7a126e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रजा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq119_u01_sutra_p02_7a126e.wav"
+ },
+ {
+  "id": "kan_seq124_u01_sutra_p01_3ece3b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तस्यै वाचः पृथिवी शरीरं ज्योतीरूपमयमग्निस्तद्यावत्येव वाक्तावती पृथिवी तावानयमग्निः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq124_u01_sutra_p01_3ece3b.wav"
+ },
+ {
+  "id": "kan_seq126_u01_sutra_p02_51458b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "चन्द्रस्तद्यावानेव प्राणस्तावत्य आपस्तावानसौ"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq126_u01_sutra_p02_51458b.wav"
+ },
+ {
+  "id": "kan_seq126_u02_gadya_p04_7d740d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "समवर्जनात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq126_u02_gadya_p04_7d740d.wav"
+ },
+ {
+  "id": "kan_seq129_u01_sutra_p04_33d121",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्राणं न विच्छिन्द्यादपि कृकलासस्यैतस्या एव देवताया अपचित्यै"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq129_u01_sutra_p04_33d121.wav"
+ },
+ {
+  "id": "kan_seq131_u02_gadya_p08_b3352d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नचैभ्योतिऽप्रियः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq131_u02_gadya_p08_b3352d.wav"
+ },
+ {
+  "id": "kan_seq131_u03_gadya_p19_bfe414",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "विशेषज्ञो यतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq131_u03_gadya_p19_bfe414.wav"
+ },
+ {
+  "id": "kan_seq131_u03_gadya_p28_ba9d71",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अप्रयत्नेन भोगाः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq131_u03_gadya_p28_ba9d71.wav"
+ },
+ {
+  "id": "kan_seq134_u01_sutra_p01_4afa6a",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अथातः सम्प्रत्तिर्यदा प्रैष्यन्मन्यतेऽथ पुत्रमाह त्वं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq134_u01_sutra_p01_4afa6a.wav"
+ },
+ {
+  "id": "kan_seq134_u01_sutra_p07_ced73b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तस्मात् पुत्रमनुशिष्टं लोक्यमाहुः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq134_u01_sutra_p07_ced73b.wav"
+ },
+ {
+  "id": "kan_seq134_u02_gadya_p04_505340",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "“पुनः पुनः कर्मकृतिर्मानुष्यजय उच्यते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq134_u02_gadya_p04_505340.wav"
+ },
+ {
+  "id": "kan_seq138_u01_sutra_p04_5703be",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यथैषा देवतैवं स यथैतां देवतां सर्वाणि भूतान्यवन्त्येवं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq138_u01_sutra_p04_5703be.wav"
+ },
+ {
+  "id": "kan_seq138_u02_gadya_p09_b8bdfc",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सर्वेषु व्याप्तिमन्वेति न दुः खी प्राणिषु स्थितः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq138_u02_gadya_p09_b8bdfc.wav"
+ },
+ {
+  "id": "kan_seq143_u01_sutra_p01_4a8d8b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "श्रोष्याम्यहमिति श्रोत्रम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq143_u01_sutra_p01_4a8d8b.wav"
+ },
+ {
+  "id": "kan_seq144_u01_sutra_p06_023e7d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "श्रेष्ठो यः सञ्चरंश्चासञ्चरंश्च न व्यथतेऽथो न रिष्यति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq144_u01_sutra_p06_023e7d.wav"
+ },
+ {
+  "id": "kan_seq146_u01_sutra_p01_f83926",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "चन्द्रमा एवमन्या देवता यथादैवतं स यथैषां प्राणानां मध्यमः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq146_u01_sutra_p01_f83926.wav"
+ },
+ {
+  "id": "kan_seq150_u01_sutra_p01_6e4733",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तस्मादेकमेव व्रतं चरेत् प्राण्याच्चैवापान्याच्च नेन्मा पाप्मा मृत्युराप्नुवदिति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq150_u01_sutra_p01_6e4733.wav"
+ },
+ {
+  "id": "kan_seq151_u02_gadya_p10_f7294c",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इन्द्रियाणि ससर्जादौ वासुदेवः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq151_u02_gadya_p10_f7294c.wav"
+ },
+ {
+  "id": "kan_seq151_u02_gadya_p20_09de3a",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "वायुः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq151_u02_gadya_p20_09de3a.wav"
+ },
+ {
+  "id": "kan_seq151_u03_gadya_p06_6f4090",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "शेष एव तु"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq151_u03_gadya_p06_6f4090.wav"
+ },
+ {
+  "id": "kan_seq151_u03_gadya_p17_4e3859",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "श्रान्ताः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq151_u03_gadya_p17_4e3859.wav"
+ },
+ {
+  "id": "kan_seq155_u01_sutra_p03_2ecda7",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सममेतदेषां ब्रह्मैतद्धि सर्वाणि नामानि बिभर्ति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq155_u01_sutra_p03_2ecda7.wav"
+ },
+ {
+  "id": "kan_seq157_u01_sutra_p03_98d9e2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "कर्मभिः सममेतदेषां ब्रह्मैतद्धि सर्वाणि कर्माणि बिभर्ति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq157_u01_sutra_p03_98d9e2.wav"
+ },
+ {
+  "id": "kan_seq163_u01_sutra_p03_ff7f66",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सहस्रमेतस्यां वाचि दद्मो जनको जनक इति वै जना धावन्तीति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq163_u01_sutra_p03_ff7f66.wav"
+ },
+ {
+  "id": "kan_seq166_u01_sutra_p02_a3960e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति स होवाच अजातशत्रुर्मा मैतस्मिन् संवदिष्ठा बृहत्पाण्डुरवासाः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq166_u01_sutra_p02_a3960e.wav"
+ },
+ {
+  "id": "kan_seq168_u01_sutra_p01_dafbe6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स होवाच गार्ग्यो य एवासौ आकाशे पुरुष एतमेवाहं ब्रह्मोपास"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq168_u01_sutra_p01_dafbe6.wav"
+ },
+ {
+  "id": "kan_seq169_u01_sutra_p03_7371ff",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इन्द्रो वैकुण्ठोऽपराजिता सेनेति वा अहमेतमुपास इति स य"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq169_u01_sutra_p03_7371ff.wav"
+ },
+ {
+  "id": "kan_seq172_u01_sutra_p01_573df2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स होवाच गार्ग्यो य एवायमप्सु पुरुष एतमेवाहं ब्रह्मोपास"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq172_u01_sutra_p01_573df2.wav"
+ },
+ {
+  "id": "kan_seq173_u01_sutra_p03_b2115e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "रोचिष्णुरिति वा अहमेतमुपास इति स य एतमुपास्ते रोचिष्णुर्ह"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq173_u01_sutra_p03_b2115e.wav"
+ },
+ {
+  "id": "kan_seq174_u01_sutra_p04_62a631",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति स य एतमेवमुपास्ते सर्वं हैवास्मिंल्लोक आयुरेति नैनं पुरा कालात् प्राणो जहाति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq174_u01_sutra_p04_62a631.wav"
+ },
+ {
+  "id": "kan_seq176_u01_sutra_p02_79e7ca",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पुरुष एतमेवाहं ब्रह्मोपास इति स होवाच अजातशत्रुर्मा मैतस्मिन् संवदिष्ठाः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq176_u01_sutra_p02_79e7ca.wav"
+ },
+ {
+  "id": "kan_seq177_u01_sutra_p04_a1c108",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "आत्मन्वी ह भवत्यात्मन्विनी हास्य प्रजा भवति स ह तूष्णीमास गार्ग्यः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq177_u01_sutra_p04_a1c108.wav"
+ },
+ {
+  "id": "kan_seq181_u01_sutra_p04_a661ce",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सुप्तमाजग्मतुस्तमेतैर्नामभिरामन्त्रयाञ्चक्रे बृहन्पाण्डुरवासः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq181_u01_sutra_p04_a661ce.wav"
+ },
+ {
+  "id": "kan_seq184_u01_sutra_p02_ce5e0e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "य एष विज्ञानमयः पुरुषस् तदेषां प्राणानां विज्ञानेन"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq184_u01_sutra_p02_ce5e0e.wav"
+ },
+ {
+  "id": "kan_seq186_u01_sutra_p04_e2634d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "परिवर्तेतैवमेवैष एतत्प्राणान् गृहीत्वा स्वे शरीरे यथाकामं परिवर्तते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq186_u01_sutra_p04_e2634d.wav"
+ },
+ {
+  "id": "kan_seq190_u01_sutra_p02_506534",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "क्षुद्रा विस्फुलिङ्गा व्युच्चरन्त्येवमेवास्मादात्मनः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq190_u01_sutra_p02_506534.wav"
+ },
+ {
+  "id": "kan_seq194_u01_sutra_p03_837539",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्राणस्तस्येदमे वाधानमिदं प्रत्याधानं प्राणः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq194_u01_sutra_p03_837539.wav"
+ },
+ {
+  "id": "kan_seq196_u01_sutra_p02_4e977d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "राजयस्ताभिरेनं रुद्रोऽन्वायत्तोऽथ या अक्षन्नापस्ताभिः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq196_u01_sutra_p02_4e977d.wav"
+ },
+ {
+  "id": "kan_seq196_u02_gadya_p04_557ef7",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सराः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq196_u02_gadya_p04_557ef7.wav"
+ },
+ {
+  "id": "kan_seq198_u01_sutra_p03_eb6ce0",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सप्त तीरे वागष्टमी ब्रह्मणा संविदानेत्यर्वाग्बिलश्चमस"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq198_u01_sutra_p03_eb6ce0.wav"
+ },
+ {
+  "id": "kan_seq198_u02_gadya_p03_def3f8",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पूर्णत्वाद् विश्वतो विष्णो रमायाः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq198_u02_gadya_p03_def3f8.wav"
+ },
+ {
+  "id": "kan_seq200_u01_sutra_p05_f2ebbd",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नामैतद्यदत्रिरिति सर्वस्यैतस्यात्ता भवति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq200_u01_sutra_p05_f2ebbd.wav"
+ },
+ {
+  "id": "kan_seq204_u01_sutra_p02_cee49e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "मर्त्यं चामृतं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq204_u01_sutra_p02_cee49e.wav"
+ },
+ {
+  "id": "kan_seq206_u01_sutra_p04_9cbe15",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "मर्त्यस्यैतस्य स्थितस्यैतस्य सत एष रसो य एष तपति सतो ह्येष रसः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq206_u01_sutra_p04_9cbe15.wav"
+ },
+ {
+  "id": "kan_seq209_u01_sutra_p03_c16764",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सत् तस्यैतस्य मूर्तस्यैतस्य मर्त्यस्यैतस्य"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq209_u01_sutra_p03_c16764.wav"
+ },
+ {
+  "id": "kan_seq210_u01_sutra_p04_2928d2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "त्यस्यैष रसो योऽयं दक्षिणेऽक्षन्पुरुषस्तस्य ह्येष रसः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq210_u01_sutra_p04_2928d2.wav"
+ },
+ {
+  "id": "kan_seq216_u01_sutra_p01_d9b2c8",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "मैत्रेयीति होवाच याज्ञवल्क्यः उद्यास्यन् वा ओऽहमस्मात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq216_u01_sutra_p01_d9b2c8.wav"
+ },
+ {
+  "id": "kan_seq218_u01_sutra_p01_487700",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सा होवाच मैत्रेयी येनाहं नामृता स्यां किमहं तेन कुर्यां"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq218_u01_sutra_p01_487700.wav"
+ },
+ {
+  "id": "kan_seq220_u01_sutra_p03_77161e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रियो भवति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq220_u01_sutra_p03_77161e.wav"
+ },
+ {
+  "id": "kan_seq225_u01_sutra_p01_726900",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "न वा ओ अरेक्षत्रस्य कामाय क्षत्रं प्रियं भवत्यात्मनस्तु कामाय क्षत्रं प्रियं भवति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq225_u01_sutra_p01_726900.wav"
+ },
+ {
+  "id": "kan_seq229_u01_sutra_p01_1a981a",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "न वा अरे सर्वस्य कामाय सर्वं प्रियं भवत्यात्मनस्तु कामाय सर्वं प्रियं भवति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq229_u01_sutra_p01_1a981a.wav"
+ },
+ {
+  "id": "kan_seq232_u01_sutra_p04_40ce6c",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तं परादुः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq232_u01_sutra_p04_40ce6c.wav"
+ },
+ {
+  "id": "kan_seq235_u01_sutra_p02_0c8a88",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "बाह्याञ्च्छब्दाञ्च्छक्नुयाद् ग्रहणाय दुन्दुभेस्तु"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq235_u01_sutra_p02_0c8a88.wav"
+ },
+ {
+  "id": "kan_seq237_u01_sutra_p02_2a1519",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ग्रहणाय वीणायै तु ग्रहणेन वीणावादस्य वा शब्दो गृहीतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq237_u01_sutra_p02_2a1519.wav"
+ },
+ {
+  "id": "kan_seq240_u01_sutra_p01_26d508",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स यथा सर्वासामपां समुद्र एकायतनमेवं सर्वेषां स्पर्शानां"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq240_u01_sutra_p01_26d508.wav"
+ },
+ {
+  "id": "kan_seq240_u01_sutra_p07_7436df",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "एकायनमेवं सर्वेषां विसर्गाणां पायुरेकायनमेवं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq240_u01_sutra_p07_7436df.wav"
+ },
+ {
+  "id": "kan_seq244_u01_sutra_p01_590270",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सा होवाच मैत्रेय्यत्रैव मा भगवानमूमुहन्न प्रेत्य सञ्ज्ञास्तीति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq244_u01_sutra_p01_590270.wav"
+ },
+ {
+  "id": "kan_seq250_u01_sutra_p01_cb1378",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तदितर इतरं मनुते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq250_u01_sutra_p01_cb1378.wav"
+ },
+ {
+  "id": "kan_seq256_u01_sutra_p01_6a4774",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तं केन विजानीयाद् विज्ञातारमरे केन विजानीयादिति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq256_u01_sutra_p01_6a4774.wav"
+ },
+ {
+  "id": "kan_seq261_u01_sutra_p02_a00e93",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पुरुषो यश्चायमध्यात्मं रेतसस्तेजोमयोऽमृतमयः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq261_u01_sutra_p02_a00e93.wav"
+ },
+ {
+  "id": "kan_seq263_u01_sutra_p01_5e1416",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अयं वायुः सर्वेषां भूतानां मध्वस्य वायोः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq263_u01_sutra_p01_5e1416.wav"
+ },
+ {
+  "id": "kan_seq264_u01_sutra_p03_5eb66f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पुरुषो यश्चायमध्यात्मं चाक्षुषस्तेजोमयोऽमृतमयः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq264_u01_sutra_p03_5eb66f.wav"
+ },
+ {
+  "id": "kan_seq266_u01_sutra_p01_8acb9f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अयं चन्द्रः सर्वेषां भूतानां मध्वस्य चन्द्रस्य सर्वाणि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq266_u01_sutra_p01_8acb9f.wav"
+ },
+ {
+  "id": "kan_seq267_u01_sutra_p03_aa474d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पुरुषो यश्चायमध्यात्मं तैजसस्तेजोमयोऽमृतमयः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq267_u01_sutra_p03_aa474d.wav"
+ },
+ {
+  "id": "kan_seq269_u01_sutra_p01_e594bd",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अयमाकाशः सर्वेषां भूतानां मध्वस्याकाशस्य सर्वाणि भूतानि मधु"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq269_u01_sutra_p01_e594bd.wav"
+ },
+ {
+  "id": "kan_seq270_u01_sutra_p03_3d535a",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पुरुषो यश्चायमध्यात्मं धार्मस्तेजोमयोऽमृतमयः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq270_u01_sutra_p03_3d535a.wav"
+ },
+ {
+  "id": "kan_seq272_u01_sutra_p01_975c19",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इदं मानुषं सर्वेषां भूतानां मध्वस्य मानुषस्य सर्वाणि भूतानि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq272_u01_sutra_p01_975c19.wav"
+ },
+ {
+  "id": "kan_seq273_u01_sutra_p03_7c85a4",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पुरुषो यश्चायमध्यात्मं आत्मा तेजोमयोऽमृतमयः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq273_u01_sutra_p03_7c85a4.wav"
+ },
+ {
+  "id": "kan_seq276_u01_sutra_p01_99616c",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इदं वैतन्मधु दध्यङ्ग्ङाथर्वणोऽश्विभ्यामुवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq276_u01_sutra_p01_99616c.wav"
+ },
+ {
+  "id": "kan_seq281_u01_sutra_p01_7e95d6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "दध्यङ् ह वा मधु प्रवोचदृतायं त्वाष्ट्रं यद्दस्रावपि कक्ष्यं वामिति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq281_u01_sutra_p01_7e95d6.wav"
+ },
+ {
+  "id": "kan_seq285_u01_sutra_p01_99616c",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इदं वैतन्मधु दध्यङ्ग्ङाथर्वणोऽश्विभ्यामुवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq285_u01_sutra_p01_99616c.wav"
+ },
+ {
+  "id": "kan_seq288_u01_sutra_p02_49a463",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तदेतद्ब्रह्मापूर्वमनपरमनन्तरमबाह्यमयमात्मा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq288_u01_sutra_p02_49a463.wav"
+ },
+ {
+  "id": "kan_seq296_u01_sutra_p01_f2fbdd",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "गौपवनः कौशिकात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq296_u01_sutra_p01_f2fbdd.wav"
+ },
+ {
+  "id": "kan_seq302_u01_sutra_p01_24d026",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अनभिम्लात आनभिम्लातादानभिम्लातो गौतमात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq302_u01_sutra_p01_24d026.wav"
+ },
+ {
+  "id": "kan_seq308_u01_sutra_p01_a6adda",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "भारद्वाजः पाराशर्यात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq308_u01_sutra_p01_a6adda.wav"
+ },
+ {
+  "id": "kan_seq314_u01_sutra_p01_1b2676",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "आसुरायणाच्च यास्काच्च आसुरायणस्त्रैवर्णेस्त्रैवर्णिः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq314_u01_sutra_p01_1b2676.wav"
+ },
+ {
+  "id": "kan_seq320_u01_sutra_p01_057b31",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "वात्स्यः शाण्डिल्यात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq320_u01_sutra_p01_057b31.wav"
+ },
+ {
+  "id": "kan_seq326_u01_sutra_p01_10931e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "वत्सनपाद्बाभ्रवः पथः सौभरात् पन्थाः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq326_u01_sutra_p01_10931e.wav"
+ },
+ {
+  "id": "kan_seq332_u01_sutra_p01_3f1f2f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अथर्वा दैवो मृत्योः प्राध्वंसनात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq332_u01_sutra_p01_3f1f2f.wav"
+ },
+ {
+  "id": "kan_seq338_u01_sutra_p01_8068c4",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सनारुः सनातनात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq338_u01_sutra_p01_8068c4.wav"
+ },
+ {
+  "id": "kan_seq341_u03_gadya_p01_c3a9f9",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "” इति ब्रह्माण्डे"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq341_u03_gadya_p01_c3a9f9.wav"
+ },
+ {
+  "id": "kan_seq348_u01_sutra_p01_94cd38",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तान् होवाच ब्राह्मणा भगवन्तो यो वो ब्रह्मिष्ठः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq348_u01_sutra_p01_94cd38.wav"
+ },
+ {
+  "id": "kan_seq348_u01_sutra_p07_50efad",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "गोकामा एव वयं स्म इति तं ह तत एव प्रष्टुं दध्रे होताऽश्वलः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq348_u01_sutra_p07_50efad.wav"
+ },
+ {
+  "id": "kan_seq350_u01_sutra_p02_ce0622",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सर्वमहोरात्राभ्यामभिपन्नं केन"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq350_u01_sutra_p02_ce0622.wav"
+ },
+ {
+  "id": "kan_seq351_u01_sutra_p01_01ddb2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "याज्ञवल्क्येति होवाच यदिदं सर्वं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq351_u01_sutra_p01_01ddb2.wav"
+ },
+ {
+  "id": "kan_seq352_u01_sutra_p01_d86024",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "याज्ञवल्क्येति होवाच यदिदमन्तरिक्षमनारम्भणमिव केनाक्रमेण यजमानः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq352_u01_sutra_p01_d86024.wav"
+ },
+ {
+  "id": "kan_seq352_u02_gadya_p04_7e6775",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स्मरेत्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq352_u02_gadya_p04_7e6775.wav"
+ },
+ {
+  "id": "kan_seq352_u03_gadya_p04_290cde",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सर्वाणि मुख्यतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq352_u03_gadya_p04_290cde.wav"
+ },
+ {
+  "id": "kan_seq354_u01_sutra_p03_ac2de8",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति पुरोनुवाक्या च याज्या च शस्यैव तृतीया किं ताभिर्यजतीति यत्किञ्चेदं प्राणभृदिति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq354_u01_sutra_p03_ac2de8.wav"
+ },
+ {
+  "id": "kan_seq356_u01_sutra_p06_98086b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ताभिर्जयत्यतीव हि पितृलोको या हुता अधिशेरते मनुष्यलोकमेव"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq356_u01_sutra_p06_98086b.wav"
+ },
+ {
+  "id": "kan_seq360_u01_sutra_p02_409295",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स्तोष्यतीति तिस्र इति कतमास्तास्तिस्र इति पुरोनुवाक्या च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq360_u01_sutra_p02_409295.wav"
+ },
+ {
+  "id": "kan_seq360_u04_gadya_p01_fad908",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "” इति परमश्रुतौ"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq360_u04_gadya_p01_fad908.wav"
+ },
+ {
+  "id": "kan_seq367_u01_sutra_p01_bcfaa9",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "जिह्वा वै ग्रहः स रसेनातिग्रहेण गृहीतो जिह्वया हि रसान् विजानाति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq367_u01_sutra_p01_bcfaa9.wav"
+ },
+ {
+  "id": "kan_seq372_u01_sutra_p01_151cb1",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "त्वग्वै ग्रहः स स्पर्शेनातिग्रहेण गृहीतस्त्वचा हि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq372_u01_sutra_p01_151cb1.wav"
+ },
+ {
+  "id": "kan_seq374_u01_sutra_p02_4db636",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "क्रामंत्याहो नेति नेति होवाच याज्ञवल्क्योऽत्रैव"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq374_u01_sutra_p02_4db636.wav"
+ },
+ {
+  "id": "kan_seq376_u01_sutra_p02_cbe2fb",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "वागप्येति वातं प्राणश्चक्षुरादित्यं मनश्चंद्रं दिशः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq376_u01_sutra_p02_cbe2fb.wav"
+ },
+ {
+  "id": "kan_seq376_u01_sutra_p08_34cf3b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "कर्म हैव तत्प्रशशंसतुः पुण्यो वै पुण्येन कर्मणा भवति पापः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq376_u01_sutra_p08_34cf3b.wav"
+ },
+ {
+  "id": "kan_seq380_u01_sutra_p05_179a9c",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अपृच्छामाथैनमब्रूम क्व पारिक्षिता अभवन्निति क्व"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq380_u01_sutra_p05_179a9c.wav"
+ },
+ {
+  "id": "kan_seq382_u01_sutra_p05_f002e6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पर्येति तद्यावती क्षुरस्य धारा यावद्वा मक्षिकायाः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq382_u01_sutra_p05_f002e6.wav"
+ },
+ {
+  "id": "kan_seq386_u01_sutra_p01_20e821",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अथ हैनमुषस्तश्चाक्रायणः पप्रच्छ याज्ञवल्क्येति होवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq386_u01_sutra_p01_20e821.wav"
+ },
+ {
+  "id": "kan_seq386_u01_sutra_p07_ea5fa6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "उदानेनोदानिति स त आत्मा सर्वान्तरो यः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq386_u01_sutra_p07_ea5fa6.wav"
+ },
+ {
+  "id": "kan_seq388_u01_sutra_p05_956406",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "कतमो याज्ञवल्क्य सर्वान्तरो न दृष्टेर्द्रष्टारं पश्येर्न श्रुतेः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq388_u01_sutra_p05_956406.wav"
+ },
+ {
+  "id": "kan_seq392_u01_sutra_p04_293c1f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "कतमो याज्ञवल्क्य सर्वान्तरो योऽशनायापिपासे शोकं मोहं जरां मृत्युमत्येति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq392_u01_sutra_p04_293c1f.wav"
+ },
+ {
+  "id": "kan_seq394_u01_sutra_p04_da79e6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स ब्राह्मणः केन स्याद्येन स्यात् तेनेदृश एवातोऽन्यदार्तम् ततो ह कहोलः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq394_u01_sutra_p04_da79e6.wav"
+ },
+ {
+  "id": "kan_seq398_u01_sutra_p05_ff6b93",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "कस्मिन्नु खल्वन्तरिक्षलोका ओताश्च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq398_u01_sutra_p05_ff6b93.wav"
+ },
+ {
+  "id": "kan_seq398_u01_sutra_p11_5a3d23",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "कस्मिन्नु खलु इंद्रलोकाः ओताश्च प्रोताश्चेति प्रजापतिलोकेषु गार्गीति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq398_u01_sutra_p11_5a3d23.wav"
+ },
+ {
+  "id": "kan_seq403_u01_sutra_p01_3b1d47",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अथ हैनमुद्दालकः आरुणिः पप्रच्छ याज्ञवल्क्येति होवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq403_u01_sutra_p01_3b1d47.wav"
+ },
+ {
+  "id": "kan_seq403_u01_sutra_p07_5a745b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "काप्यो नाहं तद्भगवन् वेदेति सोऽब्रवीत् पतंजलं काप्यं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq403_u01_sutra_p07_5a745b.wav"
+ },
+ {
+  "id": "kan_seq403_u01_sutra_p13_4e2c77",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सर्वविदिति तेभ्योऽब्रवीत् तदहं वेद तच्चेत् त्वं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq403_u01_sutra_p13_4e2c77.wav"
+ },
+ {
+  "id": "kan_seq405_u01_sutra_p03_3d185b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "गौतम पुरुषं प्रेतमाहुर्व्यस्रंसिषतास्यांगानीति वायुना हि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq405_u01_sutra_p03_3d185b.wav"
+ },
+ {
+  "id": "kan_seq407_u01_sutra_p01_4dce78",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यः पृथिव्यां तिष्ठन् पृथिव्या अन्तरो यं पृथिवी न वेद"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq407_u01_sutra_p01_4dce78.wav"
+ },
+ {
+  "id": "kan_seq409_u01_sutra_p01_b69bba",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यः अग्नौ तिष्ठन्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq409_u01_sutra_p01_b69bba.wav"
+ },
+ {
+  "id": "kan_seq410_u01_sutra_p03_0e2793",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यस्य अन्तरिक्षं शरीरं यः अन्तरिक्षमन्तरो यमयति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq410_u01_sutra_p03_0e2793.wav"
+ },
+ {
+  "id": "kan_seq412_u01_sutra_p01_1011f2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यः दिवि तिष्ठन् दिवः अन्तरो यं द्यौः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq412_u01_sutra_p01_1011f2.wav"
+ },
+ {
+  "id": "kan_seq413_u01_sutra_p03_487017",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "एष त आत्माऽन्तर्याम्यमृतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq413_u01_sutra_p03_487017.wav"
+ },
+ {
+  "id": "kan_seq415_u01_sutra_p03_487017",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "एष त आत्माऽन्तर्याम्यमृतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq415_u01_sutra_p03_487017.wav"
+ },
+ {
+  "id": "kan_seq417_u01_sutra_p03_487017",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "एष त आत्माऽन्तर्याम्यमृतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq417_u01_sutra_p03_487017.wav"
+ },
+ {
+  "id": "kan_seq419_u01_sutra_p03_9ded69",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "एष त आत्माऽन्तर्याम्यमृतः इत्यधिभूतमथाध्यात्मम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq419_u01_sutra_p03_9ded69.wav"
+ },
+ {
+  "id": "kan_seq421_u01_sutra_p03_487017",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "एष त आत्माऽन्तर्याम्यमृतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq421_u01_sutra_p03_487017.wav"
+ },
+ {
+  "id": "kan_seq423_u01_sutra_p02_4fd862",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यस्य श्रोत्रं शरीरं यः श्रोत्रमन्तरो यमयति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq423_u01_sutra_p02_4fd862.wav"
+ },
+ {
+  "id": "kan_seq425_u01_sutra_p02_ea5a7b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यस्य त्वक् शरीरं यः त्वचमन्तरो यमयति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq425_u01_sutra_p02_ea5a7b.wav"
+ },
+ {
+  "id": "kan_seq427_u01_sutra_p02_7cf6a2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यस्य रेतः शरीरं यः रेतोऽन्तरो यमयति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq427_u01_sutra_p02_7cf6a2.wav"
+ },
+ {
+  "id": "kan_seq427_u02_gadya_p05_d67ebd",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सोऽन्तरः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq427_u02_gadya_p05_d67ebd.wav"
+ },
+ {
+  "id": "kan_seq427_u02_gadya_p14_ae8cbc",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स्मृतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq427_u02_gadya_p14_ae8cbc.wav"
+ },
+ {
+  "id": "kan_seq431_u01_sutra_p03_390d28",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "कश्चित् ब्रह्मोद्यं जेतेति पृच्छ गार्गीति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq431_u01_sutra_p03_390d28.wav"
+ },
+ {
+  "id": "kan_seq435_u01_sutra_p02_307a3d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यदन्तरा द्यावापृथिवी इमे यद्भूतं च भवच्च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq435_u01_sutra_p02_307a3d.wav"
+ },
+ {
+  "id": "kan_seq439_u01_sutra_p02_307a3d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यदन्तरा द्यावापृथिवी इमे यद्भूतं च भवच्च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq439_u01_sutra_p02_307a3d.wav"
+ },
+ {
+  "id": "kan_seq442_u01_sutra_p02_a1b534",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अनणु अह्रस्वं अदीर्घं अलोहितं ओहं अच्छायं अतमो अवायु"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq442_u01_sutra_p02_a1b534.wav"
+ },
+ {
+  "id": "kan_seq444_u01_sutra_p01_ee699c",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "एतस्य वा अक्षरस्य प्रशासने गार्गि सूर्याचंद्रमसौ विधृतौ"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq444_u01_sutra_p01_ee699c.wav"
+ },
+ {
+  "id": "kan_seq444_u01_sutra_p07_e1fafd",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रतीच्योऽन्या यां यां च दिशमन्वेतस्य वा अक्षरस्य प्रशासने गार्गि ददतो मनुष्याः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq444_u01_sutra_p07_e1fafd.wav"
+ },
+ {
+  "id": "kan_seq446_u01_sutra_p01_ae9ab9",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तद्वा एतदक्षरं गार्ग्यदृष्टं द्रष्ट्रश्रुतं श्रोत्रमतं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq446_u01_sutra_p01_ae9ab9.wav"
+ },
+ {
+  "id": "kan_seq447_u01_sutra_p03_36c947",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ब्रह्मोद्यं जेतेति ततो ह वाचक्नव्युपरराम"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq447_u01_sutra_p03_36c947.wav"
+ },
+ {
+  "id": "kan_seq447_u02_gadya_p08_0bc94b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सदा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq447_u02_gadya_p08_0bc94b.wav"
+ },
+ {
+  "id": "kan_seq452_u01_sutra_p04_6c7255",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सहस्रेत्योमिति होवाच कत्येव देवा याज्ञवल्क्येति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq452_u01_sutra_p04_6c7255.wav"
+ },
+ {
+  "id": "kan_seq452_u01_sutra_p10_3a85d5",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "त्रयश्च त्री च शता त्रयश्च त्री च सहस्रेति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq452_u01_sutra_p10_3a85d5.wav"
+ },
+ {
+  "id": "kan_seq453_u02_gadya_p06_e0339e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "षण्णामेते त्रयाणां ते ते द्वयोः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq453_u02_gadya_p06_e0339e.wav"
+ },
+ {
+  "id": "kan_seq455_u01_sutra_p03_29a455",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "हीदंवसु सर्वं हितमिति तस्मात् वसव इति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq455_u01_sutra_p03_29a455.wav"
+ },
+ {
+  "id": "kan_seq455_u02_gadya_p13_28c57b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "काम उदाहृतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq455_u02_gadya_p13_28c57b.wav"
+ },
+ {
+  "id": "kan_seq455_u02_gadya_p20_0c6392",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पूर्वकीर्तिताः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq455_u02_gadya_p20_0c6392.wav"
+ },
+ {
+  "id": "kan_seq459_u01_sutra_p03_f3b700",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सर्वमाददाना यन्ति तस्मादादित्या इति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq459_u01_sutra_p03_f3b700.wav"
+ },
+ {
+  "id": "kan_seq464_u01_sutra_p02_060141",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "कतमौ तौ द्वौ देवावित्यन्नं चैव प्राणश्चेति कतमोऽध्यर्ध इति योऽयं पवत इति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq464_u01_sutra_p02_060141.wav"
+ },
+ {
+  "id": "kan_seq465_u03_gadya_p01_4fd007",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "” अत्रोक्ता अपि पृथिव्याद्या अन्तर्यामिब्राह्मणे भवन्ति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq465_u03_gadya_p01_4fd007.wav"
+ },
+ {
+  "id": "kan_seq468_u01_sutra_p01_111e52",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "काम एव यस्यायतनं हृदयं लोको मनो ज्योतिर्यो वै तं पुरुषं विद्यात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq468_u01_sutra_p01_111e52.wav"
+ },
+ {
+  "id": "kan_seq469_u01_sutra_p01_ca3f0d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "रूपाण्येव यस्यायतनं चक्षुर्लोको मनोज्योतिर्यो वै तं पुरुषं विद्यात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq469_u01_sutra_p01_ca3f0d.wav"
+ },
+ {
+  "id": "kan_seq470_u01_sutra_p01_d0285d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "आकाश एव यस्यायतनं श्रोत्रं लोको मनोज्योतिर्यो वै तं पुरुषं विद्यात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq470_u01_sutra_p01_d0285d.wav"
+ },
+ {
+  "id": "kan_seq471_u01_sutra_p01_650ab8",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तम एव यस्यायतनं हृदयं लोको मनोज्योतिर्यो वै तं पुरुषं विद्यात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq471_u01_sutra_p01_650ab8.wav"
+ },
+ {
+  "id": "kan_seq472_u01_sutra_p01_d54f4b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "रूपाण्येव यस्यायतनं चक्षुर्लोको मनो ज्योतिर्यो वै तं पुरुषं विद्यात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq472_u01_sutra_p01_d54f4b.wav"
+ },
+ {
+  "id": "kan_seq473_u01_sutra_p01_215f61",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "आप एव यस्यायतनं हृदयं लोको मनो ज्योतिर्यो वै तं पुरुषं विद्यात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq473_u01_sutra_p01_215f61.wav"
+ },
+ {
+  "id": "kan_seq474_u01_sutra_p01_9e8367",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "रेत एव यस्यायतनं हृदयं लोको मनो ज्योतिर्यो वै तं पुरुषं विद्यात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq474_u01_sutra_p01_9e8367.wav"
+ },
+ {
+  "id": "kan_seq476_u01_sutra_p01_8c4751",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "शाकल्येति होवाच याज्ञवल्क्यस्त्वां स्विदिमे ब्राह्मणा अंगारावक्रयणमकृता इति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq476_u01_sutra_p01_8c4751.wav"
+ },
+ {
+  "id": "kan_seq479_u01_sutra_p03_9042f5",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रतिष्ठितमिति रूपेष्विति चक्षुषा हि रूपाणि पश्यति कस्मिन्नु"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq479_u01_sutra_p03_9042f5.wav"
+ },
+ {
+  "id": "kan_seq481_u01_sutra_p02_2fd668",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "कस्मिन् प्रतिष्ठित इति यज्ञ इति कस्मिन् यज्ञः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq481_u01_sutra_p02_2fd668.wav"
+ },
+ {
+  "id": "kan_seq481_u01_sutra_p08_4c630f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "भवतीत्येवमेवैतद्याज्ञवल्क्य"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq481_u01_sutra_p08_4c630f.wav"
+ },
+ {
+  "id": "kan_seq483_u01_sutra_p04_1c5120",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रतिष्ठितमिति हृदय इति तस्मादपि प्रतिरूपं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq483_u01_sutra_p04_1c5120.wav"
+ },
+ {
+  "id": "kan_seq485_u01_sutra_p02_9103bb",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "कस्मिन् प्रतिष्ठित इति दीक्षायामिति कस्मिन्नु दीक्षा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq485_u01_sutra_p02_9103bb.wav"
+ },
+ {
+  "id": "kan_seq485_u02_gadya_p03_647fe5",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सत्यात्मको देवो मनुरेव समाश्रयः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq485_u02_gadya_p03_647fe5.wav"
+ },
+ {
+  "id": "kan_seq489_u01_sutra_p03_aec679",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स्यात् श्वानो वैनदद्युर्वयांसि वैनद्विमथ्नीरन्निति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq489_u01_sutra_p03_aec679.wav"
+ },
+ {
+  "id": "kan_seq491_u01_sutra_p04_05d060",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रतिष्ठित इत्युदान इति कस्मिन्नुदान प्रतिष्ठित इति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq491_u01_sutra_p04_05d060.wav"
+ },
+ {
+  "id": "kan_seq491_u01_sutra_p10_3f87f4",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "विपतिष्यतीति तंह न मे शाकल्यस्तस्य ह मूर्धा विपपातापि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq491_u01_sutra_p10_3f87f4.wav"
+ },
+ {
+  "id": "kan_seq491_u02_gadya_p07_b39163",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "समानाख्यो हरिस्तस्याः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq491_u02_gadya_p07_b39163.wav"
+ },
+ {
+  "id": "kan_seq491_u03_gadya_p01_b83b3c",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "” इत्यादि च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq491_u03_gadya_p01_b83b3c.wav"
+ },
+ {
+  "id": "kan_seq495_u01_sutra_p01_cefed8",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यथा वृक्षो वनस्पतिस्तथैव पुरुषोऽमृषा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq495_u01_sutra_p01_cefed8.wav"
+ },
+ {
+  "id": "kan_seq501_u01_sutra_p01_7dbc71",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यद्वृक्षो वृक्णो रोहति मूलान्नवतरः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq501_u01_sutra_p01_7dbc71.wav"
+ },
+ {
+  "id": "kan_seq506_u01_sutra_p01_beb03b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "मर्त्यः स्विन्मृत्युना वृक्णः कस्मान्मूलात् प्ररोहति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq506_u01_sutra_p01_beb03b.wav"
+ },
+ {
+  "id": "kan_seq514_u01_sutra_p03_6f0509",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पशूनिच्छन्नण्वन्तानिति उयुभयमेव सम्राड् इति होवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq514_u01_sutra_p03_6f0509.wav"
+ },
+ {
+  "id": "kan_seq516_u01_sutra_p06_90560f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "याज्ञवल्क्य वागेवायतनमाकाशः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq516_u01_sutra_p06_90560f.wav"
+ },
+ {
+  "id": "kan_seq516_u01_sutra_p12_a340cd",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "परश्च लोकः सर्वाणि च भूतानि वाचैव सम्राट् प्रज्ञायन्ते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq516_u01_sutra_p12_a340cd.wav"
+ },
+ {
+  "id": "kan_seq518_u01_sutra_p02_1d38e5",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "शौल्बायनः प्राणो वै ब्रह्मेति यथा मातृमान् पितृमान् आचार्यवान्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq518_u01_sutra_p02_1d38e5.wav"
+ },
+ {
+  "id": "kan_seq518_u01_sutra_p08_e06c8c",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्राण एव सम्राडिति होवाच प्राणस्य वै सम्राट् कामायायाज्यं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq518_u01_sutra_p08_e06c8c.wav"
+ },
+ {
+  "id": "kan_seq518_u01_sutra_p14_8b6bfa",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स होवाच याज्ञवल्क्यः पिता मेऽमन्यत नाननुशिष्य हरेतेति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq518_u01_sutra_p14_8b6bfa.wav"
+ },
+ {
+  "id": "kan_seq520_u01_sutra_p06_1e07ef",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ब्रूहि याज्ञवल्क्य चक्षुरेवायतनमाकाशः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq520_u01_sutra_p06_1e07ef.wav"
+ },
+ {
+  "id": "kan_seq520_u01_sutra_p12_e2e848",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "विद्वानेतदुपास्ते हस्त्यृषभं सहस्रं ददामीति होवाच जनको वैदेहः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq520_u01_sutra_p12_e2e848.wav"
+ },
+ {
+  "id": "kan_seq522_u01_sutra_p05_434989",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "मेऽब्रवीदित्येकपाद्वा एतत् सम्राडिति स वै नो ब्रूहि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq522_u01_sutra_p05_434989.wav"
+ },
+ {
+  "id": "kan_seq522_u01_sutra_p11_13a89d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "श्रोत्रं जहाति सर्वाण्येनं भूतान्यभिक्षरन्ति देवो भूत्वा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq522_u01_sutra_p11_13a89d.wav"
+ },
+ {
+  "id": "kan_seq524_u01_sutra_p04_cc12ae",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स्यादित्यब्रवीत् तु ते तस्यायतनं प्रतिष्ठां न"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq524_u01_sutra_p04_cc12ae.wav"
+ },
+ {
+  "id": "kan_seq524_u01_sutra_p10_450be2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पुत्रो जायते स आनन्दो मनो वै सम्राट् परमं ब्रह्म नैनं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq524_u01_sutra_p10_450be2.wav"
+ },
+ {
+  "id": "kan_seq526_u01_sutra_p03_31719a",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ब्रूयात् तथा तच्छाकल्योऽब्रवीत् हृदयं वै"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq526_u01_sutra_p03_31719a.wav"
+ },
+ {
+  "id": "kan_seq526_u01_sutra_p09_6526c3",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "भूतानामायतनं हृदयं वै सर्वेषां भूतानां प्रतिष्ठा हृदये ह्येव"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq526_u01_sutra_p09_6526c3.wav"
+ },
+ {
+  "id": "kan_seq530_u01_sutra_p01_2a6952",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "जनको वै वैदेहः कूर्चादुपावसर्पन्नुवाच नमस्तेऽस्तु"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq530_u01_sutra_p01_2a6952.wav"
+ },
+ {
+  "id": "kan_seq530_u01_sutra_p07_989232",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "क्व गमिष्यसीति नाहं तद्भगवान् वेद यत्र गमिष्यामीत्यथ वै"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq530_u01_sutra_p07_989232.wav"
+ },
+ {
+  "id": "kan_seq533_u01_sutra_p02_ae0ea6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "संस्तावो य एषोऽन्तर्हृदय आकाशोऽथैनयोरेतदन्नं य"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq533_u01_sutra_p02_ae0ea6.wav"
+ },
+ {
+  "id": "kan_seq533_u01_sutra_p08_89880f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रविविक्ताहारतर इवैव भवत्यस्माच्छारीरादात्मनः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq533_u01_sutra_p08_89880f.wav"
+ },
+ {
+  "id": "kan_seq535_u01_sutra_p01_7b1756",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तस्य प्राची दिक् प्राञ्चः प्राणाः दक्षिणा दिक् दक्षिणाः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq535_u01_sutra_p01_7b1756.wav"
+ },
+ {
+  "id": "kan_seq535_u01_sutra_p07_8ef744",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स होवाच जनको ह वैदेहोऽभयं त्वागच्छताद्याज्ञवल्क्य यो नो"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq535_u01_sutra_p07_8ef744.wav"
+ },
+ {
+  "id": "kan_seq540_u01_sutra_p01_a1b789",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "जनकं ह वैदेहं याज्ञवल्क्यो जगाम स मेने न वदिष्य इत्यथ ह"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq540_u01_sutra_p01_a1b789.wav"
+ },
+ {
+  "id": "kan_seq542_u01_sutra_p02_44a365",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सम्राडिति होवाचादित्येनैवायं ज्योतिषाऽऽस्ते पल्ययते कर्म"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq542_u01_sutra_p02_44a365.wav"
+ },
+ {
+  "id": "kan_seq544_u01_sutra_p01_2158b7",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अस्तमित आदित्ये याज्ञवल्क्य चंद्रमस्यस्तमिते किं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq544_u01_sutra_p01_2158b7.wav"
+ },
+ {
+  "id": "kan_seq545_u01_sutra_p03_9e7b8f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ज्योतिर्भवतीति वाचैवायं ज्योतिषाऽऽस्ते पल्ययते कर्म"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq545_u01_sutra_p03_9e7b8f.wav"
+ },
+ {
+  "id": "kan_seq548_u01_sutra_p01_84b690",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "कतम आत्मेति योऽयं विज्ञानमयः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq548_u01_sutra_p01_84b690.wav"
+ },
+ {
+  "id": "kan_seq550_u01_sutra_p02_58beb2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पाप्मभिः संसृज्यते स उत्क्रामन् म्रियमाणः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq550_u01_sutra_p02_58beb2.wav"
+ },
+ {
+  "id": "kan_seq552_u01_sutra_p05_560078",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पाप्मन् आनन्दांश्च पश्यति स यत्र प्रस्वपित्यस्य"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq552_u01_sutra_p05_560078.wav"
+ },
+ {
+  "id": "kan_seq553_u01_sutra_p03_1abc18",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रमुदः सृजते न तत्र वेशान्ताः पुष्करिण्यः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq553_u01_sutra_p03_1abc18.wav"
+ },
+ {
+  "id": "kan_seq553_u02_gadya_p11_2822c5",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "विशेषः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq553_u02_gadya_p11_2822c5.wav"
+ },
+ {
+  "id": "kan_seq553_u02_gadya_p23_2210eb",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स नैव जीवोऽयं सर्वं पश्यति सूक्ष्मदृक्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq553_u02_gadya_p23_2210eb.wav"
+ },
+ {
+  "id": "kan_seq557_u01_sutra_p02_287232",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पुरुष एकहंसः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq557_u01_sutra_p02_287232.wav"
+ },
+ {
+  "id": "kan_seq563_u01_sutra_p01_ac0635",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "उतेव स्त्रीभिस्सह मोदमानो जक्षदुतेवापि भयानि पश्यन्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq563_u01_sutra_p01_ac0635.wav"
+ },
+ {
+  "id": "kan_seq566_u01_sutra_p03_437fc8",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ह्येव जाग्रत्पश्यति तानि सुप्त इत्यत्रायं पुरुषः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq566_u01_sutra_p03_437fc8.wav"
+ },
+ {
+  "id": "kan_seq566_u03_gadya_p01_72930f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "” इति च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq566_u03_gadya_p01_72930f.wav"
+ },
+ {
+  "id": "kan_seq570_u01_sutra_p02_87751e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रतिन्यायं प्रतियोन्या द्रवति बुद्धान्तायैव स यत् तत्र"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq570_u01_sutra_p02_87751e.wav"
+ },
+ {
+  "id": "kan_seq573_u01_sutra_p02_1ddda7",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "चैवमेवायं पुरुष एतावुभावन्तावनुसञ्चरति स्वप्नान्तं च बुद्धान्तं च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq573_u01_sutra_p02_1ddda7.wav"
+ },
+ {
+  "id": "kan_seq573_u02_gadya_p06_726b38",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पुनः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq573_u02_gadya_p06_726b38.wav"
+ },
+ {
+  "id": "kan_seq575_u02_gadya_p03_75f4c0",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सद्गृहं यथा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq575_u02_gadya_p03_75f4c0.wav"
+ },
+ {
+  "id": "kan_seq575_u02_gadya_p09_ae68bc",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "कामयेन्नैव किञ्चन"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq575_u02_gadya_p09_ae68bc.wav"
+ },
+ {
+  "id": "kan_seq577_u01_sutra_p06_e4c4be",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इव राजेवाहमेवेदं सर्वोऽस्मीति मन्यते सोऽस्य परमो लोकः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq577_u01_sutra_p06_e4c4be.wav"
+ },
+ {
+  "id": "kan_seq579_u01_sutra_p03_9c2d86",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नान्तरमेवमेवायं पुरुषः प्राज्ञेनात्मना सम्परिष्वक्तो न बाह्यं किञ्चन वेद"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq579_u01_sutra_p03_9c2d86.wav"
+ },
+ {
+  "id": "kan_seq581_u01_sutra_p01_d9b142",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अत्र पिताऽपिता भवति माताऽमाता लोका अलोका देवा ओवा वेदा अवेदा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq581_u01_sutra_p01_d9b142.wav"
+ },
+ {
+  "id": "kan_seq583_u01_sutra_p01_a772c7",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यद्वै तन्न पश्यति पश्यन् वै तन्न पश्यति न हि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq583_u01_sutra_p01_a772c7.wav"
+ },
+ {
+  "id": "kan_seq585_u01_sutra_p03_80fee5",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तद्द्वितीयमस्ति ततोऽन्यद्विभक्तं यज्जिघ्रेत्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq585_u01_sutra_p03_80fee5.wav"
+ },
+ {
+  "id": "kan_seq587_u01_sutra_p03_32c7cf",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तद्द्वितीयमस्ति ततोऽन्यद्विभक्तं यद्वदेत्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq587_u01_sutra_p03_32c7cf.wav"
+ },
+ {
+  "id": "kan_seq589_u01_sutra_p03_c70ac9",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तद्द्वितीयमस्ति ततोऽन्यद्विभक्तं यन्मन्वीत"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq589_u01_sutra_p03_c70ac9.wav"
+ },
+ {
+  "id": "kan_seq591_u01_sutra_p03_52c9d8",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तद्द्वितीयमस्ति ततोऽन्यद्विभक्तं यद्विजानीयात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq591_u01_sutra_p03_52c9d8.wav"
+ },
+ {
+  "id": "kan_seq594_u01_sutra_p02_8231b2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सम्राडिति हैनमनुशशास याज्ञवल्क्य एषाऽस्य परमा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq594_u01_sutra_p02_8231b2.wav"
+ },
+ {
+  "id": "kan_seq596_u01_sutra_p04_31d8ec",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स एकः पितॄणां जितलोकानामानन्दोऽथ ये शतं पितॄणां जितलोकानामानन्दाः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq596_u01_sutra_p04_31d8ec.wav"
+ },
+ {
+  "id": "kan_seq596_u01_sutra_p10_cbc1d2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "श्रोत्रियोऽवृजिनोऽकामहतोऽथ ये शतं प्रजापतिलोक आनन्दाः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq596_u01_sutra_p10_cbc1d2.wav"
+ },
+ {
+  "id": "kan_seq600_u01_sutra_p01_c41718",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स वा एष एतस्मिन् स्वप्नान्ते रत्वा चरित्वा दृष्ट्वैव पुण्यं च पापं च पुनः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq600_u01_sutra_p01_c41718.wav"
+ },
+ {
+  "id": "kan_seq604_u01_sutra_p03_369106",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "एवमेवायं पुरुष एभ्योऽङ्गेभ्यः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq604_u01_sutra_p03_369106.wav"
+ },
+ {
+  "id": "kan_seq608_u01_sutra_p01_eddc12",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तद्यथा राजानं प्रयियासन्तमुग्राः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq608_u01_sutra_p01_eddc12.wav"
+ },
+ {
+  "id": "kan_seq613_u01_sutra_p01_9c4bc0",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स यत्रायमात्मा बल्यं न्येत्य सम्मोहमिव न्येत्यथैनमेते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq613_u01_sutra_p01_9c4bc0.wav"
+ },
+ {
+  "id": "kan_seq613_u02_gadya_p03_189a34",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "याति विष्णुं तदा देवा यान्ति तेजः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq613_u02_gadya_p03_189a34.wav"
+ },
+ {
+  "id": "kan_seq615_u01_sutra_p04_c27c08",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इत्याहुरेकीभवति न स्पृशतीत्याहुरेकीभवति न"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq615_u01_sutra_p04_c27c08.wav"
+ },
+ {
+  "id": "kan_seq615_u01_sutra_p10_666090",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तं विद्याकर्मणी समन्वारभेते पूर्वप्रज्ञा च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq615_u01_sutra_p10_666090.wav"
+ },
+ {
+  "id": "kan_seq619_u01_sutra_p01_485165",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तद्यथा पेशस्करी पेशसो मात्रामुपादायान्यन्नवतरं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq619_u01_sutra_p01_485165.wav"
+ },
+ {
+  "id": "kan_seq619_u03_gadya_p01_b83b3c",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "” इत्यादि च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq619_u03_gadya_p01_b83b3c.wav"
+ },
+ {
+  "id": "kan_seq621_u01_sutra_p06_491b77",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "इति यथाकारी यथाचारी तथा भवति साधुकारी साधुर्भवति पापकारी पापो भवति पुण्यः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq621_u01_sutra_p06_491b77.wav"
+ },
+ {
+  "id": "kan_seq625_u01_sutra_p01_5b22a9",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्राप्यान्तं कर्मणस्तस्य यत्किञ्चेह करोत्ययम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq625_u01_sutra_p01_5b22a9.wav"
+ },
+ {
+  "id": "kan_seq630_u01_sutra_p01_184aa9",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अथ मर्त्योऽमृतो भवत्यत्र ब्रह्म समश्नुत इति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq630_u01_sutra_p01_184aa9.wav"
+ },
+ {
+  "id": "kan_seq635_u02_gadya_p01_15f1a1",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "“तत्प्राप्तेः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq635_u02_gadya_p01_15f1a1.wav"
+ },
+ {
+  "id": "kan_seq635_u02_gadya_p09_4cf54e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स भगवान् सर्वविशिष्टो यत् सदैव हि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq635_u02_gadya_p09_4cf54e.wav"
+ },
+ {
+  "id": "kan_seq638_u02_gadya_p08_2db379",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पद्मजेनैव सन्ततम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq638_u02_gadya_p08_2db379.wav"
+ },
+ {
+  "id": "kan_seq638_u02_gadya_p20_9ad385",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अभिन्नोऽपि ह्यतो भिन्नः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq638_u02_gadya_p20_9ad385.wav"
+ },
+ {
+  "id": "kan_seq641_u02_gadya_p05_45b056",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सत्त्वबुद्धिं यतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq641_u02_gadya_p05_45b056.wav"
+ },
+ {
+  "id": "kan_seq644_u02_gadya_p01_d3abac",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नित्यदुः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq644_u02_gadya_p01_d3abac.wav"
+ },
+ {
+  "id": "kan_seq644_u03_gadya_p05_bdea3f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "न विदुस्ते तमो यान्ति सर्वदुः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq644_u03_gadya_p05_bdea3f.wav"
+ },
+ {
+  "id": "kan_seq647_u02_gadya_p03_1aba7e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "योग्यः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq647_u02_gadya_p03_1aba7e.wav"
+ },
+ {
+  "id": "kan_seq647_u02_gadya_p09_033a2f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रसादतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq647_u02_gadya_p09_033a2f.wav"
+ },
+ {
+  "id": "kan_seq647_u02_gadya_p15_d04b7f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पुरुषोत्तमः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq647_u02_gadya_p15_d04b7f.wav"
+ },
+ {
+  "id": "kan_seq650_u01_sutra_p01_b443be",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स विश्वकृत् स हि सर्वस्य कर्ता तस्य लोकः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq650_u01_sutra_p01_b443be.wav"
+ },
+ {
+  "id": "kan_seq650_u02_gadya_p05_713955",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स हि विष्णुः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq650_u02_gadya_p05_713955.wav"
+ },
+ {
+  "id": "kan_seq653_u01_sutra_p01_855df0",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "य एतद्विदुरमृतास्ते भवन्त्यथेतरे दुः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq653_u01_sutra_p01_855df0.wav"
+ },
+ {
+  "id": "kan_seq659_u01_sutra_p01_ca38db",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यस्मिन् पञ्च पञ्चजना आकाशश्च प्रतिष्ठितः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq659_u01_sutra_p01_ca38db.wav"
+ },
+ {
+  "id": "kan_seq669_u01_sutra_p01_93c733",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तमेव धीरो विज्ञाय प्रज्ञां कुर्वीत ब्राह्मणः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq669_u01_sutra_p01_93c733.wav"
+ },
+ {
+  "id": "kan_seq672_u01_sutra_p04_11d9d9",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "कनीयानेष सर्वेश्वर एष भूताधिपतिरेष भूतपाल एष"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq672_u01_sutra_p04_11d9d9.wav"
+ },
+ {
+  "id": "kan_seq672_u01_sutra_p10_980fdb",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "लोक इति ते ह स्म पुत्रैषणायाश्च वित्तैषणायाश्च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq672_u01_sutra_p10_980fdb.wav"
+ },
+ {
+  "id": "kan_seq674_u01_sutra_p01_b0d421",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तदेतदृचाभ्युक्तम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq674_u01_sutra_p01_b0d421.wav"
+ },
+ {
+  "id": "kan_seq679_u01_sutra_p01_93f4ba",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नैनं पाप्मा तपति सर्वं पाप्मानं तपति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq679_u01_sutra_p01_93f4ba.wav"
+ },
+ {
+  "id": "kan_seq681_u03_gadya_p04_88cb44",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "समुद्दिष्टस्तथा ज्ञेयो जनार्दनः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq681_u03_gadya_p04_88cb44.wav"
+ },
+ {
+  "id": "kan_seq688_u01_sutra_p02_f1b0ad",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "मैत्रेयी च कात्यायनी च तयोर्ह मैत्रेयी ब्रह्मवादिनी बभूव"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq688_u01_sutra_p02_f1b0ad.wav"
+ },
+ {
+  "id": "kan_seq690_u01_sutra_p03_955aa8",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "नेति होवाच याज्ञवल्क्यो यथैवोपकरणवतां जीवितं तथैव ते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq690_u01_sutra_p03_955aa8.wav"
+ },
+ {
+  "id": "kan_seq694_u01_sutra_p02_2783c0",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रियो भवति न वा ओ जायायै कामाय जाया प्रिया भवत्यात्मनस्तु"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq694_u01_sutra_p02_2783c0.wav"
+ },
+ {
+  "id": "kan_seq694_u01_sutra_p08_369606",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रिया भवन्ति न वा ओ ब्रह्मणः कामाय ब्रह्म प्रियं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq694_u01_sutra_p08_369606.wav"
+ },
+ {
+  "id": "kan_seq694_u01_sutra_p14_16bc65",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रिया भवन्त्यात्मनस्तु कामाय देवाः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq694_u01_sutra_p14_16bc65.wav"
+ },
+ {
+  "id": "kan_seq694_u01_sutra_p20_24f11b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रियं भवति आत्मा वा ओ द्रष्टव्यः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq694_u01_sutra_p20_24f11b.wav"
+ },
+ {
+  "id": "kan_seq695_u01_sutra_p04_6a95c9",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "योऽन्यत्रात्मनो देवान् वेद वेदास्तं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq695_u01_sutra_p04_6a95c9.wav"
+ },
+ {
+  "id": "kan_seq696_u01_sutra_p02_9e4ccb",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ग्रहणाय दुन्दुभेस्तु ग्रहणेन दुन्दुभ्याघातस्य वा शब्दो गृहीतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq696_u01_sutra_p02_9e4ccb.wav"
+ },
+ {
+  "id": "kan_seq699_u01_sutra_p02_f8de78",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "श्वसितमेदद्यदृग्वेदो यजुर्वेदः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq699_u01_sutra_p02_f8de78.wav"
+ },
+ {
+  "id": "kan_seq700_u01_sutra_p02_ff0ca8",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "त्वगेकायनमेवं सर्वेषां रसानां जिह्वैकायनमेवं सर्वेषां"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq700_u01_sutra_p02_ff0ca8.wav"
+ },
+ {
+  "id": "kan_seq700_u01_sutra_p08_cbff38",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सर्वेषामध्वानां पादावेकायनमेवं सर्वेषां वेदानां"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq700_u01_sutra_p08_cbff38.wav"
+ },
+ {
+  "id": "kan_seq702_u01_sutra_p02_441f02",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अहमिमं विजानातीति स होवाच न वा ओ अहं मोहं ब्रवीम्यविनाशी वा ओऽयमात्माऽनुच्छित्तिधर्मा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq702_u01_sutra_p02_441f02.wav"
+ },
+ {
+  "id": "kan_seq704_u01_sutra_p06_372bc8",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "रसयेत् तत् केन कमभिवदेत् तत् केन कं शृणुयात् तत् केन कं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq704_u01_sutra_p06_372bc8.wav"
+ },
+ {
+  "id": "kan_seq704_u01_sutra_p12_831b18",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "खल्वमृतत्वमिति होक्त्वा याज्ञवल्क्यो विजहार"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq704_u01_sutra_p12_831b18.wav"
+ },
+ {
+  "id": "kan_seq713_u01_sutra_p01_3fa8ba",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "कौशिकः कौंडिन्यात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq713_u01_sutra_p01_3fa8ba.wav"
+ },
+ {
+  "id": "kan_seq719_u01_sutra_p01_039ba6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "गौतमः सैतवात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq719_u01_sutra_p01_039ba6.wav"
+ },
+ {
+  "id": "kan_seq724_u01_sutra_p01_cb26bc",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सौकरायणः काषायणात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq724_u01_sutra_p01_cb26bc.wav"
+ },
+ {
+  "id": "kan_seq730_u01_sutra_p01_f1a611",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पाराशर्यो जातूकर्ण्यात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq730_u01_sutra_p01_f1a611.wav"
+ },
+ {
+  "id": "kan_seq731_u01_sutra_p06_2f2c82",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "कौंडिन्यात् विदर्भीकौंडिन्यो वत्सनपादो बाभ्रवात् वत्सनपाद्बाभ्रवः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq731_u01_sutra_p06_2f2c82.wav"
+ },
+ {
+  "id": "kan_seq731_u01_sutra_p12_302997",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रध्वंसनात् प्रध्वंसन एकऋषेः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq731_u01_sutra_p12_302997.wav"
+ },
+ {
+  "id": "kan_seq733_u03_gadya_p01_72930f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "” इति च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq733_u03_gadya_p01_72930f.wav"
+ },
+ {
+  "id": "kan_seq742_u01_sutra_p01_8883bb",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "खं ब्रह्म खं पुराणं वायुरं खमिति ह स्माह कौरव्यायणीपुत्रो"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq742_u01_sutra_p01_8883bb.wav"
+ },
+ {
+  "id": "kan_seq742_u03_gadya_p01_72930f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "” इति च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq742_u03_gadya_p01_72930f.wav"
+ },
+ {
+  "id": "kan_seq745_u01_sutra_p01_986a01",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अथ हैनं मनुष्या ऊचुर्ब्रवीतु नो भवानिति तेभ्यो"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq745_u01_sutra_p01_986a01.wav"
+ },
+ {
+  "id": "kan_seq746_u01_sutra_p04_8282d0",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तदेतदेवैषा दैवी वागनुवदति स्तनयित्नुर्द द द इति दाम्यत"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq746_u01_sutra_p04_8282d0.wav"
+ },
+ {
+  "id": "kan_seq748_u01_sutra_p05_d926b4",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यमित्येकमक्षरमेति स्वर्गं लोकं य एवं वेद"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq748_u01_sutra_p05_d926b4.wav"
+ },
+ {
+  "id": "kan_seq752_u01_sutra_p03_c86ac2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सत्यमेवोपासते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq752_u01_sutra_p03_c86ac2.wav"
+ },
+ {
+  "id": "kan_seq754_u02_gadya_p08_05e9ba",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "वैपरीत्यं तु विघ्नः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq754_u02_gadya_p08_05e9ba.wav"
+ },
+ {
+  "id": "kan_seq756_u01_sutra_p04_c4908b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्राणैरयममुष्मिन् स यदोत्क्रमिष्यन् भवति शुद्धमेवैतन्मंडलं पश्यति नैनमेते रश्मयः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq756_u01_sutra_p04_c4908b.wav"
+ },
+ {
+  "id": "kan_seq758_u01_sutra_p02_df0322",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "एकमेतदक्षरं भुव इति बाहू द्वौ बाहू द्वे एते अक्षरे सुवरिति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq758_u01_sutra_p02_df0322.wav"
+ },
+ {
+  "id": "kan_seq759_u01_sutra_p04_fdaaf2",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "हन्ति पाप्मानं जहाति च य एवं वेद"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq759_u01_sutra_p04_fdaaf2.wav"
+ },
+ {
+  "id": "kan_seq759_u02_gadya_p08_2a236f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स्वित्यानन्दः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq759_u02_gadya_p08_2a236f.wav"
+ },
+ {
+  "id": "kan_seq761_u01_sutra_p02_036878",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सर्वस्याधिपतिः सर्वमिदं प्रशास्ति यदिदं किञ्च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq761_u01_sutra_p02_036878.wav"
+ },
+ {
+  "id": "kan_seq765_u01_sutra_p02_1026db",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स्तनाः स्वाहाकारो वषट्कारो हन्तकारः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq765_u01_sutra_p02_1026db.wav"
+ },
+ {
+  "id": "kan_seq769_u01_sutra_p01_5bd852",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यदा वै पुरुषोऽस्माल्लोकात् प्रैति स वायुमागच्छति तस्मै स"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq769_u01_sutra_p01_5bd852.wav"
+ },
+ {
+  "id": "kan_seq771_u01_sutra_p01_fb72e3",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "एतद्वै परमं तपो यद् व्याधितस्तप्यते परमं हैव स लोकं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq771_u01_sutra_p01_fb72e3.wav"
+ },
+ {
+  "id": "kan_seq773_u01_sutra_p03_0cf6cf",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ऋतेऽन्नादेते ह्येव देवते एकधा भूयं भूत्वा परमतां गच्छतस्तद्ध स्माह प्रातृदः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq773_u01_sutra_p03_0cf6cf.wav"
+ },
+ {
+  "id": "kan_seq775_u01_sutra_p01_cc33d5",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "उक्थं प्राणो वा उक्थं प्राणो हीदं सर्वमुत्थापयत्युद्धास्मा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq775_u01_sutra_p01_cc33d5.wav"
+ },
+ {
+  "id": "kan_seq777_u01_sutra_p03_736473",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सायुज्यं सलोकतां जयति य एवं वेद"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq777_u01_sutra_p03_736473.wav"
+ },
+ {
+  "id": "kan_seq781_u01_sutra_p01_d300ca",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ऋचो यजूंषि सामानीत्यष्टावक्षराण्यष्टाक्षरं ह वा एकं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq781_u01_sutra_p01_d300ca.wav"
+ },
+ {
+  "id": "kan_seq784_u01_sutra_p01_5fe95e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अथास्या एतदेव तुरीयं दर्शतं पदं परो रजा य एष तपति यद्वै"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq784_u01_sutra_p01_5fe95e.wav"
+ },
+ {
+  "id": "kan_seq784_u02_gadya_p03_1c6f89",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "समुदीरितः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq784_u02_gadya_p03_1c6f89.wav"
+ },
+ {
+  "id": "kan_seq784_u03_gadya_p02_dc536d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "परोरजास्तपति स तुरीयपदेन प्रणवेन पद्यते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq784_u03_gadya_p02_dc536d.wav"
+ },
+ {
+  "id": "kan_seq786_u01_sutra_p01_6a0b1d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सैषा गायत्र्येतस्मिंस्तुरीये दर्शते पदे परोरजसि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq786_u01_sutra_p01_6a0b1d.wav"
+ },
+ {
+  "id": "kan_seq786_u01_sutra_p07_ae0c78",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तस्मादाहुर्बलं सत्यादो जीय इत्येवमेषा गायत्र्यध्यात्मं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq786_u01_sutra_p07_ae0c78.wav"
+ },
+ {
+  "id": "kan_seq786_u03_gadya_p01_72930f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "” इति च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq786_u03_gadya_p01_72930f.wav"
+ },
+ {
+  "id": "kan_seq786_u03_gadya_p10_91bf58",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सन्नस्मिन् याति यद्धरिः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq786_u03_gadya_p10_91bf58.wav"
+ },
+ {
+  "id": "kan_seq786_u03_gadya_p21_35d8b9",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रयोज्यो ह्युपचारतः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq786_u03_gadya_p21_35d8b9.wav"
+ },
+ {
+  "id": "kan_seq790_u01_sutra_p02_2363a8",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "एतत्प्रथमं पदमाप्नुयादथ यावतीयं त्रयी विद्या यस्तावत्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq790_u01_sutra_p02_2363a8.wav"
+ },
+ {
+  "id": "kan_seq790_u02_gadya_p08_033577",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सन् वासुदेवं न कश्चन"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq790_u02_gadya_p08_033577.wav"
+ },
+ {
+  "id": "kan_seq790_u02_gadya_p18_92be1a",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स परोरजाः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq790_u02_gadya_p18_92be1a.wav"
+ },
+ {
+  "id": "kan_seq792_u01_sutra_p04_a3b467",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "मा समृद्धीति वा न हैवास्मै स काम ऋद्ध्यते यस्मा एवमुपतिष्ठते अहमदः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq792_u01_sutra_p04_a3b467.wav"
+ },
+ {
+  "id": "kan_seq794_u01_sutra_p02_50ad36",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "तद्गायत्रीविदब्रूथा अथ कथं हस्तीभूतो वहसीति मुखं ह्यस्याः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq794_u01_sutra_p02_50ad36.wav"
+ },
+ {
+  "id": "kan_seq794_u02_gadya_p06_a76c46",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सर्वात्मना ततः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq794_u02_gadya_p06_a76c46.wav"
+ },
+ {
+  "id": "kan_seq796_u01_sutra_p01_6a8f58",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq796_u01_sutra_p01_6a8f58.wav"
+ },
+ {
+  "id": "kan_seq800_u01_sutra_p01_b8f27d",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "समूह तेजो यत् ते रूपं कल्याणतमं तत् ते पश्यामि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq800_u01_sutra_p01_b8f27d.wav"
+ },
+ {
+  "id": "kan_seq808_u01_sutra_p01_afcd6e",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अग्ने नय सुपथा राये अस्मान् विश्वानि देव वयुनानि विद्वान्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq808_u01_sutra_p01_afcd6e.wav"
+ },
+ {
+  "id": "kan_seq816_u01_sutra_p01_6edba3",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यो ह वै वसिष्ठां वेद वसिष्ठः स्वानां भवति वाग्वै वसिष्ठा वसिष्ठः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq816_u01_sutra_p01_6edba3.wav"
+ },
+ {
+  "id": "kan_seq818_u01_sutra_p02_9b2e35",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "वै सम्पच्छ्रोत्रे हीमे सर्वे वेदा अभिसम्पन्ना सं हास्मै"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq818_u01_sutra_p02_9b2e35.wav"
+ },
+ {
+  "id": "kan_seq821_u01_sutra_p01_d0a306",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ते हेमे प्राणा अहं श्रेयसे विविदमाना ब्रह्म जग्मुस्तद्धोचुः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq821_u01_sutra_p01_d0a306.wav"
+ },
+ {
+  "id": "kan_seq823_u01_sutra_p01_e6c8c7",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "चक्षुः होच्चक्राम तत्संवत्सरं प्रोष्यागत्योवाच"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq823_u01_sutra_p01_e6c8c7.wav"
+ },
+ {
+  "id": "kan_seq824_u01_sutra_p02_48f47f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "कथमशकत मदृते जीवितुमिति ते होचुर्यथा बधिराः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq824_u01_sutra_p02_48f47f.wav"
+ },
+ {
+  "id": "kan_seq825_u01_sutra_p03_143ae7",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अविद्वांसो मनसा प्राणन्तः प्राणेन वदन्तो वाचा पश्यन्तश्चक्षुषा शृण्वन्तः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq825_u01_sutra_p03_143ae7.wav"
+ },
+ {
+  "id": "kan_seq827_u01_sutra_p01_086393",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अथ ह प्राणः उत्क्रमिष्यन् यथा महासुहयः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq827_u01_sutra_p01_086393.wav"
+ },
+ {
+  "id": "kan_seq828_u01_sutra_p03_58ec54",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "चक्षुर्यद्वा अहं सम्पदस्मि त्वं तत्सम्पदसीति श्रोत्रं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq828_u01_sutra_p03_58ec54.wav"
+ },
+ {
+  "id": "kan_seq828_u01_sutra_p09_61f82b",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "एवमेतदनस्यान्नं वेद तद्विद्वांसः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq828_u01_sutra_p09_61f82b.wav"
+ },
+ {
+  "id": "kan_seq833_u01_sutra_p02_dbb127",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "जैबलिं प्रवाहणं परिचारयमाणं तमुदीक्ष्याभ्युवाद कुमारा इति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq833_u01_sutra_p02_dbb127.wav"
+ },
+ {
+  "id": "kan_seq836_u01_sutra_p01_5c8374",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "वेत्थो यतिथ्यामाहुत्यां हुतायामापः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq836_u01_sutra_p01_5c8374.wav"
+ },
+ {
+  "id": "kan_seq839_u01_sutra_p01_40ea68",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ताभ्यामिदं विश्वमेजत्समेति यदन्तरा पितरं मातरं चेति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq839_u01_sutra_p01_40ea68.wav"
+ },
+ {
+  "id": "kan_seq842_u01_sutra_p01_832071",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स होवाच तथा नस्त्वं तात जानीथा यथा यदहं किञ्चन वेद"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq842_u01_sutra_p01_832071.wav"
+ },
+ {
+  "id": "kan_seq843_u01_sutra_p01_0f2e70",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स होवाच प्रतिज्ञातो स एष वरो यां तु कुमारस्यान्ते वाचमभाषथास्तां मे ब्रूहीति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq843_u01_sutra_p01_0f2e70.wav"
+ },
+ {
+  "id": "kan_seq844_u01_sutra_p06_5fecaf",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "उपयन्ति सहोपायनकीर्त्या उवास"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq844_u01_sutra_p06_5fecaf.wav"
+ },
+ {
+  "id": "kan_seq847_u01_sutra_p03_882eb6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "श्रद्धां जुह्वति तस्या आहुत्यै सोमो राजा सम्भवति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq847_u01_sutra_p03_882eb6.wav"
+ },
+ {
+  "id": "kan_seq849_u01_sutra_p02_5ee047",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "रात्रिरर्चिश्चंद्रमा अंगारा नक्षत्राणि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq849_u01_sutra_p02_5ee047.wav"
+ },
+ {
+  "id": "kan_seq851_u01_sutra_p02_c68223",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "करोति तेऽंगारा अभिनन्दा विष्फुलिंगास्तस्मिन्ने तस्मिन्नग्नौ"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq851_u01_sutra_p02_c68223.wav"
+ },
+ {
+  "id": "kan_seq853_u01_sutra_p01_516333",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "ते य एवमेतद्विदुर्ये चामी अरण्ये श्रद्धां सत्यमुपासते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq853_u01_sutra_p01_516333.wav"
+ },
+ {
+  "id": "kan_seq856_u01_sutra_p01_c43eb6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अथ ये यज्ञेन दानेन तपसा लोकान् जयन्ति ते"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq856_u01_sutra_p01_c43eb6.wav"
+ },
+ {
+  "id": "kan_seq857_u01_sutra_p03_a30a1c",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "आप्यायस्वापक्षीयस्वेत्येवमेनांस्तत्र भक्षयन्ति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq857_u01_sutra_p03_a30a1c.wav"
+ },
+ {
+  "id": "kan_seq859_u01_sutra_p02_407d3f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पतंगा यदिदं दन्दशूकम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq859_u01_sutra_p02_407d3f.wav"
+ },
+ {
+  "id": "kan_seq861_u01_sutra_p05_ca4b06",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "संस्कृत्य पुंसा नक्षत्रेण मन्थंसन्नीय जुहोति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq861_u01_sutra_p05_ca4b06.wav"
+ },
+ {
+  "id": "kan_seq867_u01_sutra_p01_080a83",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "वाचे स्वाहा प्रतिष्ठायै स्वाहेत्यग्नौ हुत्वा मन्थे संस्रवमवनयति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq867_u01_sutra_p01_080a83.wav"
+ },
+ {
+  "id": "kan_seq872_u01_sutra_p02_1030c8",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स्वाहेत्यग्नौ हुत्वा संस्रवमवनयति भूः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq872_u01_sutra_p02_1030c8.wav"
+ },
+ {
+  "id": "kan_seq872_u01_sutra_p08_5b30b6",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स्वाहेत्यग्नौ हुत्वा मन्थे संस्रवमवनयति भूताय"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq872_u01_sutra_p08_5b30b6.wav"
+ },
+ {
+  "id": "kan_seq873_u01_sutra_p01_6dc89f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अथैनमभिमृशति भ्रमदसि ज्वलदसि पूर्णमसि"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq873_u01_sutra_p01_6dc89f.wav"
+ },
+ {
+  "id": "kan_seq874_u01_sutra_p02_4cc4a0",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स मां राजेशानोऽधिपतिं करोत्विति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq874_u01_sutra_p02_4cc4a0.wav"
+ },
+ {
+  "id": "kan_seq875_u01_sutra_p06_b251bf",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सर्वाश्च मधुमतीरहमेवेदं सर्वं भूयासं भूर्भुवः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq875_u01_sutra_p06_b251bf.wav"
+ },
+ {
+  "id": "kan_seq876_u01_sutra_p03_514cab",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्ररोहेयुः पलाशानीति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq876_u01_sutra_p03_514cab.wav"
+ },
+ {
+  "id": "kan_seq878_u01_sutra_p03_514cab",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्ररोहेयुः पलाशानीति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq878_u01_sutra_p03_514cab.wav"
+ },
+ {
+  "id": "kan_seq880_u01_sutra_p03_514cab",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्ररोहेयुः पलाशानीति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq880_u01_sutra_p03_514cab.wav"
+ },
+ {
+  "id": "kan_seq882_u01_sutra_p03_e518a0",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "धान्यानि भवन्ति व्रीहियवास्तिलमाषा अणुप्रियंगवो गोधूमाश्च"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq882_u01_sutra_p03_e518a0.wav"
+ },
+ {
+  "id": "kan_seq884_u01_sutra_p02_d994b4",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स स्रियं ससृजे तां सृष्ट्वाऽध उपास्त तस्मात् स्त्रियमध"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq884_u01_sutra_p02_d994b4.wav"
+ },
+ {
+  "id": "kan_seq885_u01_sutra_p04_3945dc",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स्त्रीणां सुकृतं वृंक्तेऽथ यदिदमविद्वानधोपहासं चरत्यस्य स्त्रियः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq885_u01_sutra_p04_3945dc.wav"
+ },
+ {
+  "id": "kan_seq886_u01_sutra_p05_262a60",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "हारीत आह बहवो मर्या ब्राह्मणायना निरिंद्रिया"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq886_u01_sutra_p05_262a60.wav"
+ },
+ {
+  "id": "kan_seq887_u01_sutra_p03_66d25f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "आददे पुनर्मा मैत्विंद्रियं पुनस्तेजः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq887_u01_sutra_p03_66d25f.wav"
+ },
+ {
+  "id": "kan_seq890_u01_sutra_p01_636cd3",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सा चेदस्मै न दद्यात् काममेनामवक्रीणीयात् सा चेदस्मै नैव"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq890_u01_sutra_p01_636cd3.wav"
+ },
+ {
+  "id": "kan_seq894_u01_sutra_p01_03e685",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स त्वमंगकषायोऽसि दिग्धविद्धामिव मादयेमाममूं मयीति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq894_u01_sutra_p01_03e685.wav"
+ },
+ {
+  "id": "kan_seq897_u01_sutra_p02_a588ae",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "द्विष्यादामपात्रेऽग्निमुपसमाधाय प्रतिलोमं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq897_u01_sutra_p02_a588ae.wav"
+ },
+ {
+  "id": "kan_seq897_u01_sutra_p08_49ad15",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स वा एष निरिंद्रियो विसुकृतोऽस्माल्लोकात् प्रैति यमेवं विद्वान् ब्राह्मणः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq897_u01_sutra_p08_49ad15.wav"
+ },
+ {
+  "id": "kan_seq899_u01_sutra_p03_b3a0c1",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सर्पिष्मन्तमश्नीयातां ईश्वरौ जनयितवै"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq899_u01_sutra_p03_b3a0c1.wav"
+ },
+ {
+  "id": "kan_seq901_u01_sutra_p03_a22715",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सर्पिष्मन्तमश्नीयातामीश्वरौ जनयितवै"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq901_u01_sutra_p03_a22715.wav"
+ },
+ {
+  "id": "kan_seq903_u01_sutra_p04_742bac",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सर्पिष्मन्तमश्नीयातामीश्वरौ जनयित्वा औक्षेण वार्षभेण वा"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq903_u01_sutra_p04_742bac.wav"
+ },
+ {
+  "id": "kan_seq905_u01_sutra_p01_c91120",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "अथैनामभिपद्यते - अमोऽहमस्मि सा त्वं"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq905_u01_sutra_p01_c91120.wav"
+ },
+ {
+  "id": "kan_seq905_u01_sutra_p07_353d04",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पुंसे पुत्राय वित्तय इति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq905_u01_sutra_p07_353d04.wav"
+ },
+ {
+  "id": "kan_seq910_u01_sutra_p01_d9ef8a",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "गर्भं ते अश्विनौ देवावाधत्तां पुष्करस्रजौ"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq910_u01_sutra_p01_d9ef8a.wav"
+ },
+ {
+  "id": "kan_seq915_u01_sutra_p02_6a80a3",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "पुष्करिणीं समिंगयति सर्वत एवा ते गर्भं एजतु सहावैतु जरायुणा इंद्रस्यायं व्रजः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq915_u01_sutra_p02_6a80a3.wav"
+ },
+ {
+  "id": "kan_seq917_u01_sutra_p01_b3c217",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "यत्कर्मणात्यरीरिचं यद्वा न्यूनमिहाकरम्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq917_u01_sutra_p01_b3c217.wav"
+ },
+ {
+  "id": "kan_seq919_u01_sutra_p04_957ec1",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "स्वः त्वयि सर्वं दधामीति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq919_u01_sutra_p04_957ec1.wav"
+ },
+ {
+  "id": "kan_seq923_u01_sutra_p01_f1ae55",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "सा त्वं वीरवती भव याऽस्मान् वीरवतोऽकरदिति"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq923_u01_sutra_p01_f1ae55.wav"
+ },
+ {
+  "id": "kan_seq927_u01_sutra_p01_981cff",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "गौतमीपुत्रो भारद्वाजीपुत्रात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq927_u01_sutra_p01_981cff.wav"
+ },
+ {
+  "id": "kan_seq933_u01_sutra_p01_94778c",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "आत्रेयीपुत्रात् आत्रेयीपुत्रो"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq933_u01_sutra_p01_94778c.wav"
+ },
+ {
+  "id": "kan_seq939_u01_sutra_p01_8c77b8",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "बार्कारुणीपुत्रो आर्तभागीपुत्रात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq939_u01_sutra_p01_8c77b8.wav"
+ },
+ {
+  "id": "kan_seq945_u01_sutra_p01_20d6bf",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "मांडूकायनीपुत्रात् माण्डूकायनीपुत्रः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq945_u01_sutra_p01_20d6bf.wav"
+ },
+ {
+  "id": "kan_seq951_u01_sutra_p01_67c3ea",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्राचीनयोगीपुत्रात् प्राचीनयोगीपुत्रः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq951_u01_sutra_p01_67c3ea.wav"
+ },
+ {
+  "id": "kan_seq957_u01_sutra_p01_222c3f",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "उद्दालकाद् उद्दालकः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq957_u01_sutra_p01_222c3f.wav"
+ },
+ {
+  "id": "kan_seq963_u01_sutra_p01_1e5392",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "असितात् वार्षगणाद् असितो वार्षगणः"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq963_u01_sutra_p01_1e5392.wav"
+ },
+ {
+  "id": "kan_seq968_u01_sutra_p01_eb9744",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "समानमा सांजीवीपुत्रात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq968_u01_sutra_p01_eb9744.wav"
+ },
+ {
+  "id": "kan_seq974_u01_sutra_p01_4d8a73",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "वामकक्षायणः शाण्डिल्यात्"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq974_u01_sutra_p01_4d8a73.wav"
+ },
+ {
+  "id": "kan_seq980_u01_sutra_p01_65e2bb",
+  "meter": "anuṣṭubh",
+  "padas": [
+   "प्रजापतेः प्रजापतिः ब्रह्मणो"
+  ],
+  "seed": 60,
+  "no_sandhi": true,
+  "out": "/home/ece/Prathosh/sarvamula_try/clips/kan_seq980_u01_sutra_p01_65e2bb.wav"
+ }
+]

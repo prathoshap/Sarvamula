@@ -1,0 +1,735 @@
+[
+ {
+  "id": "mk_seq1",
+  "ref": null,
+  "seq": 1,
+  "kind": "prose_only",
+  "adhyaya": "मङ्गलाचरणम्",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 8.5,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "mk_seq1",
+    "from": 1,
+    "to": 1,
+    "seq": 1,
+    "covers": [
+     1
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "mk_seq1_u01_padya_p01_f79c91",
+       "mk_seq1_u01_padya_p02_32074a"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "mk_seq1_u01_padya_p01_f79c91",
+     "mk_seq1_u01_padya_p02_32074a"
+    ],
+    "est_sec": 8.5,
+    "path": "mayavada_khandana/misc/mk_seq1.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "padas": [
+     "नरसिंहोऽखिलाज्ञानमतध्वान्तदिवाकरः",
+     "जयत्यमितसज्ज्ञानसुखशक्तिपयोनिधिः"
+    ],
+    "text": "नरसिंहोऽखिलाज्ञानमतध्वान्तदिवाकरः जयत्यमितसज्ज्ञानसुखशक्तिपयोनिधिः",
+    "opens_pranava": false,
+    "raw": "नरसिंहोऽखिलाज्ञानमतध्वान्तदिवाकरः। जयत्यमितसज्ज्ञानसुखशक्तिपयोनिधिः",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "mk_seq1_u01_padya_e7bda9",
+    "clips": [
+     "mk_seq1_u01_padya_p01_f79c91",
+     "mk_seq1_u01_padya_p02_32074a"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mk_seq3",
+  "ref": null,
+  "seq": 3,
+  "kind": "prose_only",
+  "adhyaya": "मायावादस्यानारम्भणीयत्वानुमानम्",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 9.5,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "mk_seq3",
+    "from": 1,
+    "to": 1,
+    "seq": 3,
+    "covers": [
+     3
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "mk_seq3_u01_gadya_p01_392500",
+       "mk_seq3_u01_gadya_p02_1f7450",
+       "mk_seq3_u01_gadya_p03_cad1bf",
+       "mk_seq3_u01_gadya_p04_190330"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "mk_seq3_u01_gadya_p01_392500",
+     "mk_seq3_u01_gadya_p02_1f7450",
+     "mk_seq3_u01_gadya_p03_cad1bf",
+     "mk_seq3_u01_gadya_p04_190330"
+    ],
+    "est_sec": 9.5,
+    "path": "mayavada_khandana/misc/mk_seq3.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "text": "विमतमनारम्भणीयम्‌ अन्यथाप्रतिपादकत्वात् यदित्थं तत् तथा यथा सम्प्रतिपन्नम्",
+    "padas": [
+     "विमतमनारम्भणीयम्‌",
+     "अन्यथाप्रतिपादकत्वात्",
+     "यदित्थं तत् तथा",
+     "यथा सम्प्रतिपन्नम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "विमतमनारम्भणीयम्‌, अन्यथाप्रतिपादकत्वात्, यदित्थं तत् तथा, यथा सम्प्रतिपन्नम्।",
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "mk_seq3_u01_gadya_a58002",
+    "clips": [
+     "mk_seq3_u01_gadya_p01_392500",
+     "mk_seq3_u01_gadya_p02_1f7450",
+     "mk_seq3_u01_gadya_p03_cad1bf",
+     "mk_seq3_u01_gadya_p04_190330"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mk_seq5",
+  "ref": null,
+  "seq": 5,
+  "kind": "prose_only",
+  "adhyaya": "मायावादस्यानारम्भणीयत्वानुमानम्",
+  "pada": "अयथार्थप्रतिपादकत्वेनान्यथाप्रतिपादकत्वसमर्थनम्",
+  "adhikarana": null,
+  "est_sec": 29.6,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "mk_seq5",
+    "from": 1,
+    "to": 1,
+    "seq": 5,
+    "covers": [
+     5
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "mk_seq5_u01_gadya_p01_e81f93",
+       "mk_seq5_u01_gadya_p02_f161a2",
+       "mk_seq5_u01_gadya_p03_306b9a",
+       "mk_seq5_u01_gadya_p04_60f109",
+       "mk_seq5_u01_gadya_p05_9c29fa",
+       "mk_seq5_u01_gadya_p06_0813d7",
+       "mk_seq5_u01_gadya_p07_f0168b"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "soft",
+       "hard",
+       "hard",
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "mk_seq5_u01_gadya_p01_e81f93",
+     "mk_seq5_u01_gadya_p02_f161a2",
+     "mk_seq5_u01_gadya_p03_306b9a",
+     "mk_seq5_u01_gadya_p04_60f109",
+     "mk_seq5_u01_gadya_p05_9c29fa",
+     "mk_seq5_u01_gadya_p06_0813d7",
+     "mk_seq5_u01_gadya_p07_f0168b"
+    ],
+    "est_sec": 29.6,
+    "path": "mayavada_khandana/misc/mk_seq5.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "text": "नहि ब्रह्मात्मैक्यस्य याथार्थ्यं तत्पक्षे अद्वैतहानेः स्वरूपातिरेके अनतिरेके स्वप्रकाशत्वादात्मनः सिद्धसाधनता निर्विशेषत्वाच्चात्मनो नानधिगतो विशेषः सिद्धत्वात्‌ स्वरूपस्य विशेषाभावाच्च नाज्ञानं कस्यचिदावरकम् अनधिगतार्थगन्तृ प्रमाणमिति च तन्मतम्",
+    "padas": [
+     "नहि ब्रह्मात्मैक्यस्य याथार्थ्यं तत्पक्षे",
+     "अद्वैतहानेः स्वरूपातिरेके",
+     "अनतिरेके स्वप्रकाशत्वादात्मनः",
+     "सिद्धसाधनता",
+     "निर्विशेषत्वाच्चात्मनो नानधिगतो विशेषः",
+     "सिद्धत्वात्‌ स्वरूपस्य विशेषाभावाच्च नाज्ञानं कस्यचिदावरकम्",
+     "अनधिगतार्थगन्तृ प्रमाणमिति च तन्मतम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "soft",
+     "hard",
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "नहि ब्रह्मात्मैक्यस्य याथार्थ्यं तत्पक्षे। अद्वैतहानेः स्वरूपातिरेके। अनतिरेके स्वप्रकाशत्वादात्मनः सिद्धसाधनता। निर्विशेषत्वाच्चात्मनो नानधिगतो विशेषः। सिद्धत्वात्‌ स्वरूपस्य विशेषाभावाच्च नाज्ञानं कस्यचिदावरकम्। अनधिगतार्थगन्तृ प्रमाणमिति च तन्मतम्।",
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "mk_seq5_u01_gadya_29b68b",
+    "clips": [
+     "mk_seq5_u01_gadya_p01_e81f93",
+     "mk_seq5_u01_gadya_p02_f161a2",
+     "mk_seq5_u01_gadya_p03_306b9a",
+     "mk_seq5_u01_gadya_p04_60f109",
+     "mk_seq5_u01_gadya_p05_9c29fa",
+     "mk_seq5_u01_gadya_p06_0813d7",
+     "mk_seq5_u01_gadya_p07_f0168b"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mk_seq7",
+  "ref": null,
+  "seq": 7,
+  "kind": "prose_only",
+  "adhyaya": "मायावादस्यानारम्भणीयत्वानुमानम्",
+  "pada": "विषयादिरहितत्वेनान्यथाप्रतिपादकत्वसमर्थनम्",
+  "adhikarana": null,
+  "est_sec": 35.9,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "mk_seq7",
+    "from": 1,
+    "to": 1,
+    "seq": 7,
+    "covers": [
+     7
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "mk_seq7_u01_gadya_p01_bd2f5d",
+       "mk_seq7_u01_gadya_p02_85a44d",
+       "mk_seq7_u01_gadya_p03_59867e",
+       "mk_seq7_u01_gadya_p04_8570a8",
+       "mk_seq7_u01_gadya_p05_091f09",
+       "mk_seq7_u01_gadya_p06_c26964",
+       "mk_seq7_u01_gadya_p07_46aab2",
+       "mk_seq7_u01_gadya_p08_375857"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "mk_seq7_u01_gadya_p01_bd2f5d",
+     "mk_seq7_u01_gadya_p02_85a44d",
+     "mk_seq7_u01_gadya_p03_59867e",
+     "mk_seq7_u01_gadya_p04_8570a8",
+     "mk_seq7_u01_gadya_p05_091f09",
+     "mk_seq7_u01_gadya_p06_c26964",
+     "mk_seq7_u01_gadya_p07_46aab2",
+     "mk_seq7_u01_gadya_p08_375857"
+    ],
+    "est_sec": 35.9,
+    "path": "mayavada_khandana/misc/mk_seq7.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "text": "अज्ञानासम्भवादेव तन्मतमखिलमपाकृतम् मिथ्यात्वे चैक्यस्यातत्त्वावेदकत्वमागमस्य स्यात् सत्यता च भेदस्य एवमेव प्रयोजनमपि निरस्तम् स्वरूपत्वान्मोक्षस्य पूर्वमेव सिद्धत्वात् अज्ञानासम्भवेन चतुर्थप्रकाराभावात् पञ्चमप्रकारताऽपि निरस्ता विषयप्रयोजनाभावादेवाधिकारी च तदभावादेव सम्बन्धोऽपि",
+    "padas": [
+     "अज्ञानासम्भवादेव तन्मतमखिलमपाकृतम्",
+     "मिथ्यात्वे चैक्यस्यातत्त्वावेदकत्वमागमस्य स्यात्",
+     "सत्यता च भेदस्य",
+     "एवमेव प्रयोजनमपि निरस्तम्",
+     "स्वरूपत्वान्मोक्षस्य पूर्वमेव सिद्धत्वात्",
+     "अज्ञानासम्भवेन चतुर्थप्रकाराभावात् पञ्चमप्रकारताऽपि निरस्ता",
+     "विषयप्रयोजनाभावादेवाधिकारी च",
+     "तदभावादेव सम्बन्धोऽपि"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "अज्ञानासम्भवादेव तन्मतमखिलमपाकृतम्। मिथ्यात्वे चैक्यस्यातत्त्वावेदकत्वमागमस्य स्यात्। सत्यता च भेदस्य। एवमेव प्रयोजनमपि निरस्तम्। स्वरूपत्वान्मोक्षस्य पूर्वमेव सिद्धत्वात्। अज्ञानासम्भवेन चतुर्थप्रकाराभावात् पञ्चमप्रकारताऽपि निरस्ता। विषयप्रयोजनाभावादेवाधिकारी च। तदभावादेव सम्बन्धोऽपि।",
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "mk_seq7_u01_gadya_c96d17",
+    "clips": [
+     "mk_seq7_u01_gadya_p01_bd2f5d",
+     "mk_seq7_u01_gadya_p02_85a44d",
+     "mk_seq7_u01_gadya_p03_59867e",
+     "mk_seq7_u01_gadya_p04_8570a8",
+     "mk_seq7_u01_gadya_p05_091f09",
+     "mk_seq7_u01_gadya_p06_c26964",
+     "mk_seq7_u01_gadya_p07_46aab2",
+     "mk_seq7_u01_gadya_p08_375857"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mk_seq9",
+  "ref": null,
+  "seq": 9,
+  "kind": "prose_only",
+  "adhyaya": "विष्णुसर्वोत्तमत्वस्यैव शास्त्रप्रतिपाद्यत्वसमर्थनम्",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 81.3,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "mk_seq9",
+    "from": 1,
+    "to": 4,
+    "seq": 9,
+    "covers": [
+     9
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "mk_seq9_u01_padya_p01_80b334",
+       "mk_seq9_u01_padya_p02_0ce4cf",
+       "mk_seq9_u01_padya_p03_4d9efc",
+       "mk_seq9_u01_padya_p04_1760e6",
+       "mk_seq9_u01_padya_p05_3c3243",
+       "mk_seq9_u01_padya_p06_326230",
+       "mk_seq9_u01_padya_p07_2dc873",
+       "mk_seq9_u01_padya_p08_13078d",
+       "mk_seq9_u01_padya_p09_6d0df6",
+       "mk_seq9_u01_padya_p10_a5cee6"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "mk_seq9_u02_padya_p01_5af979",
+       "mk_seq9_u02_padya_p02_8735a9",
+       "mk_seq9_u02_padya_p03_f62bbf",
+       "mk_seq9_u02_padya_p04_698800"
+      ],
+      "bounds": [
+       "hard",
+       "hard",
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 3,
+      "type": "padya",
+      "clips": [
+       "mk_seq9_u03_padya_p01_5212f6"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     },
+     {
+      "n": 4,
+      "type": "gadya",
+      "clips": [
+       "mk_seq9_u04_gadya_p01_7ff0ea"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "mk_seq9_u01_padya_p01_80b334",
+     "mk_seq9_u01_padya_p02_0ce4cf",
+     "mk_seq9_u01_padya_p03_4d9efc",
+     "mk_seq9_u01_padya_p04_1760e6",
+     "mk_seq9_u01_padya_p05_3c3243",
+     "mk_seq9_u01_padya_p06_326230",
+     "mk_seq9_u01_padya_p07_2dc873",
+     "mk_seq9_u01_padya_p08_13078d",
+     "mk_seq9_u01_padya_p09_6d0df6",
+     "mk_seq9_u01_padya_p10_a5cee6",
+     "mk_seq9_u02_padya_p01_5af979",
+     "mk_seq9_u02_padya_p02_8735a9",
+     "mk_seq9_u02_padya_p03_f62bbf",
+     "mk_seq9_u02_padya_p04_698800",
+     "mk_seq9_u03_padya_p01_5212f6",
+     "mk_seq9_u04_gadya_p01_7ff0ea"
+    ],
+    "est_sec": 81.3,
+    "path": "mayavada_khandana/misc/mk_seq9.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "text": "द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च क्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते उत्तमः पुरुषस्त्वन्यः परमात्मेत्युदाहृतः यो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः यस्मात् क्षरमतीतोऽहमक्षरादपि चोत्तमः अतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् स सर्वविद्‌ भजति मां सर्वभावेन भारत इति गुह्यतमं शास्त्रमिदमुक्तं मयाऽनघ एतद्‌ बुद्ध्वा बुद्धिमान् स्यात् कृतकृत्यश्च भारत",
+    "padas": [
+     "द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च",
+     "क्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते",
+     "उत्तमः पुरुषस्त्वन्यः परमात्मेत्युदाहृतः",
+     "यो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः",
+     "यस्मात् क्षरमतीतोऽहमक्षरादपि चोत्तमः",
+     "अतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः",
+     "यो मामेवमसम्मूढो जानाति पुरुषोत्तमम्",
+     "स सर्वविद्‌ भजति मां सर्वभावेन भारत",
+     "इति गुह्यतमं शास्त्रमिदमुक्तं मयाऽनघ",
+     "एतद्‌ बुद्ध्वा बुद्धिमान् स्यात् कृतकृत्यश्च भारत"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च। क्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते॥ उत्तमः पुरुषस्त्वन्यः परमात्मेत्युदाहृतः। यो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः॥ यस्मात् क्षरमतीतोऽहमक्षरादपि चोत्तमः। अतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः॥ यो मामेवमसम्मूढो जानाति पुरुषोत्तमम्। स सर्वविद्‌ भजति मां सर्वभावेन भारत॥ इति गुह्यतमं शास्त्रमिदमुक्तं मयाऽनघ। एतद्‌ बुद्ध्वा बुद्धिमान् स्यात् कृतकृत्यश्च भारत॥",
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback:len16:undetected",
+    "clip": "mk_seq9_u01_padya_5eacb7",
+    "clips": [
+     "mk_seq9_u01_padya_p01_80b334",
+     "mk_seq9_u01_padya_p02_0ce4cf",
+     "mk_seq9_u01_padya_p03_4d9efc",
+     "mk_seq9_u01_padya_p04_1760e6",
+     "mk_seq9_u01_padya_p05_3c3243",
+     "mk_seq9_u01_padya_p06_326230",
+     "mk_seq9_u01_padya_p07_2dc873",
+     "mk_seq9_u01_padya_p08_13078d",
+     "mk_seq9_u01_padya_p09_6d0df6",
+     "mk_seq9_u01_padya_p10_a5cee6"
+    ]
+   },
+   {
+    "type": "padya",
+    "text": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः मनसस्तु परा बुद्धिः बुद्धेरात्मा महान् परः महतः परमव्यक्तमव्यक्तात् पुरुषः परः पुरुषान्न परं किञ्चित् सा काष्ठा सा परा गतिः",
+    "padas": [
+     "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः",
+     "मनसस्तु परा बुद्धिः बुद्धेरात्मा महान् परः",
+     "महतः परमव्यक्तमव्यक्तात् पुरुषः परः",
+     "पुरुषान्न परं किञ्चित् सा काष्ठा सा परा गतिः"
+    ],
+    "bounds": [
+     "hard",
+     "hard",
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः। मनसस्तु परा बुद्धिः बुद्धेरात्मा महान् परः॥ महतः परमव्यक्तमव्यक्तात् पुरुषः परः। पुरुषान्न परं किञ्चित् सा काष्ठा सा परा गतिः॥",
+    "n": 2,
+    "meter": "anuṣṭubh",
+    "meter_src": "fallback:len16:undetected",
+    "clip": "mk_seq9_u02_padya_515f9a",
+    "clips": [
+     "mk_seq9_u02_padya_p01_5af979",
+     "mk_seq9_u02_padya_p02_8735a9",
+     "mk_seq9_u02_padya_p03_f62bbf",
+     "mk_seq9_u02_padya_p04_698800"
+    ]
+   },
+   {
+    "type": "padya",
+    "text": "भूम्नः क्रतुवज्ज्यायस्त्वं तथा च दर्शयति",
+    "padas": [
+     "भूम्नः क्रतुवज्ज्यायस्त्वं तथा च दर्शयति"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "भूम्नः क्रतुवज्ज्यायस्त्वं तथा च दर्शयति",
+    "n": 3,
+    "meter": "mālinī",
+    "meter_src": "fallback:len15:undetected",
+    "clip": "mk_seq9_u03_padya_5212f6",
+    "clips": [
+     "mk_seq9_u03_padya_p01_5212f6"
+    ]
+   },
+   {
+    "type": "gadya",
+    "text": "इति विष्णोः पुरुषोत्तमत्वमेव सर्वशास्त्रार्थत्वेन भगवता श्रुत्या चाभिहितम्",
+    "padas": [
+     "इति विष्णोः पुरुषोत्तमत्वमेव सर्वशास्त्रार्थत्वेन भगवता श्रुत्या चाभिहितम्"
+    ],
+    "bounds": [
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "इति विष्णोः पुरुषोत्तमत्वमेव सर्वशास्त्रार्थत्वेन भगवता श्रुत्या चाभिहितम्।",
+    "n": 4,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "mk_seq9_u04_gadya_7ff0ea",
+    "clips": [
+     "mk_seq9_u04_gadya_p01_7ff0ea"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mk_seq11",
+  "ref": null,
+  "seq": 11,
+  "kind": "prose_only",
+  "adhyaya": "उपसंहारः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 18.0,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "mk_seq11",
+    "from": 1,
+    "to": 2,
+    "seq": 11,
+    "covers": [
+     11
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "padya",
+      "clips": [
+       "mk_seq11_u01_padya_p01_6ef485",
+       "mk_seq11_u01_padya_p02_816124"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     },
+     {
+      "n": 2,
+      "type": "padya",
+      "clips": [
+       "mk_seq11_u02_padya_p01_e703f0",
+       "mk_seq11_u02_padya_p02_861c0d"
+      ],
+      "bounds": [
+       "hard",
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "mk_seq11_u01_padya_p01_6ef485",
+     "mk_seq11_u01_padya_p02_816124",
+     "mk_seq11_u02_padya_p01_e703f0",
+     "mk_seq11_u02_padya_p02_861c0d"
+    ],
+    "est_sec": 18.0,
+    "path": "mayavada_khandana/misc/mk_seq11.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "padya",
+    "padas": [
+     "इति सर्वज्ञमुनिना मायावादतमोऽखिलम्",
+     "निरस्तं तत्त्ववादेन सतां संशयनुत्तये"
+    ],
+    "text": "इति सर्वज्ञमुनिना मायावादतमोऽखिलम् निरस्तं तत्त्ववादेन सतां संशयनुत्तये",
+    "opens_pranava": false,
+    "raw": "इति सर्वज्ञमुनिना मायावादतमोऽखिलम्। निरस्तं तत्त्ववादेन सतां संशयनुत्तये",
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "promoted:unquoted-verse",
+    "clip": "mk_seq11_u01_padya_2bbfed",
+    "clips": [
+     "mk_seq11_u01_padya_p01_6ef485",
+     "mk_seq11_u01_padya_p02_816124"
+    ]
+   },
+   {
+    "type": "padya",
+    "text": "नास्ति नारायणसमं न भूतं न भविष्यति एतेन सत्यवाक्येन सर्वार्थान् साधयाम्यहम्",
+    "padas": [
+     "नास्ति नारायणसमं न भूतं न भविष्यति",
+     "एतेन सत्यवाक्येन सर्वार्थान् साधयाम्यहम्"
+    ],
+    "bounds": [
+     "hard",
+     "hard"
+    ],
+    "opens_pranava": false,
+    "raw": "नास्ति नारायणसमं न भूतं न भविष्यति। एतेन सत्यवाक्येन सर्वार्थान् साधयाम्यहम्॥",
+    "n": 2,
+    "meter": "anuṣṭubh",
+    "meter_src": "detected",
+    "clip": "mk_seq11_u02_padya_aed225",
+    "clips": [
+     "mk_seq11_u02_padya_p01_e703f0",
+     "mk_seq11_u02_padya_p02_861c0d"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mk_seq12",
+  "ref": null,
+  "seq": 12,
+  "kind": "colophon",
+  "adhyaya": "उपसंहारः",
+  "pada": null,
+  "adhikarana": null,
+  "est_sec": 8.1,
+  "parts": [
+   {
+    "part": 1,
+    "kind": "mula",
+    "id": "mk_seq12",
+    "from": 1,
+    "to": 1,
+    "seq": 12,
+    "covers": [
+     12
+    ],
+    "units": [
+     {
+      "n": 1,
+      "type": "gadya",
+      "clips": [
+       "mk_seq12_u01_gadya_p01_11de0d"
+      ],
+      "bounds": [
+       "hard"
+      ]
+     }
+    ],
+    "clips": [
+     "mk_seq12_u01_gadya_p01_11de0d"
+    ],
+    "est_sec": 8.1,
+    "path": "mayavada_khandana/misc/mk_seq12.m4a"
+   }
+  ],
+  "units": [
+   {
+    "type": "gadya",
+    "padas": [
+     "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं मायावादखण्डनं सम्पूर्णम्"
+    ],
+    "text": "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं मायावादखण्डनं सम्पूर्णम्",
+    "opens_pranava": false,
+    "raw": "इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं मायावादखण्डनं सम्पूर्णम्",
+    "bounds": [
+     "hard"
+    ],
+    "n": 1,
+    "meter": "anuṣṭubh",
+    "meter_src": "rule:prose",
+    "clip": "mk_seq12_u01_gadya_11de0d",
+    "clips": [
+     "mk_seq12_u01_gadya_p01_11de0d"
+    ]
+   }
+  ]
+ }
+]
