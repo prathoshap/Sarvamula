@@ -1,0 +1,25 @@
+# Build artifacts
+app/node_modules/
+app/android/build/
+app/ios/build/
+app/ios/Pods/
+app/.gradle/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+miniconda3/
+
+# Temporary files
+*.tmp
+.env.local
