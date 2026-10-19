@@ -132,6 +132,7 @@
   .search-row{display:flex;gap:.3rem;align-items:center;flex:1}
   .search-btn{font:inherit;padding:.35rem .6rem;border:1px solid var(--line);border-radius:8px;background:var(--card);cursor:pointer;color:var(--accent);font-weight:600}
   .search-btn:hover{border-color:var(--accent);background:var(--accent-soft)}
+  google-cast-launcher{--primary-color:var(--accent);--secondary-color:var(--bg)}
   .wrap{max-width:1360px;margin:0 auto;padding:1rem}
   /* reading-size control (topbar) */
   .fs{display:flex;gap:.25rem}
@@ -559,6 +560,7 @@
   <div class="search-row">
     <input id="q" placeholder="search (kṛṣṇa · कृष्ण) — use &quot;quotes&quot; for exact phrase">
     <button id="searchBtn" title="Search" class="search-btn">🔍</button>
+    <google-cast-launcher id="castBtn" title="Cast to TV"></google-cast-launcher>
   </div>
   <select id="script" title="script">
     <option value="deva">Devanāgarī</option><option value="iast">IAST</option>
@@ -569,10 +571,15 @@
 </header>
 <div class="wrap"><div id="status">loading…</div><div id="view"></div></div>
 <div id="printroot"></div>
-<script src="sql-wasm.js?v=49"></script>
-<script src="normalize.js?v=49"></script>
-<script src="app.js?v=49"></script>
-<script src="anusandhana.js?v=49"></script>
-<script src="anukramanika.js?v=49"></script>
+<!-- loadCastFramework=1 is REQUIRED, not optional: without it this loads only the legacy
+     chrome.cast.* v2 API and the <google-cast-launcher> custom element is never registered,
+     so the button stays an undefined element with no shadow DOM and zero size — invisible,
+     which reads as "casting is broken" when the SDK simply was not asked for the framework. -->
+<script src="https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1"></script>
+<script src="sql-wasm.js?v=53"></script>
+<script src="normalize.js?v=53"></script>
+<script src="app.js?v=55"></script>
+<script src="anusandhana.js?v=53"></script>
+<script src="anukramanika.js?v=53"></script>
 </body>
 </html>

@@ -185,11 +185,29 @@ let _cache={};
 // playbackRate when the source changes.
 const ico=n=>`<svg aria-hidden="true"><use href="#i-${n}"/></svg>`;
 let _raf=0, _queue=[], _qwork=null, _rate=parseFloat(localStorage.getItem('sv_rate')||'1'), _loop=false, _tick=0;
+// _pendingFocus: the tile to bring on screen once the display comes back — a hidden page must
+// not re-render (see svFocus). _prePid: the part already pulled into the HTTP cache.
+// _fails: consecutive load failures, so a dead network cannot walk the whole grantha.
+let _pendingFocus=null, _prePid=null, _fails=0;
 
-function svQueue(){
-  if(_qwork===_cache.slug) return _queue;
-  _qwork=_cache.slug;
-  try{ _queue=q("SELECT block,part FROM audio WHERE work=? ORDER BY seq, part",[_cache.slug])
+// block/part → the row behind it. Every part id is globally unique, so no work is needed.
+function svRow(pid){
+  if(!pid) return null;
+  const i=pid.lastIndexOf('_');
+  try{ return q("SELECT work,path,base,kind,ref FROM audio WHERE block=? AND part=?",
+                [pid.slice(0,i),+pid.slice(i+1)])[0]||null; }catch(e){ return null; }
+}
+// The queue belongs to the work being RECITED, not to the one on screen. They are the same
+// work until you look something up in the middle of a pārāyaṇa — and then the queue was
+// rebuilt around whatever you had just opened, the playing part was no longer in it, and the
+// recitation ended at the close of the block that happened to be in the air. svStartWork
+// passes the open work explicitly, because that is the one case where the screen is right.
+function svQueue(slug){
+  const r=slug?null:svRow(_pid);
+  const w=slug || (r&&r.work) || _cache.slug;
+  if(_qwork===w) return _queue;
+  _qwork=w;
+  try{ _queue=q("SELECT block,part FROM audio WHERE work=? ORDER BY seq, part",[w])
                  .map(r=>r.block+'_'+r.part); }catch(e){ _queue=[]; }
   return _queue;
 }
@@ -197,14 +215,36 @@ function svStep(d){ const Q=svQueue(), i=Q.indexOf(_pid); return i<0?null:(Q[i+d
 
 function svGo(pid,fromStart){
   if(!pid||!svLoad(pid)) return;
-  const start=()=>{
-    if(fromStart){ try{ _au.currentTime=0; }catch(e){} }
-    _au.playbackRate=_rate;
-    const p=_au.play(); if(p&&p.catch) p.catch(()=>{});
-  };
-  if(_au.readyState>=1) start(); else _au.addEventListener('loadedmetadata',start,{once:true});
+  svStart(fromStart);
   svFocus(pid);
   svBar();
+}
+
+// Start the part svLoad just put on the element. play() is called HERE, synchronously, in the
+// same task that handled `ended` — NOT from a `loadedmetadata` listener, which is what this
+// used to do and why a pārāyaṇa died at the end of every block.
+//
+// play() is allowed before the media has any data: the browser simply begins as soon as it
+// can. But permission to play is judged when play() is CALLED, and a listener that fires off
+// a network event minutes later has left the activation the opening tap granted. iOS answers
+// that with NotAllowedError — and the old `catch(()=>{})` threw the error away, so the
+// recitation just went quiet with nothing in the console to say why. Now: play immediately,
+// retry once when there is data, and if the browser still refuses, say so out loud.
+function svStart(fromStart){
+  if(!_au) return;
+  if(fromStart && _au.readyState>0 && _au.currentTime>0.01){ try{ _au.currentTime=0; }catch(e){} }
+  _au.playbackRate=_rate;
+  const p=_au.play();
+  if(p&&p.catch) p.catch(err=>{
+    const name=err&&err.name;
+    if(name==='AbortError') return;          // superseded by a newer load — not a fault
+    console.warn('[audio] play rejected:',name,err&&err.message);
+    _au.addEventListener('canplay',()=>{
+      _au.playbackRate=_rate;
+      const r=_au.play();
+      if(r&&r.catch) r.catch(()=>{ status('playback blocked — tap ▶ to continue'); svBar(); });
+    },{once:true});
+  });
 }
 
 // Bring the recited text on screen. The reader renders ONE chapter, but a queue runs through
@@ -213,11 +253,21 @@ function svGo(pid,fromStart){
 // recitation). If the tile is absent, navigate to the chapter that holds it first; playback
 // is unaffected because the audio element is independent of the DOM.
 function svFocus(pid){
+  // Nothing to show while the screen is off. renderWork rebuilds the whole reader out of SQL,
+  // and a hidden page runs under heavy throttling — doing that at a track boundary stalls the
+  // one thing that must not stall, to paint something nobody is looking at. Remember the tile
+  // and catch up on visibilitychange.
+  if(document.hidden){ _pendingFocus=pid; return; }
   const here=document.getElementById('ap_'+pid);
   if(here){ here.scrollIntoView({behavior:'smooth',block:'center'}); return; }
   const i=pid.lastIndexOf('_'), block=pid.slice(0,i), part=+pid.slice(i+1);
-  let seq=null;
-  try{ seq=q("SELECT seq FROM audio WHERE block=? AND part=?",[block,part])[0].seq; }catch(e){ return; }
+  let seq=null, work=null;
+  try{ const r=q("SELECT seq,work FROM audio WHERE block=? AND part=?",[block,part])[0];
+       seq=r.seq; work=r.work; }catch(e){ return; }
+  // Recitation and reading can come apart — you look a passage up while the pārāyaṇa runs on.
+  // Let it run: do NOT drag the page back to the reciter. (seq is per-work, so without this
+  // the findIndex below matches some unrelated chapter of whatever is open and jumps there.)
+  if(work!==_cache.slug) return;
   const chaps=_cache.chaps||[];
   const ci=chaps.findIndex(c=>c.rows.some(r=>r.seq===seq));
   if(ci<0 || ci===_cache.chIdx) return;
@@ -231,6 +281,17 @@ function svFocus(pid){
 function svAdvance(){
   svLight(null);
   if(_loop){ svGo(_pid,true); return; }          // repeat this pāda / adhyāya
+  const n=svStep(1);
+  if(n){ svGo(n,true); return; }
+  svBar();                                       // end of the grantha
+  msState('none');
+}
+// One unreachable file must not end the pārāyaṇa — step over it. _fails stops that becoming a
+// silent sprint through the whole grantha when it is the network that is gone rather than one
+// file; anything that actually plays clears it.
+function svSkip(why){
+  console.warn('[audio]',why,_pid);
+  if(++_fails>5){ _fails=0; status('audio unavailable — check the connection'); svBar(); return; }
   const n=svStep(1);
   if(n) svGo(n,true); else svBar();
 }
@@ -256,11 +317,12 @@ function svBar(){
       <button id="nbClose" title="stop">${ico('close')}</button>`;
     document.body.appendChild(bar);
     document.getElementById('nbPlay').onclick=()=>{
-      if(_au.paused){ _au.playbackRate=_rate; _au.play(); } else _au.pause(); svBar(); };
+      if(_au.paused) svStart(false); else _au.pause(); svBar(); };
     document.getElementById('nbPrev').onclick=()=>{ const p=svStep(-1); if(p) svGo(p,true); };
     document.getElementById('nbNext').onclick=()=>{ const n=svStep(1); if(n) svGo(n,true); };
     document.getElementById('nbClose').onclick=()=>{
-      _au.pause(); bar.classList.remove('on'); document.body.classList.remove('playing'); };
+      _au.pause(); bar.classList.remove('on'); document.body.classList.remove('playing');
+      msState('none'); msMeta(null); };
     const rs=document.getElementById('nbRate');
     rs.value=String(_rate);
     rs.onchange=e=>{ _rate=+e.target.value; localStorage.setItem('sv_rate',_rate);
@@ -272,15 +334,8 @@ function svBar(){
   }
   if(!_au||!_pid) return;
   bar.classList.add('on'); document.body.classList.add('playing');
-  const i=_pid.lastIndexOf('_'), block=_pid.slice(0,i), part=+_pid.slice(i+1);
-  let lab=_cache.title||_cache.slug||'';
-  try{
-    const r=q("SELECT kind,ref FROM audio WHERE block=? AND part=?",[block,part])[0];
-    const K={sutra:'सूत्र',upanishad:'उपनिषत्',mula:'मूल',recited:'पाठः',bhashya:'भाष्य',tatparya:'तात्पर्य',
-             vyakhyana:'अनुव्याख्यान',nirnaya:'निर्णय'};
-    lab += ' · ' + ((K[r.kind]||'') + (r.ref?' '+r.ref:''));
-  }catch(e){}
-  document.getElementById('nbLab').textContent=lab;
+  const L=svLabel();
+  document.getElementById('nbLab').textContent=L.work+(L.part?' · '+L.part:'');
   document.getElementById('nbPlay').innerHTML=ico(_au.paused?'play':'pause');
   const Q=svQueue(), at=Q.indexOf(_pid);
   document.getElementById('nbT').textContent =
@@ -290,28 +345,135 @@ function svBar(){
 }
 
 // play a work from its first track — the pārāyaṇa entry point
-function svStartWork(){ const Q=svQueue(); if(Q.length) svGo(Q[0],true); }
+function svStartWork(){ const Q=svQueue(_cache.slug); if(Q.length) svGo(Q[0],true); }
 window.svStartWork=svStartWork;
 
 let _au=null,_segs=null,_pid=null;
+
+// Karaoke runs on requestAnimationFrame, NOT on timeupdate. timeupdate fires roughly four
+// times a second, so the highlight trailed the voice by up to ~250 ms — audible as the sound
+// running ahead of the text, and worst on long recited blocks. rAF gives one frame (~16 ms).
+// timeupdate still drives the progress bar, where 250 ms does not show.
+//
+// A hidden page is served NO animation frames, so the loop has to be stopped and started
+// around the display going off. Left to itself it simply never ran its next step, _raf kept a
+// stale id for ever, and the highlight stayed dead even after you woke the phone up.
+function _frame(){
+  if(_au && !_au.paused && !_au.ended && !document.hidden){
+    svKaraoke(); _raf=requestAnimationFrame(_frame);
+  } else _raf=0;
+}
+function svFrameOn(){ if(!_raf && !document.hidden) _raf=requestAnimationFrame(_frame); }
+function svFrameOff(){ if(_raf){ cancelAnimationFrame(_raf); _raf=0; } }
+
+// ── lock screen & background playback ───────────────────────────────────────
+// To a phone, a page that merely makes a noise is a tab, and a tab behind a dark screen is a
+// tab worth freezing. navigator.mediaSession is how a page says "I am a player": Android then
+// holds a media notification open and leaves the tab alive, and iOS puts the title on the
+// lock screen with ⏮ ⏯ ⏭ wired to the handlers below. Nothing else the page can do replaces
+// it — a wake lock would only keep the display burning, which is the opposite of the ask.
+//
+// Registered on the first play() rather than at load: before then there is nothing to control,
+// and an empty session on a page that never plays anything is just noise in the shade.
+const KIND={sutra:'सूत्र',upanishad:'उपनिषत्',mula:'मूल',recited:'पाठः',bhashya:'भाष्य',
+            tatparya:'तात्पर्य',vyakhyana:'अनुव्याख्यान',nirnaya:'निर्णय'};
+const MS=()=>('mediaSession' in navigator)?navigator.mediaSession:null;
+const MS_ART=[{src:new URL('img/madhva.jpg',document.baseURI).href,sizes:'362x425',type:'image/jpeg'}];
+
+// {work, part} as the now-bar and the lock screen want them. Named from the row, not from
+// _cache, so the bar still says Gītā-bhāṣya while you read something else.
+function svLabel(){
+  const r=svRow(_pid);
+  if(!r) return {work:_cache.title||_cache.slug||'Sarvamūla', part:''};
+  let w=r.work;
+  try{ w=wname(r.work,q("SELECT title FROM works WHERE slug=?",[r.work])[0].title); }catch(e){}
+  return {work:w, part:(KIND[r.kind]||'')+(r.ref?' '+r.ref:'')};
+}
+let _msOn=false;
+function msInit(){
+  const ms=MS(); if(_msOn||!ms) return; _msOn=true;
+  const on=(a,f)=>{ try{ ms.setActionHandler(a,f); }catch(e){} };   // unsupported action throws
+  on('play',        ()=>{ svStart(false); svBar(); });
+  on('pause',       ()=>{ _au.pause(); svBar(); });
+  on('stop',        ()=>{ _au.pause(); svBar(); });
+  on('previoustrack',()=>{ const p=svStep(-1); if(p) svGo(p,true); });
+  on('nexttrack',   ()=>{ const n=svStep(1);  if(n) svGo(n,true); });
+  on('seekbackward',e=>{ if(_au) _au.currentTime=Math.max(0,_au.currentTime-((e&&e.seekOffset)||10)); });
+  on('seekforward', e=>{ if(_au&&isFinite(_au.duration))
+                           _au.currentTime=Math.min(_au.duration,_au.currentTime+((e&&e.seekOffset)||10)); });
+  on('seekto',      e=>{ if(_au&&e&&e.seekTime!=null) _au.currentTime=e.seekTime; });
+}
+// pid null clears the session (the ✕ on the now-bar)
+function msMeta(pid){
+  const ms=MS(); if(!ms) return;
+  try{
+    if(!pid||!window.MediaMetadata){ ms.metadata=null; return; }
+    const L=svLabel();
+    ms.metadata=new MediaMetadata({ title:L.part||'पारायणम्', artist:L.work,
+                                    album:'सर्वमूलवाणी', artwork:MS_ART });
+  }catch(e){}
+}
+function msState(st){ const ms=MS(); if(ms) try{ ms.playbackState=st; }catch(e){} }
+function msPos(){
+  const ms=MS();
+  if(!ms||!ms.setPositionState||!_au||!isFinite(_au.duration)||_au.duration<=0) return;
+  try{ ms.setPositionState({duration:_au.duration, playbackRate:_au.playbackRate||1,
+                            position:Math.min(Math.max(_au.currentTime,0),_au.duration)}); }catch(e){}
+}
+
+// Pull the next file into the HTTP cache while this one plays. A plain fetch is enough — R2
+// answers with Access-Control-Allow-Origin: * — and it keeps the media pipeline down to the
+// single element that owns the audio session, which matters on iOS, where a second <audio>
+// preloading in the background can take that session away from the one actually reciting.
+function svPrefetch(){
+  const n=svStep(1); if(!n||n===_prePid) return;
+  const row=svRow(n); if(!row) return;
+  _prePid=n;
+  fetch(abase(row.base)+'/'+row.path+'?r='+AUDIO_REV_LIVE,{cache:'force-cache'})
+    .then(r=>r.arrayBuffer()).catch(()=>{});     // read to the end or the entry is not cached
+}
+
+// Coming back to the page: catch up on everything that was deliberately skipped while it was
+// hidden — the tile the recitation has reached, the now-bar, and the highlight loop.
+addEventListener('visibilitychange',()=>{
+  if(document.hidden){ svFrameOff(); return; }
+  if(_pendingFocus){ const p=_pendingFocus; _pendingFocus=null; svFocus(p); }
+  if(_au&&_pid){ svBar(); svKaraoke(); if(!_au.paused) svFrameOn(); }
+});
 // Load (but do not start) a part. Setting .src is ASYNCHRONOUS: assigning currentTime
 // before the media is ready is silently discarded and playback begins at 0 — which is
 // why clicking a pāda used to jump to the top of the block. svAt() waits for metadata.
 function svLoad(pid){
   const i=pid.lastIndexOf('_'), block=pid.slice(0,i), part=+pid.slice(i+1);
-  const row=q("SELECT path,base FROM audio WHERE block=? AND part=?",[block,part])[0]; if(!row)return false;
+  const row=svRow(pid); if(!row)return false;
   if(!_au){
-    _au=new Audio(); _au.preload='metadata';
-    // Karaoke runs on requestAnimationFrame, NOT on timeupdate. timeupdate fires roughly
-    // four times a second, so the highlight trailed the voice by up to ~250 ms — audible as
-    // the sound running ahead of the text, and worst on long recited blocks. rAF gives one
-    // frame (~16 ms). timeupdate still drives the progress bar, where 250 ms does not show.
-    const frame=()=>{ if(_au && !_au.paused && !_au.ended){ svKaraoke(); _raf=requestAnimationFrame(frame); }
-                      else _raf=0; };
-    _au.onplay=()=>{ svBar(); if(!_raf) _raf=requestAnimationFrame(frame); };
-    _au.ontimeupdate=()=>{ if(!_raf) svKaraoke(); if(++_tick%4===0) svBar(); };
-    _au.onended=()=>{ if(_raf){cancelAnimationFrame(_raf); _raf=0;} svAdvance(); };
-    _au.onpause=()=>{ if(_raf){cancelAnimationFrame(_raf); _raf=0;} svBar(); };
+    _au=new Audio();
+    // 'auto', not 'metadata'. A pārāyaṇa plays every file to its end, so fetching only the
+    // header saves nothing — and a backgrounded page is given very little chance to fetch the
+    // rest on demand, which is heard as the recitation drying up a few seconds after the
+    // screen goes dark.
+    _au.preload='auto';
+    _au.setAttribute('x-webkit-airplay','allow');
+    _au.onplay=()=>{ _fails=0; msInit(); msMeta(_pid); msState('playing'); svBar(); svFrameOn(); };
+    _au.onplaying=()=>msState('playing');
+    _au.ontimeupdate=()=>{
+      msPos();
+      if(document.hidden) return;                // no karaoke, no bar: nobody is looking
+      if(!_raf) svKaraoke();
+      if(++_tick%4===0) svBar();
+    };
+    // Warm the NEXT file while this one is still playing, so the hand-over costs no network.
+    // This is the other half of background playback: a hidden page is throttled hard, and a
+    // track change that has to open a connection can stall long enough for the system to tear
+    // the audio session down — after which nothing starts again until you unlock the phone.
+    _au.oncanplaythrough=svPrefetch;
+    _au.onended=()=>{ svFrameOff(); svAdvance(); };
+    _au.onpause=()=>{ svFrameOff(); msState('paused'); svBar(); };
+    // MEDIA_ERR_ABORTED is what a source change raises on the source being replaced — the
+    // normal event at every track boundary, not a fault. Skipping on it would race the
+    // advance forward two parts at a time.
+    _au.onerror=()=>{ if(!_au.error || _au.error.code!==1) svSkip('cannot load'); };
+    _au.onstalled=()=>console.warn('[audio] stalled',_pid);
     _au.onseeked=svKaraoke;
   }
   if(_pid!==pid){
@@ -358,8 +520,7 @@ function svAt(ln){
       if(Math.abs(miss)>0.02) console.log(`[audio] seek asked ${target.toFixed(3)}s, landed `
         +`${_au.currentTime.toFixed(3)}s (${miss>0?'+':''}${(miss*1000).toFixed(0)} ms)`);
       svLight(seg.ln);
-      const p=_au.play();
-      if(p&&p.catch) p.catch(err=>console.warn('[audio] play blocked',err));
+      svStart(false);          // not _au.play(): playbackRate is reset by a source change
       setTimeout(settle,80); setTimeout(settle,300);
     };
     if(Math.abs(_au.currentTime-target)<0.005){ start(); return; }
@@ -371,7 +532,11 @@ function svAt(ln){
 }
 function svPlay(pid){
   if(!svLoad(pid))return;
-  if(_au.paused){ _au.playbackRate=_rate; _au.play(); } else _au.pause();
+  // Hand off to a receiver if one is connected, else play locally. The session is asked for
+  // fresh each time — it is established and dropped by the launcher button, outside our control.
+  if(!(_au.src && castAudio(_au.src, _pid))){
+    if(_au.paused) svStart(false); else _au.pause();
+  }
   svBar();
 }
 // clicking a line SEEKS — never a play/pause toggle, or clicking mid-playback would pause
@@ -726,7 +891,7 @@ function renderWork(slug,chIdx){
     const rows=q("SELECT seq,content_type,heading_level,is_padya,pramana,skandha,adhyaya,verse,text_dev,kutra,variants FROM entries WHERE work=? ORDER BY seq",[slug]);
     _cache={slug,chaps:chapters(rows),title:wname(slug,w.title)};
   }
-  _cache.chIdx=chIdx; _qwork=null;      // the queue belongs to the open work
+  _cache.chIdx=chIdx;        // svQueue keys itself on the work being recited — see svQueue
   const chaps=_cache.chaps; chIdx=Math.max(0,Math.min(chIdx||0,chaps.length-1));
   const ch=chaps[chIdx]; status('');
   const chapList=chaps.map((c,i)=>`<a class="chap${i===chIdx?' on':''}" onclick="location.hash='#/w/${slug}/${i}'">${disp(c.title)}</a>`).join('');
@@ -1025,5 +1190,39 @@ initSqlJs({locateFile:f=>f})
                             if(_welcome && !location.hash.startsWith('#/about')) return;
                             route();}))
   .catch(e=>status('load error: '+e.message));
+
+// ── Chromecast ────────────────────────────────────────────────────────────────
+// The <google-cast-launcher> button belongs to the Cast Application Framework, so the whole
+// path uses CAF rather than the legacy chrome.cast.ApiConfig/initialize pair — mixing them
+// left the button unregistered and `castSession` permanently null, so svPlay's cast branch
+// could never fire either.
+//
+// Init is driven by __onGCastApiAvailable, the callback the SDK itself invokes. DOMContentLoaded
+// was wrong twice over: the SDK arrives asynchronously and may not be ready yet, and app.js is
+// loaded at the END of <body>, so that event has often already fired and the handler never ran.
+//
+// The launcher hides itself when no receiver is discoverable — so an absent button on a network
+// with no Chromecast is correct behaviour, not a fault.
+window.__onGCastApiAvailable = function (ok) {
+  if (!ok || !window.cast || !cast.framework) return;
+  cast.framework.CastContext.getInstance().setOptions({
+    receiverApplicationId: chrome.cast.media.DEFAULT_MEDIA_RECEIVER_APP_ID,
+    autoJoinPolicy: chrome.cast.AutoJoinPolicy.ORIGIN_SCOPED
+  });
+};
+const castSess=()=>{ try{ return cast.framework.CastContext.getInstance().getCurrentSession(); }
+                     catch(e){ return null; } };
+// Returns true if the audio was handed to a receiver, so the caller can skip local playback.
+const castAudio=(audioUrl,title)=>{
+  const s=castSess(); if(!s) return false;
+  // audio/mp4, NOT audio/mpeg: these are AAC in an MP4 container and R2 serves them as
+  // Content-Type: audio/mp4. The default receiver goes by the type it is told.
+  const mi=new chrome.cast.media.MediaInfo(audioUrl,'audio/mp4');
+  mi.metadata=new chrome.cast.media.GenericMediaMetadata();
+  mi.metadata.title=title||'Sarvamūla';
+  s.loadMedia(new chrome.cast.media.LoadRequest(mi))
+   .then(()=>status('casting…'), e=>status('cast error: '+(e&&e.message||e)));
+  return true;
+};
 // The opening page needs no data, so paint it immediately rather than after a 10 MB download.
 if(_welcome && !location.hash.startsWith('#/about')) renderWelcome();
