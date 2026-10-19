@@ -23,3 +23,7 @@ miniconda3/
 # Temporary files
 *.tmp
 .env.local
+
+# Deploy artifact: the gzipped database is uploaded to R2, never committed or served
+# from Pages. A stale copy here silently serves a different database than the live one.
+web/sarvamula.db.gz
